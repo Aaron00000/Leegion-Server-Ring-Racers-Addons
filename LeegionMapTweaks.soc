@@ -1,0 +1,250 @@
+# RESIZED # (left number higher = smaller, right number higher = bigger)
+
+Level RR_DarkvileCastle2
+LevelName = Darkvile Castle
+Act = 2
+TypeOfLevel = Race
+MobjScale = 42*FRACUNIT/100
+DefaultWaypointRadius = 192*FRACUNIT
+SkyTexture = DVSKY
+Weather = PRECIP_RAIN
+Music = DACAZ2
+SkyboxScale = 32
+Darkness = -0.25
+
+Level RR_ScarletGardens
+LevelName = Scarlet Gardens
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~035
+Music = SCGAZ
+MobjScale = FRACUNIT/5
+
+Level RR_DimensionDisaster
+LevelNAME = Dimension Disaster
+Music = DIDIZ
+SkyTexture = SKY169
+TYpeOfLevel = RACE
+LUA.dvdss6 = true
+SkyboxScaleZ = 0
+Darkness = -0.25
+MobjScale = 100*FRACUNIT/125
+
+Level RR_ChemicalFacility
+LevelName = Chemical Facility
+TypeOfLevel = Race
+NumLaps = 2
+Music = CHFAZ
+SkyTexture = SKY1995
+Mobjscale = 20*FRACUNIT/45
+Darkness = -0.5
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_EspressoLane
+Levelname = Espresso Lane
+NumLaps = 3
+TypeOfLevel = Race
+Music = ESLAZ
+SkyTexture = SKY265
+Weather = PRECIP_SNOW
+MobjScale = 10*FRACUNIT/24
+Skyboxscale = 4
+EncoreLightAngle = 90
+EncoreLightContrast = 80
+
+Level PP_GreatGalleon
+LevelName = Great Galleon
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 5
+SkyTexture = OCEANSKY
+Music = GRTGAL
+LightAngle = 180
+LightContrast = 60
+MobjScale = 25*FRACUNIT/32
+AssociatedMusic = GRTGFN
+
+Level SCCT_IndoorRally
+Levelname = Indoor Rally
+Typeoflevel = Race
+NumLaps = 3
+Music = INDRR1,INDRR2,INDRR3
+NoVisitNeeded = false
+MobjScale = 100*FRACUNIT/135
+
+Level GTK_CittaDiAria
+LevelName = Citta di
+ZoneTitle = Aria
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKYSW
+Music = GTK017
+Mobjscale = 10*FRACUNIT/52
+PositionMusic = GT2INT
+NoVisitNeeded = True
+
+Level SCCT_RustyRuinClassic
+LevelName = Rusty Ruin
+ZoneTitle = Classic
+TypeofLevel = Race
+Numlaps = 2
+SkyTexture = SCRUSRUI
+Music = RUSTR1,RUSTR2,RUSTR3
+NoVisitNeeded = false
+MobjScale = 100*FRACUNIT/135
+
+Level SCCT_SunnyGarden
+Levelname = Sunny Garden
+TypeOfLevel = Race
+NumLaps = 2
+Music = SUGRD1,SUGRD2,SUGRD3
+SkyTexture = SKY3128
+NoVisitNeeded = true
+MobjScale = 100*FRACUNIT/125
+
+Level SCCT_SlimeSprings
+Levelname = Slime Springs
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = THZSKY01
+Music = SLISPR,SLISP2,SLISP3
+Mobjscale = 87*FRACUNIT/135
+NoVisitNeeded = true
+
+Level LAS_PolarParadise
+LevelName = Polar
+ZoneTitle = Paradise
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~253
+SkyboxScale = 64
+PositionMusic = CASINT
+Music = POLAR1,POLAR2
+EncoreMusic = POLENC
+Mobjscale = 100*FRACUNIT/345
+Weather = PRECIP_SNOW
+Darkness = -0.5
+NoVisitNeeded = True
+Hidden = False
+
+# LESS/MORE LAPS #
+
+Level DRTR_BastionIsle
+LevelName = Bastion Isle
+TypeOfLevel = Race
+NumLaps = 2
+Music = BSTILE
+MobjScale = FRACUNIT/4
+SkyTexture = STRSKY01
+LightContrast = 24
+NoVisitNeeded = True
+
+Level RR_DeadLine
+LevelNAME = Dead Line
+TypeOfLevel = RACE
+SkyTexture = SKY4417
+Mobjscale = FRACUNIT/4
+NumLaps = 3
+Music = DELIZ
+Darkness = -0.25
+
+Level SP_VERMILLIONRIG
+LevelName = Vermillion Rig
+TypeOfLevel = Race
+SkyTexture = SKY4644
+NoVisitNeeded = True
+PositionMusic = KAKA
+AssociatedMusic = NGMW
+NumLaps = 2
+Music = NGM
+SkyboxScale = 0
+MobjScale = FRACUNIT*1/4
+EncoreMusic = BKBROD
+LightAngle = 180
+
+Level LZ_mountainobsevatory
+LevelName = mountain observatory
+TypeOfLevel = Race
+Music = LZMOB1
+PositionMusic = LZINTR
+SkyTexture = LZMOGSK1
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+NumLaps = 2
+
+Level DRTR_SnowySpeedpeaks
+LevelName = Snowy Speedpeaks
+TypeOfLevel = Race
+NumLaps = 3
+Music = KMAPLP
+MobjScale = FRACUNIT*80/100
+SkyTexture = SKY17
+Weather = PRECIP_SNOW
+SubtractNum = True
+NoVisitNeeded = True
+
+Level HTT_FlyingBattery
+NoVisitNeeded = True
+LevelName = Flying Battery
+Act = 1
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = fbzs4
+Music = FBAT1,FBAT2,FBAT3
+PositionMusic = S3DTS
+Mobjscale = FRACUNIT/4
+
+Level HTT_PowerPlant
+NoVisitNeeded = True
+LevelName = Power Plant
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = PPBG1
+Music = SBHPP
+Mobjscale = FRACUNIT/4
+SkyboxScale = 6
+
+Level PP_FestivalNight
+LevelName = Festival Night
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = SKY4417
+MobjScale = 6*FRACUNIT/8
+Music = FLNGHT
+AssociatedMusic = FLNTFL
+
+Level LZ_StarryNight
+LevelName = Starry Night
+Act = 1
+TypeOfLevel = Race
+Music = MSTAR1,MLTAR1
+NumLaps = 3
+PositionMusic = LZINTR
+SkyTexture = LSTSKY1
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+
+Level DRTR_KodachromePalace
+LevelName = Kodachrome Palace
+TypeOfLevel = Race
+NumLaps = 2
+Music = KMAPLS
+MobjScale = FRACUNIT/4
+SkyTexture = ~031
+LightContrast = 24
+
+Level HYOF_DesertBus
+LevelName = Desert Bus
+NoZone = true
+TypeOfLevel = Race
+SkyTexture = BUSYSKY2
+NumLaps = 65
+Music = ACZ1
+EncoreMusic = DBEN2
+AssociatedMusic = ACZ2,DBENC
+SkyboxScale = 0
+MobjScale = 100*FRACUNIT/480
+Lua.desertechoes = true
+Lua.dchoices_choice1 = Where's_my_prize?,gg_ez_no_re
