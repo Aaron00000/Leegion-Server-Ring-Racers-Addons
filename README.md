@@ -1,102 +1,100 @@
-Disclaimer: All content in this repo belongs to their original authors, this is merely intended to be an http source for the Leegion Ring Racers Server.
+# Disclaimer: All content in this repo belongs to their original authors, this is merely intended to be an http source for the Leegion Ring Racers Server.
 
-CHARACTERS
-
-Addon characters sorted by Speed, Weight:
+# ADDON CHARACTERS SORTED BY SPEED, WEIGHT:
 1, 1 - Whitey, Mayor Zao,
-2, 1 - Banana Peel, Toad (Kel), Kit, 
-3, 1 - Tangle, Gooey, Kirby, 
-4, 1 - Dry Bones, 
+2, 1 - Banana Peel, Toad (Kel), Kit,
+3, 1 - Tangle, Gooey, Kirby,
+4, 1 - Dry Bones,
 5, 1 - Prinny, 
-6, 1 - Inaba Twei, 
+6, 1 - Inaba Twei,
 7, 1 - Ribbon, Charlotta,
-8, 1 - Marisa Kirisame, 
-9, 1 - Crazy Frog, 
+8, 1 - Marisa Kirisame,
+9, 1 - Crazy Frog,
 
-1, 2 - Mallow, 
+1, 2 - Mallow,
 2, 2 - 
-3, 2 - Aru, Gwenpool, Doise, Aaa
+3, 2 - Aru, Gwenpool, Doise, Aaa,
 4, 2 - Spamton,
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, 
-6, 2 - Paper Mario, 
-7, 2 - Warpstar Kirby, Laharl, 
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy,
+6, 2 - Paper Mario,
+7, 2 - Warpstar Kirby, Laharl,
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Phantom Rider,
 9, 2 - Dark Rider Shadow,
 
-1, 3 - Milla, Robo-Hood, 
-2, 3 - Koopa, Fennec, Sara
-3, 3 - Engineer, Peach, Klonoa, 
+1, 3 - Milla, Robo-Hood,
+2, 3 - Koopa, Fennec, Sara,
+3, 3 - Engineer, Peach, Klonoa,
 4, 3 - Kermit, Aerith, Amitie,
-5, 3 - Anila, Hat Kid, Doremy Sweet, Aerith (Sonic OC Version), Adeleine, Adeleine, Reimu, Reala, 
-6, 3 - Golbat, Stella 
-7, 3 - Lilac, Kumatora, 
-8, 3 - Ryuko, Spark, Scarlet, Spiderman, 
+5, 3 - Anila, Hat Kid, Doremy Sweet, Aerith (Sonic OC Version), Adeleine, Adeleine, Reimu, Reala,
+6, 3 - Golbat, Stella,
+7, 3 - Lilac, Kumatora,
+8, 3 - Ryuko, Spark, Scarlet, Spiderman,
 9, 3 - Juri, Monty Mole,
 
 1, 4 - 
-2, 4 - Goomba, 
-3, 4 - Haurka Amami, Sage, Lucas, Eunie, 
+2, 4 - Goomba,
+3, 4 - Haurka Amami, Sage, Lucas, Eunie,
 4, 4 - Conker, Geno,
 5, 4 - Rena Ryuugu, Dex, 
-6, 4 - Medic, Luigi, Ugly Knuckles, 
-7, 4 - Buttguster, Yuki, Nue, Daisy, 
+6, 4 - Medic, Luigi, Ugly Knuckles,
+7, 4 - Buttguster, Yuki, Nue, Daisy,
 8, 4 - Saturn, Zero,
-9, 4 - Hornet, Noise, Jino-Chan, 
+9, 4 - Hornet, Noise, Jino-Chan,
 
 1, 5 - Pyra,
 2, 5 - 
 3, 5 - 
-4, 5 - Okina Matara, Squidward, Doppel Arle
+4, 5 - Okina Matara, Squidward, Doppel Arle,
 5, 5 - Mario,
-6, 5 - Orin Kaenbyou, Tifa, Diggle
-7, 5 - Hanate, Sans, 
-8, 5 - Guntz, Mario Tire, Byakuren Hijiri, CD Sonic
+6, 5 - Orin Kaenbyou, Tifa, Diggle,
+7, 5 - Hanate, Sans,
+8, 5 - Guntz, Mario Tire, Byakuren Hijiri,
 9, 5 - Cell, Goku Drip, Patricia Wagon, Tillis,
 
-1, 6 - Marx, 
+1, 6 - Marx,
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 3, 6 - Riamu Yumeni, Papyrus, Link
-4, 6 - Komachi Onozuka, Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, 
-5, 6 - Beat, Ulala, 
-6, 6 - Shantae, Morrigan, Spongebob, KT, 
-7, 6 - Waluigi, Jotaro, 
-8, 6 - Yoshi, Alpha, 
-9, 6 - Captain Falcon, Meta Knight, Shiva, 
+4, 6 - Komachi Onozuka, Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse,
+5, 6 - Beat, Ulala,
+6, 6 - Shantae, Morrigan, Spongebob, KT,
+7, 6 - Waluigi, Jotaro,
+8, 6 - Yoshi, Alpha,
+9, 6 - Captain Falcon, Meta Knight, Shiva,
 
 1, 7 - 
-2, 7 - Agent Stone, Twintelle, 
-3, 7 - Coach, Primarina, Birdo, Susie
-4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, 
+2, 7 - Agent Stone, Twintelle,
+3, 7 - Coach, Primarina, Birdo, Susie,
+4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera,
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro,
 6, 7 - Ramona, 
-7, 7 - Fark, Cloud, Angel, Ibuki, 
+7, 7 - Fark, Cloud, Angel, Ibuki,
 8, 7 - Akira Nishikiyama, 
 9, 7 - 
 
-1, 8 - Homer Simpson, 
-2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman
-3, 8 - DK JR., Shovel Knight, 
-4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK
-5, 8 - Shrek, Mako, Cole Cassidy
-6, 8 - Master Chief, Kiryu, Werehog, Tenna, 
-7, 8 - Johnny Bravo, Heavy Slammer, 
-8, 8 - Wario, Dingodile, 
-9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga
+1, 8 - Homer Simpson,
+2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
+3, 8 - DK JR., Shovel Knight,
+4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK,
+5, 8 - Shrek, Mako, Cole Cassidy,
+6, 8 - Master Chief, Kiryu, Werehog, Tenna,
+7, 8 - Johnny Bravo, Heavy Slammer,
+8, 8 - Wario, Dingodile,
+9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga,
 
-1, 9 - Heavy TF2, Thwomp, Moai
-2, 9 - Berret, Whispy Woods, Egg Shogun, 
+1, 9 - Heavy TF2, Thwomp, Moai,
+2, 9 - Berret, Whispy Woods, Egg Shogun,
 3, 9 - Yukine, Hatsune Miku,
 4, 9 - 
 5, 9 - Kapukapu, Gameboy Wario, Yorha 2B,
-6, 9 - Redwood, 
-7, 9 - King K.Rool, Hong Meilong, 
+6, 9 - Redwood,
+7, 9 - King K.Rool, Hong Meilong,
 8, 9 - Bowser, GUN Truck, Lord Brevon,
-9, 9 - Ring Max, Cirno, Satan, 
+9, 9 - Ring Max, Cirno, Satan,
 
 =====
-MAPS
+# MAPS
 
-Addon Packs
+# Addon Packs
 -----------
 Dawnstar Garden v1
 Frost Maps v4
@@ -128,7 +126,7 @@ cerv.id b + r 1.3
 THOKTRACKS 1.1
 
 
-Blacklisted Vanilla Maps
+# BLACKLISTED VANILLA MAPS
 -------------------
 Marble Garden
 Aqueduct Crystal
@@ -146,8 +144,7 @@ Balloon Park
 Spring Yard
 Lavender Shrine Classic
 Blizzard Peaks Classic
-Angel Arrow Classic
-Kodachrome Void
+Angel Arrow ClassicKodachrome Void
 Vantablack Violet
 Thunder Piston
 Aqua Tunnel
@@ -166,14 +163,13 @@ Dead Line
 Lost Colony
 Death Egg
 
-Blacklisted Addon Maps
+BLACKLISTED ADDON MAPS
 ----------------------
 GALF
 High Speed Ring
 Talladega Superspeedway
 Simple Circuit
-Roundabout
-Melty Manor Again (that's literally the name)
+RoundaboutMelty Manor Again (that's literally the name)
 Jing Forest
 Time Stone Circuit
 X Track Trunk
@@ -202,11 +198,11 @@ Backroom Velocity
 Banshee Boardwalk
 Brinewater Springs
 Neo Green Hill Zone
-Citti di Aria (also had made it bigger)
+Citti di Aria
 Boomerang Battleship
 Rusty Ruin
 Alpake City
-Resonance Ray Zone (apparently there were two of them or something)
+Resonance Ray Zone
 Flood Area
 Omashu
 Citadel of Mystikke
@@ -298,8 +294,8 @@ Kodachrome Palace (less, 2 laps)
 Desert Bus (less, 65 laps)
 House of the Undying (less, 6 laps)
 
-=========
-CHANGELOG
+===========
+# CHANGELOG
 
 8/22
 ----
@@ -476,8 +472,7 @@ Other - Removed the three palette packs due to a bug limit, added an animated ra
 
 1/10
 ----
-Characters - Added Retro Mario, Lego Sonic, and Pit, removed Super Nep Pack.
-Maps - Added Retro Maze and NeoWhaleMaps, updated Lizard Pack, removed the SuperMetal pack (Secret Slide) and Crash Cup, blacklisted Backroom Velocity, Cutman's Logging Facility, and Lavender Shrine Classic.
+Characters - Added Retro Mario, Lego Sonic, and Pit, removed Super Nep Pack.Maps - Added Retro Maze and NeoWhaleMaps, updated Lizard Pack, removed the SuperMetal pack (Secret Slide) and Crash Cup, blacklisted Backroom Velocity, Cutman's Logging Facility, and Lavender Shrine Classic.
 Other - Added Kel's Paint Palette and a bunch of quality of life mods that do that following:
 •	Display a gauge for drift charging.
 •	Display a timer for certain item effects.
@@ -486,7 +481,6 @@ Other - Added Kel's Paint Palette and a bunch of quality of life mods that do th
 •	Prevents Ring Sting if you're in the middle of getting rings from an item box.
 •	Prevents Super Ring rings from going to waste while in a spinout state.
 •	Allows skin switching during a race.
-
 
 1/3
 ---
@@ -505,12 +499,10 @@ Other - Added restat, Chengi's Paintjob Pack, and two self-made palettes for the
 Characters - Added Cell, Ryuko, Mako, FNF Boyfriend, Q, and Gooey, axed a few OC characters since server was starting to get near the character limit (currently sitting at 200+ characters including vanilla characters.)
 Maps - Updated GTKart, Epic Cup Revival, Wonder/Miracle Cups, removed Wishing Wonder (again) and New Yolk City, split Xandoshi pack in half so it doesn't go above the max file size, re-added the old Bloodsauce Dungeon and hid the newer one.
 
-
 12/13
 -----
 Characters - Added Angel Gabby, Lakitu, Werehog, Mario Tire, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactaur, and Ashe. Fixed Kiryu's palette not working properly.
 Maps - Updated Double Gear Pack, FrostMaps, DraftTracks, and ruber's maps, reverted Seaside Hill back to the normal lap count, removed Ray City and Metal Corridor from selection.
-
 
 12/8
 -----
