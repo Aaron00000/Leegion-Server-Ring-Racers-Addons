@@ -330,20 +330,6 @@ Darkness = 0.25
 Hidden = True
 NoVisitNeeded = True
 
-Level RR_HauntedShip
-LevelName = Haunted Ship
-NoZone = True
-Music = HASHZ
-TypeOfLevel = RACE
-SkyTexture = ~029
-SkyboxScale = 4
-NumLaps = 3
-Weather = PRECIP_STORM
-Mobjscale = FRACUNIT/2
-LightAngle = 45
-LightContrast = 48
-Darkness = -0.25
-
 Level RR_VantablackViolet
 LevelName = Vantablack Violet
 TypeOfLevel = Race
@@ -1402,6 +1388,20 @@ NoVisitNeeded = True
 MobjScale = FRACUNIT/4
 LobbySize = Medium
 Followers = Flicky,Chao,Mono Beetle,Chaos Drive
+Hidden = True
+
+Level RLQ_CentralCityRace
+LevelName = Central
+ZoneTitle = City
+TypeOfLevel = Race
+SkyTexture = PERFBG01
+NumLaps = 6
+Music = CECIBH
+LightContrast = 64
+LightAngle = 135
+NoVisitNeeded = True
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
 Hidden = True
 
 Level dr_cervIDmapAPHEXTWINPENIS

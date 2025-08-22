@@ -183,37 +183,6 @@ EncoreMusic = VSAGZ
 NoVisitNeeded = True
 Hidden = True
 
-Level RLQ_CentralCityRace
-LevelName = Central
-ZoneTitle = City
-TypeOfLevel = Race
-SkyTexture = PERFBG01
-NumLaps = 6
-Music = CECIBH
-LightContrast = 64
-LightAngle = 135
-NoVisitNeeded = True
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level RLQ_HydrocityAct1
-LevelName = Hydrocity
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = ~031
-SkyBoxScaleX = 0
-SkyBoxScaleY = 0
-SkyBoxScaleZ = 4
-LightAngle = 45
-LightContrast = 64
-Music = HYCZA1
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Darkness = 0.5
-NoVisitNeeded = True
-Hidden = True
-
 Level AC_RedRageHighway
 LevelName = Red Rage
 ZoneTitle = Highway
@@ -239,4 +208,44 @@ MobjScale = 6*FRACUNIT/8
 LightContrast = 64
 LightAngle = 45
 NoVisitNeeded = true
+Hidden = True
+
+Level AC_VoltageViperChallenge
+LevelName = Voltage Viper
+ZoneTitle = Challenge
+TypeOfLevel = Race
+Music = T3DBAR
+PositionMusic = K98UAB
+EncoreMusic = SORRMM
+NumLaps = 2
+SkyTexture = CRIMSKY
+NoVisitNeeded = True
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level HO9_CASTLECONSENT
+LevelName = Castle Frenzy
+TypeOfLevel = Race
+NumLaps = 8
+LapsPerSection = 4
+MobjScale = FRACUNIT/4
+SkyTexture = DVSKY
+Weather = 4
+Music = CASTFZ
+NoVisitNeeded = True
+Hidden = True
+
+Level THK_SavannahCitadel2
+LevelName = Savannah
+ZoneTitle = Citadel
+NoVisitNeeded = True
+Act = 2
+TypeOfLevel = Race
+NumLaps = 6
+Music = BSACI2
+SkyTexture = SKYSCZ
+SkyboxScale = 4
+MobjScale = FRACUNIT/3
+LightAngle = 150
+LightContrast = 72
 Hidden = True
