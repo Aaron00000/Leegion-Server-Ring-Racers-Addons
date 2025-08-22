@@ -235,6 +235,30 @@ MobjScale = FRACUNIT/4
 SkyTexture = ~031
 LightContrast = 24
 
+Level BIGO_MirageRoad1
+LevelName = Mirage Road
+Act = 1
+NoVisitNeeded = True
+NoZone = true
+NumLaps = 2
+TypeOfLevel = Race
+SkyTexture = MIRDSKY1
+Mobjscale = FRACUNIT/4
+Music = MIRARD
+Hidden = True
+
+Level BIGO_MirageRoad2
+LevelName = Mirage Road
+Act = 2
+NoVisitNeeded = True
+NoZone = true
+TypeOfLevel = Battle
+SkyTexture = MIRDSKY1
+Mobjscale = FRACUNIT/4
+Music = MIRARD
+LobbySize = Small
+Hidden = True
+
 Level HYOF_DesertBus
 LevelName = Desert Bus
 NoZone = true
