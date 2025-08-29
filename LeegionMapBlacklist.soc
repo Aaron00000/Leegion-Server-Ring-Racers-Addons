@@ -414,6 +414,16 @@ TypeOfLevel = race
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_ScarletGardens
+LevelName = Scarlet Gardens
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~035
+Music = SCGAZ
+MobjScale = FRACUNIT/4
+Hidden = True
+NoVisitNeeded = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -631,22 +641,6 @@ LightAngle = 270
 Music = SSTAR9
 LightContrast = 80
 NoVisitNeeded = True
-Hidden = True
-
-Level RUB_wishingwonders
-NoVisitNeeded = True
-LevelName = Wishing
-ZoneTitle = Wonders
-TypeOfLevel = Race
-NumLaps = 3
-#SkyboxScale = 1*FRACUNIT
-SkyboxScale = 11*FRACUNIT/10
-SkyTexture = SATSKY
-Music = WISHW1,WISHW3,WISHW2
-MobjScale = FRACUNIT/5
-Weather = PRECIP_SPARKLES
-Darkness = 1
-Lua.wishingwonders = true
 Hidden = True
 
 Level GG_CRYSTALGROTTO
@@ -1483,5 +1477,414 @@ PositionMusic = XCNKPS
 Mobjscale = FRACUNIT/5
 LightContrast = 64
 LightAngle = 315
+Hidden = True
+
+#
+
+Level MDT_Pizzascape
+LevelName = Pizzascape
+TypeOfLevel = Race
+NumLaps = 2
+Music = PIZLV2
+PositionMusic = PIZDOO
+AssociatedMusic = PTESC
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+Skytexture = PTSKYOUT
+NoVisitNeeded = True
+Hidden = True
+NoZone = True
+SectionRace = true
+
+Level XEPT_CrimsonBase
+LevelName = Crimson Base
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = TPSSKYT
+Music = XPSPRG
+EncoreMusic = XCBORD
+Mobjscale = FRACUNIT/3
+LightContrast = 32
+LightAngle = 75
+NoVisitNeeded = True
+Hidden = True
+
+Level DIG_BurningBone
+LevelName = Burning Bone
+TypeofLevel = Race
+NumLaps = 5
+SkyTexture = PIT
+Music = BONEZA
+MobjScale = FRACUNIT*30/120
+LightAngle = 135
+LightContrast = 64
+NoVisitNeeded = True
+Hidden = True
+
+Level PP_AridEclipse
+LevelName = Arid Eclipse
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 9
+LapsPerSection = 3
+SkyTexture = ECLIPSKY
+Music = ECLISM
+MobjScale = 5*FRACUNIT/8
+Hidden = True
+
+Level DR_MMMM
+Levelname = B A N A N A S
+ZoneTitle = M M M M
+TypeOfLevel = Race
+NumLaps = 3
+Music = MMMM
+SkyTexture = SKY480
+SkyboxScaleZ = 64
+Followers = Flicky,Red Flicky,Pink Flicky,Green Flicky
+MobjScale = 100*FRACUNIT/145
+NoVisitNeeded = True
+Hidden = True
+
+Level CUB_StarmineSpeedway
+LevelName = Starmine
+ZoneTitle = Speedway
+TypeofLevel = Race
+NumLaps = 4
+LapsPerSection = 2
+SkyTexture = ~254
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = STARM1,STARM2
+Mobjscale = FRACUNIT/3
+LightAngle = 45
+LightContrast = 48
+NoVisitNeeded = True
+Hidden = True
+
+Level HTT_MistyMaze
+NoVisitNeeded = True
+LevelName = Misty Maze
+Act = 2
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = MMZBG1
+SkyboxScaleY = 4
+Music = MMEA1,MMA2,MMEA2
+Mobjscale = FRACUNIT/4
+Darkness = -0.5
+PositionMusic = MMMN
+Hidden = True
+
+Level HYM_Touge
+NoVisitNeeded = True
+LevelName = Touge
+TypeOfLevel = Race
+SectionRace = True
+SkyTexture = SKY177
+SkyboxScale = 4
+NumLaps = 3
+Music = TOUGE
+MobjScale = FRACUNIT/4
+LightAngle = 0
+LightContrast = 40
+Hidden = True
+
+Level PP_AzureGarden
+LevelName = Azure Garden
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 2
+SkyTexture = SKY4417
+Music = AZUREG
+AssociatedMusic = AZUGFN
+MobjScale = 5*FRACUNIT/8
+Weather = PRECIP_SNOW
+SubtractNum = True
+Hidden = True
+
+Level PP_VVGardenR
+MenuTitle = Garden
+LevelName = Void Vault 2
+ZoneTitle = Garden
+SectionRace = True
+NoVisitNeeded = True
+TypeOfLevel = Race
+MobjScale = 3*FRACUNIT/8
+SkyBoxScale = 0
+SkyTexture = VOIDSKY
+NumLaps = 1
+LightAngle = 270
+Music = VOID2
+LightContrast = 50
+PositionMusic = COSMOS
+Keywords = Garden
+Hidden = True
+
+Level EPIC_NightlitWoodsZone
+NoVisitNeeded = True
+LevelName = Nightlit Woods
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = NWZSKY
+LightContrast = 64
+LightAngle = 180
+SkyboxScale = 8
+Music = NWFRE,NWFREA
+MobjScale = FRACUNIT/4
+EncoreMusic = NWFREE
+Hidden = True
+
+Level EPIC_AquaParadiseZone2
+NoVisitNeeded = True
+LevelName = Aqua Paradise
+Act = 2
+TypeOfLevel = Race
+SectionRace = True
+NumLaps = 3
+SkyTexture = AP2SKY1
+LightAngle = 90
+LightContrast = 32
+Music = AP2
+EncoreMusic = AP2E
+MobjScale = FRACUNIT/2
+Hidden = True
+
+Level EPIC_HeavenPassZone
+LevelName = Heaven Pass
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = HPZSKY1
+SkyboxScale = 32
+SubtractNum = True
+LightContrast = 64
+LightAngle = 0
+Music = AGZ
+MobjScale = FRACUNIT/2
+EncoreMusic = VSAGZ
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_RedRageHighway
+LevelName = Red Rage
+ZoneTitle = Highway
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ANGELSKY
+PositionMusic = SORRCS
+Music = SORRBR
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_SnowdustValleyClassic
+LevelName = Snowdust
+ZoneTitle = Valley
+TypeofLevel = Race
+NumLaps = 3
+Music = SVCAAM
+SkyTexture = ~151
+MobjScale = 6*FRACUNIT/8
+LightContrast = 64
+LightAngle = 45
+NoVisitNeeded = true
+Hidden = True
+
+Level AC_VoltageViperChallenge
+LevelName = Voltage Viper
+ZoneTitle = Challenge
+TypeOfLevel = Race
+Music = T3DBAR
+PositionMusic = K98UAB
+EncoreMusic = SORRMM
+NumLaps = 2
+SkyTexture = CRIMSKY
+NoVisitNeeded = True
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level HO9_CASTLECONSENT
+LevelName = Castle Frenzy
+TypeOfLevel = Race
+NumLaps = 8
+LapsPerSection = 4
+MobjScale = FRACUNIT/4
+SkyTexture = DVSKY
+Weather = 4
+Music = CASTFZ
+NoVisitNeeded = True
+Hidden = True
+
+Level THK_SavannahCitadel2
+LevelName = Savannah
+ZoneTitle = Citadel
+NoVisitNeeded = True
+Act = 2
+TypeOfLevel = Race
+NumLaps = 6
+Music = BSACI2
+SkyTexture = SKYSCZ
+SkyboxScale = 4
+MobjScale = FRACUNIT/3
+LightAngle = 150
+LightContrast = 72
+Hidden = True
+
+Level HO9_MACHINE
+NoVisitNeeded = True
+LevelName = Rancid Machinery
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = SHSKY01
+Music = MACHIN
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level ARNEON1
+LevelName = Neon Frenzy
+ZoneTitle = 101
+Music = ARNM
+MobjScale = FRACUNIT/4
+SkyTexture = SKY4417
+LightContrast = 64
+LightAngle = 45
+Palette = 7682
+Numlaps = 5
+NoVisitNeeded = True
+TypeOfLevel = Race,Battle
+LobbySize = Large
+Hidden = True
+
+Level HAYA_PartyPhaseTake2
+LevelName = Party Phase
+MobjScale = FRACUNIT/4
+SkyTexture = MSCITSK
+Numlaps = 8
+Music = PPZ2
+EncoreMusic = PORSAP
+AssociatedMusic = PPZ2,BARKI,CUNK
+NoVisitNeeded = True
+SkyboxScale = 8
+TypeOfLevel = Race,Battle
+Lua.ppzcheck = true
+Hidden = True
+
+Level STAPY_SubmergedMarina
+LevelName = Submerged Marina
+TypeOfLevel = Race,Battle
+NoVisitNeeded = True
+SkyTexture = SKY4644
+Music = SBMRZ
+AssociatedMusic = SBMBZ
+SkyboxScale = 16
+MobjScale = FRACUNIT/4
+Followers = Fish,Hermit Crab
+LightContrast = 38
+LightAngle = 45
+LobbySize = Large
+NumLaps = 3
+RelevantSkin = Stapy
+Hidden = True
+
+Level AquaPoint1
+LevelName = AquaPoint
+Act = 1
+TypeOfLevel = Race
+NumLaps = 3
+# NoVisitNeeded = True -- Changed for cerv.id
+SkyTexture = SPSKYA0
+Music = ARAP1
+Weather = PRECIP_MONSOON
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 90
+NoVisitNeeded = True
+Hidden = True
+
+Level DR_MARILND1
+LevelName = Marisa Land
+Act = 1
+TypeOfLevel = Race
+SkyTexture = MRLNO0
+NumLaps = 2
+Music = MAROVR
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level WS1_RainbowSky1
+LevelName = Rainbow Sky
+Act = 1
+MobjScale = FRACUNIT/4
+SkyTexture = TUNDSKY
+#LightContrast = 64
+#LightAngle = 45
+Music = OBOAZ
+SectionRace = True
+Numlaps = 3
+SkyboxScale = 0
+# NoVisitNeeded = True -- Changed for cerv.id
+TypeOfLevel = Race
+NoVisitNeeded = True
+Hidden = True
+
+Level HHR_DreamyTreewayA
+LevelName = Dreamy Treeway
+Act = 1
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = DRMTWSKY
+Music = DREAME
+Mobjscale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level CT_SpringStadium2
+LevelName = Spring Stadium
+Act = 2
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SHSKY01
+SkyboxScale = 8
+Music = SPRSTA
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+# NoVisitNeeded = True -- Changed for cerv.id
+NoVisitNeeded = True
+Hidden = True
+
+Level FUMA_InfectedShrine2
+LevelName = Infected Shrine
+TypeOfLevel = Race
+# NoVisitNeeded = True -- Changed for cerv.id
+Act = 2
+NumLaps = 2
+SkyTexture = MTHSKY
+Weather = PRECIP_STORMRIG
+Music = TZUR
+PositionMusic = JOYPOS
+Mobjscale = FRACUNIT/4
+SkyboxScale = 4
+Lua.OriginiumTextures = INSHORI1,INSHORI2,INSHORI3,INSHORI4,INSHORI5,INSHORI6,INSHORI7,INSHORI8
+NoVisitNeeded = True
+Hidden = True
+
+Level HYOF_DesertBus
+LevelName = Desert Bus
+NoZone = true
+TypeOfLevel = Race
+SkyTexture = BUSYSKY2
+NumLaps = 65
+Music = ACZ1
+EncoreMusic = DBEN2
+AssociatedMusic = ACZ2,DBENC
+SkyboxScale = 0
+MobjScale = 100*FRACUNIT/480
+Lua.desertechoes = true
+Lua.dchoices_choice1 = Where's_my_prize?,gg_ez_no_re
 Hidden = True
 
