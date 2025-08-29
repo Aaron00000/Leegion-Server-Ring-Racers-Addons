@@ -457,6 +457,21 @@ Mobjscale = FRACUNIT/3
 LightContrast = 64
 LightAngle = 0
 
+Level LAS_PuyoPuyo
+LevelName = Puyo Puyo
+ZoneTitle = Arena
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = OPUBG02
+SkyboxScale = 128
+PositionMusic = CASINT
+Music = PUYOA1,PUYOA2
+Mobjscale = FRACUNIT/4
+LightContrast = 10
+Followers = Has Bean
+NoVisitNeeded = True
+Hidden = False
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
