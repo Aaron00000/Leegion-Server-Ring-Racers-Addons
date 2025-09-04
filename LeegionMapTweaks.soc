@@ -112,22 +112,6 @@ Music = SLISPR,SLISP2,SLISP3
 Mobjscale = 87*FRACUNIT/135
 NoVisitNeeded = true
 
-Level LAS_PolarParadise
-LevelName = Polar
-ZoneTitle = Paradise
-TypeofLevel = Race
-NumLaps = 3
-SkyTexture = ~253
-SkyboxScale = 64
-PositionMusic = CASINT
-Music = POLAR1,POLAR2
-EncoreMusic = POLENC
-Mobjscale = 100*FRACUNIT/345
-Weather = PRECIP_SNOW
-Darkness = -0.5
-NoVisitNeeded = True
-Hidden = False
-
 # LESS/MORE LAPS #
 
 Level DRTR_BastionIsle

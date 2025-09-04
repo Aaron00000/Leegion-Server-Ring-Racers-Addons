@@ -1411,7 +1411,7 @@ LightAngle = 45
 NoVisitNeeded = True
 Hidden = True
 
-Level LAS_MidnightBay
+Level CAS_MidnightBay
 LevelName = Midnight Bay
 ZoneTitle = Streets
 TypeofLevel = Race
@@ -1815,6 +1815,19 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
+Level DR_MARILND2
+LevelName = Marisa Land
+Act = 2
+TypeOfLevel = Race
+SkyTexture = MRLNO0
+NumLaps = 3
+Music = MARUND
+MobjScale = FRACUNIT/4
+SectionRace = True
+# NoVisitNeeded = True -- Changed for cerv.id
+NoVisitNeeded = True
+Hidden = True
+
 Level WS1_RainbowSky1
 LevelName = Rainbow Sky
 Act = 1
@@ -1872,6 +1885,126 @@ SkyboxScale = 4
 Lua.OriginiumTextures = INSHORI1,INSHORI2,INSHORI3,INSHORI4,INSHORI5,INSHORI6,INSHORI7,INSHORI8
 NoVisitNeeded = True
 Hidden = True
+
+Level LAS_PolarParadise
+LevelName = Polar
+ZoneTitle = Paradise
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~253
+SkyboxScale = 64
+PositionMusic = CASINT
+Music = POLAR1,POLAR2
+EncoreMusic = POLENC
+Mobjscale = 100*FRACUNIT/345
+Weather = PRECIP_SNOW
+Darkness = -0.5
+NoVisitNeeded = True
+Hidden = True
+
+Level RUB_wishingwonders
+NoVisitNeeded = True
+LevelName = Wishing
+ZoneTitle = Wonders
+TypeOfLevel = Race
+NumLaps = 3
+#SkyboxScale = 1*FRACUNIT
+SkyboxScale = 11*FRACUNIT/10
+SkyTexture = SATSKY
+Music = WISHW1,WISHW3,WISHW2
+MobjScale = FRACUNIT/5
+Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.wishingwonders = true
+Hidden = True
+
+Level RUB_TwinkleCart
+NoVisitNeeded = True
+Hidden = True
+LevelName = Twinkle
+ZoneTitle = Cart
+TypeOfLevel = Race
+#SectionRace = True
+LapsPerSection = 4
+NumLaps = 3
+SkyTexture = TP_NBG1
+Music = KMAP14,TCART1
+SkyboxScale = 1*FRACUNIT
+MobjScale = 4*FRACUNIT/10
+#Weather = PRECIP_FIREFLIES
+#LightContrast = 128
+#LightAngle = 240
+Darkness = 0.75
+Lua.Ruber = true
+
+Level RUB_ToxicCaves
+NoVisitNeeded = True
+Hidden = True
+LevelName = Toxic
+ZoneTitle = Caves
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = TXCV1,TXCV2
+AssociatedMusic = TXCV3
+SkyboxScale = 8*FRACUNIT
+MobjScale = 1*FRACUNIT/2
+Weather = 0
+Darkness = 0.75
+Lua.toxiccaves = true
+Lua.Ruber = true
+
+Level YRB_AncientGrove
+LevelName = Ancient Grove
+TypeOfLevel = Race
+NumLaps = 2
+Mobjscale = FRACUNIT/4
+LightAngle = 145
+LightContrast = 45
+SkyboxScale = 4
+Music = ANCG,ANCG1,ANCG2
+SkyTexture = DFDXSKY
+NoVisitNeeded = true
+Hidden = True
+
+Level CRAGGY_AllInOne_v1_1
+NoVisitNeeded = True
+Hidden = True
+LevelName = Dark Waterway
+TypeOfLevel = Race,Battle
+SkyTexture = ~031
+NumLaps = 3
+Music = CAIO
+MobjScale = FRACUNIT/4
+
+Level DR_RutilePreserve
+LevelName = Rutile Preserve
+TypeOfLevel = Race,Battle
+NumLaps = 4
+SkyTexture = LSZSKY
+Music = BESTR1
+Mobjscale = FRACUNIT/3
+LightContrast = 24
+LightAngle = 180
+NoVisitNeeded = True
+Hidden = True
+LobbySize = Large
+
+Level CV_VintageTerrace
+LevelName = Vintage Terrace
+TypeofLevel = Race,Battle
+NumLaps = 4
+SkyTexture = SKYCE
+Music = RUSTER
+SkyboxScale = 32
+Mobjscale = FRACUNIT/4
+LightContrast = 8
+LightAngle = 0
+NoVisitNeeded = true
+Hidden = True
+Followers = Dove,Dove,Hotaru,Bushbubble
+LobbySize = Large
 
 Level HYOF_DesertBus
 LevelName = Desert Bus
