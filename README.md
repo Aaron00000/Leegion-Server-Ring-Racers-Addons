@@ -81,11 +81,7 @@
 
 3, 5 - 
 
-<<<<<<< HEAD
 4, 5 - Squidward, Doppel Arle, Butthead,
-=======
-4, 5 - Squidward, Doppel Arle,
->>>>>>> de496d43cc7557d4c90b5f4a23bd24e5d539b04b
 
 5, 5 - Mario,
 
@@ -608,18 +604,11 @@ Puyo Puyo Arena (less, 2 laps)
 9/5
 ---
 
-<<<<<<< HEAD
 Characters - Added Beavis and Butthead.
 
 Maps - Updated Dream Tracks and Draft Tracks. Blacklisted Wishing Wonders (and removed the performance patch), Polar Paradise, Twinkle Cart, Toxic Caves, Ancient Grove, Dark Waterway, Marisa Land 2, Rutile Preserve, and Vintage Terrace. Fixed Midnight Bay not being blacklisted (internal name had changed.)
 
 
-=======
-Characters - 
-
-Maps - Updated Dream Tracks and Draft Tracks. Blacklisted Wishing Wonders (and removed the performance patch), Polar Paradise, Twinkle Cart, Toxic Caves, Ancient Grove, Dark Waterway, Marisa Land 2, Rutile Preserve, and Vintage Terrace. Fixed Midnight Bay not being blacklisted (internal name had changed.)
-
->>>>>>> de496d43cc7557d4c90b5f4a23bd24e5d539b04b
 8/29
 ----
 
