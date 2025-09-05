@@ -2006,6 +2006,16 @@ Hidden = True
 Followers = Dove,Dove,Hotaru,Bushbubble
 LobbySize = Large
 
+Level TOTB
+LevelName = Tour Of The Block
+TypeOfLevel = Race
+SkyTexture = SKYEC
+NumLaps = 4
+Music = THETUR
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
 Level HYOF_DesertBus
 LevelName = Desert Bus
 NoZone = true

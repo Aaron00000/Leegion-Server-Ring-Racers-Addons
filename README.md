@@ -12,11 +12,11 @@
 
 5, 1 - Prinny, 
 
-6, 1 - Inaba Twei,
+6, 1 - 
 
 7, 1 - Ribbon, Charlotta,
 
-8, 1 - Marisa Kirisame,
+8, 1 - 
 
 9, 1 - Crazy Frog,
 
@@ -46,9 +46,9 @@
 
 4, 3 - Kermit, Aerith, Amitie,
 
-5, 3 - Anila, Hat Kid, Doremy Sweet, Aerith (Sonic OC Version), Adeleine, Adeleine, Reimu, Reala,
+5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
-6, 3 - Golbat, Stella,
+6, 3 - Golbat, Stella, Kris,
 
 7, 3 - Lilac, Kumatora,
 
@@ -60,15 +60,15 @@
 
 2, 4 - Goomba,
 
-3, 4 - Haurka Amami, Sage, Lucas, Eunie,
+3, 4 - Haruka Amami, Sage, Lucas, Eunie,
 
 4, 4 - Conker, Geno,
 
-5, 4 - Rena Ryuugu, Dex, 
+5, 4 - Rena Ryuugu, Dex, Beavis,
 
 6, 4 - Medic, Luigi, Ugly Knuckles,
 
-7, 4 - Buttguster, Yuki, Nue, Daisy,
+7, 4 - Buttguster, Daisy,
 
 8, 4 - Saturn, Zero,
 
@@ -81,15 +81,15 @@
 
 3, 5 - 
 
-4, 5 - Okina Matara, Squidward, Doppel Arle,
+4, 5 - Squidward, Doppel Arle, Butthead,
 
 5, 5 - Mario,
 
-6, 5 - Orin Kaenbyou, Tifa, Diggle,
+6, 5 - Tifa, Diggle,
 
 7, 5 - Hanate, Sans,
 
-8, 5 - Guntz, Mario Tire, Byakuren Hijiri,
+8, 5 - Guntz, Mario Tire,
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis,
 
@@ -97,15 +97,15 @@
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 
-3, 6 - Riamu Yumeni, Papyrus, Link
+3, 6 - Link
 
-4, 6 - Komachi Onozuka, Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse,
+4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse,
 
 5, 6 - Beat, Ulala,
 
 6, 6 - Shantae, Morrigan, Spongebob, KT,
 
-7, 6 - Waluigi, Jotaro,
+7, 6 - Waluigi, Jotaro, Travis Touchdown,
 
 8, 6 - Yoshi, Alpha,
 
@@ -115,7 +115,7 @@
 
 2, 7 - Agent Stone, Twintelle,
 
-3, 7 - Coach, Primarina, Birdo, Susie,
+3, 7 - Coach, Primarina, Birdo, Susie, Ness,
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera,
 
@@ -123,7 +123,7 @@
 
 6, 7 - Ramona, 
 
-7, 7 - Fark, Cloud, Angel, Ibuki,
+7, 7 - Fark, Cloud, Angel,
 
 8, 7 - Akira Nishikiyama, 
 
@@ -159,11 +159,11 @@
 
 6, 9 - Redwood,
 
-7, 9 - King K.Rool, Hong Meilong,
+7, 9 - King K.Rool,
 
 8, 9 - Bowser, GUN Truck, Lord Brevon,
 
-9, 9 - Ring Max, Cirno, Satan,
+9, 9 - Ring Max, Satan,
 
 =====
 ## MAPS
@@ -188,13 +188,13 @@ Big O Maps v3.0.2
 
 Cereal Box Tracks v1
 
-Dream Tracks v1.61
+Dream Tracks Bicycle Cup v1.1
 
-Gack Tracks v2.1.1
+Gack Tracks v2.1.2
 
 BushmillCup v1.1.4b
 
-Draft Tracks v5
+Draft Tracks v6
 
 Epic Cup Revival v1.2.1
 
@@ -202,21 +202,21 @@ High Tension Traxx v1.3.4
 
 Revenge Fuck Pak v1.0
 
-ELQ Rosen Raceways v1.1.2
+ELQ Rosen Raceways v1.1.4
 
 Super Striker GP v1.4
 
 Pro Pack X v2.1.1
 
-Cas Track Pak v7.6c
+Cas Track Pak v8
 
 DTDelve Amber
 
 lizard pack v1.7.1
 
-Miracle Cup and Wonder Cup b07.1 with Wishing Wonders rev
+Miracle Cup, Wonder Cup, and Amazing Cup b08 with Wishing Wonders rev
 
-dmeobox v1
+demobox v1
 
 Double Gear Pack v2.2
 
@@ -224,7 +224,7 @@ Cereal Tracks v1
 
 cerv.id b + r 1.3
 
-THOKTRACKS 1.1
+cerv.id act 1 + 2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -296,6 +296,8 @@ Zoned City
 Dead Line
 
 Lost Colony
+
+Scarlet Gardens
 
 Death Egg
 
@@ -496,6 +498,46 @@ Castle Frenzy
 
 Savannah Citadel Act 2
 
+Desert Bus
+
+Rancid Machinery
+
+Party Phase
+
+Neon Frenzy
+
+Submerged Marina
+
+Aqua Point 1
+
+Marisa Land 1
+
+Rainbow Sky 1
+
+Dreamy Treeway 1
+
+Spring Stadium 2
+
+Infected Shrine 2
+
+Wishing Wonders
+
+Polar Paradise
+
+Twinkle Cart
+
+Toxic Caves
+
+Ancient Grove
+
+Dark Waterway
+
+Marisa Land 2
+
+Rutile Preserve
+
+Vintage Terrace
+
 
 ## Resized
 ----------
@@ -552,8 +594,30 @@ Desert Bus (less, 65 laps)
 
 House of the Undying (less, 6 laps)
 
+Aqua Point 1 (less, 3 laps)
+
+Puyo Puyo Arena (less, 2 laps)
+
 ============
 ## CHANGELOG
+
+9/5
+---
+
+Characters - Added Beavis and Butthead.
+
+Maps - Updated Dream Tracks and Draft Tracks. Blacklisted Wishing Wonders (and removed the performance patch), Polar Paradise, Twinkle Cart, Toxic Caves, Ancient Grove, Dark Waterway, Marisa Land 2, Rutile Preserve, and Vintage Terrace. Fixed Midnight Bay not being blacklisted (internal name had changed.)
+
+
+8/29
+----
+
+Characters - Added Kris, Ness, and Travis Touchdown. Fixed Aaa not loading. Removed the Touhou characters (Aru, Cirno, Hong Meilong, Marisa, Suika, Tewi, Reimu, Yuki, Remilia, Byakuren, Doremy, Komachi, Okina, Orin, Tenshi) and Phantom Rider to make space.
+
+Maps - Added cerv.id act 1 + 2 pack and Amazing Cup. Removed THOKTRACKS due to map overlap with cerv.id act 1 + 2. Updated CAS Tracks, Rosen Raceways, Miracle Cup, Wonder Cup, GackTracks, and Dream Tracks. Blacklisted Scarlet Gardens, Desert Bus, Rancid Machinery, Party Phase, Neon Frenzy, Submerged Marina, Aqua Point 1, Marisa Land 1, Rainbow Sky 1, Dreamy Treeway 1, Spring Stadium 2, and Infected Shrine 2. Made Babel Drive Act 2 and Puyo Puyo Arena two laps. Un-blacklisted Wishing Wonders to see if the performance can handle online now.
+
+Other - Added Intermission Music. Removed Aqua's Wisp Followers because we've hit either the follower cap limit or free slot limit and would black screen at character select otherwise.
+
 
 8/22
 ----
