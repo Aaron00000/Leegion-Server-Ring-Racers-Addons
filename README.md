@@ -18,6 +18,7 @@
 
 8, 1 - 
 
+
 9, 1 - Crazy Frog,
 
 1, 2 - Mallow,
@@ -38,6 +39,7 @@
 
 9, 2 - Dark Rider Shadow,
 
+
 1, 3 - Milla, Robo-Hood,
 
 2, 3 - Koopa, Fennec, Sara,
@@ -50,11 +52,12 @@
 
 6, 3 - Golbat, Stella, Kris,
 
-7, 3 - Lilac, Kumatora,
+7, 3 - Felicia, Lilac, Kumatora,
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman,
 
 9, 3 - Juri, Monty Mole,
+
 
 1, 4 - 
 
@@ -93,6 +96,7 @@
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis,
 
+
 1, 6 - Marx,
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
@@ -110,6 +114,7 @@
 8, 6 - Yoshi, Alpha,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva,
+
 
 1, 7 - 
 
@@ -129,13 +134,14 @@
 
 9, 7 - 
 
+
 1, 8 - Homer Simpson,
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
 3, 8 - DK JR., Shovel Knight,
 
-4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK,
+4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin
 
 5, 8 - Shrek, Mako, Cole Cassidy,
 
@@ -146,6 +152,7 @@
 8, 8 - Wario, Dingodile,
 
 9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga,
+
 
 1, 9 - Heavy TF2, Thwomp, Moai,
 
@@ -186,8 +193,6 @@ Abstract Maps v1.0.1
 
 Big O Maps v3.0.2
 
-Cereal Box Tracks v1
-
 Dream Tracks Bicycle Cup v1.1
 
 Gack Tracks v2.1.2
@@ -208,7 +213,7 @@ Super Striker GP v1.4
 
 Pro Pack X v2.1.1
 
-Cas Track Pak v8
+Cas Track Pak v8.1
 
 DTDelve Amber
 
@@ -220,11 +225,11 @@ demobox v1
 
 Double Gear Pack v2.2
 
-Cereal Tracks v1
-
 cerv.id b + r 1.3
 
 cerv.id act 1 + 2
+
+Yoshi's Cookie Jar v0.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -298,6 +303,10 @@ Dead Line
 Lost Colony
 
 Scarlet Gardens
+
+Barren Badlands
+
+Advent Angel Zone
 
 Death Egg
 
@@ -538,6 +547,16 @@ Rutile Preserve
 
 Vintage Terrace
 
+Death Chamber
+
+Route 99
+
+Virtua Racing Big Forest
+
+Babel Drive 2
+
+Lucious Lakeside
+
 
 ## Resized
 ----------
@@ -598,8 +617,20 @@ Aqua Point 1 (less, 3 laps)
 
 Puyo Puyo Arena (less, 2 laps)
 
+Chrome Gadget Act 2 (less, 2 laps)
+
 ============
 ## CHANGELOG
+
+
+9/12
+----
+
+Characters - Added Peter Griffin and Felicia. Updated Beavis/Butthead and the previously installed KamuiPack characters.
+
+Maps - Added Yoshi's Cookie Jar pack. Updated CAS Tracks and Rosen Raceways. Made Chrome Gadget Act 2 two laps. Removed Cereal Tracks and the Tour of the Block beta. Blacklisted Barren Badlands, Advent Angel, Death Chamber, Route 99, Virtua Racing Big Forest, Babel Drive 2, and Lucious Lakeside.
+
+Other - Added a Stelios follower.
 
 9/5
 ---

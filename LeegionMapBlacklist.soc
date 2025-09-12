@@ -424,6 +424,29 @@ MobjScale = FRACUNIT/4
 Hidden = True
 NoVisitNeeded = True
 
+Level RR_BarrenBadlands
+LevelName = Barren Badlands
+TypeOfLevel = Race
+NumLaps = 3
+Palette = 77
+SkyTexture = SKY77
+SkyboxScaleZ = 0
+Music = BABAZ
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_AdventAngel
+LevelName = Advent Angel
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ANGELSKY
+MobjScale = FRACUNIT/4
+Music = AVANZ
+SubtractNum = True
+Darkness = 0.25
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -2014,6 +2037,76 @@ NumLaps = 4
 Music = THETUR
 MobjScale = FRACUNIT/4
 NoVisitNeeded = True
+Hidden = True
+
+Level RLQ_Route99
+LevelName = Route 99
+TypeOfLevel = Race
+SkyTexture = PERFBG01
+NumLaps = 2
+Music = ROU99Z
+LightContrast = 64
+LightAngle = 135
+NoVisitNeeded = True
+MobjScale = FRACUNIT/4
+SkyboxScale = 16
+Hidden = True
+
+Level AC_BigForest
+LevelName = Virtua Racing
+ZoneTitle = Big Forest
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = DTSSKY01
+PositionMusic = VRCOIN
+Music = VRDXRP
+NoVisitNeeded = True
+MobjScale = 6*FRACUNIT/8
+LightAngle = 45
+LightContrast = 64
+Hidden = True
+
+Level CY_BabelDrive2
+LevelName = Babel Drive
+Act = 2
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~149
+SkyboxScaleZ = 0
+# NoVisitNeeded = True -- Changed for cerv.id
+Music = BDZ2
+Mobjscale = FRACUNIT/3
+LightContrast = 64
+LightAngle = 0
+NoVisitNeeded = True
+Hidden = True
+
+Level RUB_EggQuarters
+NoVisitNeeded = True
+LevelName = Egg
+ZoneTitle = Quarters
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = DPZSKY00
+SubtractNum = True
+Music = KMAP38,EGGQ1
+SkyboxScale = 8*FRACUNIT
+MobjScale = 7*FRACUNIT/20
+LightAngle = 180
+LightContrast = 64
+Weather = PRECIP_FIREFLIES
+Darkness = 0.75
+Lua.Ruber = true
+Hidden = True
+
+Level YTM_LusciousLakeside
+LevelName = Luscious Lakeside
+NoVisitNeeded = True
+TypeOfLevel = Race
+Numlaps = 4
+SkyTexture = SKYLULAK
+Music = LULAK
+Mobjscale = FRACUNIT/4
 Hidden = True
 
 Level HYOF_DesertBus

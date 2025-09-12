@@ -456,6 +456,19 @@ Followers = Has Bean
 NoVisitNeeded = True
 Hidden = False
 
+Level YTM_ChromeGadget2
+LevelName = Chrome Gadget
+Act = 2
+NoVisitNeeded = True
+TypeOfLevel = Race
+Numlaps = 2
+SkyTexture = CGZSKY01
+Music = CHGAZ2,CHGA2A
+Mobjscale = FRACUNIT/4
+Darkness = -1.0
+LightContrast = 64
+LightAngle = 165
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
