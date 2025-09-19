@@ -1,58 +1,5 @@
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
-Level RR_DarkvileCastle2
-LevelName = Darkvile Castle
-Act = 2
-TypeOfLevel = Race
-MobjScale = 42*FRACUNIT/100
-DefaultWaypointRadius = 192*FRACUNIT
-SkyTexture = DVSKY
-Weather = PRECIP_RAIN
-Music = DACAZ2
-SkyboxScale = 32
-Darkness = -0.25
-
-Level RR_ScarletGardens
-LevelName = Scarlet Gardens
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ~035
-Music = SCGAZ
-MobjScale = FRACUNIT/5
-
-Level RR_DimensionDisaster
-LevelNAME = Dimension Disaster
-Music = DIDIZ
-SkyTexture = SKY169
-TYpeOfLevel = RACE
-LUA.dvdss6 = true
-SkyboxScaleZ = 0
-Darkness = -0.25
-MobjScale = 100*FRACUNIT/125
-
-Level RR_ChemicalFacility
-LevelName = Chemical Facility
-TypeOfLevel = Race
-NumLaps = 2
-Music = CHFAZ
-SkyTexture = SKY1995
-Mobjscale = 20*FRACUNIT/45
-Darkness = -0.5
-Hidden = True
-NoVisitNeeded = True
-
-Level RR_EspressoLane
-Levelname = Espresso Lane
-NumLaps = 3
-TypeOfLevel = Race
-Music = ESLAZ
-SkyTexture = SKY265
-Weather = PRECIP_SNOW
-MobjScale = 10*FRACUNIT/24
-Skyboxscale = 4
-EncoreLightAngle = 90
-EncoreLightContrast = 80
-
 Level PP_GreatGalleon
 LevelName = Great Galleon
 TypeOfLevel = Race
@@ -122,7 +69,6 @@ Music = BSTILE
 MobjScale = FRACUNIT/4
 SkyTexture = STRSKY01
 LightContrast = 24
-NoVisitNeeded = True
 
 Level RR_DeadLine
 LevelNAME = Dead Line
@@ -166,7 +112,6 @@ MobjScale = FRACUNIT*80/100
 SkyTexture = SKY17
 Weather = PRECIP_SNOW
 SubtractNum = True
-NoVisitNeeded = True
 
 Level HTT_FlyingBattery
 NoVisitNeeded = True
@@ -339,20 +284,6 @@ Darkness = -0.5
 PositionMusic = MMMN
 Hidden = True
 
-Level HYM_Touge
-NoVisitNeeded = True
-LevelName = Touge
-TypeOfLevel = Race
-SectionRace = True
-SkyTexture = SKY177
-SkyboxScale = 4
-NumLaps = 3
-Music = TOUGE
-MobjScale = FRACUNIT/4
-LightAngle = 0
-LightContrast = 40
-Hidden = True
-
 Level PP_AzureGarden
 LevelName = Azure Garden
 TypeOfLevel = Race
@@ -472,9 +403,9 @@ LightAngle = 165
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
-TypeOfLevel = 0
-NumLaps = 6
-LapsPerSection = 3
+TypeOfLevel = Race
+NumLaps = 2
+LapsPerSection = 1
 Music = UNDRBN,KMAPLQ
 MobjScale = FRACUNIT/4
 SkyTexture = ~031
