@@ -202,8 +202,6 @@ Diggle's Track Delve Bismuth
 
 CAS Track Pack v8.2
 
-Super Striker GP
-
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
