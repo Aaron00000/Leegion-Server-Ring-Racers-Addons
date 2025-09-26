@@ -50,9 +50,15 @@
 
 5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
+<<<<<<< HEAD
 6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
+=======
+6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man,
+
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, 
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar,
 
@@ -67,7 +73,11 @@
 
 4, 4 - Conker, Geno, Plok,
 
+<<<<<<< HEAD
 5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii,
+=======
+5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski,
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
@@ -130,7 +140,11 @@
 
 7, 7 - Fark, Cloud, Angel, Vector, Infinite, 
 
+<<<<<<< HEAD
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
+=======
+8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna,
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 9, 7 - Grounder, 
 
@@ -139,7 +153,11 @@
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
+<<<<<<< HEAD
 3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
+=======
+3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy,
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo,
 
@@ -191,6 +209,7 @@ Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
+<<<<<<< HEAD
 RLQ Rosen Raceways v1.1.6
 
 Super Striker GP v1.5.1
@@ -200,6 +219,15 @@ Draft Tracks v6.1
 Diggle's Track Delve Bismuth
 
 CAS Track Pack v8.2
+=======
+RLQ Rosen Raceways v1.1.56
+
+Super Striker GP
+
+Draft Tracks v6.1
+
+Diggle's Track Delve Bloodstone
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -261,8 +289,11 @@ Diamond Dust
 
 Chemical Facility
 
+<<<<<<< HEAD
 Thunder Piston
 
+=======
+>>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 Death Egg
 
 
@@ -315,6 +346,18 @@ Blizzard Peaks Act 2
 Blue Sphere Land
 
 Desert Bus
+
+Port Aurora
+
+Death Chamber
+
+Black Comet
+
+Oasis Colosseum
+
+Bubblin' Springs
+
+Icebound Citadel
 
 
 ## Resized
@@ -386,6 +429,15 @@ Maps - Axed all non-2.4-updated map packs. Updated Diggle's Track Delve, Yoshi's
 
 Other - Removed Unrestrict Skins from the QoL pack since it no longer works for 2.4, and the display fix since that's in the game now.
 
+
+9/19 Beginning of the 2.4 era
+-----------------------------
+
+Characters - Added Gamma, the Star fox pack, and a bunch of previously cut characters back (Cell, Spike, Jack-O', Alolachu, Scratch, Grounder, Doomguy, Funky Kong, Pauline, Infinite, Kaiser Greedy, Hey Ho, Jimbo, Wallace, Klonoa, Papyrus, Pomni, Ristar, Scrapnik Mecha Sonic, Scrapnik Mecha Knuckles, Vector, Curly, Plok, Quote, Tenna, Noel Vermillion, Medic, Majima, Hsien-Ko, Ashura, Goku, Marine, Mobo, Rei Ayanami, Robo, Super Sonic, Wild Woody, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Yadorin, Taraban, Sol, Taga-Taga, Kama-Kama, Noro-Noro, Hopper, Penguinator, Dribbler.)
+
+Maps - Axed all non-2.4-updated map packs. Updated Diggle's Track Delve, Yoshi's Cookie Jar, Gack Tracks, Dream Tracks, Thok Tracks, Epic Cup Revival, Bushmill Cup, Revenge of the Fuck Pack, RLQ Rosen Raceways, Super Striker GP, and Draft Tracks. Blacklisted Diamond Dust, Port Aurora, Black Comet, Death Chamber, Bubblin' Springs and Icebound Citadel 1. Un-blacklisted Marble Garden, Mega Aqua Lake, Kodachrome Void, Thunder Piston, Coastal Temple, 765 Stadium, Savannah Citadel, Dark Fortress, Blizzard Peaks Classic, Quartz Quadrant, Vantablack Violet, Aerial Highlands, and Touge to give them another chance because of 2.4. Removed map resizings and lap count changes for vanilla maps.
+
+Other - Removed Unrestrict Skins from the QoL pack since it no longer works for 2.4, and the display fix since that's in the game now.
 
 9/12
 ----
