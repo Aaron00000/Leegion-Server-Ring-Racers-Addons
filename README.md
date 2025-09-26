@@ -50,15 +50,9 @@
 
 5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
-<<<<<<< HEAD
 6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
-=======
-6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man,
-
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, 
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar,
 
@@ -73,11 +67,7 @@
 
 4, 4 - Conker, Geno, Plok,
 
-<<<<<<< HEAD
 5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii,
-=======
-5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski,
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
@@ -140,11 +130,7 @@
 
 7, 7 - Fark, Cloud, Angel, Vector, Infinite, 
 
-<<<<<<< HEAD
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
-=======
-8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna,
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 9, 7 - Grounder, 
 
@@ -153,11 +139,8 @@
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
-<<<<<<< HEAD
 3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
-=======
-3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy,
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
+
 
 4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo,
 
@@ -209,7 +192,6 @@ Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-<<<<<<< HEAD
 RLQ Rosen Raceways v1.1.6
 
 Super Striker GP v1.5.1
@@ -219,15 +201,8 @@ Draft Tracks v6.1
 Diggle's Track Delve Bismuth
 
 CAS Track Pack v8.2
-=======
-RLQ Rosen Raceways v1.1.56
 
 Super Striker GP
-
-Draft Tracks v6.1
-
-Diggle's Track Delve Bloodstone
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -289,11 +264,8 @@ Diamond Dust
 
 Chemical Facility
 
-<<<<<<< HEAD
 Thunder Piston
 
-=======
->>>>>>> 79f6aea2e6f75d71354a352a53abd26a88cf40b4
 Death Egg
 
 
