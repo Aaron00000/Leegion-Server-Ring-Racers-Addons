@@ -141,7 +141,6 @@
 
 3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
 
-
 4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo,
 
 5, 8 - Shrek, Mako, Cole Cassidy,
@@ -172,6 +171,7 @@
 8, 9 - Bowser, GUN Truck, Lord Brevon,
 
 9, 9 - Ring Max, Satan, Scrapnik Mecha sonic
+
 
 =====
 ## MAPS
