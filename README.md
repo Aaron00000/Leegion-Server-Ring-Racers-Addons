@@ -6,7 +6,7 @@
 
 2, 1 - Banana Peel, Toad (Kel), Kit,
 
-3, 1 - Tangle, Gooey, Kirby,
+3, 1 - Tangle, Gooey, Kirby, Taraban, 
 
 4, 1 - Dry Bones,
 
@@ -14,71 +14,71 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta,
+7, 1 - Ribbon, Charlotta, Sol,
 
 8, 1 - 
 
+9, 1 - Crazy Frog, Ristar,
 
-9, 1 - Crazy Frog,
 
-1, 2 - Mallow,
+1, 2 - Mallow, Noronoro, 
 
 2, 2 - 
 
-3, 2 - Aru, Gwenpool, Doise, Aaa,
+3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, 
 
-4, 2 - Spamton,
+4, 2 - Spamton, Selferu
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy,
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, 
 
 6, 2 - Paper Mario,
 
-7, 2 - Warpstar Kirby, Laharl,
+7, 2 - Warpstar Kirby, Laharl, Pomni, 
 
-8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Phantom Rider,
+8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
 9, 2 - Dark Rider Shadow,
 
 
 1, 3 - Milla, Robo-Hood,
 
-2, 3 - Koopa, Fennec, Sara,
+2, 3 - Koopa, Fennec, Sara, Kamakama,
 
-3, 3 - Engineer, Peach, Klonoa,
+3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa,
 
 4, 3 - Kermit, Aerith, Amitie,
 
 5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
-6, 3 - Golbat, Stella, Kris,
+6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu,
 
-7, 3 - Felicia, Lilac, Kumatora,
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
 
-8, 3 - Ryuko, Spark, Scarlet, Spiderman,
+8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar,
 
-9, 3 - Juri, Monty Mole,
+9, 3 - Juri, Monty Mole, Majima, 
 
 
-1, 4 - 
+1, 4 - Andrew Oikonny,
 
-2, 4 - Goomba,
+2, 4 - Goomba, Scurry,
 
 3, 4 - Haruka Amami, Sage, Lucas, Eunie,
 
-4, 4 - Conker, Geno,
+4, 4 - Conker, Geno, Plok,
 
-5, 4 - Rena Ryuugu, Dex, Beavis,
+5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii,
 
-6, 4 - Medic, Luigi, Ugly Knuckles,
+6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
-7, 4 - Buttguster, Daisy,
+7, 4 - Buttguster, Daisy, Wild Woody,
 
-8, 4 - Saturn, Zero,
+8, 4 - Spike, Saturn, Zero, Hopper,
 
 9, 4 - Hornet, Noise, Jino-Chan,
 
 
-1, 5 - Pyra,
+1, 5 - Pyra, Old Man Owl, 
 
 2, 5 - 
 
@@ -86,66 +86,66 @@
 
 4, 5 - Squidward, Doppel Arle, Butthead,
 
-5, 5 - Mario,
+5, 5 - Mario, Miso
 
-6, 5 - Tifa, Diggle,
+6, 5 - Tifa, Diggle, Pauline,
 
-7, 5 - Hanate, Sans,
+7, 5 - Jack-O', Hanate, Sans, Wolf O'Donnell,
 
 8, 5 - Guntz, Mario Tire,
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis,
 
 
-1, 6 - Marx,
+1, 6 - Marx, Yadorin, 
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 
-3, 6 - Link
+3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi,
 
-4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse,
+4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
 
 5, 6 - Beat, Ulala,
 
 6, 6 - Shantae, Morrigan, Spongebob, KT,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
 8, 6 - Yoshi, Alpha,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong,
 
 
 1, 7 - 
 
 2, 7 - Agent Stone, Twintelle,
 
-3, 7 - Coach, Primarina, Birdo, Susie, Ness,
+3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace, Quote,
 
-4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera,
+4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro,
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke,
 
 6, 7 - Ramona, 
 
-7, 7 - Fark, Cloud, Angel,
+7, 7 - Fark, Cloud, Angel, Vector, Infinite, 
 
-8, 7 - Akira Nishikiyama, 
+8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
 
-9, 7 - 
+9, 7 - Grounder, 
 
 
-1, 8 - Homer Simpson,
+1, 8 - Homer Simpson, Ashe,
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
-3, 8 - DK JR., Shovel Knight,
+3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
 
-4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin
+4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo,
 
 5, 8 - Shrek, Mako, Cole Cassidy,
 
-6, 8 - Master Chief, Kiryu, Werehog, Tenna,
+6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
 7, 8 - Johnny Bravo, Heavy Slammer,
 
@@ -158,11 +158,11 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
-3, 9 - Yukine, Hatsune Miku,
+3, 9 - Yukine, Hatsune Miku, Gamma, 
 
-4, 9 - 
+4, 9 - Hey Ho,
 
-5, 9 - Kapukapu, Gameboy Wario, Yorha 2B,
+5, 9 - Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, 
 
 6, 9 - Redwood,
 
@@ -170,71 +170,40 @@
 
 8, 9 - Bowser, GUN Truck, Lord Brevon,
 
-9, 9 - Ring Max, Satan,
+9, 9 - Ring Max, Satan, Scrapnik Mecha sonic
 
 =====
 ## MAPS
 
 ## Addon Packs
 --------------
-Dawnstar Garden v1
+Yoshi's Cookie Jar v0.1.1
 
-Frost Maps v4
+Gack Tracks v2.1.3
 
-Shark Pack 1.1.2
+Mado Dream Tracks v1.0.3
 
-Spindash Pak 1.4b
+Thok Tracks v1.3
 
-Subsonic Cup 2.1
+Epic Cup Revival v1.2.4
 
-Yairs Workshop v1.02
+Bushmill Cup v1.2a
 
-Abstract Maps v1.0.1
+Revenge of the Fuck Pack v1.1.1
 
-Big O Maps v3.0.2
+RLQ Rosen Raceways v1.1.6
 
-Dream Tracks Bicycle Cup v1.1
+Super Striker GP v1.5.1
 
-Gack Tracks v2.1.2
+Draft Tracks v6.1
 
-BushmillCup v1.1.4b
+Diggle's Track Delve Bismuth
 
-Draft Tracks v6
-
-Epic Cup Revival v1.2.1
-
-High Tension Traxx v1.3.4
-
-Revenge Fuck Pak v1.0
-
-ELQ Rosen Raceways v1.1.4
-
-Super Striker GP v1.4
-
-Pro Pack X v2.1.1
-
-Cas Track Pak v8.1
-
-DTDelve Amber
-
-lizard pack v1.7.1
-
-Miracle Cup, Wonder Cup, and Amazing Cup b08 with Wishing Wonders rev
-
-demobox v1
-
-Double Gear Pack v2.2
-
-cerv.id b + r 1.3
-
-cerv.id act 1 + 2
-
-Yoshi's Cookie Jar v0.1
+CAS Track Pack v8.2
 
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
-Marble Garden
 
 Aqueduct Crystal
 
@@ -245,8 +214,6 @@ Green Triangle
 Sunsplashed Getaway
 
 Mega Scrap Brain
-
-Mega Aqua Lake
 
 Mega Sandopolis
 
@@ -264,23 +231,11 @@ Spring Yard
 
 Lavender Shrine Classic
 
-Blizzard Peaks Classic
-
 Angel Arrow Classic
-
-Kodachrome Void
-
-Vantablack Violet
-
-Thunder Piston
 
 Aqua Tunnel
 
-Coastal Temple
-
 Chrome Gadget
-
-765 Stadium
 
 Shuffle Square
 
@@ -288,17 +243,11 @@ Savannah Citadel
 
 Dark Fortress
 
-Quartz Quadrant
-
 Haunted Ship
 
 SRB2 Frozen Night
 
-Aerial Highlands
-
 Zoned City
-
-Dead Line
 
 Lost Colony
 
@@ -308,268 +257,68 @@ Barren Badlands
 
 Advent Angel Zone
 
+Diamond Dust
+
+Chemical Facility
+
+Thunder Piston
+
 Death Egg
 
 
 ## BLACKLISTED ADDON MAPS
 -------------------------
-GALF
+Lacustrine Disrepair Act 2
 
-High Speed Ring
+Lucious Lakeside
 
-Talladega Superspeedway
-
-Simple Circuit
-
-Roundabout
-
-Melty Manor Again (that's literally the name)
-
-Jing Forest
-
-Time Stone Circuit
-
-X Track Trunk
-
-Tilted Towers
-
-Sweet Dessert Hall
-
-Turtle Island
-
-Open Flood Cave
-
-Midnight Motorist
-
-Ascension Divine Kaizo
-
-Wishing Wonders
-
-Geode Grotto
-
-Eight Beat
-
-Basic Bounce Classic
-
-test circle
-
-Blue Sphere Land
-
-Metal Corridor
-
-Bloodsauce Dungeon Classic
-
-Bloodsauce Dungeon
-
-New Yolk City
-
-Water Temple
-
-Water Temple Classic
-
-Sweet Street Classic
-
-CTR Adventure Hub
-
-Cutman's Logging Facility
-
-Backroom Velocity
-
-Banshee Boardwalk
-
-Brinewater Springs
-
-Neo Green Hill Zone
-
-Citti di Aria
-
-Boomerang Battleship
-
-Rusty Ruin
-
-Alpake City
-
-Resonance Ray Zone
-
-Flood Area
-
-Omashu
-
-Citadel of Mystikke
-
-Aqua Cave
-
-Ante Station
-
-Cliffside Cavern
-
-Mega Frutiger Aeropolis
-
-Sakura Serenity
-
-BSOD Ring
-
-Sea Stadium
-
-Burning Furnace classic
-
-Evening Cliffside
+Bringwater Springs
 
 Mandrill Maze
 
-Storm Station Zone
-
-Mega Splash Hill
-
-Mega Quartz Quadrant
-
-Mega Mirage Saloon
-
-Mega Yellow Desert
-
-Mega Ice Mountain
-
-Mega Golden Capital
+Savannah Citadel 2
 
 Mega Nightlit Woods
 
-Undershark City
-
-Gumball Roundabout
-
-Splat Festival
-
-Sealed Stars Rooftops
-
-Sealed Stars Atlantis
-
-Blizzard Peaks Classic
-
-Calypso City
-
-Hallways
-
-Burning Frost
-
-Triumph
-
-Cyclohexpane
-
-Wavebreak Park
-
 Central City
-
-Raging Temple
-
-Midnight Bay Streets
-
-Death Ruins
-
-Polychrome Polygon
-
-Super Grit Mountain
-
-Deep Sea Driving
-
-Pizzascape
-
-Crimson Base
-
-Burning Bone Zone
-
-Arid Eclipse
-
-Bananas MMM
-
-Starmine Speedway
-
-Misty Maze
-
-Touge
-
-Azure Garden
-
-Void Vault 2
-
-Nightlit Woods
-
-Aqua Paradise 2
-
-Heaven Pass
-
-Red Rage Highway
-
-Snowdust Valley Classic
-
-Voltage Viper
-
-Castle Frenzy
-
-Savannah Citadel Act 2
-
-Desert Bus
-
-Rancid Machinery
-
-Party Phase
-
-Neon Frenzy
-
-Submerged Marina
-
-Aqua Point 1
-
-Marisa Land 1
-
-Rainbow Sky 1
-
-Dreamy Treeway 1
-
-Spring Stadium 2
-
-Infected Shrine 2
-
-Wishing Wonders
-
-Polar Paradise
-
-Twinkle Cart
-
-Toxic Caves
-
-Ancient Grove
-
-Dark Waterway
-
-Marisa Land 2
-
-Rutile Preserve
-
-Vintage Terrace
-
-Death Chamber
 
 Route 99
 
+Mega Chemical Plant
+
+Voltage Viper Challenge
+
+Snowdust Valley
+
+Polychrome Polygon
+
+Backroom Velocity
+
 Virtua Racing Big Forest
 
-Babel Drive 2
+BSOD Ring
 
-Lucious Lakeside
+Mega Frutiger Aeropolis
+
+Polar Paradise
+
+Midnight Bay
+
+Bubblin' Springs
+
+Icebound Citadel
+
+Melty Manor -Again-
+
+Blizzard Peaks Act 2
+
+Blue Sphere Land
+
+Desert Bus
 
 
 ## Resized
 ----------
-Darkville Castle 2 (bigger)
-
-Scarlet Gardens (bigger)
-
-Dimension Disaster (bigger)
-
-Espresso Lane (bigger)
-
-Chemical Facility (bigger)
-
 Great Galleon (bigger)
 
 MMMM Bananas (bigger)
@@ -583,8 +332,6 @@ Rusty Ruin Classic (bigger)
 Sunny Garden (bigger)
 
 Slime Springs (bigger)
-
-Polar Paradise (bigger)
 
 Desert Bus (bigger)
 
@@ -615,12 +362,29 @@ House of the Undying (less, 6 laps)
 
 Aqua Point 1 (less, 3 laps)
 
-Puyo Puyo Arena (less, 2 laps)
-
 Chrome Gadget Act 2 (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+9/26
+----
+
+Characters - Added AchiiDev characters.
+
+Maps - Re-added CAS Tracks. Updated DTDelve, Super Striker GP, and Rosen Raceways. Re-blacklisted Thunder Piston, blacklisted Lacustrine Disrepair Act 2 for anomalies with the loop section. Un-blacklisted most mod tracks in order to give them a fair chance in 2.4, the following mod courses remain blacklisted: Lucious Lakeside, Bringwater Springs, Mandrill Maze, Savannah Citadel 2, Mega Nightlit Woods, Central City, Route 99, Mega Chemical Plant, Voltage Viper Challenge, Snowdust Valley, Polychrome Polygon, Backroom Velocity, Virtua Racing Big Forest, BSOD Ring, Mega Frutiger Aeropolis, Polar Paradise, Midnight Bay, Bubblin' Springs, Icebound Citadel, Melty Manor -Again-, Blizzard Peaks Act 2, Blue Sphere Land, and Desert Bus.
+
+Other - Removed the adjusted item box respawn times from the QoL pack.
+
+
+9/19 version 2.4
+-----------------------------
+
+Characters - Added Gamma, the Star Fox pack, and a bunch of previously cut characters back (Cell, Spike, Jack-O', Alolachu, Scratch, Grounder, Doomguy, Funky Kong, Pauline, Infinite, Kaiser Greedy, Hey Ho, Jimbo, Wallace, Klonoa, Papyrus, Pomni, Ristar, Scrapnik Mecha Sonic, Scrapnik Mecha Knuckles, Vector, Curly, Plok, Quote, Tenna, Noel Vermillion, Medic, Majima, Hsien-Ko, Ashura, Goku, Marine, Mobo, Rei Ayanami, Robo, Super Sonic, Wild Woody, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Yadorin, Taraban, Sol, Taga-Taga, Kama-Kama, Noro-Noro, Hopper, Penguinator, Dribbler.)
+
+Maps - Axed all non-2.4-updated map packs. Updated Diggle's Track Delve, Yoshi's Cookie Jar, Gack Tracks, Dream Tracks, Thok Tracks, Epic Cup Revival, Bushmill Cup, Revenge of the Fuck Pack, RLQ Rosen Raceways, Super Striker GP, and Draft Tracks. Blacklisted Diamond Dust, Port Aurora, Black Comet, Death Chamber, Bubblin' Springs and Icebound Citadel 1. Un-blacklisted Marble Garden, Mega Aqua Lake, Kodachrome Void, Thunder Piston, Coastal Temple, 765 Stadium, Savannah Citadel, Dark Fortress, Blizzard Peaks Classic, Quartz Quadrant, Vantablack Violet, Aerial Highlands, and Touge to give them another chance because of 2.4. Removed map re-sizings and lap count changes for vanilla maps.
+
+Other - Removed Unrestrict Skins from the QoL pack since it no longer works for 2.4, and the display fix since that's in the game now.
 
 
 9/12
@@ -631,6 +395,7 @@ Characters - Added Peter Griffin and Felicia. Updated Beavis/Butthead and the pr
 Maps - Added Yoshi's Cookie Jar pack. Updated CAS Tracks and Rosen Raceways. Made Chrome Gadget Act 2 two laps. Removed Cereal Tracks and the Tour of the Block beta. Blacklisted Barren Badlands, Advent Angel, Death Chamber, Route 99, Virtua Racing Big Forest, Babel Drive 2, and Lucious Lakeside.
 
 Other - Added a Stelios follower.
+
 
 9/5
 ---
