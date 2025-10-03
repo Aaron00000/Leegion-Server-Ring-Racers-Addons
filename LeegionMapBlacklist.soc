@@ -341,6 +341,41 @@ Darkness = -0.5
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_DarkFortress
+LevelName = Dark Fortress
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKY88
+Music = UMRUZ,DAFOA
+MobjScale = FRACUNIT/4
+SkyboxScale = 6
+LightAngle = 135
+LightContrast = 64
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_MegaAquaLake
+LevelName = Mega Aqua Lake
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~123
+Music = MEAQZ
+Mobjscale = FRACUNIT*22/100
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_ShuffleSquare
+LevelName = Shuffle Square
+Palette = 0
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKY766
+Music = SHSQZ
+SkyboxScale = 0.25
+DefaultWaypointRadius = 768*FRACUNIT
+Mobjscale = FRACUNIT*90/100
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -591,7 +626,7 @@ Level DIG_STORY0
 LevelName = Floor B1
 NoZone = true
 TypeOfLevel = 0
-NoVisitNeeded = true
+NoVisitNeeded = True
 SkyTexture = SPSSKY03
 NumLaps = 1
 Music = DGSTR1
@@ -629,6 +664,7 @@ LightContrast = 4
 LightAngle = 20
 SkyboxScale = 8
 NoVisitNeeded = True
+Hidden = True
 
 Level DIG_Citadel
 LevelName = Icebound Citadel
@@ -643,6 +679,37 @@ SectionRace = True
 Music = ICCCIT
 LightContrast = 64
 Followers = Spikebonker
+NoVisitNeeded = True
+Hidden = True
+
+Level RLQ_Route124
+LevelName = Route 124
+NoZone = True
+TypeOfLevel = Race
+SkyTexture = PERFBG01
+NumLaps = 2
+PositionMusic = ROUINT
+Music = ROCHDR
+LightContrast = 64
+LightAngle = 135
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level ARC_SaturnStarway
+LevelName = Saturn
+ZoneTitle = Starway
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SKY4417
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = SATST1,SATST2
+Mobjscale = FRACUNIT/3
+LightAngle = 90
+LightContrast = 64
+Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
+Hidden = False
 NoVisitNeeded = True
 Hidden = True
 
@@ -681,6 +748,8 @@ SkyTexture = BSLSKY1
 Music = BSLND
 MobjScale = FRACUNIT/4
 Darkness = 0.5
+NoVisitNeeded = True
+Hidden = True
 
 Level HAYA_NakayamaRC
 LevelName = Ascension
@@ -720,7 +789,7 @@ Hidden = True
 Level HYOF_DesertBus
 NoVisitNeeded = True
 LevelName = Desert Bus
-NoZone = true
+NoZone = True
 TypeOfLevel = Race
 SkyTexture = BUSYSKY2
 NumLaps = 65

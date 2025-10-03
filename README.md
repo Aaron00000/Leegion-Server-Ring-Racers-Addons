@@ -380,6 +380,16 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
+10/3
+----
+
+Characters - Updated Susie.
+
+Maps - Updated Rosen Raceways. Made Espresso Lane bigger again. Actually made sure Blue Sphere Land and Bubblin' Springs were blacklisted. Re-blacklisted Dark Fortress, Mega Aqua Lake, and Shuffle Square. Blacklisted Route 124 and Saturn Starway.
+
+Other - Added more dumb hit sounds and a sound for the SPB.
+
+
 9/26
 ----
 
