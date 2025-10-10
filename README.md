@@ -50,7 +50,7 @@
 
 5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
-6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu,
+6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
 
@@ -268,6 +268,10 @@ Thunder Piston
 
 Shuffle Square
 
+Marble Garden
+
+Nova Shore
+
 Death Egg
 
 
@@ -333,6 +337,10 @@ Bubblin' Springs
 
 Icebound Citadel
 
+Puyo Puyo Arena
+
+Diesel Town
+
 
 ## Resized
 ----------
@@ -384,14 +392,15 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
-10/9
+10/10
 ----
 
-Characters - Added Jack Black, Steve, and updated KamuiPack (added Nonon.)
+Characters - Added Jack Black, Steve, Semibot, and updated KamuiPack (added Nonon.)
 
 Maps - Blacklisted Marble Garden, Nova Shore, Diesel Town, and Puyo Puyo Arena.
 
 Other - Updated Fancy Hyudoros, re-added the adjusted item box respawn times now that EXP actually works (currently set to just make ringboxes turn into item boxes one second sooner), see how that goes.
+
 
 10/3
 ----
