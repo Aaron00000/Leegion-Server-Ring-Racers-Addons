@@ -376,6 +376,33 @@ SkyboxScale = 0.25
 DefaultWaypointRadius = 768*FRACUNIT
 Mobjscale = FRACUNIT*90/100
 
+Level RR_MarbleGarden
+LevelName = Marble Garden
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = MGZSKY
+Music = MAGRZ,MAGRZ2,MAGRA
+MobjScale = FRACUNIT/4
+LightContrast = 48
+LightAngle = 225
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_NovaShore
+LevelName = Nova Shore
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY2448
+Palette = 16
+EncorePal = 3
+Music = NOSHZ,NOSHA
+AssociatedMusic = DOPE2,DOPE1
+MobjScale = FRACUNIT/4
+Weather = PRECIP_SPARKLES
+Darkness = 0
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -710,6 +737,36 @@ LightAngle = 90
 LightContrast = 64
 Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
 Hidden = False
+NoVisitNeeded = True
+Hidden = True
+
+Level LAS_PuyoPuyo
+LevelName = Puyo Puyo
+ZoneTitle = Arena
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = OPUBG02
+SkyboxScale = 128
+PositionMusic = CASINT
+Music = PUYOA1,PUYOA2
+Mobjscale = FRACUNIT/4
+LightContrast = 10
+Followers = Has Bean
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_DieselTown
+LevelName = Diesel
+ZoneTitle = Town
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKYCE
+NoVisitNeeded = True
+PositionMusic = SPKSEL
+Music = SPKBDT
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
 NoVisitNeeded = True
 Hidden = True
 

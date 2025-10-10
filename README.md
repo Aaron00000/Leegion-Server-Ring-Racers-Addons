@@ -29,7 +29,7 @@
 
 4, 2 - Spamton, Selferu
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, 
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon
 
 6, 2 - Paper Mario,
 
@@ -88,7 +88,7 @@
 
 5, 5 - Mario, Miso
 
-6, 5 - Tifa, Diggle, Pauline,
+6, 5 - Tifa, Diggle, Pauline, Steve
 
 7, 5 - Jack-O', Hanate, Sans, Wolf O'Donnell,
 
@@ -105,7 +105,7 @@
 
 4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
 
-5, 6 - Beat, Ulala,
+5, 6 - Jack Black, Beat, Ulala,
 
 6, 6 - Shantae, Morrigan, Spongebob, KT,
 
@@ -224,6 +224,8 @@ Mega Ice Cap
 
 Mega Collision Chaos
 
+Mega Aqua Lake
+
 Pico Park
 
 Balloon Park
@@ -263,6 +265,8 @@ Diamond Dust
 Chemical Facility
 
 Thunder Piston
+
+Shuffle Square
 
 Death Egg
 
@@ -379,6 +383,15 @@ Chrome Gadget Act 2 (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+10/9
+----
+
+Characters - Added Jack Black, Steve, and updated KamuiPack (added Nonon.)
+
+Maps - Blacklisted Marble Garden, Nova Shore, Diesel Town, and Puyo Puyo Arena.
+
+Other - Updated Fancy Hyudoros, re-added the adjusted item box respawn times now that EXP actually works (currently set to just make ringboxes turn into item boxes one second sooner), see how that goes.
 
 10/3
 ----

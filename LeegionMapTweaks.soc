@@ -1,5 +1,17 @@
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
+Level RR_EspressoLane
+Levelname = Espresso Lane
+NumLaps = 3
+TypeOfLevel = Race
+Music = ESLAZ
+SkyTexture = SKY265
+Weather = PRECIP_SNOW
+MobjScale = 10*FRACUNIT/24
+Skyboxscale = 4
+EncoreLightAngle = 90
+EncoreLightContrast = 80
+
 Level PP_GreatGalleon
 LevelName = Great Galleon
 TypeOfLevel = Race
