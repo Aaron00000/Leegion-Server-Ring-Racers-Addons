@@ -128,7 +128,7 @@
 
 6, 7 - Ramona, 
 
-7, 7 - Fark, Cloud, Angel, Vector, Infinite, 
+7, 7 - Fark, Cloud, Angel, Vector, Infinite, Freddy Fazbear
 
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
 
@@ -180,27 +180,27 @@
 --------------
 Yoshi's Cookie Jar v0.1.1
 
-Gack Tracks v2.1.3
+Gack Tracks v2.1.4
 
 Mado Dream Tracks v1.0.3
 
 Thok Tracks v1.3
 
-Epic Cup Revival v1.2.4
+Epic Cup Revival v1.2.6
 
 Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-RLQ Rosen Raceways v1.1.6
+RLQ Rosen Raceways v1.1.63
 
 Super Striker GP v1.5.1
 
 Draft Tracks v6.1
 
-Diggle's Track Delve Bismuth
+Diggle's Track Delve Carnelian
 
-CAS Track Pack v8.2
+CAS Track Pack v8.3
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -272,6 +272,10 @@ Marble Garden
 
 Nova Shore
 
+Pestilence
+
+Darkvile Castle 1
+
 Death Egg
 
 
@@ -341,6 +345,12 @@ Puyo Puyo Arena
 
 Diesel Town
 
+Jet World
+
+Botanic Base (rc6 compatibility issues)
+
+Lava Reef (rc6 compatibility issues)
+
 
 ## Resized
 ----------
@@ -391,6 +401,15 @@ Chrome Gadget Act 2 (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+10/17
+----
+
+Characters - Added Freddy Fazbear, updated Jack-O'.
+
+Maps - Updated CAS Tracks, DTDelve, Epic Cup Revival, Gack Tracks and Rosen Raceways. Blacklisted Pestilence, Darkvile Castle 1, and Jet World. Blacklisted Botanic Base and Lava Reef due to rc6 issues with infinitely tall tripwires.
+
+Other - Increased the odds of hell horns being picked from 1 in 200 to 1 in 20.
 
 10/10
 ----

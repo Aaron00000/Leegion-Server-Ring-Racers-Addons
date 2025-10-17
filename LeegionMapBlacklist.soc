@@ -403,6 +403,35 @@ Darkness = 0
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_Pestilence
+LevelName = Pestilence
+TypeOfLevel = Race
+NumLaps = 3
+Music = PESZ
+MobjScale = FRACUNIT/4
+DefaultWaypointRadius = 96*FRACUNIT
+LightContrast = 48
+LightAngle = 315
+Darkness = -1.0
+Followers = Buggernaut
+SkyTexture = ~031
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_DarkvileCastle1
+LevelName = Darkvile Castle
+Act = 1
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/3
+DefaultWaypointRadius = 112*FRACUNIT
+SkyTexture = DVSKY
+Weather = PRECIP_RAIN
+Music = DACAZ1
+SkyboxScale = 32
+Darkness = -1
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -646,6 +675,43 @@ PositionMusic = MIDBSI
 Music = MIDBS1,MIDBS2
 Mobjscale = 2*FRACUNIT/10
 LightContrast = 10
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_JetWorld
+LevelName = Jet
+ZoneTitle = World
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = BPZSKY01
+PositionMusic = JETWST
+Music = JETWLG
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level DIG_BotanicBase
+LevelName = Botanic Base
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = PIT
+Music = DIGBOT
+MobjScale = FRACUNIT*25/100
+Followers = Burboom,Bushbubble
+LightAngle = 0
+LightContrast = 32
+Lua.usesdigglesaves = true
+NoVisitNeeded = True
+Hidden = True
+
+Level DIG_LavaReef
+LevelName = Lava Reef
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = PIT
+Music = DIGREF
+MobjScale = FRACUNIT*25/100
+Lua.usesdigglesaves = true
 NoVisitNeeded = True
 Hidden = True
 
