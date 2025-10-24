@@ -111,7 +111,7 @@
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
-8, 6 - Yoshi, Alpha,
+8, 6 - Yoshi, Alpha, Elphelt,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong,
 
@@ -147,7 +147,7 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
 
 8, 8 - Wario, Dingodile,
 
@@ -402,14 +402,24 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
+10/24
+----
+
+Characters - Added Elphelt and Muscle Man.
+
+Maps - Blacklisted Lavender Shrine.
+
+Other - Removed Hitfeed (for now) since it was causing crashes when trying to view replays.
+
 10/17
 ----
 
 Characters - Added Freddy Fazbear, updated Jack-O'.
 
-Maps - Updated CAS Tracks, DTDelve, Epic Cup Revival, Gack Tracks and Rosen Raceways. Blacklisted Pestilence, Darkvile Castle 1, and Jet World. Blacklisted Botanic Base and Lava Reef due to rc6 issues with infinitely tall tripwires.
+Maps - Updated CAS Tracks, DTDelve, Epic Cup Revival, Gack Tracks, and Rosen Raceways. Blacklisted Pestilence, Darkvile Castle 1, and Jet World. Blacklisted Botanic Base and Lava Reef due to rc6 issues with infinitely tall tripwires.
 
 Other - Increased the odds of hell horns being picked from 1 in 200 to 1 in 20.
+
 
 10/10
 ----

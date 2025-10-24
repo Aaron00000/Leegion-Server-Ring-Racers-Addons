@@ -432,6 +432,20 @@ Darkness = -1
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_LavenderShrine
+LevelName = Lavender Shrine
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+Music = LASHZ
+SkyTexture = BSZSKY2
+DefaultWaypointRadius = 208*FRACUNIT
+SkyboxScale = 4
+Weather = PRECIP_LSPT
+Darkness = -1
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
