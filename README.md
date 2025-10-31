@@ -418,7 +418,7 @@ Chrome Gadget Act 2 (less, 2 laps)
 10/31
 ----
 
-Characters - Added Jackenstein.
+Characters - Added Jackenstein, updated Beavis and Butthead.
 
 Maps - Blacklisted all remaining Mega maps, Blizzard Peaks, and Aerial Highlands.
 
