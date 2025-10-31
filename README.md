@@ -402,6 +402,14 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
+10/31
+----
+
+Characters - 
+
+Maps - Blacklisted all remaining Mega maps, Blizzard Peaks, and Aerial Highlands.
+
+
 10/24
 ----
 
@@ -410,6 +418,7 @@ Characters - Added Elphelt and Muscle Man.
 Maps - Blacklisted Lavender Shrine.
 
 Other - Removed Hitfeed (for now) since it was causing crashes when trying to view replays.
+
 
 10/17
 ----

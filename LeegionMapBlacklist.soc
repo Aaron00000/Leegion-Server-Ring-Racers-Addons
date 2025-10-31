@@ -47,6 +47,53 @@ CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
 
+Level RR_MegaGreenHill
+LevelName = Mega Green Hill
+TypeOfLevel = Race
+NumLaps = 7
+SkyTexture = SKY1
+Music = MEGRZ
+Mobjscale = FRACUNIT/4
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaBridge
+LevelName = Mega Bridge
+TypeOfLevel = Race
+NumLaps = 6
+SkyTexture = ~133
+Music = MEBRZ
+Mobjscale = FRACUNIT/4
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaLavaReef
+LevelName = Mega Lava Reef
+TypeOfLevel = Race
+NumLaps = 5
+MobjScale =  1*FRACUNIT/4
+SkyTexture = ~029
+Music = MELRZ,MELRA
+Darkness = -0.25
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaIceCap
+LevelName = Mega Ice Cap
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~133
+Music = MEICZ
+Mobjscale = FRACUNIT/4
+Weather = PRECIP_SNOW
+Darkness = 0.5
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
 Level RR_MegaScrapBrain
 LevelName = Mega Scrap Brain
 TypeOfLevel = Race
@@ -62,6 +109,30 @@ CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
 
+Level RR_MegaCollisionChaos
+LevelName = Mega Collision Chaos
+TypeOfLevel = Race
+Hidden = False
+NumLaps = 5
+MobjScale =  1*FRACUNIT/4
+SkyTexture = ~153
+Music = MECOZ,MECOA
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaStarLight
+LevelName = Mega Star Light
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKY755
+Music = MESTZ
+Mobjscale = FRACUNIT/4
+Darkness = -0.25
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
 Level RR_MegaSandopolis
 LevelName = Mega Sandopolis
 TypeOfLevel = Race
@@ -70,6 +141,30 @@ SkyTexture = ~031
 Music = MESAZ
 Mobjscale = FRACUNIT/4
 Darkness = -0.5
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaAquaLake
+LevelName = Mega Aqua Lake
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~123
+Music = MEAQZ
+Mobjscale = FRACUNIT*22/100
+CameraHeight = 140
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_MegaFlyingBattery
+LevelName = Mega Flying Battery
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~171
+Music = MEFLZ
+Mobjscale = FRACUNIT/4
+Weather = PRECIP_STORM
+DefaultWaypointRadius = 64*FRACUNIT
 CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
@@ -114,32 +209,6 @@ Darkness = -1
 Hidden = True
 NoVisitNeeded = True
 
-Level RR_MegaIceCap
-LevelName = Mega Ice Cap
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ~133
-Music = MEICZ
-Mobjscale = FRACUNIT/4
-Weather = PRECIP_SNOW
-Darkness = 0.5
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_MegaFlyingBattery
-LevelName = Mega Flying Battery
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ~171
-Music = MEFLZ
-Mobjscale = FRACUNIT/4
-Weather = PRECIP_STORM
-DefaultWaypointRadius = 64*FRACUNIT
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_ChromeGadget
 LevelName = Chrome Gadget
 TypeOfLevel = Race
@@ -177,18 +246,6 @@ MobjScale = 1*FRACUNIT/4
 NumLaps = 2
 Music = THPIZ,THPIA,THPIA2
 Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_MegaCollisionChaos
-LevelName = Mega Collision Chaos
-TypeOfLevel = Race
-Hidden = False
-NumLaps = 5
-MobjScale =  1*FRACUNIT/4
-SkyTexture = ~153
-Music = MECOZ,MECOA
-CameraHeight = 140
 NoVisitNeeded = True
 Hidden = True
 
@@ -354,17 +411,6 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_MegaAquaLake
-LevelName = Mega Aqua Lake
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ~123
-Music = MEAQZ
-Mobjscale = FRACUNIT*22/100
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_ShuffleSquare
 LevelName = Shuffle Square
 Palette = 0
@@ -443,6 +489,30 @@ DefaultWaypointRadius = 208*FRACUNIT
 SkyboxScale = 4
 Weather = PRECIP_LSPT
 Darkness = -1
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_BlizzardPeaks
+LevelName = Blizzard Peaks
+NoZone = False
+TypeOfLevel = Race
+MobjScale = 1*FRACUNIT/4
+SkyboxScaleZ = 0
+SkyTexture = ~130
+NumLaps = 2
+LightContrast = 32
+LightAngle = 180
+Music = BLPEZ
+SubtractNum = True
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_AerialHighlands
+LevelName = Aerial Highlands
+Music = AEHIZ
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~163
 NoVisitNeeded = True
 Hidden = True
 
