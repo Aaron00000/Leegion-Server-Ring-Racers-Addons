@@ -158,7 +158,7 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
-3, 9 - Yukine, Hatsune Miku, Gamma, 
+3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein
 
 4, 9 - Hey Ho,
 
@@ -214,6 +214,13 @@ Green Triangle
 
 Sunsplashed Getaway
 
+Mega Green Hill
+
+Mega Bridge
+
+Mega Lava Reef
+
+
 Mega Scrap Brain
 
 Mega Sandopolis
@@ -224,7 +231,13 @@ Mega Ice Cap
 
 Mega Collision Chaos
 
+Mega Star Light
+
+Mega Sandopolis
+
 Mega Aqua Lake
+
+Mega Flying Battery
 
 Pico Park
 
@@ -405,7 +418,7 @@ Chrome Gadget Act 2 (less, 2 laps)
 10/31
 ----
 
-Characters - 
+Characters - Added Jackenstein.
 
 Maps - Blacklisted all remaining Mega maps, Blizzard Peaks, and Aerial Highlands.
 
