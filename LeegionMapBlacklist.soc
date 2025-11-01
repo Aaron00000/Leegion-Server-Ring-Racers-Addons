@@ -774,6 +774,22 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
+Level EPIC_StormStationZone
+NoVisitNeeded = True
+LevelName = Storm Station
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SSZSKY
+SkyboxScale = 0
+Weather = PRECIP_STORM
+Music = STORM,STORMA
+MobjScale = FRACUNIT/4
+EncoreMusic = STORME
+EncoreLightAngle = 0
+EncoreLightContrast = 45
+NoVisitNeeded = True
+Hidden = True
+
 Level DIG_BotanicBase
 LevelName = Botanic Base
 TypeofLevel = Race
