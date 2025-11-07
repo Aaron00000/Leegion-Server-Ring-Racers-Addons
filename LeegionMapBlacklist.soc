@@ -790,30 +790,20 @@ EncoreLightContrast = 45
 NoVisitNeeded = True
 Hidden = True
 
-Level DIG_BotanicBase
-LevelName = Botanic Base
-TypeofLevel = Race
+Level FT_DeathRuins
+LevelName = Death Ruins
+NoVisitNeeded = True
+NoZone = True
+TypeOfLevel = Race
 NumLaps = 3
-SkyTexture = PIT
-Music = DIGBOT
-MobjScale = FRACUNIT*25/100
-Followers = Burboom,Bushbubble
-LightAngle = 0
-LightContrast = 32
-Lua.usesdigglesaves = true
-NoVisitNeeded = True
+Music = DEADR
+PositionMusic = DRPOS
+SkyboxScale = 16
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 125
 Hidden = True
-
-Level DIG_LavaReef
-LevelName = Lava Reef
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = PIT
-Music = DIGREF
-MobjScale = FRACUNIT*25/100
-Lua.usesdigglesaves = true
 NoVisitNeeded = True
-Hidden = True
 
 Level DIG_STORY0
 LevelName = Floor B1
@@ -856,22 +846,6 @@ MobjScale = FRACUNIT*25/100
 LightContrast = 4
 LightAngle = 20
 SkyboxScale = 8
-NoVisitNeeded = True
-Hidden = True
-
-Level DIG_Citadel
-LevelName = Icebound Citadel
-TypeofLevel = Race
-SkyboxScale = 4
-SkyTexture = CITASKY
-NoZone = true
-Act = 1
-NumLaps = 1
-MobjScale = FRACUNIT*25/100
-SectionRace = True
-Music = ICCCIT
-LightContrast = 64
-Followers = Spikebonker
 NoVisitNeeded = True
 Hidden = True
 

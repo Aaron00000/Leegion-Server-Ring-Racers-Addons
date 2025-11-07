@@ -25,7 +25,7 @@
 
 2, 2 - 
 
-3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, 
+3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, Juno,
 
 4, 2 - Spamton, Selferu
 
@@ -44,7 +44,7 @@
 
 2, 3 - Koopa, Fennec, Sara, Kamakama,
 
-3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa,
+3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario,
 
 4, 3 - Kermit, Aerith, Amitie,
 
@@ -54,18 +54,18 @@
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
 
-8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar,
+8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar, Track Guy,
 
 9, 3 - Juri, Monty Mole, Majima, 
 
 
 1, 4 - Andrew Oikonny,
 
-2, 4 - Goomba, Scurry,
+2, 4 - Goomba, Scurry, Lucky,
 
 3, 4 - Haruka Amami, Sage, Lucas, Eunie,
 
-4, 4 - Conker, Geno, Plok,
+4, 4 - Conker, Geno, Plok, Rally,
 
 5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii,
 
@@ -94,7 +94,7 @@
 
 8, 5 - Guntz, Mario Tire,
 
-9, 5 - Goku Drip, Patricia Wagon, Tillis,
+9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
 
 
 1, 6 - Marx, Yadorin, 
@@ -107,11 +107,11 @@
 
 5, 6 - Jack Black, Beat, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster,
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
-8, 6 - Yoshi, Alpha, Elphelt,
+8, 6 - Yoshi, Alpha, Elphelt, Lady, 
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong,
 
@@ -128,11 +128,11 @@
 
 6, 7 - Ramona, 
 
-7, 7 - Fark, Cloud, Angel, Vector, Infinite, Freddy Fazbear
+7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear
 
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
 
-9, 7 - Grounder, 
+9, 7 - Grounder, Catchan,
 
 
 1, 8 - Homer Simpson, Ashe,
@@ -162,11 +162,11 @@
 
 4, 9 - Hey Ho,
 
-5, 9 - Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, 
+5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, 
 
 6, 9 - Redwood,
 
-7, 9 - King K.Rool,
+7, 9 - King K.Rool, Marina, 
 
 8, 9 - Bowser, GUN Truck, Lord Brevon,
 
@@ -182,25 +182,29 @@ Yoshi's Cookie Jar v0.1.1
 
 Gack Tracks v2.1.4
 
-Mado Dream Tracks v1.0.3
+Mado Dream Tracks 2.4 Edition
 
 Thok Tracks v1.3
 
-Epic Cup Revival v1.2.6
+Epic Cup Revival v1.2.7
 
 Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-RLQ Rosen Raceways v1.1.63
+RLQ Rosen Raceways v1.1.64
 
-Super Striker GP v1.5.1
+Super Striker GP v1.5.2
 
 Draft Tracks v6.1
 
-Diggle's Track Delve Carnelian
+Diggle's Track Delve Cerussite
 
-CAS Track Pack v8.3
+CAS Track Pack v8.4
+
+Frost Maps v5.2
+
+Abstract Maps v1.0.3
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -219,7 +223,6 @@ Mega Green Hill
 Mega Bridge
 
 Mega Lava Reef
-
 
 Mega Scrap Brain
 
@@ -332,8 +335,6 @@ Midnight Bay
 
 Bubblin' Springs
 
-Icebound Citadel
-
 Melty Manor -Again-
 
 Blizzard Peaks Act 2
@@ -360,9 +361,7 @@ Diesel Town
 
 Jet World
 
-Botanic Base (rc6 compatibility issues)
-
-Lava Reef (rc6 compatibility issues)
+Death Ruins
 
 
 ## Resized
@@ -415,12 +414,22 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
+11/7
+----
+
+Characters - Added Knux Delux and AriChars pack (Catchan, Lady, Lucky, Marina, Rally, track Guy, Wing Gaster), re-added Retro Mario now that there is a version without the extra bells and whistles. Updated Kel Pack and Kamui Pack. Replaced Daydel's Infinite with Jewel's Infinite.
+
+Maps - Re-Added Frost Maps and Abstract Maps. Updated DTDelve, Super Striker GP, Dream Tracks, Epic Cup Revival, CAS Track Pack, and Rosen Raceways. Unblacklisted Botanic Base, Lava Reef, and Icebound Citadel.
+
+Other - Added the "& Knuckles" follower and re-added Aqua's Wisp followers since the follower cap got raised a while back.
+
+
 10/31
 ----
 
 Characters - Added Jackenstein, updated Beavis and Butthead.
 
-Maps - Blacklisted all remaining Mega maps, Blizzard Peaks, and Aerial Highlands.
+Maps - Blacklisted all remaining Mega maps, Blizzard Peaks, and Aerial Highlands. Blacklisted Storm Station forever.
 
 
 10/24
