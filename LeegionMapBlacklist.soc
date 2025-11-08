@@ -983,6 +983,20 @@ LightContrast = 80
 NoVisitNeeded = True
 Hidden = True
 
+Level FT_SkyCanyon
+LevelName = Sky Canyon
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 2
+Music = SKYCN
+PositionMusic = ADVPOS
+SkyboxScale = 16
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 315
+NoVisitNeeded = True
+Hidden = True
+
 Level HYOF_DesertBus
 NoVisitNeeded = True
 LevelName = Desert Bus

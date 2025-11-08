@@ -417,7 +417,7 @@ Chrome Gadget Act 2 (less, 2 laps)
 11/7
 ----
 
-Characters - Added Knux Delux and AriChars pack (Catchan, Lady, Lucky, Marina, Rally, track Guy, Wing Gaster), re-added Retro Mario now that there is a version without the extra bells and whistles. Updated Kel Pack and Kamui Pack. Replaced Daydel's Infinite with Jewel's Infinite.
+Characters - Added Knux Delux and AriChars pack (Catchan, Lady, Lucky, Marina, Rally, Track Guy, Wing Gaster), re-added Retro Mario now that there is a version without the extra bells and whistles. Updated Kel Pack and Kamui Pack. Replaced Daydel's Infinite with Jewel's Infinite.
 
 Maps - Re-Added Frost Maps and Abstract Maps. Updated DTDelve, Super Striker GP, Dream Tracks, Epic Cup Revival, CAS Track Pack, and Rosen Raceways. Unblacklisted Botanic Base, Lava Reef, and Icebound Citadel.
 
