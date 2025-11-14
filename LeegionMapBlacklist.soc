@@ -805,6 +805,137 @@ LightAngle = 125
 Hidden = True
 NoVisitNeeded = True
 
+Level FT_SkyCanyon
+LevelName = Sky Canyon
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 2
+Music = SKYCN
+PositionMusic = ADVPOS
+SkyboxScale = 16
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 315
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_HighSpeedRing
+LevelName = High Speed
+ZoneTitle = Ring
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 6
+SkyTexture = DTSSKY01
+Music = GTK000
+Mobjscale = FRACUNIT/4
+LightContrast = 24
+LightAngle = 45
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_RedRockValley
+LevelName = Red Rock
+ZoneTitle = Valley
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = GTKRVSKY
+Music = GTK003
+Mobjscale = FRACUNIT/4
+LightContrast = 48
+LightAngle = 180
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_Talladega
+LevelName = Talladega
+ZoneTitle = Superspeedway
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = DTSSKY01
+Music = GTK006
+Mobjscale = FRACUNIT/4
+LightContrast = 48
+LightAngle = 45
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_BentTwigRaceway
+LevelName = Bent Twig
+ZoneTitle = Raceway
+TypeOfLevel = Race
+NumLaps = 8
+SkyTexture = SPSSKY03
+Music = GTK014
+Mobjscale = FRACUNIT/4
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_CittaDiAria
+LevelName = Citta di
+ZoneTitle = Aria
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYSW
+Music = GTK017
+Mobjscale = FRACUNIT/5
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_DendriticDereliction
+LevelName = Dendritic
+ZoneTitle = Dereliction
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~006
+Weather = PRECIP_BLIZZARD
+Music = GTK022,GTK023
+Mobjscale = FRACUNIT/4
+PositionMusic = GT2INT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_PentiumExpanse
+LevelName = Pentium
+ZoneTitle = Expanse
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~147
+Music = GTK021
+Mobjscale = FRACUNIT/4
+PositionMusic = Y2KINT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_SRCDesert
+LevelName = SRC
+ZoneTitle = Desert
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKYEC
+Music = GTK011
+EncoreMusic = GTK018
+Mobjscale = FRACUNIT/4
+PositionMusic = SRCINT
+NoVisitNeeded = True
+Hidden = True
+
+Level GTK_SRCForest
+LevelName = SRC
+ZoneTitle = Forest
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYSW
+Music = GTK020
+Mobjscale = FRACUNIT/4
+PositionMusic = SRCINT
+NoVisitNeeded = True
+Hidden = True
+
 Level DIG_STORY0
 LevelName = Floor B1
 NoZone = true
@@ -980,20 +1111,6 @@ NumLaps = 1
 LightAngle = 270
 Music = SSTAR9
 LightContrast = 80
-NoVisitNeeded = True
-Hidden = True
-
-Level FT_SkyCanyon
-LevelName = Sky Canyon
-NoVisitNeeded = True
-TypeOfLevel = Race
-NumLaps = 2
-Music = SKYCN
-PositionMusic = ADVPOS
-SkyboxScale = 16
-MObjscale = FRACUNIT/4
-LightContrast = 64
-LightAngle = 315
 NoVisitNeeded = True
 Hidden = True
 

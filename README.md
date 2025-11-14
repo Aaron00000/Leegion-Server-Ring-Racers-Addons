@@ -4,7 +4,7 @@
 --------------------------------------------
 1, 1 - Whitey, Mayor Zao,
 
-2, 1 - Banana Peel, Toad (Kel), Kit,
+2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
 3, 1 - Tangle, Gooey, Kirby, Taraban, 
 
@@ -99,7 +99,7 @@
 
 1, 6 - Marx, Yadorin, 
 
-2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
+2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
 
 3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi,
 
@@ -132,7 +132,7 @@
 
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
 
-9, 7 - Grounder, Catchan,
+9, 7 - Grounder, Catchan, Meteor Roller, 
 
 
 1, 8 - Homer Simpson, Ashe,
@@ -147,14 +147,14 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, 
 
 8, 8 - Wario, Dingodile,
 
 9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp, Moai,
+1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, 
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
@@ -182,7 +182,7 @@ Yoshi's Cookie Jar v0.1.1
 
 Gack Tracks v2.1.4
 
-Mado Dream Tracks 2.4 Edition
+Mado Dream Tracks 1.5
 
 Thok Tracks v1.3
 
@@ -192,7 +192,7 @@ Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-RLQ Rosen Raceways v1.1.64
+RLQ Rosen Raceways v1.1.65
 
 Super Striker GP v1.5.2
 
@@ -205,6 +205,8 @@ CAS Track Pack v8.4
 Frost Maps v5.2
 
 Abstract Maps v1.0.3
+
+GTKart2 CE v3
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -363,6 +365,26 @@ Jet World
 
 Death Ruins
 
+Sky Canyon (due to a crash)
+
+High Speed Ring
+
+Red Rock Valley
+
+Talladega Superspeedway
+
+Bent Twig Raceway
+
+Citti di Aria
+
+SRC Desert
+
+SRC Forest
+
+Pentium Expense
+
+Dendritic Dereliction
+
 
 ## Resized
 ----------
@@ -414,12 +436,22 @@ Chrome Gadget Act 2 (less, 2 laps)
 ============
 ## CHANGELOG
 
+11/14
+----
+
+Characters - Updated AaronPack, KelChars, added the rest of Zao's Boost Brigade's characters (Askal, Magister, Meteor Roller, Mr. Stumpy) and Medonk Sonok.
+
+Maps - Re-Added GTKart2, updated DreamTracks and Rosen Raceways. Blacklisted High Speed Ring, Red Rock Valley, Talladega Superspeedway, Bent Twig Raceway, Citti di Aria, SRC Desert, SRC Forest, Pentium Expense, and Dendritic Dereliction.
+
+
+
+
 11/7
 ----
 
 Characters - Added Knux Delux and AriChars pack (Catchan, Lady, Lucky, Marina, Rally, Track Guy, Wing Gaster), re-added Retro Mario now that there is a version without the extra bells and whistles. Updated Kel Pack and Kamui Pack. Replaced Daydel's Infinite with Jewel's Infinite.
 
-Maps - Re-Added Frost Maps and Abstract Maps. Updated DTDelve, Super Striker GP, Dream Tracks, Epic Cup Revival, CAS Track Pack, and Rosen Raceways. Unblacklisted Botanic Base, Lava Reef, and Icebound Citadel.
+Maps - Re-Added Frost Maps and Abstract Maps. Updated DTDelve, Super Striker GP, Dream Tracks, Epic Cup Revival, CAS Track Pack, and Rosen Raceways. Unblacklisted Botanic Base, Lava Reef, and Icebound Citadel, blacklisted Sky Canyon.
 
 Other - Added the "& Knuckles" follower and re-added Aqua's Wisp followers since the follower cap got raised a while back.
 
