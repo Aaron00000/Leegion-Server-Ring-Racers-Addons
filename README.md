@@ -444,8 +444,6 @@ Characters - Updated AaronPack, KelChars, added the rest of Zao's Boost Brigade'
 Maps - Re-Added GTKart2, updated DreamTracks and Rosen Raceways. Blacklisted High Speed Ring, Red Rock Valley, Talladega Superspeedway, Bent Twig Raceway, Citti di Aria, SRC Desert, SRC Forest, Pentium Expense, and Dendritic Dereliction.
 
 
-
-
 11/7
 ----
 
