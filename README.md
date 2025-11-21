@@ -208,6 +208,12 @@ Abstract Maps v1.0.3
 
 GTKart2 CE v3
 
+Mk II Dead Pool v1c
+
+Double Gear Pack v3
+
+lizard pack v1.8
+
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
