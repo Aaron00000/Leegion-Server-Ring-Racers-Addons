@@ -936,6 +936,98 @@ PositionMusic = SRCINT
 NoVisitNeeded = True
 Hidden = True
 
+Level HO9_CUTMAN
+LevelName = Cutman's Logging
+ZoneTitle = Facility
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SPSSKY03
+Music = CUTMAN
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HO9_MACHINE
+LevelName = Rancid Machinery
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SHSKY01
+Music = MACHIN
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HO9_OMASHU
+LevelName = Omashu
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYSCZ
+Music = MASHU
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level LZ_mystikkecitadel
+LevelName = Citadel Of Mystikke
+nozone = true
+TypeOfLevel = Race
+Music = LZACHE
+NumLaps = 2
+MobjScale = FRACUNIT/4
+skyboxscale = 8
+NoVisitNeeded = True
+Hidden = True
+
+Level LZ_Resonanceship
+MenuTitle = Ship
+LevelName = Resonance Zone
+ZoneTitle = Wallace
+SectionRace = True
+TypeOfLevel = Special,Race
+MobjScale = 1*FRACUNIT/4
+SkyBoxScale = 0
+SkyTexture = SSSKY00
+NumLaps = 1
+LightAngle = 270
+Music = LZWAS1
+AssociatedMusic = LZACS1
+LightContrast = 80
+NoVisitNeeded = True
+Lua.CustomEmeraldSprite = SPR_LZSS
+Lua.CustomEmeraldColor = LAVENDER
+Lua.NoEmeraldOverlay = True
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_RedRageHighway
+LevelName = Red Rage
+ZoneTitle = Highway
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ANGELSKY
+PositionMusic = SORRCS
+Music = SORRBR
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
+NoVisitNeeded = true
+Hidden = True
+
+Level LAS_BattleshipHarbor
+LevelName = Battleship
+ZoneTitle = Harbor
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SKY91
+SkyboxScale = 128
+PositionMusic = CASINT
+Music = BATHA1,BATHA2
+Mobjscale = 2*FRACUNIT/10
+LightContrast = 10
+NoVisitNeeded = True
+Hidden = True
+
 Level DIG_STORY0
 LevelName = Floor B1
 NoZone = true

@@ -52,7 +52,7 @@
 
 6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot,
 
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, 
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, Roaring Knight,
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar, Track Guy,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke,
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero,
 
 6, 7 - Ramona, 
 
@@ -385,6 +385,20 @@ Pentium Expense
 
 Dendritic Dereliction
 
+Battleship Harbor
+
+Red Rage Highway
+
+Citadel of Mystikke
+
+Cutman's Logging Facility
+
+Rancid Machinery
+
+Omashu
+
+Ship (Resonance Zone Wallace)
+
 
 ## Resized
 ----------
@@ -433,8 +447,19 @@ Aqua Point 1 (less, 3 laps)
 
 Chrome Gadget Act 2 (less, 2 laps)
 
+
 ============
 ## CHANGELOG
+
+11/21
+----
+
+Characters - Added Lythero and the Roaring Knight.
+
+Maps - Added Dead Pool (map), re-added Lizard Pack and Double Gear Pack. Blacklisted Battleship Harbor, Red Rage Highway, Citadel of Mystikke, Cutman's Logging Facility, Rancid Machinery, Omashu, and Ship (Resonance Zone Wallace).
+
+Other - Updated Leegion Horns.
+
 
 11/14
 ----
@@ -442,6 +467,8 @@ Chrome Gadget Act 2 (less, 2 laps)
 Characters - Updated AaronPack, KelChars, added the rest of Zao's Boost Brigade's characters (Askal, Magister, Meteor Roller, Mr. Stumpy) and Medonk Sonok.
 
 Maps - Re-Added GTKart2, updated DreamTracks and Rosen Raceways. Blacklisted High Speed Ring, Red Rock Valley, Talladega Superspeedway, Bent Twig Raceway, Citti di Aria, SRC Desert, SRC Forest, Pentium Expense, and Dendritic Dereliction.
+
+Other - Added SuperSanic's custom horns.
 
 
 11/7
