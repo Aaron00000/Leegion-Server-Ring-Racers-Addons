@@ -703,19 +703,19 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-Level CAS_BSODRing
-LevelName = BSOD
-ZoneTitle = Ring
-TypeofLevel = Race
-NumLaps = 10
-SkyTexture = ~135
-SkyboxScale = 64
-PositionMusic = BSODG
-Music = BSODP
-Mobjscale = FRACUNIT/3
-LightContrast = 10
-NoVisitNeeded = True
-Hidden = True
+#Level CAS_BSODRing
+#LevelName = BSOD
+#ZoneTitle = Ring
+#TypeofLevel = Race
+#NumLaps = 10
+#SkyTexture = ~135
+#SkyboxScale = 64
+#PositionMusic = BSODG
+#Music = BSODP
+#Mobjscale = FRACUNIT/3
+#LightContrast = 10
+#NoVisitNeeded = True
+#Hidden = True
 
 Level CAS_MegaFrutiger
 LevelName = Mega Frutiger

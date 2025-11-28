@@ -210,7 +210,7 @@ GTKart2 CE v3
 
 Mk II Dead Pool v1c
 
-Double Gear Pack v3
+Double Gear Pack v3.1
 
 lizard pack v1.8
 
@@ -453,9 +453,21 @@ Aqua Point 1 (less, 3 laps)
 
 Chrome Gadget Act 2 (less, 2 laps)
 
+Lacustrine Disrepair (less laps, 3)
+
 
 ============
 ## CHANGELOG
+
+11/28
+----
+
+Characters - Added Jake Freebird.
+
+Maps - Updated Double Gear Pack and Lizard Pack, unblacklisted BSOD Ring at Xatin's request, lowered Lacustrine Disrepair's lap count to 3 from 4.
+
+Other - Updated Leegion Horns.
+
 
 11/21
 ----

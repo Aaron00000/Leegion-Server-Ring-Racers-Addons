@@ -397,6 +397,28 @@ Darkness = -1.0
 LightContrast = 64
 LightAngle = 165
 
+Level LZ_mountainobsevatory
+LevelName = Mountain Observatory
+TypeOfLevel = Race
+Music = LZMOB1
+PositionMusic = LZINTR
+SkyTexture = LZMOGSK1
+MobjScale = FRACUNIT/3
+NoVisitNeeded = True
+NumLaps = 2
+
+Level DRTR_LacustrineDisrepair
+LevelName = Lacustrine Disrepair
+TypeOfLevel = Race
+NumLaps = 3
+Act = 1
+Music = LCDSRP
+MobjScale = FRACUNIT/4
+SkyTexture = LCDSSKY1
+SkyboxScale = 8
+LightContrast = 24
+NoVisitNeeded = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
