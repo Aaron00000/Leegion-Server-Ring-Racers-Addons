@@ -82,7 +82,7 @@
 
 2, 5 - 
 
-3, 5 - 
+3, 5 - Prosperina,
 
 4, 5 - Squidward, Doppel Arle, Butthead,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero,
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, 
 
 6, 7 - Ramona, 
 
@@ -147,7 +147,7 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, 
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar,
 
 8, 8 - Wario, Dingodile,
 
