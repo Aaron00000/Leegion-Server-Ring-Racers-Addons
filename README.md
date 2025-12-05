@@ -464,9 +464,11 @@ BSOD Ring (less, 5 laps)
 12/5
 ----
 
+Characters - Added the Princess Pack characters.
+
 Maps - Lowered BSOD's lap count to 5 from 10, blacklisted Donburi Skyway.
 
-Other - Made an amount of horns and added them to the Leegion horn pack.
+Other - Made an amount of horns as well as added more by SuperSanic and added them to the Leegion horn pack.
 
 
 11/28
