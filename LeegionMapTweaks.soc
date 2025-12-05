@@ -419,6 +419,18 @@ SkyboxScale = 8
 LightContrast = 24
 NoVisitNeeded = True
 
+Level CAS_BSODRing
+LevelName = BSOD
+ZoneTitle = Ring
+TypeofLevel = Race
+NumLaps = 5
+SkyTexture = ~135
+SkyboxScale = 64
+PositionMusic = BSODG
+Music = BSODP
+Mobjscale = FRACUNIT/3
+LightContrast = 10
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying

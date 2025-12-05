@@ -703,19 +703,20 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-#Level CAS_BSODRing
-#LevelName = BSOD
-#ZoneTitle = Ring
-#TypeofLevel = Race
-#NumLaps = 10
-#SkyTexture = ~135
-#SkyboxScale = 64
-#PositionMusic = BSODG
-#Music = BSODP
-#Mobjscale = FRACUNIT/3
-#LightContrast = 10
-#NoVisitNeeded = True
-#Hidden = True
+Level ARC_DonburiSkyway
+LevelName = Donburi
+ZoneTitle = Skyway
+NoVisitNeeded = True
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = SKYTINKR
+PositionMusic = CASINT
+Music = DOSKY1,DOSKY2
+Mobjscale = FRACUNIT/4
+LightContrast = 10
+LightAngle = 45
+NoVisitNeeded = True
+Hidden = True
 
 Level CAS_MegaFrutiger
 LevelName = Mega Frutiger

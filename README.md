@@ -86,7 +86,7 @@
 
 4, 5 - Squidward, Doppel Arle, Butthead,
 
-5, 5 - Mario, Miso
+5, 5 - Mario, Miso, Jake Freebird,
 
 6, 5 - Tifa, Diggle, Pauline, Steve
 
@@ -212,7 +212,7 @@ Mk II Dead Pool v1c
 
 Double Gear Pack v3.1
 
-lizard pack v1.8
+lizard pack v1.8.2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -333,7 +333,7 @@ Backroom Velocity
 
 Virtua Racing Big Forest
 
-BSOD Ring
+Donburi Skyway
 
 Mega Frutiger Aeropolis
 
@@ -453,11 +453,21 @@ Aqua Point 1 (less, 3 laps)
 
 Chrome Gadget Act 2 (less, 2 laps)
 
-Lacustrine Disrepair (less laps, 3)
+Lacustrine Disrepair (less, 3 laps)
+
+BSOD Ring (less, 5 laps)
 
 
 ============
 ## CHANGELOG
+
+12/5
+----
+
+Maps - Lowered BSOD's lap count to 5 from 10, blacklisted Donburi Skyway.
+
+Other - Made an amount of horns and added them to the Leegion horn pack.
+
 
 11/28
 ----
