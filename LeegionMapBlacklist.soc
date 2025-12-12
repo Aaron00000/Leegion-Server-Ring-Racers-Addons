@@ -1073,6 +1073,22 @@ SkyboxScale = 8
 NoVisitNeeded = True
 Hidden = True
 
+Level DIG_Citadel
+LevelName = Icebound Citadel
+TypeofLevel = Race
+SkyboxScale = 4
+SkyTexture = CITASKY
+NoZone = true
+Act = 1
+NumLaps = 1
+MobjScale = FRACUNIT*25/100
+SectionRace = True
+Music = ICCCIT
+LightContrast = 64
+Followers = Spikebonker
+NoVisitNeeded = True
+Hidden = True
+
 Level RLQ_Route124
 LevelName = Route 124
 NoZone = True
@@ -1207,13 +1223,155 @@ LightContrast = 80
 NoVisitNeeded = True
 Hidden = True
 
+Level PP_SimpleCircuit
+LevelName = Simple Circuit
+TypeOfLevel = Race
+SkyTexture = PCKSKYBG
+NumLaps = 5
+Music = SIMPLE
+MobjScale = 5*FRACUNIT/8
+AssociatedMusic = SIMFIN
+Weather = PRECIP_CONFETTI
+NoVisitNeeded = True
+Hidden = True
+
+Level PP_Roundabout
+LevelName = Roundabout
+TypeOfLevel = Race
+NumLaps = 40
+SkyTexture = CITYSKY
+Music = ROUND
+mobjscale = 3*FRACUNIT/7
+AssociatedMusic = ROUFN
+NoVisitNeeded = True
+Hidden = True
+
+Level PP_BansheeBoardwalk
+LevelName = Banshee Boardwalk
+MenuTitle = N64 Banshee Boardwalk
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = TPSSKYT
+Music = BANBOA
+AssociatedMusic = BANBFN
+MobjScale = 45*FRACUNIT/100
+NoVisitNeeded = True
+Hidden = True
+
+Level PP_SeaStadium
+LevelName = Sea Stadium
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = DAWNSKY
+Music = SEASTA
+AssociatedMusic = SEASAW,SEASFN,SEAWFN
+MobjScale = FRACUNIT/4
+SkyboxScale = 4
+LightAngle = 90
+LightContrast = 50
+NoVisitNeeded = True
+Hidden = True
+
+Level PP_VVGardenR
+MenuTitle = Garden
+LevelName = Void Vault 2
+ZoneTitle = Garden
+SectionRace = True
+TypeOfLevel = Race
+MobjScale = 3*FRACUNIT/8
+SkyBoxScale = 0
+SkyTexture = VOIDSKY
+NumLaps = 1
+LightAngle = 270
+Music = VOID2
+LightContrast = 50
+PositionMusic = COSMOS
+Keywords = Garden
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaJungle
+LevelName = Mega Jungle
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ~150
+Music = MJZM
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaTubelectric
+LevelName = Mega
+ZoneTitle = Tubelectric
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = tbeskyb
+Music = TUBELC
+MobjScale = FRACUNIT/4
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaOceanBase
+LevelName = Mega Ocean Base
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKYMEGOB
+Music = MEGOB1,MEGOB3
+Mobjscale = FRACUNIT/4
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaTechnologyTree
+Levelname = Mega Technology
+ZoneTitle = Tree Zone
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = TTBG3
+Music = TECHR,TECHS,TECHF
+Mobjscale = FRACUNIT/4
+LightContrast = 50
+LightAngle = 90
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaCasinoParadise
+LevelName = Mega Casino Paradise
+TypeOfLevel = Race
+SkyTexture = MCPSKY1
+NumLaps = 6
+Mobjscale = FRACUNIT/4
+Music = MEGCSP
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaGoldenCapital
+LevelName = Mega Golden Capital
+TypeOfLevel = Race
+NumLaps = 5
+LightAngle = 180
+LightContrast = 32
+SkyTexture = GOCASKY1
+Music = GOCAA2
+MobjScale = FRACUNIT/4
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
 Level HYOF_DesertBus
 NoVisitNeeded = True
 LevelName = Desert Bus
 NoZone = True
 TypeOfLevel = Race
 SkyTexture = BUSYSKY2
-NumLaps = 65
+NumLaps = 35
 Music = ACZ1
 EncoreMusic = DBEN2
 AssociatedMusic = ACZ2,DBENC

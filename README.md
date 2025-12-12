@@ -27,13 +27,13 @@
 
 3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, Juno,
 
-4, 2 - Spamton, Selferu
+4, 2 - Spamton, Selferu, Jill Stingray,
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon
 
 6, 2 - Paper Mario,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, 
+7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda,
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
@@ -44,13 +44,13 @@
 
 2, 3 - Koopa, Fennec, Sara, Kamakama,
 
-3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario,
+3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario, Jamiro Quai,
 
 4, 3 - Kermit, Aerith, Amitie,
 
 5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
 
-6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot,
+6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot, Noel Vermillion,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, Roaring Knight,
 
@@ -67,11 +67,11 @@
 
 4, 4 - Conker, Geno, Plok, Rally,
 
-5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii,
+5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii, Yu,
 
 6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
-7, 4 - Buttguster, Daisy, Wild Woody,
+7, 4 - Buttguster, Daisy, Wild Woody, Fukua,
 
 8, 4 - Spike, Saturn, Zero, Hopper,
 
@@ -82,7 +82,7 @@
 
 2, 5 - 
 
-3, 5 - Prosperina,
+3, 5 - Prosperina, Reiko,
 
 4, 5 - Squidward, Doppel Arle, Butthead,
 
@@ -92,12 +92,12 @@
 
 7, 5 - Jack-O', Hanate, Sans, Wolf O'Donnell,
 
-8, 5 - Guntz, Mario Tire,
+8, 5 - Guntz, Mario Tire, CD Sonic,
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
 
 
-1, 6 - Marx, Yadorin, 
+1, 6 - Kinger, Marx, Yadorin, 
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
 
@@ -109,16 +109,16 @@
 
 6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane,
 
-8, 6 - Yoshi, Alpha, Elphelt, Lady, 
+8, 6 - Yoshi, Alpha, Elphelt, Lady, Forecast,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong, Sho Minamimoto,
 
 
 1, 7 - 
 
-2, 7 - Agent Stone, Twintelle,
+2, 7 - Agent Stone, Twintelle, Kanji,
 
 3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace, Quote,
 
@@ -126,7 +126,7 @@
 
 5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, 
 
-6, 7 - Ramona, 
+6, 7 - Ramona, Aegis (Saturn),
 
 7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear
 
@@ -160,17 +160,17 @@
 
 3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein
 
-4, 9 - Hey Ho,
+4, 9 - Hey Ho, RFM,
 
 5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, 
 
-6, 9 - Redwood,
+6, 9 - Redwood, Robo Ky,
 
 7, 9 - King K.Rool, Marina, 
 
 8, 9 - Bowser, GUN Truck, Lord Brevon,
 
-9, 9 - Ring Max, Satan, Scrapnik Mecha sonic
+9, 9 - Ring Max, Satan, Scrapnik Mecha Sonic
 
 
 =====
@@ -182,7 +182,7 @@ Yoshi's Cookie Jar v0.1.1
 
 Gack Tracks v2.1.4
 
-Mado Dream Tracks 1.5
+Mado Dream Tracks 1.6
 
 Thok Tracks v1.3
 
@@ -192,7 +192,7 @@ Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-RLQ Rosen Raceways v1.1.65
+RLQ Rosen Raceways v1.1.66
 
 Super Striker GP v1.5.2
 
@@ -213,6 +213,8 @@ Mk II Dead Pool v1c
 Double Gear Pack v3.1
 
 lizard pack v1.8.2
+
+Pro Pack X 2.1.2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -405,10 +407,33 @@ Omashu
 
 Ship (Resonance Zone Wallace)
 
+Icebound Citadel
+
+Banshee Boardwalk
+
+Void Vault 2 Garden
+
+Simple Circuit
+
+Roundabout
+
+Sea Stadium
+
+Mega Jungle
+
+Mega Tube Electric
+
+Mega Ocean Base
+
+Mega Technology Tree
+
+Mega Golden Capital
+
+Mega Casino Paradise
+
 
 ## Resized
 ----------
-Great Galleon (bigger)
 
 MMMM Bananas (bigger)
 
@@ -445,7 +470,7 @@ Starry Night 1 (more, 3 laps)
 
 Kodachrome Palace (less, 2 laps)
 
-Desert Bus (less, 65 laps)
+Desert Bus (less, 35 laps)
 
 House of the Undying (less, 6 laps)
 
@@ -457,9 +482,35 @@ Lacustrine Disrepair (less, 3 laps)
 
 BSOD Ring (less, 5 laps)
 
+Festival Night (less, 3 laps)
+
+Blitz Beach (less, 3 laps)
+
+DK Mountain (less, 3 laps)
+
+Robotnik Raceway (less, 3 laps)
+
+Lonely Island (less, 3 laps)
+
+Twinkle Village (less, 3 laps)
+
+Great Galleon (less, 3 laps)
+
+Coconut Mall (less, 3 laps)
+
 
 ============
 ## CHANGELOG
+
+12/12
+----
+
+Characters - Added Kinger, updated to the (full) latest version of Saturn pack.
+
+Maps - Re-added Pro Pack and Mega Map Jam, updated Rosen Raceways and Dream Tracks. Blacklisted Icebound Citadel, Banshee Boardwalk, Void Vault 2 Garden, Simple Circuit, Roundabout, Sea Stadium, Mega Jungle, Mega Tube Electric, Mega Ocean Base, Mega Technology Tree, Mega Golden Capital, and Mega Casino Paradise. Lowered the following maps to 3 laps; Festival Night, Blitz Beach, DK Mountain, Robotnik Raceway, Lonely Island, Twinkle Village, Great Galleon, Coconut Mall.
+
+Other - Reduced the volume of the horns I made by roughly 25% and removed the Soratoma follower and Cotton Candy palette.
+
 
 12/5
 ----

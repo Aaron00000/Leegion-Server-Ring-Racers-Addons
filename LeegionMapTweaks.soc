@@ -431,6 +431,106 @@ Music = BSODP
 Mobjscale = FRACUNIT/3
 LightContrast = 10
 
+Level PP_RobotnikRaceway
+LevelName = Robotnik Raceway
+TypeOfLevel = Race
+SkyTexture = ROBOSKY
+NoVisitNeeded = True
+NumLaps = 3
+Music = EGGCA
+MobjScale = 6*FRACUNIT/8
+AssociatedMusic = EGGFIN
+LightAngle = 0
+LightContrast = 40
+
+Level PP_LonelyIsle
+LevelName = Lonely Isle
+TypeOfLevel = Race
+SkyTexture = RAINSKY
+NoVisitNeeded = True
+NumLaps = 3
+Music = LONE
+MobjScale = 6*FRACUNIT/8
+AssociatedMusic = LONFIN
+Weather = PRECIP_STORMRIG
+
+Level PP_TwinkleVillage
+LevelName = Twinkle Village
+TypeOfLevel = Race
+SkyTexture = SNOWSKY
+NoVisitNeeded = True
+NumLaps = 3
+Music = TWINKL
+MobjScale = 4*FRACUNIT/8
+AssociatedMusic = TWINFN
+Weather = PRECIP_SNOW
+SubtractNum = True
+
+Level PP_CoconutMall
+LevelName = Coconut Mall
+MenuTitle = Wii Coconut Mall
+NoZone = True
+TypeOfLevel = Race
+SkyTexture = OCEANSKY
+NoVisitNeeded = True
+NumLaps = 3
+Music = COMALL
+MobjScale = 3*FRACUNIT/9
+AssociatedMusic = COMAFN
+LightAngle = 90
+LightContrast = 60
+SubtractNum = True
+EncorePal = 603
+
+Level PP_GreatGalleon
+LevelName = Great Galleon
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = OCEANSKY
+Music = GRTGAL
+LightAngle = 180
+LightContrast = 60
+MobjScale = 5*FRACUNIT/8
+AssociatedMusic = GRTGFN
+
+Level PP_BlitzBeach
+LevelName = Blitz Beach
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = OCEANSKY
+Music = TROP
+AssociatedMusic = TROPFN,TROPW,TROPFW
+LightAngle = 180
+LightContrast = 60
+MobjScale = 4*FRACUNIT/8
+SubtractNum = True
+
+Level PP_FestivalNight
+LevelName = Festival Night
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = SKY4417
+MobjScale = 6*FRACUNIT/8
+Music = FLNGHT
+AssociatedMusic = FLNTFL
+
+Level PP_DKMountain
+LevelName = DK Mountain
+MenuTitle = GCN DK Mountain
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = MARIOSKY
+Music = DKMOUM
+AssociatedMusic = DKMFNM
+MobjScale = 5*FRACUNIT/8
+NoZone = True
+LightAngle = 80
+LightContrast = 50
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
