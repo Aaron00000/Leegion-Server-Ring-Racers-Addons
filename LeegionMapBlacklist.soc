@@ -1365,6 +1365,19 @@ CameraHeight = 140
 NoVisitNeeded = True
 Hidden = True
 
+Level LSB_SleepEggClassic
+LevelName = Sleeping Egg
+ZoneTitle = Classic
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 8
+SkyTexture = ~150
+Music = SLPEG
+mobjscale = FRACUNIT/4
+LightContrast = 45
+LightAngle = 90
+Hidden = True
+
 Level HYOF_DesertBus
 NoVisitNeeded = True
 LevelName = Desert Bus

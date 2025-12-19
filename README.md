@@ -6,7 +6,7 @@
 
 2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
-3, 1 - Tangle, Gooey, Kirby, Taraban, 
+3, 1 - Tangle, Gooey, Kirby, Taraban, Profreshional, Nahida,
 
 4, 1 - Dry Bones,
 
@@ -14,11 +14,11 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta, Sol,
+7, 1 - Ribbon, Charlotta, Sol, Marcia, 
 
 8, 1 - 
 
-9, 1 - Crazy Frog, Ristar,
+9, 1 - Crazy Frog, Ristar, Agnes Tachyon,
 
 
 1, 2 - Mallow, Noronoro, 
@@ -29,11 +29,11 @@
 
 4, 2 - Spamton, Selferu, Jill Stingray,
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon, Jean,
 
-6, 2 - Paper Mario,
+6, 2 - Paper Mario, Alolan Ninetales,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda,
+7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda, Baron Von Bats,
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
@@ -42,7 +42,7 @@
 
 1, 3 - Milla, Robo-Hood,
 
-2, 3 - Koopa, Fennec, Sara, Kamakama,
+2, 3 - Koopa, Fennec, Sara, Kamakama, Alice,
 
 3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario, Jamiro Quai,
 
@@ -56,14 +56,14 @@
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar, Track Guy,
 
-9, 3 - Juri, Monty Mole, Majima, 
+9, 3 - Juri, Monty Mole, Majima, Koopalings, 
 
 
 1, 4 - Andrew Oikonny,
 
 2, 4 - Goomba, Scurry, Lucky,
 
-3, 4 - Haruka Amami, Sage, Lucas, Eunie,
+3, 4 - Haruka Amami, Sage, Lucas, Eunie, Eito Aotsuki,
 
 4, 4 - Conker, Geno, Plok, Rally,
 
@@ -71,11 +71,11 @@
 
 6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
-7, 4 - Buttguster, Daisy, Wild Woody, Fukua,
+7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Tsumugi,
 
 8, 4 - Spike, Saturn, Zero, Hopper,
 
-9, 4 - Hornet, Noise, Jino-Chan,
+9, 4 - Hornet, Noise, Jino-Chan, Xiaomu,
 
 
 1, 5 - Pyra, Old Man Owl, 
@@ -88,51 +88,51 @@
 
 5, 5 - Mario, Miso, Jake Freebird,
 
-6, 5 - Tifa, Diggle, Pauline, Steve
+6, 5 - Tifa, Diggle, Pauline, Steve, Fubuki,
 
 7, 5 - Jack-O', Hanate, Sans, Wolf O'Donnell,
 
 8, 5 - Guntz, Mario Tire, CD Sonic,
 
-9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
+9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite, Fiend, Mio,
 
 
-1, 6 - Kinger, Marx, Yadorin, 
+1, 6 - Kinger, Marx, Yadorin, Karyl,
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
 
-3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi,
+3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi,
 
-4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
+4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator, Kevin and Ries, Kirara,
 
-5, 6 - Jack Black, Beat, Ulala,
+5, 6 - Jack Black, Beat, Ulala, Magnolia, 
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Anelace Elfead, Holo,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua,
 
 8, 6 - Yoshi, Alpha, Elphelt, Lady, Forecast,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong, Sho Minamimoto,
 
 
-1, 7 - 
+1, 7 - Diavolo,
 
 2, 7 - Agent Stone, Twintelle, Kanji,
 
-3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace, Quote,
+3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace, Quote, Casual Koopa,
 
-4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
+4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko, Mazinger Z,
 
 5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, 
 
 6, 7 - Ramona, Aegis (Saturn),
 
-7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear
+7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear, Robo Mario, King Boo,
 
-8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, 
+8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, Rico Jr.,
 
-9, 7 - Grounder, Catchan, Meteor Roller, 
+9, 7 - Grounder, Catchan, Meteor Roller, Chiaki Nanami,
 
 
 1, 8 - Homer Simpson, Ashe,
@@ -147,30 +147,30 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar, Hishi Akebono,
 
-8, 8 - Wario, Dingodile,
+8, 8 - Wario, Dingodile, Guy Shishioh,
 
 9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, 
+1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, Hishi Akebono,
 
-2, 9 - Berret, Whispy Woods, Egg Shogun,
+2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
 3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein
 
 4, 9 - Hey Ho, RFM,
 
-5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, 
+5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, Kira,
 
 6, 9 - Redwood, Robo Ky,
 
 7, 9 - King K.Rool, Marina, 
 
-8, 9 - Bowser, GUN Truck, Lord Brevon,
+8, 9 - Bowser, GUN Truck, Lord Brevon, Bowser Mech, Pecorine,
 
-9, 9 - Ring Max, Satan, Scrapnik Mecha Sonic
+9, 9 - Ring Max, Satan, Scrapnik Mecha Sonic, Dio,
 
 
 =====
@@ -216,6 +216,13 @@ lizard pack v1.8.2
 
 Pro Pack X 2.1.2
 
+Mega Map Jam v2
+
+Kiritsu Pak v2
+
+Yellow Crocodile Cup v2.5
+
+Garbage Cup v1.2
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
@@ -431,6 +438,8 @@ Mega Golden Capital
 
 Mega Casino Paradise
 
+Sleeping Egg Classic
+
 
 ## Resized
 ----------
@@ -501,6 +510,16 @@ Coconut Mall (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+12/19
+----
+
+Characters - Added Magnolia Pack, Mecha-Koopa Pack, and King Boo.
+
+Maps - Added Kiritsu Pak and Garbage cup, re-added Yellow Crocodile Cup. Blacklisted Sleeping Egg Classic.
+
+Other - Lowered the volume of a few of Sanic's horns and added another couple dozen horns.
+
 
 12/12
 ----
