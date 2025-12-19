@@ -516,7 +516,7 @@ Coconut Mall (less, 3 laps)
 
 Characters - Added Magnolia Pack, Mecha-Koopa Pack, and King Boo.
 
-Maps - Added Kiritsu Pak and Garbage cup, re-added Yellow Crocodile Cup. Blacklisted Sleeping Egg Classic.
+Maps - Added Kiritsu Pak and Garbage cup, re-added Yellow Crocodile Cup, updated Gack Tracks. Blacklisted Sleeping Egg Classic.
 
 Other - Lowered the volume of a few of Sanic's horns and added another couple dozen horns.
 
