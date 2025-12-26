@@ -524,7 +524,7 @@ Coconut Mall (less, 3 laps)
 12/26
 ----
 
-Characters - Updated KelChars, removed the Mecha-Koopa complete pack and replaced it with the mini character packs to axe the followers and map.
+Characters - Added Samus, updated KelChars, removed the Mecha-Koopa complete pack and replaced it with the mini character packs to axe the followers and map.
 
 Maps - Blacklisted Sleeping Egg Zone, Ripple Metrocity, Okashi Overpass, Celestia Highway, and House of the Undying.
 
