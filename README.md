@@ -33,7 +33,7 @@
 
 6, 2 - Paper Mario, Alolan Ninetales,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda, Baron Von Bats,
+7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda, Baron Von Bats, Weird Mario,
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
@@ -71,7 +71,7 @@
 
 6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
 
-7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Tsumugi,
+7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Tsumugi, Wave the Swallow,
 
 8, 4 - Spike, Saturn, Zero, Hopper,
 
@@ -147,7 +147,7 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar, Hishi Akebono,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar, Hishi Akebono, Samus,
 
 8, 8 - Wario, Dingodile, Guy Shishioh,
 
@@ -524,7 +524,7 @@ Coconut Mall (less, 3 laps)
 12/26
 ----
 
-Characters - Added Samus, updated KelChars, removed the Mecha-Koopa complete pack and replaced it with the mini character packs to axe the followers and map.
+Characters -  Added Samus, Wave, and Weird Mario, updated Hey Ho, Golbat, Heavy Slammer, and KelChars, removed the Mecha-Koopa complete pack and replaced it with the mini character packs to axe the followers and map.
 
 Maps - Blacklisted Sleeping Egg Zone, Ripple Metrocity, Okashi Overpass, Celestia Highway, and House of the Undying.
 
