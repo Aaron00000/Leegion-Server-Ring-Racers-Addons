@@ -438,7 +438,17 @@ Mega Golden Capital
 
 Mega Casino Paradise
 
-Sleeping Egg Classic
+Sleeping Egg Zone Classic
+
+Sleeping Egg Zone
+
+Ripple Metrocity
+
+Okashi Overpass
+
+Celestia Highway
+
+House of the Undying
 
 
 ## Resized
@@ -510,6 +520,16 @@ Coconut Mall (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+12/26
+----
+
+Characters - Updated KelChars, removed the Mecha-Koopa complete pack and replaced it with the mini character packs to axe the followers and map.
+
+Maps - Blacklisted Sleeping Egg Zone, Ripple Metrocity, Okashi Overpass, Celestia Highway, and House of the Undying.
+
+Other - Added a few more horns and reduced the volume on a couple of other horns.
+
 
 12/19
 ----
