@@ -557,7 +557,7 @@ Characters - Updated BepiPack, added Opa-Opa, Missingno, and Starman.
 
 Maps - Re-added Ruberpack, added Bacon Pack and Dead Line Redux, updated Epic Cup. Blacklisted Metropolis, Dead Line Classic, Sakura Serenity, Mega Casino Night, Port Aurora, Polokono Islet Classic, Khromidro, Mega Sky Sanctuary, Toxic Caves, Twinkle Park, Wishing Wonders, Hologram Hypogeum, and Death Chamber. Increased the size of Lake Margorite by 20% and the sizes of Technologyy Tundra and Skyscraper Leaps by 10% each.
 
-Other - Added more horns and a surprise.
+Other - Added more horns.
 
 
 12/26
