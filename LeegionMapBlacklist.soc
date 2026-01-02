@@ -516,6 +516,19 @@ SkyTexture = ~163
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_Metropolis
+LevelName = Metropolis
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+Music = METZ,METZA
+SkyTexture = SKY26541
+DefaultWaypointRadius = 208*FRACUNIT
+LightAngle = 45
+LightContrast = 64
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1291,6 +1304,17 @@ Keywords = Garden
 NoVisitNeeded = True
 Hidden = True
 
+Level PP_PortAurora
+LevelName = Port Aurora
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = SNOWSKY
+Music = PORTAR
+AssociatedMusic = PTARFN
+MobjScale = FRACUNIT/4
+Hidden = True
+
 Level ATL_MC_MegaJungle
 LevelName = Mega Jungle
 TypeOfLevel = Race
@@ -1418,6 +1442,8 @@ LightContrast = 48
 MobjScale = FRACUNIT/4
 PositionMusic = KPPOS
 DefaultWaypointRadius = 128*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
 
 Level PP_MountainHighway
 LevelName = Celestia Highway
@@ -1431,6 +1457,160 @@ AssociatedMusic = CELSFN
 SectionRace = True
 Keywords = Taikan
 EncorePal = 16
+Hidden = True
+
+Level RR_DeadLine
+LevelName = Dead Line
+ZoneTitle = Classic
+TypeOfLevel = RACE
+SkyTexture = SKY4417
+Mobjscale = FRACUNIT/4
+NumLaps = 2
+Music = DELIZ
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
+Level KP_SakuraSerenity
+Weather = PRECIP_HGPB
+LevelName = Sakura Serenity
+TypeOfLevel = Race
+SkyBoxScale = 128
+NumLaps = 2
+SkyTexture = SKUSKYU
+EncoreMusic = ANEGWA
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 8
+EncorePal = 2109
+Music = CARIA,CNINJA,KCHARA
+PositionMusic = JOSHI
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaCasinoNight
+LevelName = Mega Casino Night
+TypeofLevel = Race
+NumLaps = 6
+Music = DIGCAS
+SkyTexture = PIT
+MobjScale = FRACUNIT*25/100
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level BCN_PolokanoClassic
+LevelName = Polokano Islet
+ZoneTitle = Classic
+NoVisitNeeded = True
+TypeOfLevel = Race
+SkyTexture = TURHBG01
+NumLaps = 5
+Music = POLOK
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level BCN_Khromidro
+LevelName = Khromidro
+NoVisitNeeded = True
+TypeOfLevel = Race
+SkyTexture = ~131
+NumLaps = 2
+Music = KHRM1,KHRM2
+MobjScale = FRACUNIT/4
+Darkness = 0.5
+Hidden = True
+
+Level BCN_MegaSkySanctuary
+LevelName = Mega Sky Sanctuary
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = sky31
+Music = MSKS1,MSKS2
+MobjScale = FRACUNIT/4
+Followers = Chao
+CameraHeight = 140
+Hidden = True
+
+Level RUB_ToxicCaves
+NoVisitNeeded = True
+LevelName = Toxic
+ZoneTitle = Caves
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = TXCV1
+AssociatedMusic = TXCV3
+SkyboxScale = 8*FRACUNIT
+MobjScale = 1*FRACUNIT/2
+Weather = 0
+Darkness = 0.75
+Lua.toxiccaves = true
+Lua.Ruber = true
+Hidden = True
+
+Level RUB_TwinkleCart
+NoVisitNeeded = True
+LevelName = Twinkle
+ZoneTitle = Cart
+TypeOfLevel = Race
+NumLaps = 1
+SkyTexture = TP_NBG1
+Music = KMAP14
+SkyboxScale = 1*FRACUNIT
+MobjScale = 4*FRACUNIT/10
+Darkness = 0.75
+Lua.Ruber = true
+Hidden = True
+
+Level RUB_wishingwonders
+NoVisitNeeded = True
+LevelName = Wishing
+ZoneTitle = Wonders
+TypeOfLevel = Race
+NumLaps = 3
+SkyboxScale = 11*FRACUNIT/10
+SkyTexture = WISH_SKY
+Music = WISHW1,WISHW3,WISHW2
+MobjScale = 9*FRACUNIT/40
+Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.wishingwonders = true
+Hidden = True
+
+Level RUB_DeathChamberR
+NoVisitNeeded = True
+LevelName = Death
+ZoneTitle = Chamber
+NumLaps = 4
+TypeOfLevel = Race
+SkyTexture = SKY8
+Music = DCHAM1
+MobjScale = FRACUNIT/2
+Followers = Flicky,Red Flicky,Pink Flicky,Green Flicky
+SkyboxScale = 0.005
+Darkness = 0.75
+Lua.Ruber = true
+Lua.deathchamber = true
+Hidden = True
+
+Level RUB_hologramhypogeum
+NoVisitNeeded = True
+LevelName = Hologram
+ZoneTitle = Hypogeum
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY177
+Music = HOHYP1,HOHYP2
+SkyboxScale = 12*FRACUNIT
+MobjScale = 7*FRACUNIT/20
+Darkness = 0.75
+Lua.Ruber = true
+Lua.hologramhypogeum = true
 Hidden = True
 
 Level DRTR_HouseOfTheUndying

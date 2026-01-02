@@ -2,7 +2,7 @@
 
 ## ADDON CHARACTERS SORTED BY SPEED, WEIGHT:
 --------------------------------------------
-1, 1 - Whitey, Mayor Zao,
+1, 1 - Whitey, Mayor Zao, Missingno, 
 
 2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
@@ -10,7 +10,7 @@
 
 4, 1 - Dry Bones,
 
-5, 1 - Prinny, 
+5, 1 - Prinny, Opa-Opa,
 
 6, 1 - 
 
@@ -158,7 +158,7 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
-3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein
+3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), 
 
 4, 9 - Hey Ho, RFM,
 
@@ -180,13 +180,13 @@
 --------------
 Yoshi's Cookie Jar v0.1.1
 
-Gack Tracks v2.1.4
+Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
 Thok Tracks v1.3
 
-Epic Cup Revival v1.2.7
+Epic Cup Revival v1.3
 
 Bushmill Cup v1.2a
 
@@ -218,11 +218,13 @@ Pro Pack X 2.1.2
 
 Mega Map Jam v2
 
-Kiritsu Pak v2
+Kiritsu Pak v2.1
 
 Yellow Crocodile Cup v2.5
 
-Garbage Cup v1.2
+Garbage Cup v1.3
+
+Dead Line Redux
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
@@ -450,9 +452,35 @@ Celestia Highway
 
 House of the Undying
 
+Dead Line Classic
+
+Polokono Islet Classic
+
+Khromidro
+
+Mega Sky Sanctuary
+
+Toxic Caves
+
+Twinkle Park
+
+Wishing Wonders
+
+Hologram Hypogeum
+
+Death Chamber
+
 
 ## Resized
 ----------
+
+Espresso Lane (bigger)
+
+Skyscraper Leaps (bigger)
+
+Technology Tundra (bigger)
+
+Lake Margorite (bigger)
 
 MMMM Bananas (bigger)
 
@@ -520,6 +548,17 @@ Coconut Mall (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+
+1/2/2026
+----
+
+Characters - Updated BepiPack, added Opa-Opa, Missingno, and Starman.
+
+Maps - Re-added Ruberpack, added Bacon Pack and Dead Line Redux, updated Epic Cup. Blacklisted Metropolis, Dead Line Classic, Sakura Serenity, Mega Casino Night, Port Aurora, Polokono Islet Classic, Khromidro, Mega Sky Sanctuary, Toxic Caves, Twinkle Park, Wishing Wonders, Hologram Hypogeum, and Death Chamber. Increased the size of Lake Margorite by 20% and the sizes of Technologyy Tundra and Skyscraper Leaps by 10% each.
+
+Other - Added more horns and a surprise.
+
 
 12/26
 ----

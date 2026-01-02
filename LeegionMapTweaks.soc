@@ -12,6 +12,35 @@ Skyboxscale = 4
 EncoreLightAngle = 90
 EncoreLightContrast = 80
 
+Level RR_LakeMargorite
+LevelName = Lake Margorite
+TypeOfLevel = Race
+MobjScale = 10*FRACUNIT/48
+NumLaps = 3
+SkyTexture = ~147
+Music = LAMAZ
+
+Level RR_SkyscraperLeaps
+LevelNAME = Skyscraper Leaps
+NumLaps = 4
+SkyTexture = SKY369
+TypeOfLevel = RACE
+MobjScale = 10*FRACUNIT/55
+SKYBOXSCALE = 20
+Music = SKLEZ
+
+Level RR_TechnologyTundra
+LevelName = Technology
+ZoneTitle = Tundra
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = TUNDSKY
+Music = TETUZ
+Weather = 2
+MobjScale = 10*FRACUNIT/44
+LightContrast = 24
+LightAngle = 90
+
 Level PP_GreatGalleon
 LevelName = Great Galleon
 TypeOfLevel = Race
@@ -71,6 +100,7 @@ Music = SLISPR,SLISP2,SLISP3
 Mobjscale = 87*FRACUNIT/135
 NoVisitNeeded = true
 
+
 # LESS/MORE LAPS #
 
 Level DRTR_BastionIsle
@@ -81,15 +111,6 @@ Music = BSTILE
 MobjScale = FRACUNIT/4
 SkyTexture = STRSKY01
 LightContrast = 24
-
-Level RR_DeadLine
-LevelNAME = Dead Line
-TypeOfLevel = RACE
-SkyTexture = SKY4417
-Mobjscale = FRACUNIT/4
-NumLaps = 3
-Music = DELIZ
-Darkness = -0.25
 
 Level SP_VERMILLIONRIG
 LevelName = Vermillion Rig
@@ -530,3 +551,4 @@ MobjScale = 5*FRACUNIT/8
 NoZone = True
 LightAngle = 80
 LightContrast = 50
+
