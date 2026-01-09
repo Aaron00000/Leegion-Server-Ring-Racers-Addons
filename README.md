@@ -564,7 +564,7 @@ Mean Bean Machinations (more, 3 laps)
 1/9
 ----
 
-Characters - Updated BluPack (added Bomberman, Lololo & Lalala, Lux), added Colombo, Sumire Kanzaki, as well as the rest of the bepiPack characters previously not present other than that pack's Shantae (Ame-Chan, Eid, Joke Explainer, Noise, Pisque, Remilia, Rotom, Smol Nozomi, Somari, Starman (Kirby), Turkatron, and the Voise Inside Your Head.)
+Characters - Updated BluPack (added Bomberman, Lololo & Lalala, Lux), added Colombo, Sumire Kanzaki, as well as the rest of the bepiPack characters previously not present (Ame-Chan, Eid, Joke Explainer, Shantae, Noise, Pisque, Remilia, Rotom, Smol Nozomi, Somari, Starman (Kirby), Turkatron, and the Voise Inside Your Head.)
 
 Maps - Updated Epic Cup Revival, blacklisted Pleasure Castle, Solar Stroller, Curien Mansion, and Dragonspire Sewer 2. Added another lap to Mean Bean Machinations. Added a file to reduce the introduction music on Heavenly Halls to non-THX-intro levels.
 
