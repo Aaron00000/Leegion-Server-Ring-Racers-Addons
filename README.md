@@ -14,7 +14,7 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta, Sol, Marcia, 
+7, 1 - Ribbon, Charlotta, Sol, Marcia, Starman (Kirby)
 
 8, 1 - 
 
@@ -23,11 +23,11 @@
 
 1, 2 - Mallow, Noronoro, 
 
-2, 2 - 
+2, 2 - Ame-Chan, 
 
 3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, Juno,
 
-4, 2 - Spamton, Selferu, Jill Stingray,
+4, 2 - Spamton, Selferu, Jill Stingray, Joke Explainer,
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon, Jean,
 
@@ -37,12 +37,12 @@
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
-9, 2 - Dark Rider Shadow,
+9, 2 - Dark Rider Shadow, Rotom, 
 
 
 1, 3 - Milla, Robo-Hood,
 
-2, 3 - Koopa, Fennec, Sara, Kamakama, Alice,
+2, 3 - Koopa, Fennec, Sara, Kamakama, Alice, Noise (bepiPack)
 
 3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario, Jamiro Quai,
 
@@ -59,11 +59,11 @@
 9, 3 - Juri, Monty Mole, Majima, Koopalings, 
 
 
-1, 4 - Andrew Oikonny,
+1, 4 - Andrew Oikonny, Remilia,
 
 2, 4 - Goomba, Scurry, Lucky,
 
-3, 4 - Haruka Amami, Sage, Lucas, Eunie, Eito Aotsuki,
+3, 4 - Haruka Amami, Sage, Lucas, Eunie, Eito Aotsuki, Lux,
 
 4, 4 - Conker, Geno, Plok, Rally,
 
@@ -73,7 +73,7 @@
 
 7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Tsumugi, Wave the Swallow,
 
-8, 4 - Spike, Saturn, Zero, Hopper,
+8, 4 - Spike, Saturn, Zero, Hopper, Somari, 
 
 9, 4 - Hornet, Noise, Jino-Chan, Xiaomu,
 
@@ -82,11 +82,11 @@
 
 2, 5 - 
 
-3, 5 - Prosperina, Reiko,
+3, 5 - Prosperina, Reiko, Sumire Kanzaki, 
 
 4, 5 - Squidward, Doppel Arle, Butthead,
 
-5, 5 - Mario, Miso, Jake Freebird,
+5, 5 - Mario, Miso, Jake Freebird, Pisque, 
 
 6, 5 - Tifa, Diggle, Pauline, Steve, Fubuki,
 
@@ -97,19 +97,19 @@
 9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite, Fiend, Mio,
 
 
-1, 6 - Kinger, Marx, Yadorin, Karyl,
+1, 6 - Kinger, Marx, Yadorin, Karyl, Eid, 
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
 
-3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi,
+3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi, Colombo, 
 
 4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator, Kevin and Ries, Kirara,
 
-5, 6 - Jack Black, Beat, Ulala, Magnolia, 
+5, 6 - Jack Black, Beat, Ulala, Magnolia, Shantae (bepiPack),
 
 6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Anelace Elfead, Holo,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua, Lololo & Lalala, 
 
 8, 6 - Yoshi, Alpha, Elphelt, Lady, Forecast,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko, Mazinger Z,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, 
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, Bomberman/Bomberman Black, 
 
 6, 7 - Ramona, Aegis (Saturn),
 
@@ -137,7 +137,7 @@
 
 1, 8 - Homer Simpson, Ashe,
 
-2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
+2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman, The Voice Inside Your Head,
 
 3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
 
@@ -151,7 +151,7 @@
 
 8, 8 - Wario, Dingodile, Guy Shishioh,
 
-9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga,
+9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga, Turkatron, 
 
 
 1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, Hishi Akebono,
@@ -162,7 +162,7 @@
 
 4, 9 - Hey Ho, RFM,
 
-5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, Kira,
+5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, Kira, Smol Nozomi, 
 
 6, 9 - Redwood, Robo Ky,
 
@@ -310,6 +310,8 @@ Nova Shore
 Pestilence
 
 Darkvile Castle 1
+
+Dragonspire Sewer 2
 
 Death Egg
 
@@ -470,6 +472,12 @@ Hologram Hypogeum
 
 Death Chamber
 
+Pleasure Castle
+
+Solar Stroller
+
+Curien Mansion
+
 
 ## Resized
 ----------
@@ -495,6 +503,8 @@ Sunny Garden (bigger)
 Slime Springs (bigger)
 
 Desert Bus (bigger)
+
+Dead Line Redux (bigger)
 
 
 ## More/Less Laps
@@ -545,9 +555,20 @@ Great Galleon (less, 3 laps)
 
 Coconut Mall (less, 3 laps)
 
+Mean Bean Machinations (more, 3 laps)
+
 
 ============
 ## CHANGELOG
+
+1/9
+----
+
+Characters - Updated BluPack (added Bomberman, Lololo & Lalala, Lux), added Colombo, Sumire Kanzaki, as well as the rest of the bepiPack characters previously not present other than that pack's Shantae (Ame-Chan, Eid, Joke Explainer, Noise, Pisque, Remilia, Rotom, Smol Nozomi, Somari, Starman (Kirby), Turkatron, and the Voise Inside Your Head.)
+
+Maps - Updated Epic Cup Revival, blacklisted Pleasure Castle, Solar Stroller, Curien Mansion, and Dragonspire Sewer 2. Added another lap to Mean Bean Machinations. Added a file to reduce the introduction music on Heavenly Halls to non-THX-intro levels.
+
+Other - Added a few horns, disabled voting to redo the map since it was getting spammed too frequently. (zvote_runitback_allowed)
 
 
 1/2/2026

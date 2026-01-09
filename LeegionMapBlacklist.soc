@@ -529,6 +529,21 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_DragonspireSewer2
+LevelName = Dragonspire Sewer
+Act = 2
+TypeOfLevel = Race
+MobjScale = 1*FRACUNIT/4
+SkyTexture = ~029
+SkyboxScaleZ = 0
+NumLaps = 4
+LightContrast = 32
+LightAngle = 180
+Music = DRSWZ2
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1611,6 +1626,55 @@ MobjScale = 7*FRACUNIT/20
 Darkness = 0.75
 Lua.Ruber = true
 Lua.hologramhypogeum = true
+Hidden = True
+
+Level RUB_PleasureCastle
+NoVisitNeeded = True
+LevelName = Pleasure
+ZoneTitle = Castle
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = TP_NBG1
+Music = PLEAS1,PLEAS2,PLEAS3
+SkyboxScale = 4*FRACUNIT
+MobjScale = 1*FRACUNIT/4
+LightAngle = 0
+LightContrast = 16
+#Weather = PRECIP_CONFETTI
+Darkness = 0.75
+Lua.Ruber = true
+Lua.pleasurecastle = true
+Hidden = True
+
+Level RUB_SolarStroller
+NoVisitNeeded = True
+LevelName = Solar
+ZoneTitle = Stroller
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = SOLAR1,SOLAR2
+SkyboxScale = 0.15
+MobjScale = 2*FRACUNIT/9
+Weather = 0
+Darkness = 0.75
+Lua.Ruber = true
+Lua.solarstroller = true
+Hidden = True
+
+Level BCN_CurienMansion
+LevelName = Curien
+ZoneTitle = Mansion
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = CNMSKY01
+PositionMusic = HOTDPO
+Music = HOTD1,HOTD2,HOTD3
+MobjScale = 2*FRACUNIT/7
+SkyBoxScaleX = 0
+SkyBoxScaleY = 0
+SkyBoxScaleZ = 0.5
+NoVisitNeeded = True
 Hidden = True
 
 Level DRTR_HouseOfTheUndying

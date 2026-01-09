@@ -552,3 +552,15 @@ NoZone = True
 LightAngle = 80
 LightContrast = 50
 
+Level PZZ_MeanBeanMachinations
+LevelName = Mean Bean
+ZoneTitle = Machinations
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = PODSKY
+Music = MBMNTA,MBMNTB
+PositionMusic = MBMNTP
+Mobjscale = FRACUNIT/4
+NoVisitNeeded = true
+LightContrast = 32
+LightAngle = 135
