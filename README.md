@@ -186,7 +186,7 @@ Mado Dream Tracks 1.6
 
 Thok Tracks v1.3
 
-Epic Cup Revival v1.3
+Epic Cup Revival v1.3.1
 
 Bushmill Cup v1.2a
 
@@ -224,7 +224,11 @@ Yellow Crocodile Cup v2.5
 
 Garbage Cup v1.3
 
-Dead Line Redux
+Dead Line Redux v1.1
+
+Bacon Pack v1.0.1
+
+
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
@@ -564,9 +568,9 @@ Mean Bean Machinations (more, 3 laps)
 1/9
 ----
 
-Characters - Updated BluPack (added Bomberman, Lololo & Lalala, Lux), added Colombo, Sumire Kanzaki, as well as the rest of the bepiPack characters previously not present (Ame-Chan, Eid, Joke Explainer, Shantae, Noise, Pisque, Remilia, Rotom, Smol Nozomi, Somari, Starman (Kirby), Turkatron, and the Voise Inside Your Head.)
+Characters - Updated BluPack (added Bomberman, Lololo & Lalala, Lux), added Colombo, Sumire Kanzaki, as well as the rest of the bepiPack characters previously not present (Ame-Chan, Eid, Joke Explainer, Shantae, Noise, Pisque, Remilia, Rotom, Smol Nozomi, Somari, Starman (Kirby), Turkatron, and the Voice Inside Your Head.)
 
-Maps - Updated Epic Cup Revival, blacklisted Pleasure Castle, Solar Stroller, Curien Mansion, and Dragonspire Sewer 2. Added another lap to Mean Bean Machinations. Added a file to reduce the introduction music on Heavenly Halls to non-THX-intro levels.
+Maps - Updated Epic Cup Revival, blacklisted Pleasure Castle, Solar Stroller, Curien Mansion, and Dragonspire Sewer 2. Added another lap to Mean Bean Machinations. Added a file to reduce the introduction music on Heavenly Halls to non-THX-intro levels. Beat ruber's maps to death with a shotgun and removed them.
 
 Other - Added a few horns, disabled voting to redo the map since it was getting spammed too frequently. (zvote_runitback_allowed)
 
