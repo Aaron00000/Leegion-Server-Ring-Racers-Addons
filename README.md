@@ -224,6 +224,8 @@ Dead Line Redux v1.1
 
 Bacon Pack v1.0.2
 
+Noise's Toppin' Tumblers v1
+
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -564,9 +566,9 @@ Mean Bean Machinations (more, 3 laps)
 1/16
 ----
 
-Character - Added Armstrong, Stocking, and Neopolitan, updated Magnolia Pack (added Alcremie and Mawile.) Removed Yukine and Hanate.
+Character - Added Armstrong, Stocking, and Neopolitan, updated Magnolia Pack (added Alcremie and Mawile) and Stella. Removed Yukine and Hanate.
 
-Maps - Updated Bacon Pack. Removed Garbage Cup and Mega Map Jam.
+Maps - Added Noise's Toppin' Tumblers, updated Bacon Pack. Removed Garbage Cup and Mega Map Jam.
 
 Other - Added more horns, replaced a few map songs, and removed the Wisp followers.
 
