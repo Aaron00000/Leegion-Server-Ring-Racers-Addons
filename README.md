@@ -216,13 +216,9 @@ lizard pack v1.8.2
 
 Pro Pack X 2.1.2
 
-Mega Map Jam v2
-
 Kiritsu Pak v2.1
 
 Yellow Crocodile Cup v2.5
-
-Garbage Cup v1.3
 
 Dead Line Redux v1.1
 
