@@ -545,13 +545,14 @@ NoVisitNeeded = True
 Hidden = True
 
 Level RR_DeathEgg
-LevelName = Death Egg
+LevelName = Death
+ZoneTitle = Big
 TypeOfLevel = Race
-NumLaps = 3
+NumLaps = 1
 LapsPerSection = 1
 SkyTexture = DEZSKY
 Music = KMAPDE
-MobjScale = FRACUNIT/4
+MobjScale = 3*FRACUNIT/24
 SkyboxScale = 32
 DefaultWaypointRadius = 200
 Darkness = -0.25
@@ -1299,6 +1300,17 @@ SkyboxScale = 4
 LightAngle = 90
 LightContrast = 50
 NoVisitNeeded = True
+Hidden = True
+
+Level PP_AridEclipse
+LevelName = Arid Eclipse
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 9
+LapsPerSection = 3
+SkyTexture = ECLIPSKY
+Music = ECLISM
+MobjScale = 5*FRACUNIT/8
 Hidden = True
 
 Level PP_VVGardenR

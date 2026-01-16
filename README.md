@@ -48,7 +48,7 @@
 
 4, 3 - Kermit, Aerith, Amitie,
 
-5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala,
+5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala, Mawile, 
 
 6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot, Noel Vermillion,
 
@@ -78,7 +78,7 @@
 9, 4 - Hornet, Noise, Jino-Chan, Xiaomu,
 
 
-1, 5 - Pyra, Old Man Owl, 
+1, 5 - Pyra, Old Man Owl, Alcremie,
 
 2, 5 - 
 
@@ -90,7 +90,7 @@
 
 6, 5 - Tifa, Diggle, Pauline, Steve, Fubuki,
 
-7, 5 - Jack-O', Hanate, Sans, Wolf O'Donnell,
+7, 5 - Jack-O', Sans, Wolf O'Donnell,
 
 8, 5 - Guntz, Mario Tire, CD Sonic,
 
@@ -158,7 +158,7 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
-3, 9 - Yukine, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), 
+3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), 
 
 4, 9 - Hey Ho, RFM,
 
@@ -226,7 +226,7 @@ Garbage Cup v1.3
 
 Dead Line Redux v1.1
 
-Bacon Pack v1.0.1
+Bacon Pack v1.0.2
 
 
 
@@ -564,6 +564,16 @@ Mean Bean Machinations (more, 3 laps)
 
 ============
 ## CHANGELOG
+
+1/16
+----
+
+Character - Added Armstrong, updated Magnolia Pack (added Alcremie and Mawile.) Removed Yukine and Hanate.
+
+Maps - Updated Bacon Pack. Removed Garbage Cup and Mega Map Jam.
+
+Other - Added more horns, replaced a few map songs, and removed the Wisp followers.
+
 
 1/9
 ----

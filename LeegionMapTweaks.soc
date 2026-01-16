@@ -263,17 +263,6 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-Level PP_AridEclipse
-LevelName = Arid Eclipse
-TypeOfLevel = Race
-NoVisitNeeded = True
-NumLaps = 9
-LapsPerSection = 3
-SkyTexture = ECLIPSKY
-Music = ECLISM
-MobjScale = 5*FRACUNIT/8
-Hidden = True
-
 Level DR_MMMM
 Levelname = B A N A N A S
 ZoneTitle = M M M M
