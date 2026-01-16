@@ -56,7 +56,7 @@
 
 8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar, Track Guy,
 
-9, 3 - Juri, Monty Mole, Majima, Koopalings, 
+9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
 
 1, 4 - Andrew Oikonny, Remilia,
@@ -101,7 +101,7 @@
 
 2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
 
-3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi, Colombo, 
+3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi, Colombo, Stocking,
 
 4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator, Kevin and Ries, Kirara,
 
@@ -158,7 +158,7 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
-3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), 
+3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), Koopalings, 
 
 4, 9 - Hey Ho, RFM,
 
@@ -564,7 +564,7 @@ Mean Bean Machinations (more, 3 laps)
 1/16
 ----
 
-Character - Added Armstrong, updated Magnolia Pack (added Alcremie and Mawile.) Removed Yukine and Hanate.
+Character - Added Armstrong, Stocking, and Neopolitan, updated Magnolia Pack (added Alcremie and Mawile.) Removed Yukine and Hanate.
 
 Maps - Updated Bacon Pack. Removed Garbage Cup and Mega Map Jam.
 
