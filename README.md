@@ -10,7 +10,7 @@
 
 4, 1 - Dry Bones,
 
-5, 1 - Prinny, Opa-Opa,
+5, 1 - Prinny, Opa-Opa, Moonlight Child, 
 
 6, 1 - 
 
@@ -107,9 +107,9 @@
 
 5, 6 - Jack Black, Beat, Ulala, Magnolia, Shantae (bepiPack),
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Anelace Elfead, Holo,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Anelace Elfead, Holo, Axel,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua, Lololo & Lalala, 
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua, Lololo & Lalala, Yang, The Penitent One,
 
 8, 6 - Yoshi, Alpha, Elphelt, Lady, Forecast,
 
@@ -124,15 +124,15 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko, Mazinger Z,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, Bomberman/Bomberman Black, 
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, Bomberman/Bomberman Black, T.Celica,
 
 6, 7 - Ramona, Aegis (Saturn),
 
 7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear, Robo Mario, King Boo,
 
-8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, Rico Jr.,
+8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, Rico Jr., Crisanta,
 
-9, 7 - Grounder, Catchan, Meteor Roller, Chiaki Nanami,
+9, 7 - Grounder, Catchan, Meteor Roller, Chiaki Nanami, Captain Falcon (Daeron Pack),
 
 
 1, 8 - Homer Simpson, Ashe,
@@ -141,7 +141,7 @@
 
 3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
 
-4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo,
+4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
 
 5, 8 - Shrek, Mako, Cole Cassidy,
 
@@ -178,8 +178,6 @@
 
 ## Addon Packs
 --------------
-Yoshi's Cookie Jar v0.1.1
-
 Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
@@ -226,6 +224,7 @@ Bacon Pack v1.0.2
 
 Noise's Toppin' Tumblers v1
 
+LOG MAPS V2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -559,14 +558,27 @@ Coconut Mall (less, 3 laps)
 
 Mean Bean Machinations (more, 3 laps)
 
+John Gutter (less, 2 laps)
+
+Pizzascape (less, 2 laps)
+
 
 ============
 ## CHANGELOG
 
+1/23
+----
+
+Characters - Updated Magnolia Pack and Stella, added Daeron Pack (Axel, another Captain Falcon, Crisanta, Moonlight Child, T.Celica, the Penitent One), Yang and Pyrrha.
+
+Maps - Re-added Log Maps, removed Yoshi's Cookie Jar. Blacklisted Coastal Temple. Lowered John Gutter and Pizzascape's lap counts down from 3 to 2.
+
+Other - Re-enabled redo voting but set the delay between votes to five minutes. Added two more horns.
+
 1/16
 ----
 
-Character - Added Armstrong, Stocking, and Neopolitan, updated Magnolia Pack (added Alcremie and Mawile) and Stella. Removed Yukine and Hanate.
+Characters - Added Armstrong, Stocking, and Neopolitan, updated Magnolia Pack (added Alcremie and Mawile) and Stella. Removed Yukine and Hanate.
 
 Maps - Added Noise's Toppin' Tumblers, updated Bacon Pack. Removed Garbage Cup and Mega Map Jam.
 

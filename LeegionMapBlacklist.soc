@@ -544,6 +544,17 @@ Darkness = -0.25
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_CoastalTemple
+LevelName = Coastal Temple
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = CTSKY
+Music = COTEZ
+MobjScale = FRACUNIT/4
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -552,7 +563,7 @@ NumLaps = 1
 LapsPerSection = 1
 SkyTexture = DEZSKY
 Music = KMAPDE
-MobjScale = 3*FRACUNIT/24
+MobjScale = 3*FRACUNIT/22
 SkyboxScale = 32
 DefaultWaypointRadius = 200
 Darkness = -0.25

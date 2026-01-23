@@ -553,3 +553,37 @@ Mobjscale = FRACUNIT/4
 NoVisitNeeded = true
 LightContrast = 32
 LightAngle = 135
+
+Level PJP_JohnGutter
+LevelName = John
+ZoneTitle = Gutter
+TypeOfLevel = Race
+NumLaps = 2
+PositionMusic = JHNAMB
+SkyTexture = JG_SKYZ1
+Music = JOHNG0,JOHNG1
+MobjScale = FRACUNIT/4
+Darkness = 0.10
+AssociatedMusic = JHNAMB
+Lua.PT_WoodBox = tower
+Lua.PT_SplashArt = PTJOHN1
+Lua.PT_SplashText = PTJOHN2
+Lua.PT_TextPos = 56,32
+Lua.PT_Jingle = sfx_JHNGUT
+
+Level PJP_PizzaScape
+LevelName = Pizzascape
+TypeOfLevel = Race
+NumLaps = 2
+NoZone = True
+SkyTexture = ~150
+SkyboxScale = 8
+Music = PISCA,PISCB
+PositionMusic = MONDAY
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+Lua.PT_SplashArt = ptpst1
+Lua.PT_SplashText = ptpst2
+Lua.PT_TextPos = 16,4
+Lua.PT_Jingle = sfx_PZSCTC
