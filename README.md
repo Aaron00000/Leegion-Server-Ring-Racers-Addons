@@ -566,14 +566,25 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+1/30
+----
+
+Characters - Updated Stella again.
+
+Maps - Blacklisted Moonlit Sentinel 2.
+
+Other - Tweaked and removed a few of my horns.
+
+
 1/23
 ----
 
-Characters - Updated Magnolia Pack and Stella, added Daeron Pack (Axel, another Captain Falcon, Crisanta, Moonlight Child, T.Celica, the Penitent One), Yang and Pyrrha.
+Characters - Updated Magnolia Pack and Stella, added Daeron Pack (Axel, another Captain Falcon, Crisanta, Moonlight Child, T.Celica, the Penitent One), Yang, and Pyrrha.
 
 Maps - Re-added Log Maps, removed Yoshi's Cookie Jar. Blacklisted Coastal Temple. Lowered John Gutter and Pizzascape's lap counts down from 3 to 2.
 
 Other - Re-enabled redo voting but set the delay between votes to five minutes. Added two more horns.
+
 
 1/16
 ----

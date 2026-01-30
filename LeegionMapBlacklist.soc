@@ -1700,6 +1700,24 @@ SkyBoxScaleZ = 0.5
 NoVisitNeeded = True
 Hidden = True
 
+Level ACHII_MoonlitSentinel2
+LevelName = Moonlit Sentinel
+Act = 2
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = MS2SKY
+Music = GYPSY
+EncoreMusic = UPDWN
+Mobjscale = FRACUNIT/4
+SkyBoxScale = 16
+EncorePal = 3209
+LightAngle = 0
+LightContrast = 64
+PositionMusic = KPPOS
+DefaultWaypointRadius = 128*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
