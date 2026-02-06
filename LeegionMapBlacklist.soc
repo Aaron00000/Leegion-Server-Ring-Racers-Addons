@@ -1718,6 +1718,17 @@ DefaultWaypointRadius = 128*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
+Level LOG_ErodingEucalyptus
+NoVisitNeeded = True
+LevelName = Eroding Eucalyptus
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = EE_BOX1
+Music = LOGEE0,LOGEE1,LOGEE2
+MobjScale = FRACUNIT/4
+Darkness = 0.10
+Hidden = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
@@ -1737,7 +1748,7 @@ LevelName = Desert Bus
 NoZone = True
 TypeOfLevel = Race
 SkyTexture = BUSYSKY2
-NumLaps = 35
+NumLaps = 34
 Music = ACZ1
 EncoreMusic = DBEN2
 AssociatedMusic = ACZ2,DBENC

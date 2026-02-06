@@ -126,13 +126,13 @@
 
 5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, Bomberman/Bomberman Black, T.Celica,
 
-6, 7 - Ramona, Aegis (Saturn),
+6, 7 - Ramona, Aegis (Saturn), Red,
 
 7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear, Robo Mario, King Boo,
 
 8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, Rico Jr., Crisanta,
 
-9, 7 - Grounder, Catchan, Meteor Roller, Chiaki Nanami, Captain Falcon (Daeron Pack),
+9, 7 - Peppino, Grounder, Catchan, Meteor Roller, Chiaki Nanami, Captain Falcon (Daeron Pack),
 
 
 1, 8 - Homer Simpson, Ashe,
@@ -151,7 +151,7 @@
 
 8, 8 - Wario, Dingodile, Guy Shishioh,
 
-9, 8 - Q, Dark Matter, Peppino, Neo Metal Sonic, Merga, Turkatron, 
+9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga, Turkatron, 
 
 
 1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, Hishi Akebono,
@@ -566,6 +566,14 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+2/6
+----
+
+Characters - Added Red and another Peppino.
+
+Maps - Updated CAS Tracks and THOKTRACKS. Blacklisted Eroding Eucalyptus in case it'd crash again.
+
+
 1/30
 ----
 
@@ -573,7 +581,7 @@ Characters - Updated Stella again.
 
 Maps - Blacklisted Moonlit Sentinel 2.
 
-Other - Tweaked and removed a few of my horns.
+Other - Tweaked one or two of my horns and removed some of the horns that were just songs.
 
 
 1/23
