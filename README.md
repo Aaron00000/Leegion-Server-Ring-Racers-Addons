@@ -2,11 +2,11 @@
 
 ## ADDON CHARACTERS SORTED BY SPEED, WEIGHT:
 --------------------------------------------
-1, 1 - Whitey, Mayor Zao, Missingno, 
+1, 1 - Whitey,
 
 2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
-3, 1 - Tangle, Gooey, Kirby, Taraban, Profreshional, Nahida,
+3, 1 - Tangle, Gooey, Kirby,
 
 4, 1 - Dry Bones,
 
@@ -14,163 +14,163 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta, Sol, Marcia, Starman (Kirby)
+7, 1 - Ribbon, Charlotta, Starman (Kirby)
 
 8, 1 - 
 
 9, 1 - Crazy Frog, Ristar, Agnes Tachyon,
 
 
-1, 2 - Mallow, Noronoro, 
+1, 2 - Mallow,
 
-2, 2 - Ame-Chan, 
+2, 2 - 
 
-3, 2 - Aru, Gwenpool, Doise, Aaa, Omochao, Juno,
+3, 2 - Gwenpool, Omochao, Juno,
 
-4, 2 - Spamton, Selferu, Jill Stingray, Joke Explainer,
+4, 2 - Spamton, Jill Stingray,
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon, Jean,
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon,
 
 6, 2 - Paper Mario, Alolan Ninetales,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, Inuki Mioda, Baron Von Bats,
+7, 2 - Warpstar Kirby, Laharl, Pomni, Ibuki Mioda, Baron Von Bats,
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
-9, 2 - Dark Rider Shadow, Rotom, 
+9, 2 - Dark Rider Shadow,
 
 
-1, 3 - Milla, Robo-Hood,
+1, 3 - Milla,
 
-2, 3 - Koopa, Fennec, Sara, Kamakama, Alice, Noise (bepiPack)
+2, 3 - Koopa, Fennec, Sara,
 
-3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Tagataga, Rei Ayanami, Klonoa, Retro Mario, Jamiro Quai,
+3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Rei Ayanami, Retro Mario, Jamiro Quai,
 
-4, 3 - Kermit, Aerith, Amitie,
+4, 3 - Kermit, Aerith,
 
-5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Adeleine, Reala, Mawile, 
+5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Reala, Mawile, 
 
-6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man, Hayasu, Semibot, Noel Vermillion,
+6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man,
 
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Shiho, Mijitsu, Roaring Knight,
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
-8, 3 - Ryuko, Spark, Scarlet, Spiderman, Ashura, Cactuar, Track Guy,
+8, 3 - Ryuko, Spiderman, Ashura, Cactuar, Track Guy, Metstli,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
 
-1, 4 - Andrew Oikonny, Remilia,
+1, 4 - Andrew Oikonny,
 
 2, 4 - Goomba, Scurry, Lucky,
 
-3, 4 - Haruka Amami, Sage, Lucas, Eunie, Eito Aotsuki, Lux,
+3, 4 - Haruka Amami, Sage, Lucas, Eunie, Lux,
 
 4, 4 - Conker, Geno, Plok, Rally,
 
-5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Achii, Yu,
+5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Yu Narukami,
 
-6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco
+6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco, Aisha Clan-Clan,
 
-7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Tsumugi, Wave the Swallow,
+7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Wave the Swallow,
 
-8, 4 - Spike, Saturn, Zero, Hopper, Somari, 
+8, 4 - Spike, Saturn, Somari, 
 
-9, 4 - Hornet, Noise, Jino-Chan, Xiaomu,
+9, 4 - Hornet, Noise, Jino-Chan,
 
 
 1, 5 - Pyra, Old Man Owl, Alcremie,
 
 2, 5 - 
 
-3, 5 - Prosperina, Reiko, Sumire Kanzaki, 
+3, 5 - Reiko, Sumire Kanzaki,
 
-4, 5 - Squidward, Doppel Arle, Butthead,
+4, 5 - Squidward, Butthead,
 
-5, 5 - Mario, Miso, Jake Freebird, Pisque, 
+5, 5 - Mario, Jake Freebird, Mako,
 
-6, 5 - Tifa, Diggle, Pauline, Steve, Fubuki,
+6, 5 - Tifa, Diggle, Fubuki,
 
-7, 5 - Jack-O', Sans, Wolf O'Donnell,
+7, 5 - Jack-O', Wolf O'Donnell,
 
-8, 5 - Guntz, Mario Tire, CD Sonic,
+8, 5 - Guntz, Mario Tire,
 
-9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite, Fiend, Mio,
-
-
-1, 6 - Kinger, Marx, Yadorin, Karyl, Eid, 
-
-2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Magister, 
-
-3, 6 - Link, Peppy, Papyrus, Birdo, Riamu Yumemi, Mikoto Utsugi, Colombo, Stocking,
-
-4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator, Kevin and Ries, Kirara,
-
-5, 6 - Jack Black, Beat, Ulala, Magnolia, Shantae (bepiPack),
-
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Anelace Elfead, Holo, Axel,
-
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Shou Amabane, Estelle and Joshua, Lololo & Lalala, Yang, The Penitent One,
-
-8, 6 - Yoshi, Alpha, Elphelt, Lady, Forecast,
-
-9, 6 - Captain Falcon, Meta Knight, Shiva, Funky Kong, Sho Minamimoto,
+9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
 
 
-1, 7 - Diavolo,
+1, 6 - Kinger, Marx,
 
-2, 7 - Agent Stone, Twintelle, Kanji,
+2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 
-3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace, Quote, Casual Koopa,
+3, 6 - Link, Peppy, Birdo, Riamu Yumemi, Colombo, Stocking,
 
-4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko, Mazinger Z,
+4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Josuke, Lythero, Gradriel, Bomberman/Bomberman Black, T.Celica,
+5, 6 - Jack Black, Beat, Ulala, Magnolia,
 
-6, 7 - Ramona, Aegis (Saturn), Red,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel,
 
-7, 7 - Fark, Cloud, Angel, Vector, Freddy Fazbear, Robo Mario, King Boo,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Lololo & Lalala, Yang, The Penitent One,
 
-8, 7 - Akira Nishikiyama, Dribbler, Curly, Ragna, Aegis, Rico Jr., Crisanta,
+8, 6 - Yoshi, Alpha, Elphelt, Lady,
 
-9, 7 - Peppino, Grounder, Catchan, Meteor Roller, Chiaki Nanami, Captain Falcon (Daeron Pack),
+9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto,
+
+
+1, 7 - 
+
+2, 7 - Agent Stone, Twintelle,
+
+3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace,
+
+4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
+
+5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
+
+6, 7 - Ramona, Red,
+
+7, 7 - Cloud, Angel, Vector, Freddy Fazbear,
+
+8, 7 - Akira Nishikiyama, Ragna, R Crisanta,
+
+9, 7 - Peppino, Grounder, Catchan, Captain Falcon (Daeron Pack),
 
 
 1, 8 - Homer Simpson, Ashe,
 
-2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman, The Voice Inside Your Head,
+2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
-3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy, Mob,
+3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy,
 
 4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
 
-5, 8 - Shrek, Mako, Cole Cassidy,
+5, 8 - Shrek, Cole Cassidy,
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Edward Glowstar, Hishi Akebono, Samus,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Samus,
 
-8, 8 - Wario, Dingodile, Guy Shishioh,
+8, 8 - Wario, Dingodile,
 
-9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga, Turkatron, 
+9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp, Moai, Mr. Stumpy, Hishi Akebono,
+1, 9 - Heavy TF2, Thwomp,
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
-3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound), Koopalings, 
+3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound),
 
-4, 9 - Hey Ho, RFM,
+4, 9 - 
 
-5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B, Mecha Knuckles, Kira, Smol Nozomi, 
+5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B,
 
-6, 9 - Redwood, Robo Ky,
+6, 9 - Redwood,
 
 7, 9 - King K.Rool, Marina, 
 
-8, 9 - Bowser, GUN Truck, Lord Brevon, Bowser Mech, Pecorine,
+8, 9 - Bowser, GUN Truck,
 
-9, 9 - Ring Max, Satan, Scrapnik Mecha Sonic, Dio,
+9, 9 - Ring Max, Satan, Dio,
 
 
 =====
@@ -182,33 +182,21 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.3
-
-Epic Cup Revival v1.3.1
+Thok Tracks v1.4a
 
 Bushmill Cup v1.2a
 
 Revenge of the Fuck Pack v1.1.1
 
-RLQ Rosen Raceways v1.1.66
-
-Super Striker GP v1.5.2
-
 Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack v8.4
+CAS Track Pack vAeroMoon part 1 and 2
 
 Frost Maps v5.2
 
 Abstract Maps v1.0.3
-
-GTKart2 CE v3
-
-Mk II Dead Pool v1c
-
-Double Gear Pack v3.1
 
 lizard pack v1.8.2
 
@@ -218,13 +206,11 @@ Kiritsu Pak v2.1
 
 Yellow Crocodile Cup v2.5
 
-Dead Line Redux v1.1
-
-Bacon Pack v1.0.2
-
 Noise's Toppin' Tumblers v1
 
 LOG MAPS V2
+
+Spindashpak RE-PAK V1.5maybe
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -313,6 +299,10 @@ Pestilence
 Darkvile Castle 1
 
 Dragonspire Sewer 2
+
+Espresso Lane
+
+Star Light Zone
 
 Death Egg
 
@@ -479,6 +469,12 @@ Solar Stroller
 
 Curien Mansion
 
+Eroding Eucalyptus
+
+Frutiger Aeropolis 2
+
+Media Studio 2
+
 
 ## Resized
 ----------
@@ -565,6 +561,18 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+2/13
+----
+
+"Sacrificing virgins to the volcano to pray for stability improvements" update.
+
+Characters - Added Aisha Clan-Clan and Metstli. Updated my Peppino to not longer horribly cannibalize the freeslots other stuff needs, updated Junio Sonic and Retro Mario. Removed Amitie, Doppelarle, Edward Glowstar, Gradriel, Proserpina, Funky Kong, Pauline, Hey Ho, Moai Alexandria, Sans, Papyrus, King Boo, Scrapnik Mecha sonic, Scrapnik Mecha Knuckles, Zero, Dribbler, Hopper, Kama-Kama, Noro-Noro, Penguinator, Sol, Taga-Taga, Taraban, Yadorin, Nahida, Xiaomu, Holo, Alice, Rico Jr., Kira, Kirara, Karyl, Pecorine, Mio, Fukua, Spark, Fark, Forecast, Josuke, Okuyasu, CD Sonic, Noel Vermillion, RFM, Aigis (Saturnpack), Sho Minamimoto, Kanji, Robo Ky, Shou Amabane, Miso, Mob, Shiho, Achiiro, Aegis (AchiiDev), Hayasu, Mijitsu, Scurry, Selferu, Steve, Noise (bepipack, not on-foot), Pisque, Remilia, Ame-Chan, Shantae (GBA Style), Smol Nozomi, Quote, Curly Brace, Rotom, Turkatron, Voice Inside Your Head, Chiaki, Eito, Tsumugi Shirogane, Guy Shishioh, Mazinger Z, Mikoto Utsugi, Bowser's Mech, Jean, Koopalings, Marcia, Miifiend, Profreshional, Robo Mario, Anelace, Estelle & Joshua, Kevin & Ries, Semi-bot, Aaa, Askal, Lord Brevon, Magister, Merga, Meteor Roller, Mr. Stumpy, Zao.
+
+Maps - Re-added Spindashpak. Updated CAS Tracks. Removed several map packs that had most of their maps blacklisted anyway to hopefully improve overall server stability (Rosen Raceways, Cas Tracks part 3, Epic Cup Revival, Dead Line Redux, MKII Dead Pool, GTKart2, Bacon Pack, Double Gear Pack, Super Striker GP.) Also removed Toppin' Tumblers temporarily to see if it was causing some stability issues of its own. Blacklisted Espresso Lane, Star Light Zone, Frutiger Aeropolis 2, and Media Studio 2.
+
+Other - Re-added hitlist now that it has gotten a fix. Removed Intermission music. Removed the Family Guy hummer guy horns to keep Jalene from having a stroke and removed some of my own horns too. Hopefully made the code for extra speeds a little more optimized.
+
 
 2/6
 ----

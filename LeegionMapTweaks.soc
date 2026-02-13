@@ -1,17 +1,5 @@
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
-Level RR_EspressoLane
-Levelname = Espresso Lane
-NumLaps = 3
-TypeOfLevel = Race
-Music = ESLAZ
-SkyTexture = SKY265
-Weather = PRECIP_SNOW
-MobjScale = 10*FRACUNIT/24
-Skyboxscale = 4
-EncoreLightAngle = 90
-EncoreLightContrast = 80
-
 Level RR_LakeMargorite
 LevelName = Lake Margorite
 TypeOfLevel = Race
@@ -587,3 +575,17 @@ Lua.PT_SplashArt = ptpst1
 Lua.PT_SplashText = ptpst2
 Lua.PT_TextPos = 16,4
 Lua.PT_Jingle = sfx_PZSCTC
+
+Level SP_VERMILLIONRIG
+LevelName = Vermillion Rig
+TypeOfLevel = Race
+SkyTexture = SKY4644
+NoVisitNeeded = True
+PositionMusic = JOYPOS
+AssociatedMusic = NGMW
+NumLaps = 2
+Music = NGM
+SkyboxScale = 0
+MobjScale = FRACUNIT*1/4
+EncoreMusic = BKBROD
+LightAngle = 180

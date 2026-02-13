@@ -555,6 +555,31 @@ Darkness = -0.25
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_StarLight
+LevelName = Star Light
+Music = STLIZ
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+SkyTexture = ~031
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_EspressoLane
+Levelname = Espresso Lane
+NumLaps = 3
+TypeOfLevel = Race
+Music = ESLAZ
+SkyTexture = SKY265
+Weather = PRECIP_SNOW
+MobjScale = 10*FRACUNIT/24
+Skyboxscale = 4
+EncoreLightAngle = 90
+EncoreLightContrast = 80
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -1727,6 +1752,35 @@ SkyTexture = EE_BOX1
 Music = LOGEE0,LOGEE1,LOGEE2
 MobjScale = FRACUNIT/4
 Darkness = 0.10
+Hidden = True
+
+Level LAS_FrutigerAeropolis2
+LevelName = Frutiger
+ZoneTitle = Aeropolis
+Act = 2
+NoVisitNeeded = True
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = OPUBG02
+SkyboxScale = 64
+PositionMusic = FAERI2
+Music = FAEROV,FAEROQ,FAEROS
+LightContrast = 0
+LightAngle = 10
+Mobjscale = FRACUNIT/3
+Hidden = True
+
+Level LOG_MediaStudio2
+NoVisitNeeded = True
+LevelName = Media
+ZoneTitle = Studio
+Act = 2
+TypeOfLevel = Race
+Music = LOGMS2
+SkyTexture = MSSTARS
+MobjScale = FRACUNIT*1/6
+LightAngle = 270
+LightContrast = 48
 Hidden = True
 
 Level DRTR_HouseOfTheUndying
