@@ -75,7 +75,7 @@
 
 8, 4 - Spike, Saturn, Somari, 
 
-9, 4 - Hornet, Noise, Jino-Chan,
+9, 4 - Hornet, Noise, Jino-Chan, Yuuko Aioi,
 
 
 1, 5 - Pyra, Old Man Owl, Alcremie,
@@ -575,7 +575,7 @@ Pizzascape (less, 2 laps)
 2/20
 ----
 
-Characters - Added Haruko Haruhara and Maka Albarn. Removed Red, Kaiser Greedy, and Samus. Re-added Doppel Arle. Enabled the taunt button on my Peppino (got clearance to use the code.)
+Characters - Added Haruko Haruhara, Yuuko Aioi, and Maka Albarn. Removed Red, Kaiser Greedy, and Samus. Re-added Doppel Arle. Enabled the taunt button on my Peppino (got clearance to use the code.)
 
 Maps - Updated CAS Tracks and THOKTRACKS. Blacklisted Sky Babylon, Indierock Rally, Heavenly Halls, and BSOD Ring. Re-added Toppin' Tumblers (may or may not have been a primary culprit in the hitching of weeks past.)
 
