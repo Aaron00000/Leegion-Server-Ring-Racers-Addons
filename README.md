@@ -37,7 +37,7 @@
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
-9, 2 - Dark Rider Shadow,
+9, 2 - Dark Rider Shadow, Haruko Haruhara,
 
 
 1, 3 - Milla,
@@ -84,7 +84,7 @@
 
 3, 5 - Reiko, Sumire Kanzaki,
 
-4, 5 - Squidward, Butthead,
+4, 5 - Squidward, Butthead, Doppel Arle,
 
 5, 5 - Mario, Jake Freebird, Mako,
 
@@ -126,7 +126,7 @@
 
 5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
 
-6, 7 - Ramona, Red,
+6, 7 - Ramona,
 
 7, 7 - Cloud, Angel, Vector, Freddy Fazbear,
 
@@ -139,7 +139,7 @@
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
-3, 8 - DK JR., Shovel Knight, Pigma, Kaiser Greedy,
+3, 8 - DK JR., Shovel Knight, Pigma,
 
 4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
 
@@ -147,14 +147,14 @@
 
 6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man, Askal, Samus,
+7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
 
 8, 8 - Wario, Dingodile,
 
 9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp,
+1, 9 - Heavy TF2, Thwomp, Moai Alexandria, 
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
@@ -182,7 +182,7 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.4a
+Thok Tracks v1.4b
 
 Bushmill Cup v1.2a
 
@@ -211,6 +211,8 @@ Noise's Toppin' Tumblers v1
 LOG MAPS V2
 
 Spindashpak RE-PAK V1.5maybe
+
+Toppin' Tumblers
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -303,6 +305,8 @@ Dragonspire Sewer 2
 Espresso Lane
 
 Star Light Zone
+
+Sky Babylon
 
 Death Egg
 
@@ -475,6 +479,12 @@ Frutiger Aeropolis 2
 
 Media Studio 2
 
+Indierock Rally
+
+BSOD Ring
+
+Heavenly Halls (loud as hell intro music)
+
 
 ## Resized
 ----------
@@ -562,12 +572,22 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+2/20
+----
+
+Characters - Added Haruko Haruhara. Removed Red, Kaiser Greedy, and Samus. Re-added Doppel Arle. Enabled the taunt button on my Peppino (got clearance to use the code.)
+
+Maps - Updated CAS Tracks and THOKTRACKS. Blacklisted Sky Babylon, Indierock Rally, Heavenly Halls, and BSOD Ring. Re-added Toppin' Tumblers (may or may not have been a primary culprit in the hitching of weeks past.)
+
+Other - Added a file that hopefully clears out some more freeslots for other addons. Made the "More Gears" file print a message in chat saying to turn on Gear 3 if Gear 3 isn't already on.
+
+
 2/13
 ----
 
 "Sacrificing virgins to the volcano to pray for stability improvements" update.
 
-Characters - Added Aisha Clan-Clan and Metstli. Updated my Peppino to not longer horribly cannibalize the freeslots other stuff needs, updated Junio Sonic and Retro Mario. Removed Amitie, Doppelarle, Edward Glowstar, Gradriel, Proserpina, Funky Kong, Pauline, Hey Ho, Moai Alexandria, Sans, Papyrus, King Boo, Scrapnik Mecha sonic, Scrapnik Mecha Knuckles, Zero, Dribbler, Hopper, Kama-Kama, Noro-Noro, Penguinator, Sol, Taga-Taga, Taraban, Yadorin, Nahida, Xiaomu, Holo, Alice, Rico Jr., Kira, Kirara, Karyl, Pecorine, Mio, Fukua, Spark, Fark, Forecast, Josuke, Okuyasu, CD Sonic, Noel Vermillion, RFM, Aigis (Saturnpack), Sho Minamimoto, Kanji, Robo Ky, Shou Amabane, Miso, Mob, Shiho, Achiiro, Aegis (AchiiDev), Hayasu, Mijitsu, Scurry, Selferu, Steve, Noise (bepipack, not on-foot), Pisque, Remilia, Ame-Chan, Shantae (GBA Style), Smol Nozomi, Quote, Curly Brace, Rotom, Turkatron, Voice Inside Your Head, Chiaki, Eito, Tsumugi Shirogane, Guy Shishioh, Mazinger Z, Mikoto Utsugi, Bowser's Mech, Jean, Koopalings, Marcia, Miifiend, Profreshional, Robo Mario, Anelace, Estelle & Joshua, Kevin & Ries, Semi-bot, Aaa, Askal, Lord Brevon, Magister, Merga, Meteor Roller, Mr. Stumpy, Zao.
+Characters - Added Aisha Clan-Clan and Metstli. Updated my Peppino to not longer horribly cannibalize the freeslots other stuff needs, updated Junio Sonic and Retro Mario. Removed Amitie, Doppelarle, Edward Glowstar, Gradriel, Proserpina, Funky Kong, Pauline, Hey Ho, Sans, Papyrus, King Boo, Scrapnik Mecha sonic, Scrapnik Mecha Knuckles, Zero, Dribbler, Hopper, Kama-Kama, Noro-Noro, Penguinator, Sol, Taga-Taga, Taraban, Yadorin, Nahida, Xiaomu, Holo, Alice, Rico Jr., Kira, Kirara, Karyl, Pecorine, Mio, Fukua, Spark, Fark, Forecast, Josuke, Okuyasu, CD Sonic, Noel Vermillion, RFM, Aigis (Saturnpack), Sho Minamimoto, Kanji, Robo Ky, Shou Amabane, Miso, Mob, Shiho, Achiiro, Aegis (AchiiDev), Hayasu, Mijitsu, Scurry, Selferu, Steve, Noise (bepipack, not on-foot), Pisque, Remilia, Ame-Chan, Shantae (GBA Style), Smol Nozomi, Quote, Curly Brace, Rotom, Turkatron, Voice Inside Your Head, Chiaki, Eito, Tsumugi Shirogane, Guy Shishioh, Mazinger Z, Mikoto Utsugi, Bowser's Mech, Jean, Koopalings, Marcia, Miifiend, Profreshional, Robo Mario, Anelace, Estelle & Joshua, Kevin & Ries, Semi-bot, Aaa, Askal, Lord Brevon, Magister, Merga, Meteor Roller, Mr. Stumpy, Zao.
 
 Maps - Re-added Spindashpak. Updated CAS Tracks. Removed several map packs that had most of their maps blacklisted anyway to hopefully improve overall server stability (Rosen Raceways, Cas Tracks part 3, Epic Cup Revival, Dead Line Redux, MKII Dead Pool, GTKart2, Bacon Pack, Double Gear Pack, Super Striker GP.) Also removed Toppin' Tumblers temporarily to see if it was causing some stability issues of its own. Blacklisted Espresso Lane, Star Light Zone, Frutiger Aeropolis 2, and Media Studio 2.
 

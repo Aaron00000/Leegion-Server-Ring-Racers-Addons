@@ -580,6 +580,19 @@ EncoreLightContrast = 80
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_SkyBabylon
+LevelName = Sky Babylon
+TypeOfLevel = Race
+MobjScale = FRACUNIT/4
+NumLaps = 4
+SkyTexture = sky755
+Music = SKBAZ
+Darkness = -0.25
+LightContrast = 32
+LightAngle = 315
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -1781,6 +1794,53 @@ SkyTexture = MSSTARS
 MobjScale = FRACUNIT*1/6
 LightAngle = 270
 LightContrast = 48
+Hidden = True
+
+Level KP_IndierockRally
+LevelName = Indierock Rally
+Weather = PRECIP_CONFETTI
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = INDIESKY
+SkyBoxScale = 64
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 16
+Music = SILNT
+PositionMusic = KPPOS
+AssociatedMusic = SMTLC,SCKHCK,BOCCHI
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
+Level CAS_BSODRing
+LevelName = BSOD
+ZoneTitle = Ring
+TypeofLevel = Race
+NumLaps = 12
+SkyTexture = ~135
+SkyboxScale = 64
+PositionMusic = CASINT
+Music = BSODP
+EncoreMusic = BSODE
+Mobjscale = FRACUNIT/3
+LightContrast = 10
+NoVisitNeeded = True
+Hidden = True
+
+Level MDT_Track3
+LevelName = Heavenly
+ZoneTitle = Halls
+TypeOfLevel = Race
+NumLaps = 2
+Music = EOSHIV,K64L6
+PositionMusic = MDTST
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+Skytexture = OSKY38
+NoVisitNeeded = True
 Hidden = True
 
 Level DRTR_HouseOfTheUndying
