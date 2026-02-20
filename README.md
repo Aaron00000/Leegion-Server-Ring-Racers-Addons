@@ -579,7 +579,7 @@ Characters - Added Haruko Haruhara. Removed Red, Kaiser Greedy, and Samus. Re-ad
 
 Maps - Updated CAS Tracks and THOKTRACKS. Blacklisted Sky Babylon, Indierock Rally, Heavenly Halls, and BSOD Ring. Re-added Toppin' Tumblers (may or may not have been a primary culprit in the hitching of weeks past.)
 
-Other - Added a file that hopefully clears out some more freeslots for other addons. Made the "More Gears" file print a message in chat saying to turn on Gear 3 if Gear 3 isn't already on.
+Other - Added a lua that hopefully clears out some more freeslots for other addons. Made the "More Gears" file print a message in chat saying to turn on Gear 3 if Gear 3 isn't already on. Added some animated palettes and more Sanic horns.
 
 
 2/13
