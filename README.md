@@ -31,7 +31,7 @@
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon,
 
-6, 2 - Paper Mario, Alolan Ninetales,
+6, 2 - Paper Mario, Alolan Ninetales, Maka Albarn,
 
 7, 2 - Warpstar Kirby, Laharl, Pomni, Ibuki Mioda, Baron Von Bats,
 
@@ -575,7 +575,7 @@ Pizzascape (less, 2 laps)
 2/20
 ----
 
-Characters - Added Haruko Haruhara. Removed Red, Kaiser Greedy, and Samus. Re-added Doppel Arle. Enabled the taunt button on my Peppino (got clearance to use the code.)
+Characters - Added Haruko Haruhara and Maka Albarn. Removed Red, Kaiser Greedy, and Samus. Re-added Doppel Arle. Enabled the taunt button on my Peppino (got clearance to use the code.)
 
 Maps - Updated CAS Tracks and THOKTRACKS. Blacklisted Sky Babylon, Indierock Rally, Heavenly Halls, and BSOD Ring. Re-added Toppin' Tumblers (may or may not have been a primary culprit in the hitching of weeks past.)
 
