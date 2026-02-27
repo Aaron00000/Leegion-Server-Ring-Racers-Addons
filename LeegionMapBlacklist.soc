@@ -1843,6 +1843,62 @@ Skytexture = OSKY38
 NoVisitNeeded = True
 Hidden = True
 
+Level PJP_GnomeForest
+LevelName = Gnome
+TypeofLevel = Race
+ZoneTitle = Forest
+NoVisitNeeded = True
+SkyTexture = PIT
+Music = GNMFRS
+NumLaps = 1
+MobjScale = FRACUNIT*25/100
+LightAngle = 24
+LightContrast = 32
+PositionMusic = PJPF3P
+SkyboxScaleZ = 0
+Lua.PT_SplashArt = DGGFRTTC
+Lua.PT_SplashText = DGGFTTC2
+Lua.PT_TextPos = 32,26
+Lua.PT_Jingle = sfx_GFRTTC
+Lua.PT_WoodBox = forest
+Hidden = True
+
+Level PJP_WAR
+LevelName = WAR
+TypeOfLevel = Race
+NumLaps = 2
+LapsPerSection = 1
+Music = KMAPL7
+MobjScale = FRACUNIT*50/100
+SkyTexture = SKY2002
+NoZone = True
+NoVisitNeeded = True
+PositionMusic = No
+LightContrast = 24
+Lua.PT_SplashArt = wartitl1
+Lua.PT_SplashText = wartitl2
+Lua.PT_TextPos = 6,6
+Lua.PT_Jingle = sfx_WART1T
+Lua.warTimer = true
+Lua.warTimeTotal = 150
+Lua.warTimerLapGained = 95
+Lua.warTimerBoxGained = 10
+Hidden = True
+
+Level LZ_uni2hell
+LevelName = UNI2 HELL
+nozone = true
+TypeOfLevel = Race
+Music = LUNI2H
+PositionMusic = LZINTR
+SkyTexture = LUNI2HS
+LightContrast = 38
+Lightangle = 270
+skyboxscale = 7
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying

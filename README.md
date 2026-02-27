@@ -198,13 +198,13 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v1.8.2
+lizard pack v2 RC1
 
 Pro Pack X 2.1.2
 
 Kiritsu Pak v2.1
 
-Yellow Crocodile Cup v2.5
+Yellow Crocodile Cup v2.6
 
 Noise's Toppin' Tumblers v1
 
@@ -213,6 +213,8 @@ LOG MAPS V2
 Spindashpak RE-PAK V1.5maybe
 
 Toppin' Tumblers
+
+Shark Pack v1.2.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -485,6 +487,12 @@ BSOD Ring
 
 Heavenly Halls (loud as hell intro music)
 
+Gnome Forest
+
+WAR
+
+UNI2 HELL
+
 
 ## Resized
 ----------
@@ -571,6 +579,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+2/27
+----
+
+Characters - Hopefully fixed an issue with Peppino's taunt button causing server resyncs.
+
+Maps - Re-added Sharkpack, updated Yellow Crocodile Cup and lizardpak. Blacklisted Gnome Forest and War.
+
+Other - Removed the hitfeed and freeslot luas since they were royally screwing things up. Added a few more animated palettes and fixed the rainbow palette not showing up. Added a few more horns. Added some more nonsense to the alternate speed shenanigans.
+
 
 2/20
 ----
