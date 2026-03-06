@@ -90,7 +90,7 @@
 
 6, 5 - Tifa, Diggle, Fubuki,
 
-7, 5 - Jack-O', Wolf O'Donnell,
+7, 5 - Jack-O', Wolf O'Donnell, Chie Satonaka,
 
 8, 5 - Guntz, Mario Tire,
 
@@ -198,7 +198,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v2 RC1
+lizard pack v2
 
 Pro Pack X 2.1.2
 
@@ -579,6 +579,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+3/6
+----
+
+Characters - Added the Iron Giant and Chie Satonaka.
+
+Maps - Updated lizard pack. Actually made Vermillion Rig two laps instead of twenty like a lobotomite. Blacklisted Octopus Festival.
+
+Other - More horns.
+
 
 2/27
 ----
