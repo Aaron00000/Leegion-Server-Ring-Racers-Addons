@@ -252,7 +252,7 @@ Hidden = True
 Level RR_PicoPark
 LevelName = Peta Park
 TypeOfLevel = Race
-NumLaps = 24
+NumLaps = 12
 SkyTexture = CLSPBG06
 Music = PIPAZ
 Mobjscale = FRACUNIT*25/500
@@ -1298,6 +1298,31 @@ NumLaps = 1
 LightAngle = 270
 Music = SSTAR9
 LightContrast = 80
+NoVisitNeeded = True
+Hidden = True
+
+Level HNC_WaffleHouse
+LevelName = Waffle House
+TypeOfLevel = Race
+SkyTexture = SKY1
+NumLaps = 5
+Music = GNFAWF
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HNC_HardwareStore
+LevelName = Hardware Store
+TypeOfLevel = Race
+SkyTexture = SKY1
+NumLaps = 4
+Music = HSZ
+EncoreMusic = HSZE
+PositionMusic = HSZINT
+LightAngle = 135
+LightContrast = 64
+SkyboxScale = 4
+MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 

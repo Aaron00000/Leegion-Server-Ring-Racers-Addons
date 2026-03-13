@@ -186,7 +186,7 @@ Thok Tracks v1.4b
 
 Bushmill Cup v1.2a
 
-Revenge of the Fuck Pack v1.1.1
+Revenge of the Fuck Pack v2
 
 Draft Tracks v6.1
 
@@ -497,6 +497,8 @@ UNI2 HELL
 ## Resized
 ----------
 
+Darkvile Castle 2 (bigger)
+
 Espresso Lane (bigger)
 
 Skyscraper Leaps (bigger)
@@ -579,6 +581,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+3/13
+----
+
+Characters - Made the Iron Giant actually as wide as he appears. (Hopefully) quashed the last lua issue with Peppino.
+
+Maps - Updated FuckPak. Made Darkvile Castle 2 slightly bigger. Blacklisted Waffle House and Hardware Store for being untextured.
+
+Other - Hopefully optimized the code for the speed shenanigans. Also horns.
+
 
 3/6
 ----

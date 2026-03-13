@@ -1,5 +1,19 @@
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
+Level RR_DarkvileCastle2
+LevelName = Darkvile Castle
+Act = 2
+TypeOfLevel = Race
+NumLaps = 4
+MobjScale = 42*FRACUNIT/100
+DefaultWaypointRadius = 192*FRACUNIT
+SkyTexture = DVSKY
+Weather = PRECIP_RAIN
+Music = DACAZ2
+SkyboxScale = 32
+Darkness = -0.25
+
+
 Level RR_LakeMargorite
 LevelName = Lake Margorite
 TypeOfLevel = Race
