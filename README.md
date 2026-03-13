@@ -210,7 +210,7 @@ Noise's Toppin' Tumblers v1
 
 LOG MAPS V2
 
-Spindashpak RE-PAK V1.5maybe
+Spindashpak RE-PAK V1.5butbetter
 
 Toppin' Tumblers
 
@@ -587,9 +587,9 @@ Pizzascape (less, 2 laps)
 
 Characters - Made the Iron Giant actually as wide as he appears. (Hopefully) quashed the last lua issue with Peppino.
 
-Maps - Updated FuckPak. Made Darkvile Castle 2 slightly bigger. Blacklisted Waffle House and Hardware Store for being untextured.
+Maps - Updated FuckPak and Spindashpak. Made Darkvile Castle 2 slightly bigger. Blacklisted Waffle House and Hardware Store for being untextured.
 
-Other - Hopefully optimized the code for the speed shenanigans. Also horns.
+Other - Hopefully optimized the code for the speed shenanigans for better performance. Also horns.
 
 
 3/6
