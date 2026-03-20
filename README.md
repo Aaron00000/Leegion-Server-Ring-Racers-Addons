@@ -601,7 +601,7 @@ Characters - Added Trigger-Chan, Sailor Mercury, and Sailor Venus. Fixed the Iro
 
 Maps - Blacklisted Violet Vessel, Extreme Slope Drive, Terror Trench, and Fabrikenzone. Made sure Waffle House and Hardware Store were blacklisted.
 
-Other - Tweaked the volume on a couple horns added last week, added yet more horns.
+Other - Tweaked the volume on a couple horns added last week, added yet more horns. Set the delay limit to the maximum for connections.
 
 
 3/13
