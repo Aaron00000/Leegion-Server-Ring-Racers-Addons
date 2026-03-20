@@ -1228,104 +1228,6 @@ LightAngle = 45
 NoVisitNeeded = True
 Hidden = True
 
-Level HYM_UNISTHell
-LevelName = Melty Manor
-ZoneTitle = -Again-
-EncoreMusic = NAHR
-Music = MMNAH
-TypeOfLevel = RACE
-NumLaps = 5
-SkyTexture = SKY87
-MobjScale = FRACUNIT/4
-Followers = Chao
-Darkness = 0.5
-NoVisitNeeded = True
-Hidden = True
-
-Level HYD_BlizzardClassicer
-LevelName = Blizzard Peaks
-Act = 2
-Music = BLCAZ
-TypeOfLevel = RACE
-NumLaps = 3
-Weather = PRECIP_SNOW
-SkyTexture = ~130
-SkyboxScaleZ = 0
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level HYOF_BlueSphereLand
-LevelName = Blue Sphere
-ZoneTitle = Land
-TypeOfLevel = Race
-SkyTexture = BSLSKY1
-Music = BSLND
-MobjScale = FRACUNIT/4
-Darkness = 0.5
-NoVisitNeeded = True
-Hidden = True
-
-Level HAYA_NakayamaRC
-LevelName = Ascension
-Act = 1
-NoZone = 1
-MenuTitle = Nakayama
-TypeOfLevel = Special
-NumLaps = 1
-SkyTexture = SSSKY00
-LightAngle = 270
-LightContrast = 80
-Mobjscale = FRACUNIT/4
-Music = UMAG1
-EncoreMusic = UMAAK
-SkyboxScale = 2
-AssociatedMusic = UMAG1F,UMAAKF
-NoVisitNeeded = True
-Hidden = True
-
-Level HYSS_Ascension
-MenuTitle = Ascension
-LevelName = Divine Kaizo
-Act = 1
-NoZone = True
-SectionRace = True
-TypeOfLevel = Special
-MobjScale = 1*FRACUNIT/4
-SkyBoxScale = 0
-SkyTexture = SSSKY00
-NumLaps = 1
-LightAngle = 270
-Music = SSTAR9
-LightContrast = 80
-NoVisitNeeded = True
-Hidden = True
-
-Level HNC_WaffleHouse
-LevelName = Waffle House
-TypeOfLevel = Race
-SkyTexture = SKY1
-NumLaps = 5
-Music = GNFAWF
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level HNC_HardwareStore
-LevelName = Hardware Store
-TypeOfLevel = Race
-SkyTexture = SKY1
-NumLaps = 4
-Music = HSZ
-EncoreMusic = HSZE
-PositionMusic = HSZINT
-LightAngle = 135
-LightContrast = 64
-SkyboxScale = 4
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
 Level PP_SimpleCircuit
 LevelName = Simple Circuit
 TypeOfLevel = Race
@@ -1948,6 +1850,142 @@ Music = UNDRBN,KMAPLQ
 MobjScale = FRACUNIT/4
 SkyTexture = ~031
 LightContrast = 24
+NoVisitNeeded = True
+Hidden = True
+
+level LZ_DEVCOMMENTS
+NoVisitNeeded = True
+Hidden = True
+
+Level HYM_UNISTHell
+LevelName = Melty Manor
+ZoneTitle = -Again-
+EncoreMusic = NAHR
+Music = MMNAH
+TypeOfLevel = RACE
+NumLaps = 5
+SkyTexture = SKY87
+MobjScale = FRACUNIT/4
+Followers = Chao
+Darkness = 0.5
+NoVisitNeeded = True
+Hidden = True
+
+Level HYD_BlizzardClassicer
+LevelName = Blizzard Peaks
+Act = 2
+Music = BLCAZ
+TypeOfLevel = RACE
+NumLaps = 3
+Weather = PRECIP_SNOW
+SkyTexture = ~130
+SkyboxScaleZ = 0
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HYOF_BlueSphereLand
+LevelName = Blue Sphere
+ZoneTitle = Land
+TypeOfLevel = Race
+SkyTexture = BSLSKY1
+Music = BSLND
+MobjScale = FRACUNIT/4
+Darkness = 0.5
+NoVisitNeeded = True
+Hidden = True
+
+Level HAYA_NakayamaRC
+LevelName = Ascension
+Act = 1
+NoZone = 1
+MenuTitle = Nakayama
+TypeOfLevel = Special
+NumLaps = 1
+SkyTexture = SSSKY00
+LightAngle = 270
+LightContrast = 80
+Mobjscale = FRACUNIT/4
+Music = UMAG1
+EncoreMusic = UMAAK
+SkyboxScale = 2
+AssociatedMusic = UMAG1F,UMAAKF
+NoVisitNeeded = True
+Hidden = True
+
+Level GACK_TerrorTrench
+LevelName = Terror Trench
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 2
+SkyTexture = GKTTSKY
+Music = GKWHLE
+EncoreMusic = GKWHLE
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level PZZ_Fabrikenzone
+LevelName = Fabrikenzone
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~150
+Music = MK2FB
+Mobjscale = FRACUNIT*33/100
+LightContrast = 0
+LightAngle = 90
+NoZone = 1
+NoVisitNeeded = True
+Hidden = True
+
+Level HNC_WaffleHouse
+LevelName = Waffle House
+TypeOfLevel = Race
+SkyTexture = SKY1
+NumLaps = 5
+Music = GNFAWF
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HNC_HardwareStore
+LevelName = Hardware Store
+TypeOfLevel = Race
+SkyTexture = SKY1
+NumLaps = 4
+Music = HSZ
+EncoreMusic = HSZE
+PositionMusic = HSZINT
+LightAngle = 135
+LightContrast = 64
+SkyboxScale = 4
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level HYM_Townsville
+LevelName = Violet Vessel
+TypeOfLevel = RACE
+NumLaps = 4
+SkyTexture = MESKY0
+MUSIC = TWRCZ
+Weather = PRECIP_STORM
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
+NoVisitNeeded = True
+Hidden = True
+
+LEVEL HAYA_ExtremeSlopeDrive
+LevelName = Extreme Slope
+ZoneTitle = Drive
+TypeOfLevel = Race
+NumLaps = 3
+Music = MAPXLM
+EncoreMusic = EMAPUC
+SkyboxScaleX = 32
+SkyboxScaleY = 32
+SkyboxScaleZ = 32
+MobjScale = 7*FRACUNIT/9
 NoVisitNeeded = True
 Hidden = True
 

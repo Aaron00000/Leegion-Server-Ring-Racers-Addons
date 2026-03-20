@@ -33,7 +33,7 @@
 
 6, 2 - Paper Mario, Alolan Ninetales, Maka Albarn,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, Ibuki Mioda, Baron Von Bats,
+7, 2 - Warpstar Kirby, Laharl, Pomni, Ibuki Mioda, Baron Von Bats, Trigger-Chan.
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
@@ -44,7 +44,7 @@
 
 2, 3 - Koopa, Fennec, Sara,
 
-3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Rei Ayanami, Retro Mario, Jamiro Quai,
+3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith,
 
@@ -65,7 +65,7 @@
 
 3, 4 - Haruka Amami, Sage, Lucas, Eunie, Lux,
 
-4, 4 - Conker, Geno, Plok, Rally,
+4, 4 - Conker, Geno, Plok, Rally, Sailor Venus, 
 
 5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Yu Narukami,
 
@@ -361,6 +361,14 @@ Blue Sphere Land
 
 Desert Bus
 
+Waffle House
+
+Hardware Store
+
+Violet Vessel
+
+Extreme Slope Drive
+
 Port Aurora
 
 Death Chamber
@@ -493,6 +501,10 @@ WAR
 
 UNI2 HELL
 
+Fabrikenzone
+
+Terror Trench
+
 
 ## Resized
 ----------
@@ -581,6 +593,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+3/20
+----
+
+Characters - Added Trigger-Chan, Sailor Mercury, and Sailor Venus. Fixed the Iron Giant's shadow.
+
+Maps - Blacklisted Violet Vessel, Extreme Slope Drive, Terror Trench, and Fabrikenzone. Made sure Waffle House and Hardware Store were blacklisted.
+
+Other - Tweaked the volume on a couple horns added last week, added yet more horns.
+
 
 3/13
 ----

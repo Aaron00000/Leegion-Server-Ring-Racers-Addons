@@ -13,7 +13,6 @@ Music = DACAZ2
 SkyboxScale = 32
 Darkness = -0.25
 
-
 Level RR_LakeMargorite
 LevelName = Lake Margorite
 TypeOfLevel = Race
