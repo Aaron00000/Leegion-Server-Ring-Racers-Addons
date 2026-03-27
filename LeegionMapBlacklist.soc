@@ -593,6 +593,20 @@ LightAngle = 315
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_TechnologyTundra
+LevelName = Technology
+ZoneTitle = Tundra
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = TUNDSKY
+Music = TETUZ
+Weather = 2
+MobjScale = 10*FRACUNIT/44
+LightContrast = 24
+LightAngle = 90
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -1538,53 +1552,6 @@ Followers = Chao
 CameraHeight = 140
 Hidden = True
 
-Level RUB_ToxicCaves
-NoVisitNeeded = True
-LevelName = Toxic
-ZoneTitle = Caves
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY4239
-Music = TXCV1
-AssociatedMusic = TXCV3
-SkyboxScale = 8*FRACUNIT
-MobjScale = 1*FRACUNIT/2
-Weather = 0
-Darkness = 0.75
-Lua.toxiccaves = true
-Lua.Ruber = true
-Hidden = True
-
-Level RUB_TwinkleCart
-NoVisitNeeded = True
-LevelName = Twinkle
-ZoneTitle = Cart
-TypeOfLevel = Race
-NumLaps = 1
-SkyTexture = TP_NBG1
-Music = KMAP14
-SkyboxScale = 1*FRACUNIT
-MobjScale = 4*FRACUNIT/10
-Darkness = 0.75
-Lua.Ruber = true
-Hidden = True
-
-Level RUB_wishingwonders
-NoVisitNeeded = True
-LevelName = Wishing
-ZoneTitle = Wonders
-TypeOfLevel = Race
-NumLaps = 3
-SkyboxScale = 11*FRACUNIT/10
-SkyTexture = WISH_SKY
-Music = WISHW1,WISHW3,WISHW2
-MobjScale = 9*FRACUNIT/40
-Weather = PRECIP_SPARKLES
-Darkness = 1
-Lua.Ruber = true
-Lua.wishingwonders = true
-Hidden = True
-
 Level RUB_DeathChamberR
 NoVisitNeeded = True
 LevelName = Death
@@ -1601,53 +1568,19 @@ Lua.Ruber = true
 Lua.deathchamber = true
 Hidden = True
 
-Level RUB_hologramhypogeum
+Level RUB_Audiopolis
 NoVisitNeeded = True
-LevelName = Hologram
-ZoneTitle = Hypogeum
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY177
-Music = HOHYP1,HOHYP2
-SkyboxScale = 12*FRACUNIT
-MobjScale = 7*FRACUNIT/20
-Darkness = 0.75
-Lua.Ruber = true
-Lua.hologramhypogeum = true
-Hidden = True
-
-Level RUB_PleasureCastle
-NoVisitNeeded = True
-LevelName = Pleasure
-ZoneTitle = Castle
+LevelName = Audiopolis
 TypeOfLevel = Race
 NumLaps = 3
 SkyTexture = TP_NBG1
-Music = PLEAS1,PLEAS2,PLEAS3
-SkyboxScale = 4*FRACUNIT
-MobjScale = 1*FRACUNIT/4
+Music = AUDPL1,AUDPL2
+SkyboxScale = 1*FRACUNIT
+MobjScale = 5*FRACUNIT/16
 LightAngle = 0
 LightContrast = 16
-#Weather = PRECIP_CONFETTI
 Darkness = 0.75
 Lua.Ruber = true
-Lua.pleasurecastle = true
-Hidden = True
-
-Level RUB_SolarStroller
-NoVisitNeeded = True
-LevelName = Solar
-ZoneTitle = Stroller
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY4239
-Music = SOLAR1,SOLAR2
-SkyboxScale = 0.15
-MobjScale = 2*FRACUNIT/9
-Weather = 0
-Darkness = 0.75
-Lua.Ruber = true
-Lua.solarstroller = true
 Hidden = True
 
 Level BCN_CurienMansion

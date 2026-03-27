@@ -30,18 +30,6 @@ MobjScale = 10*FRACUNIT/55
 SKYBOXSCALE = 20
 Music = SKLEZ
 
-Level RR_TechnologyTundra
-LevelName = Technology
-ZoneTitle = Tundra
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = TUNDSKY
-Music = TETUZ
-Weather = 2
-MobjScale = 10*FRACUNIT/44
-LightContrast = 24
-LightAngle = 90
-
 Level PP_GreatGalleon
 LevelName = Great Galleon
 TypeOfLevel = Race
@@ -602,3 +590,219 @@ SkyboxScale = 0
 MobjScale = FRACUNIT*1/4
 EncoreMusic = BKBROD
 LightAngle = 180
+
+
+# ruberpack beta empty music fixes #
+
+Level RUB_bubblebayside
+NoVisitNeeded = True
+LevelName = Bubble
+ZoneTitle = Bayside
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKYBFORT
+LightContrast = 64
+LightAngle = 315
+Music = BUBAY1
+SkyboxScale = 16*FRACUNIT
+MobjScale = FRACUNIT/2
+Darkness = 1
+Lua.Ruber = true
+Lua.bubblebayside = true
+
+Level RUB_frostycircuit
+NoVisitNeeded = True
+LevelName = Frosty
+ZoneTitle = Circuit
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKY17
+Music = FRSTC1
+MobjScale = FRACUNIT/4
+Darkness = 1
+Weather = PRECIP_SUNDAEDRIVE
+Lua.Ruber = true
+Lua.frostycircuit = true
+
+Level RUB_AgariaBotanica
+NoVisitNeeded = True
+LevelName = Agaria
+ZoneTitle = Botanica
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = LSZSKY
+LightContrast = 64
+LightAngle = 90
+Music = AGABO1
+SkyboxScale = 4*FRACUNIT
+MobjScale = FRACUNIT/2
+Weather = PRECIP_LSPT
+Darkness = 1
+Lua.Ruber = true
+Lua.AgariaBotanica = true
+
+Level RUB_boomerangbattleship
+NoVisitNeeded = True
+LevelName = Boomerang
+ZoneTitle = Battleship
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4417
+LightAngle = 315
+LightContrast = 64
+Music = BOOMB1
+SkyboxScale = 8*FRACUNIT
+MobjScale = FRACUNIT/4
+#Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.boomerangbattleship = true
+
+Level RUB_wishingwonders
+NoVisitNeeded = True
+LevelName = Wishing
+ZoneTitle = Wonders
+TypeOfLevel = Race
+NumLaps = 3
+SkyboxScale = 11*FRACUNIT/10
+SkyTexture = WISH_SKY
+Music = WISHW1
+MobjScale = 9*FRACUNIT/40
+##Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.wishingwonders = true
+
+Level RUB_MetalHarbor
+NoVisitNeeded = True
+LevelName = Metal
+ZoneTitle = Harbor
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYEC
+Music = KMAPY3
+SkyboxScale = 4*FRACUNIT
+MobjScale = 1*FRACUNIT/3
+Weather = 0
+Darkness = 0.75
+Lua.Ruber = true
+
+
+Level RUB_EggQuarters
+NoVisitNeeded = True
+LevelName = Egg
+ZoneTitle = Quarters
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = DPZSKY00
+SubtractNum = True
+Music = KMAP38
+SkyboxScale = 8*FRACUNIT
+MobjScale = 7*FRACUNIT/20
+LightAngle = 180
+LightContrast = 64
+Weather = PRECIP_FIREFLIES
+Darkness = 0.75
+Lua.Ruber = true
+
+Level RUB_ToxicCaves
+NoVisitNeeded = True
+LevelName = Toxic
+ZoneTitle = Caves
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = TXCV1
+AssociatedMusic = TXCV3
+SkyboxScale = 8*FRACUNIT
+MobjScale = 1*FRACUNIT/2
+Weather = 0
+Darkness = 0.75
+Lua.toxiccaves = true
+Lua.Ruber = true
+
+Level RUB_TwinkleCart
+NoVisitNeeded = True
+LevelName = Twinkle
+ZoneTitle = Cart
+TypeOfLevel = Race
+NumLaps = 1
+SkyTexture = TP_NBG1
+Music = KMAP14
+SkyboxScale = 1*FRACUNIT
+MobjScale = 4*FRACUNIT/10
+Darkness = 0.75
+Lua.Ruber = true
+
+Level RUB_PleasureCastle
+NoVisitNeeded = True
+LevelName = Pleasure
+ZoneTitle = Castle
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = TP_NBG1
+Music = PLEAS1
+SkyboxScale = 4*FRACUNIT
+MobjScale = 1*FRACUNIT/4
+LightAngle = 0
+LightContrast = 16
+Darkness = 0.75
+Lua.Ruber = true
+Lua.pleasurecastle = true
+
+Level RUB_SolarStroller
+NoVisitNeeded = True
+LevelName = Solar
+ZoneTitle = Stroller
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = SOLAR1
+SkyboxScale = 0.15
+MobjScale = 2*FRACUNIT/9
+Weather = 0
+Darkness = 0.75
+Lua.Ruber = true
+Lua.solarstroller = true
+
+Level RUB_MidnightMeadow
+NoVisitNeeded = True
+LevelName = Midnight Meadow
+ZoneTitle = Zone
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY177
+Music = KMAP13
+SkyboxScale = 12*FRACUNIT
+MobjScale = 2*FRACUNIT/5
+Darkness = 0.75
+Lua.Ruber = true
+Lua.midnightmeadow = true
+
+Level RUB_hologramhypogeum
+NoVisitNeeded = True
+LevelName = Hologram
+ZoneTitle = Hypogeum
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY177
+Music = HOHYP1
+SkyboxScale = 12*FRACUNIT
+MobjScale = 7*FRACUNIT/20
+Darkness = 0.75
+Lua.Ruber = true
+Lua.hologramhypogeum = true
+
+Level RUB_RoaringRadiance
+NoVisitNeeded = True
+LevelName = Radiant
+ZoneTitle = Ruins
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = LSZSKY
+Music = RORAD1
+SkyboxScale = 4*FRACUNIT
+MobjScale = 4*FRACUNIT/16
+Darkness = 0.75
+Lua.Ruber = true
+

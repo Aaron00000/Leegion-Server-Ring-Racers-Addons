@@ -14,7 +14,7 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta, Starman (Kirby)
+7, 1 - Ribbon,
 
 8, 1 - 
 
@@ -33,7 +33,7 @@
 
 6, 2 - Paper Mario, Alolan Ninetales, Maka Albarn,
 
-7, 2 - Warpstar Kirby, Laharl, Pomni, Ibuki Mioda, Baron Von Bats, Trigger-Chan.
+7, 2 - Warpstar Kirby, Laharl, Ibuki Mioda, Baron Von Bats, Trigger-Chan.
 
 8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
 
@@ -44,7 +44,7 @@
 
 2, 3 - Koopa, Fennec, Sara,
 
-3, 3 - Engineer, Peach, Klonoa, Marine, Jimbo, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Peach, Marine, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith,
 
@@ -54,7 +54,7 @@
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
-8, 3 - Ryuko, Spiderman, Ashura, Cactuar, Track Guy, Metstli,
+8, 3 - Ryuko, Spiderman, Ashura, Cactuar, Track Guy,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
@@ -65,7 +65,7 @@
 
 3, 4 - Haruka Amami, Sage, Lucas, Eunie, Lux,
 
-4, 4 - Conker, Geno, Plok, Rally, Sailor Venus, 
+4, 4 - Conker, Geno, Rally, Sailor Venus, 
 
 5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Yu Narukami,
 
@@ -73,7 +73,7 @@
 
 7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Wave the Swallow,
 
-8, 4 - Spike, Saturn, Somari, 
+8, 4 - Spike, Saturn,
 
 9, 4 - Hornet, Noise, Jino-Chan, Yuuko Aioi,
 
@@ -82,7 +82,7 @@
 
 2, 5 - 
 
-3, 5 - Reiko, Sumire Kanzaki,
+3, 5 - Reiko,
 
 4, 5 - Squidward, Butthead, Doppel Arle,
 
@@ -92,7 +92,7 @@
 
 7, 5 - Jack-O', Wolf O'Donnell, Chie Satonaka,
 
-8, 5 - Guntz, Mario Tire,
+8, 5 - Mario Tire,
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
 
@@ -120,7 +120,7 @@
 
 2, 7 - Agent Stone, Twintelle,
 
-3, 7 - Coach, Primarina, Birdo, Susie, Ness, Wallace,
+3, 7 - Coach, Primarina, Birdo, Susie, Ness,
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
@@ -128,7 +128,7 @@
 
 6, 7 - Ramona,
 
-7, 7 - Cloud, Angel, Vector, Freddy Fazbear,
+7, 7 - Cloud, Angel, Vector,
 
 8, 7 - Akira Nishikiyama, Ragna, R Crisanta,
 
@@ -141,7 +141,7 @@
 
 3, 8 - DK JR., Shovel Knight, Pigma,
 
-4, 8 - Trip, Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
+4, 8 - Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
 
 5, 8 - Shrek, Cole Cassidy,
 
@@ -154,11 +154,11 @@
 9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp, Moai Alexandria, 
+1, 9 - Heavy TF2, Thwomp,
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
-3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein, Starman (Earthbound),
+3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein,
 
 4, 9 - 
 
@@ -310,6 +310,8 @@ Star Light Zone
 
 Sky Babylon
 
+Technology Tundra
+
 Death Egg
 
 
@@ -350,8 +352,6 @@ Mega Frutiger Aeropolis
 Polar Paradise
 
 Midnight Bay
-
-Bubblin' Springs
 
 Melty Manor -Again-
 
@@ -467,19 +467,7 @@ Khromidro
 
 Mega Sky Sanctuary
 
-Toxic Caves
-
-Twinkle Park
-
-Wishing Wonders
-
-Hologram Hypogeum
-
 Death Chamber
-
-Pleasure Castle
-
-Solar Stroller
 
 Curien Mansion
 
@@ -593,6 +581,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+3/27
+----
+
+Characters - Added Sailor Moon. Removed some seldom-used characters (Jimbo, Freddy Fazbear, Sumire Kanzaki, Pomni, Trip, Charlotta, Metstli, Somari, Plok, Klonoa, Guntz, Moai, Wallace, and both Starmen.)
+
+Maps - Added Ruber's performance beta of his map pack to see if it handles decently online now and un-blacklisted all of said pack's tracks except Death Chamber. Added a beta version of Millenium Square. Blacklisted Technology Tundra.
+
+Other - Fixed a typo in one of Sanic's horns keeping it from working. Also a few more horns.
+
 
 3/20
 ----
