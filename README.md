@@ -592,9 +592,9 @@ Pizzascape (less, 2 laps)
 
 Characters - Added Segata Sanshiro, Quaver, and Beat. Re-added Trip.
 
-Maps - Added Omega Hydrocity (beta). Removed ruberpack until a new beta comes out and Millenium Square until it gets out of beta. Blacklisted Myouka Shelter.
+Maps - Added Omega Hydrocity (beta). Removed ruberpack until a new beta comes out and Millennium Square until it gets out of beta. Blacklisted Myouka Shelter.
 
-Other - Fixed Ring Max's ring generation applying to everyone. Added a suicide button with funny sound effects.
+Other - Fixed Ring Max's ring generation applying to everyone. Added some halo (not the series) followers.) Added a suicide button with funny sound effects.
 
 
 3/27
