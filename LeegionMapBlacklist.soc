@@ -1773,6 +1773,25 @@ NoZone = 1
 NoVisitNeeded = 1
 Hidden = True
 
+Level ACHII_MyoukaShelter
+LevelName = Myouka Shelter
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY8123
+SkyBoxScale = 256
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 64
+EncoreLightAngle = 0
+EncoreLightContrast = 84
+EncorePal = 2109
+Music = FORGE
+PositionMusic = KPPOS
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying

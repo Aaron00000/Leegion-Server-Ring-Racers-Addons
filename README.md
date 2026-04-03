@@ -27,7 +27,7 @@
 
 3, 2 - Gwenpool, Omochao, Juno,
 
-4, 2 - Spamton, Jill Stingray,
+4, 2 - Spamton, Jill Stingray, Quaver,
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon,
 
@@ -92,7 +92,7 @@
 
 7, 5 - Jack-O', Wolf O'Donnell, Chie Satonaka,
 
-8, 5 - Mario Tire,
+8, 5 - Mario Tire, Guntz,
 
 9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
 
@@ -111,7 +111,7 @@
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Lololo & Lalala, Yang, The Penitent One,
 
-8, 6 - Yoshi, Alpha, Elphelt, Lady,
+8, 6 - Yoshi, Alpha, Elphelt, Lady, Beat,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto,
 
@@ -141,7 +141,7 @@
 
 3, 8 - DK JR., Shovel Knight, Pigma,
 
-4, 8 - Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, 
+4, 8 - Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, Trip,
 
 5, 8 - Shrek, Cole Cassidy,
 
@@ -151,7 +151,7 @@
 
 8, 8 - Wario, Dingodile,
 
-9, 8 - Q, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
+9, 8 - Segata Sanshiro, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
 
 
 1, 9 - Heavy TF2, Thwomp,
@@ -171,6 +171,9 @@
 8, 9 - Bowser, GUN Truck,
 
 9, 9 - Ring Max, Satan, Dio,
+
+
+4, 10 - Iron Giant,
 
 
 =====
@@ -215,6 +218,8 @@ Spindashpak RE-PAK V1.5butbetter
 Toppin' Tumblers
 
 Shark Pack v1.2.1
+
+Omega Hydrocity beta rc4
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -582,10 +587,20 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+4/4
+----
+
+Characters - Added Segata Sanshiro, Quaver, and Beat. Re-added Trip.
+
+Maps - Added Omega Hydrocity (beta). Removed ruberpack until a new beta comes out and Millenium Square until it gets out of beta. Blacklisted Myouka Shelter.
+
+Other - Fixed Ring Max's ring generation applying to everyone. Added a suicide button with funny sound effects.
+
+
 3/27
 ----
 
-Characters - Added Sailor Moon. Removed some seldom-used characters (Jimbo, Freddy Fazbear, Sumire Kanzaki, Pomni, Trip, Charlotta, Metstli, Somari, Plok, Klonoa, Guntz, Moai, Wallace, and both Starmen.)
+Characters - Added Sailor Moon. Removed some seldom-used characters (Jimbo, Freddy Fazbear, Sumire Kanzaki, Pomni, Trip, Charlotta, Metstli, Somari, Plok, Klonoa, Moai, Wallace, and both Starmen.)
 
 Maps - Added Ruber's performance beta of his map pack to see if it handles decently online now and un-blacklisted all of said pack's tracks except Death Chamber. Added a beta version of Millenium Square. Blacklisted Technology Tundra.
 
