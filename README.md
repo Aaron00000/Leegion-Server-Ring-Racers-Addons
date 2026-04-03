@@ -590,7 +590,7 @@ Pizzascape (less, 2 laps)
 4/4
 ----
 
-Characters - Added Segata Sanshiro, Quaver, and Beat. Re-added Trip.
+Characters - Added Segata Sanshiro, Quaver, and Beat. Re-added Trip and Badnikpak.
 
 Maps - Added Omega Hydrocity (beta). Removed ruberpack until a new beta comes out and Millennium Square until it gets out of beta. Blacklisted Myouka Shelter.
 
