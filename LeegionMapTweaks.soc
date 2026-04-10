@@ -1,13 +1,3 @@
-Level RR_DimensionDisaster
-LevelNAME = Don't Restart, Dummy
-NoZone = True
-Music = DIDIZ
-SkyTexture = SKY169
-TYpeOfLevel = RACE
-NumLaps = 5
-SkyboxScaleZ = 0
-Darkness = -0.25
-
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
 Level RR_DarkvileCastle2

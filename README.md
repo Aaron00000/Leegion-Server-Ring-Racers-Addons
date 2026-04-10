@@ -6,79 +6,79 @@
 
 2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
-3, 1 - Tangle, Gooey, Kirby,
+3, 1 - Tangle, Gooey, Kirby, Taraban,
 
 4, 1 - Dry Bones,
 
-5, 1 - Prinny, Opa-Opa, Moonlight Child, 
+5, 1 - Prinny,
 
 6, 1 - 
 
-7, 1 - Ribbon,
+7, 1 - Ribbon, Sol,
 
 8, 1 - 
 
-9, 1 - Crazy Frog, Ristar, Agnes Tachyon,
+9, 1 - Crazy Frog,
 
 
-1, 2 - Mallow,
+1, 2 - Mallow, Noro-Noro,
 
 2, 2 - 
 
 3, 2 - Gwenpool, Omochao, Juno,
 
-4, 2 - Spamton, Jill Stingray, Quaver,
+4, 2 - Spamton, Quaver,
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon,
 
-6, 2 - Paper Mario, Alolan Ninetales, Maka Albarn,
+6, 2 - Paper Mario, Maka Albarn,
 
-7, 2 - Warpstar Kirby, Laharl, Ibuki Mioda, Baron Von Bats, Trigger-Chan.
+7, 2 - Warpstar Kirby, Laharl, Ibuki Mioda, Trigger-Chan.
 
-8, 2 - Toad/Blue Toad, SA2 Sonic, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski, Riders Sonic, Super Sonic,
+8, 2 - Riders Sonic, Toad/Blue Toad, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski,
 
 9, 2 - Dark Rider Shadow, Haruko Haruhara,
 
 
 1, 3 - Milla,
 
-2, 3 - Koopa, Fennec, Sara,
+2, 3 - Koopa, Fennec, Sara, Kama-Kama,
 
-3, 3 - Engineer, Peach, Marine, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Peach, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith,
 
-5, 3 - Anila, Hat Kid, Aerith (Sonic OC Version), Adeleine, Reala, Mawile, 
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Taga-Taga, Chuck D. Head, 
 
-6, 3 - Alolan Raichu, Golbat, Stella, Kris, Pac-Man,
+6, 3 - Alolan Raichu, Kris, Pac-Man,
 
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Toe Jam,
 
-8, 3 - Ryuko, Spiderman, Ashura, Cactuar, Track Guy,
+8, 3 - Ryuko, Spiderman, Cactuar, Track Guy,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
 
 1, 4 - Andrew Oikonny,
 
-2, 4 - Goomba, Scurry, Lucky,
+2, 4 - Goomba, Scurry, Lucky, Ringo Ando,
 
-3, 4 - Haruka Amami, Sage, Lucas, Eunie, Lux,
+3, 4 - Sage, Lucas, Eunie, Lux,
 
 4, 4 - Conker, Geno, Rally, Sailor Venus, 
 
-5, 4 - Rena Ryuugu, Dex, Beavis, Leon Powalski, Yu Narukami,
+5, 4 - Beavis, Leon Powalski, Yu Narukami,
 
-6, 4 - Medic, Luigi, Ugly Knuckles, Scratch, Falco, Aisha Clan-Clan,
+6, 4 - Luigi, Ugly Knuckles, Scratch, Falco, Aisha Clan-Clan,
 
-7, 4 - Buttguster, Daisy, Wild Woody, Fukua, Wave the Swallow,
+7, 4 - Buttguster, Daisy, Wild Woody, Fukua,
 
-8, 4 - Spike, Saturn,
+8, 4 - Spike, Saturn, Hopper, 
 
-9, 4 - Hornet, Noise, Jino-Chan, Yuuko Aioi,
+9, 4 - Hornet, Jino-Chan, Yuuko Aioi,
 
 
-1, 5 - Pyra, Old Man Owl, Alcremie,
+1, 5 - Old Man Owl, Alcremie, Icebomba,
 
 2, 5 - 
 
@@ -86,7 +86,7 @@
 
 4, 5 - Squidward, Butthead, Doppel Arle,
 
-5, 5 - Mario, Jake Freebird, Mako,
+5, 5 - Mario,
 
 6, 5 - Tifa, Diggle, Fubuki,
 
@@ -94,48 +94,48 @@
 
 8, 5 - Mario Tire, Guntz,
 
-9, 5 - Goku Drip, Patricia Wagon, Tillis, Infinite,
+9, 5 - Goku Drip, Tillis, Infinite,
 
 
-1, 6 - Kinger, Marx,
+1, 6 - Kinger, Marx, Yadorin,
 
-2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
+2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Puggsy, 
 
-3, 6 - Link, Peppy, Birdo, Riamu Yumemi, Colombo, Stocking,
+3, 6 - Link, Peppy, Birdo, Colombo, Stocking,
 
-4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo,
+4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
 
 5, 6 - Jack Black, Beat, Ulala, Magnolia,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel, Gunstar Red, 
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Lololo & Lalala, Yang, The Penitent One,
 
-8, 6 - Yoshi, Alpha, Elphelt, Lady, Beat,
+8, 6 - Yoshi, Alpha, Lady, Beat,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Roller Mk. II,
 
 
 1, 7 - 
 
 2, 7 - Agent Stone, Twintelle,
 
-3, 7 - Coach, Primarina, Birdo, Susie, Ness,
+3, 7 - Coach, Birdo, Susie, Ness,
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
 5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
 
-6, 7 - Ramona,
+6, 7 - Ramona, Akira, Hatsune Miku (Combi-Lockon), 
 
-7, 7 - Cloud, Angel, Vector,
+7, 7 - Cloud, Angel, Zombie Orbinaut,
 
-8, 7 - Akira Nishikiyama, Ragna, R Crisanta,
+8, 7 - Akira Nishikiyama, Ragna, Dribbler,
 
-9, 7 - Peppino, Grounder, Catchan, Captain Falcon (Daeron Pack),
+9, 7 - Peppino, Grounder, Catchan,
 
 
-1, 8 - Homer Simpson, Ashe,
+1, 8 - Homer Simpson, Ashe, Earl,
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
 
@@ -145,13 +145,13 @@
 
 5, 8 - Shrek, Cole Cassidy,
 
-6, 8 - Master Chief, Kiryu, Werehog, Tenna, Doomguy,
+6, 8 - Master Chief, Kiryu, Werehog, Tenna,
 
 7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
 
 8, 8 - Wario, Dingodile,
 
-9, 8 - Segata Sanshiro, Dark Matter, Peppino (on foot), Neo Metal Sonic, Merga,
+9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
 
 1, 9 - Heavy TF2, Thwomp,
@@ -162,15 +162,15 @@
 
 4, 9 - 
 
-5, 9 - Knux Delux, Kapukapu, Gameboy Wario, Yorha 2B,
+5, 9 - Knux Delux, Kapukapu, Gameboy Wario, 2B,
 
 6, 9 - Redwood,
 
 7, 9 - King K.Rool, Marina, 
 
-8, 9 - Bowser, GUN Truck,
+8, 9 - Bowser, GUN Truck, Mighty Eagle, 
 
-9, 9 - Ring Max, Satan, Dio,
+9, 9 - Ring Max, Satan,
 
 
 4, 10 - Iron Giant,
@@ -189,21 +189,17 @@ Thok Tracks v1.4b
 
 Bushmill Cup v1.2a
 
-Revenge of the Fuck Pack v2
-
 Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack vAeroMoon part 1 and 2
+CAS Track Pack AeroMoon2.5
 
 Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
 lizard pack v2
-
-Pro Pack X 2.1.2
 
 Kiritsu Pak v2.1
 
@@ -215,11 +211,8 @@ LOG MAPS V2
 
 Spindashpak RE-PAK V1.5butbetter
 
-Toppin' Tumblers
-
 Shark Pack v1.2.1
 
-Omega Hydrocity beta rc4
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -316,6 +309,14 @@ Star Light Zone
 Sky Babylon
 
 Technology Tundra
+
+Robotnik Winter
+
+Diamond Dust Classic
+
+Launch Base Classic
+
+Final Fall
 
 Death Egg
 
@@ -498,6 +499,8 @@ Fabrikenzone
 
 Terror Trench
 
+Cloud Cascade
+
 
 ## Resized
 ----------
@@ -587,7 +590,19 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
-4/4
+4/10
+----
+
+"Performance Optimization Deep-Dive Update"
+
+Characters - Added Akira, Chuck D. Head, Earl, Gunstar Red, (another) Hatsune Miku, Mighty Eagle, Puggsy, and Toejam. Optimized the code of Peppino, Iron Giant, and Ring Max a bit more. Removed Chengi Chars (Anila, Dex, Haruka Amami, Primarina, Ashura, Marine, Super Sonic (this one specifically to reduce lua payload, Ashura and Marine have to go with him though sadly), Pyra, Rena, Riamu Yumeni, SA2 Sonic, Doomguy, GB Golbat, Hat Kid, Ninetales, Mawile, Ristar, Patricia Wagon, Opa Opa, Elphelt, Medic, Jill Stingray, (On-foot) Peppino, Noise, Agnes, Baron von Bats, Casual Koopa, Diavolo, Dio, Hishi Akebono, Mole Knight, Crisanta, Moonlight Child, Daeron's Captian Falcon, Jake Freebird, Nonon, Mako, Stella, and the Roaring Knight (this one specifically for a script that was always running even when no one was selected.)
+
+Maps - Updated CAS Tracks. Removed Pro Pack X, Toppin' Tumblers, Revenge of the Fuckpak, and Omega Hydrocity for having scripts that were constantly running on every map and probably lowering performance. Removed CAS Track Pack AeroMoon part 1 since a large portion of the maps were already blacklisted and it'd help save on megabytes to load. Blacklisted Robotnik Winter, Diamond Dust Classic, Launch Base Classic, Final Fall, and Cloud Cascade. Re-added the file that lowered the intro music on Heavenly Halls since it also applies to some of the other maps in that pack.
+
+Other - Optimized the killbind code to impact performance less and added a stumble button. Hopefully got the halo followers loading properly now. Chopped the horn pack's file size down from 38 mb to 25 mb with some empty space trimming/saving stereo into mono/saving into lower-quality and added a few horns. Removed most things from the QoL file other than restat/drift gauge/item timer to help reduce the impact on performance. Removed a portion of the animated palettes to help improve performance. Removed a bit of code from the More Speeds file that resized item boxes if Gear Max was on to help improve performance. Made a file to disable some Sealed Stars code in a few map packs (CAS Tracks, Kiritsu, DTDelve, and lizardpack.) Added SPB Warp.
+
+
+4/3
 ----
 
 Characters - Added Segata Sanshiro, Quaver, and Beat. Re-added Trip and Badnikpak.

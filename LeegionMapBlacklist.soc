@@ -607,6 +607,57 @@ LightAngle = 90
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_RobotnikWinter
+LevelName = Robotnik Winter
+NoZone = False
+TypeOfLevel = Race
+MobjScale = 1*FRACUNIT/4
+SkyboxScaleZ = 0
+NumLaps = 3
+Weather = 2
+LightContrast = 56
+LightAngle = 90
+Music = ROWIZ
+SubtractNum = True
+DestroyObjectsForChallenges = MT_ICECAPBLOCK
+SkyTexture = ~176
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_DiamondDustClassic
+LevelName = Diamond Dust
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = 1*FRACUNIT/4
+Weather = PRECIP_SNOW
+SkyTexture = DIASKY
+Music = DIDUZ,DIDUA
+SubtractNum = True
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_LaunchBaseClassic
+LevelName = Launch Base
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY6633
+Music = LABAZ2
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_FinalFall
+LevelName = Final Fall
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYFFZ
+MobjScale = FRACUNIT/4
+SkyboxScaleZ = 16
+Music = FIFAZ
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -1303,6 +1354,17 @@ Music = ECLISM
 MobjScale = 5*FRACUNIT/8
 Hidden = True
 
+Level PP_CloudCascade
+LevelName = Cloud Cascade
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 2
+SkyTexture = AERIASKY
+Music = CCZNOR
+AssociatedMusic = CCZFNL,CCZNRW,CCZFNW
+MobjScale = 3*FRACUNIT/8
+Hidden = True
+
 Level PP_VVGardenR
 MenuTitle = Garden
 LevelName = Void Vault 2
@@ -1462,6 +1524,62 @@ DefaultWaypointRadius = 128*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
+Level KP_SakuraSerenity
+Weather = PRECIP_HGPB
+LevelName = Sakura Serenity
+TypeOfLevel = Race
+SkyBoxScale = 128
+NumLaps = 2
+SkyTexture = SKUSKYU
+EncoreMusic = ANEGWA
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 8
+EncorePal = 2109
+Music = CARIA,CNINJA,KCHARA
+PositionMusic = JOSHI
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
+Level ACHII_MyoukaShelter
+LevelName = Myouka Shelter
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY8123
+SkyBoxScale = 256
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 64
+EncoreLightAngle = 0
+EncoreLightContrast = 84
+EncorePal = 2109
+Music = FORGE
+PositionMusic = KPPOS
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
+Level ACHII_MoonlitSentinel2
+LevelName = Moonlit Sentinel
+Act = 2
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = MS2SKY
+Music = GYPSY
+EncoreMusic = UPDWN
+Mobjscale = FRACUNIT/4
+SkyBoxScale = 16
+EncorePal = 3209
+LightAngle = 0
+LightContrast = 64
+PositionMusic = KPPOS
+DefaultWaypointRadius = 128*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
 Level PP_MountainHighway
 LevelName = Celestia Highway
 TypeOfLevel = Race
@@ -1485,25 +1603,6 @@ Mobjscale = FRACUNIT/4
 NumLaps = 2
 Music = DELIZ
 Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level KP_SakuraSerenity
-Weather = PRECIP_HGPB
-LevelName = Sakura Serenity
-TypeOfLevel = Race
-SkyBoxScale = 128
-NumLaps = 2
-SkyTexture = SKUSKYU
-EncoreMusic = ANEGWA
-TypeOfLevel = Race
-Mobjscale = FRACUNIT/4
-LightAngle = 135
-LightContrast = 8
-EncorePal = 2109
-Music = CARIA,CNINJA,KCHARA
-PositionMusic = JOSHI
-DefaultWaypointRadius = 208*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
@@ -1595,24 +1694,6 @@ MobjScale = 2*FRACUNIT/7
 SkyBoxScaleX = 0
 SkyBoxScaleY = 0
 SkyBoxScaleZ = 0.5
-NoVisitNeeded = True
-Hidden = True
-
-Level ACHII_MoonlitSentinel2
-LevelName = Moonlit Sentinel
-Act = 2
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = MS2SKY
-Music = GYPSY
-EncoreMusic = UPDWN
-Mobjscale = FRACUNIT/4
-SkyBoxScale = 16
-EncorePal = 3209
-LightAngle = 0
-LightContrast = 64
-PositionMusic = KPPOS
-DefaultWaypointRadius = 128*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
@@ -1771,25 +1852,6 @@ LightContrast = 0
 LightAngle = 90
 NoZone = 1
 NoVisitNeeded = 1
-Hidden = True
-
-Level ACHII_MyoukaShelter
-LevelName = Myouka Shelter
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY8123
-SkyBoxScale = 256
-TypeOfLevel = Race
-Mobjscale = FRACUNIT/4
-LightAngle = 135
-LightContrast = 64
-EncoreLightAngle = 0
-EncoreLightContrast = 84
-EncorePal = 2109
-Music = FORGE
-PositionMusic = KPPOS
-DefaultWaypointRadius = 208*FRACUNIT
-NoVisitNeeded = True
 Hidden = True
 
 Level DRTR_HouseOfTheUndying
