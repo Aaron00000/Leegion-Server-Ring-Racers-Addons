@@ -18,7 +18,7 @@
 
 8, 1 - 
 
-9, 1 - Crazy Frog,
+9, 1 - Crazy Frog, Roaring Knight,
 
 
 1, 2 - Mallow, Noro-Noro,
@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Taga-Taga, Chuck D. Head, 
 
-6, 3 - Alolan Raichu, Kris, Pac-Man,
+6, 3 - Alolan Raichu, Kris, Pac-Man, Stella,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Toe Jam,
 
@@ -111,7 +111,7 @@
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Lololo & Lalala, Yang, The Penitent One,
 
-8, 6 - Yoshi, Alpha, Lady, Beat,
+8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Roller Mk. II,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
-5, 7 - Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
+5, 7 - Piccolo, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
 
 6, 7 - Ramona, Akira, Hatsune Miku (Combi-Lockon), 
 
@@ -209,7 +209,7 @@ Noise's Toppin' Tumblers v1
 
 LOG MAPS V2
 
-Spindashpak RE-PAK V1.5butbetter
+Spindashpak RE-PAK V1.5
 
 Shark Pack v1.2.1
 
@@ -317,6 +317,10 @@ Diamond Dust Classic
 Launch Base Classic
 
 Final Fall
+
+Egg Zeppelin 
+
+SD2 Iron Ruin
 
 Death Egg
 
@@ -590,16 +594,26 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+4/17
+----
+
+Characters - Added Piccolo. Added back Elphelt, Stella (updated), and the Roaring Knight after breaking his legs with a top going 6,969 mph and forcing him in a kart, updated Combi-Link's Sega chars and Goku.
+
+Maps - Updated Spindashpak. Blacklisted Egg Zeppelin and SD2 Iron Ruin.
+
+Other - Added back that one really dark palette. Added a follower. Adjusted the code for the killbind, moved a few sounds of my horns from the horn pack to the killbind mod, added a few new death sounds.
+
+
 4/10
 ----
 
 "Performance Optimization Deep-Dive Update"
 
-Characters - Added Akira, Chuck D. Head, Earl, Gunstar Red, (another) Hatsune Miku, Mighty Eagle, Puggsy, and Toejam. Optimized the code of Peppino, Iron Giant, and Ring Max a bit more and removed Captain Falcon's custom engine sounds. Removed Chengi Chars (Anila, Dex, Haruka Amami, Primarina, Ashura, Marine, Super Sonic (this one specifically to reduce lua payload, Ashura and Marine have to go with him though sadly), Pyra, Rena, Riamu Yumeni, SA2 Sonic, Doomguy, GB Golbat, Hat Kid, Ninetales, Mawile, Ristar, Patricia Wagon, Opa Opa, Elphelt, Medic, Jill Stingray, (On-foot) Peppino, Noise, Agnes, Baron von Bats, Casual Koopa, Diavolo, Dio, Hishi Akebono, Mole Knight, Crisanta, Moonlight Child, Daeron's Captian Falcon, Jake Freebird, Nonon, Mako, Stella, and the Roaring Knight (this one specifically for a script that was always running even when no one was selected.)
+Characters - Added Akira, Chuck D. Head, Earl, Gunstar Red, (another) Hatsune Miku, Mighty Eagle, Puggsy, Toejam, and Ringo Ando. Optimized the code of Peppino, Iron Giant, and Ring Max a bit more and removed Captain Falcon's custom engine sounds. Removed Anila, Dex, Haruka Amami, Primarina, Pyra, Rena, Riamu Yumeni, SA2 Sonic, Ashura, Marine, Super Sonic (this one specifically to reduce lua payload, Ashura and Marine have to go with him though sadly), Doomguy, GB Golbat, Hat Kid, Ninetales, Mawile, Ristar, Patricia Wagon, Opa Opa, Elphelt, Medic, Jill Stingray, (On-foot) Peppino, Noise, Agnes, Baron von Bats, Casual Koopa, Diavolo, Dio, Hishi Akebono, Mole Knight, Crisanta, Moonlight Child, Daeron's Captain Falcon, Jake Freebird, Nonon, Mako, Stella, and the Roaring Knight (this one specifically for a script that was always running even when he wasn't selected.)
 
 Maps - Updated CAS Tracks. Removed Pro Pack X, Toppin' Tumblers, Revenge of the Fuckpak, and Omega Hydrocity for having scripts that were constantly running on every map and probably lowering performance. Removed CAS Track Pack AeroMoon part 1 since a large portion of the maps were already blacklisted and it'd help save on megabytes to load. Blacklisted Robotnik Winter, Diamond Dust Classic, Launch Base Classic, Final Fall, and Cloud Cascade. Re-added the file that lowered the intro music on Heavenly Halls since it also applies to some of the other maps in that pack.
 
-Other - Optimized the killbind code to impact performance less and added a stumble button. Hopefully got the halo followers loading properly now. Chopped the horn pack's file size down from 38 mb to 25 mb with some empty space trimming/saving stereo into mono/saving into lower-quality and added a few horns. Removed most things from the QoL file other than restat/drift gauge/item timer to help reduce the impact on performance. Removed a portion of the animated palettes to help improve performance. Removed a bit of code from the More Speeds file that resized item boxes if Gear Max was on to help improve performance. Made a file to disable some Sealed Stars code in a few map packs (CAS Tracks, Kiritsu, DTDelve, and lizardpack.) Added SPB Warp.
+Other - Optimized the killbind code to impact performance less and added a stumble button. Hopefully got the halo followers loading properly now. Removed the & Knuckles follower. Chopped the horn pack's file size down from 38 mb to 25 mb with some empty space trimming/saving stereo into mono/saving into lower-quality and added a few horns. Removed most things from the QoL file other than restat/drift gauge/item timer to help reduce the impact on performance. Removed a portion of the animated palettes to help improve performance. Removed a bit of code from the More Speeds file that resized item boxes if Gear Max was on to help improve performance. Made a file to disable some Sealed Stars code in a few map packs (CAS Tracks, Kiritsu, DTDelve, and lizardpack.) Added SPB Warp.
 
 
 4/3

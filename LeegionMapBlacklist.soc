@@ -1708,6 +1708,29 @@ MobjScale = FRACUNIT/4
 Darkness = 0.10
 Hidden = True
 
+Level LOG_SD2IronRuin
+NoVisitNeeded = True
+LevelName = Iron Ruin
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = IR-_SKY
+Music = LOGIR0
+MobjScale = FRACUNIT/8
+Darkness = 0.10
+Hidden = True
+
+Level LOG_EggZeppelin
+LevelName = Sky Base
+Act = 1
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SB1_SKYF
+Music = LOGSB0,LOGSB1
+MobjScale = FRACUNIT/4
+Darkness = 1.10
+Hidden = True
+
 Level LAS_FrutigerAeropolis2
 LevelName = Frutiger
 ZoneTitle = Aeropolis
