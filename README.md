@@ -615,7 +615,7 @@ Pizzascape (less, 2 laps)
 4/24
 ----
 
-Characters - The allegations that Piccolo murdered Peppino were false and Peppino has returned. Added AltPack, Rash, and Unidentified Flying Bumper (to test), updated Stella and Retro Mario. Removed SatAM Robotnik.
+Characters - The allegations that Piccolo murdered Peppino were false and Peppino has returned. Added AltPack, Rash, and Unidentified Flying Bumper (to test), updated Stella and Retro Mario. Adjusted Junio Sonic's lua to perform better by making the engine sound canceler only apply to class C. Removed SatAM Robotnik.
 
 Maps - Added MB Track Stack Re-pack and Neo Whale Maps v3. Blacklisted Hard Dead Deck, Abstract Avenue, Gravitas Well, Mega Icy Island, Mega John Gutter, Mega Concrete Jungle, Mega Lobotomy Corporation, and Mega Toxic Caves.
 
