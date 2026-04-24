@@ -40,7 +40,7 @@
 9, 2 - Dark Rider Shadow, Haruko Haruhara,
 
 
-1, 3 - Milla,
+1, 3 - Bean (Demolition), Milla,
 
 2, 3 - Koopa, Fennec, Sara, Kama-Kama,
 
@@ -113,7 +113,7 @@
 
 8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Roller Mk. II,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Roller Mk. II, Rash,
 
 
 1, 7 - 
@@ -124,9 +124,9 @@
 
 4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
 
-5, 7 - Piccolo, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
+5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
 
-6, 7 - Ramona, Akira, Hatsune Miku (Combi-Lockon), 
+6, 7 - Aigis (blue dress), Ramona, Akira, Hatsune Miku (Combi-Lockon), 
 
 7, 7 - Cloud, Angel, Zombie Orbinaut,
 
@@ -137,7 +137,7 @@
 
 1, 8 - Homer Simpson, Ashe, Earl,
 
-2, 8 - AoStH Robotnik, Crash 4 Dingodile, SatAM Robotnik, Cardboard Eggman,
+2, 8 - AoStH Robotnik, Crash 4 Dingodile, Cardboard Eggman,
 
 3, 8 - DK JR., Shovel Knight, Pigma,
 
@@ -154,7 +154,7 @@
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp,
+1, 9 - Heavy TF2, Thwomp, Unidentified Flying Bumper,
 
 2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
 
@@ -213,7 +213,9 @@ Spindashpak RE-PAK V1.5
 
 Shark Pack v1.2.1
 
+MB Track Stack Re-pack v1
 
+Neo Whale Maps v3
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
@@ -505,6 +507,22 @@ Terror Trench
 
 Cloud Cascade
 
+Hard Dead Deck (twice)
+
+Abstract Avenue
+
+Gravitas Well
+
+Mega Icy Island
+
+Mega John Gutter
+
+Mega Concrete Jungle
+
+Mega Lobotomy Corporation
+
+Mega Toxic Caves
+
 
 ## Resized
 ----------
@@ -594,10 +612,20 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+4/24
+----
+
+Characters - The allegations that Piccolo murdered Peppino were false and Peppino has returned. Added AltPack, Rash, and Unidentified Flying Bumper (to test), updated Stella and Retro Mario. Removed SatAm Robotnik.
+
+Maps - Added MB Track Stack Re-pack and Neo Whale Maps v3. Blacklisted Hard Dead Deck, Abstract Avenue, Gravitas Well, Mega Icy Island, Mega John Gutter, Mega Concrete Jungle, Mega Lobotomy Corporation, and Mega Toxic Caves.
+
+Other - Fixed Robotnik's broken pingas and added more horns. Updated the stumble bind to be less cheese-able.
+
+
 4/17
 ----
 
-Characters - Added Piccolo. Added back Elphelt, Stella (updated), and the Roaring Knight after breaking his legs with a top going 6,969 mph and forcing him in a kart, updated Combi-Link's Sega chars and Goku.
+Characters - Added Piccolo. Added back Elphelt, Stella (updated), and the Roaring Knight after Asgore broke his legs with a truck going 6,969 mph, forcing him into a kart. Updated Combi-Link's Sega chars and Goku.
 
 Maps - Updated Spindashpak. Blacklisted Egg Zeppelin and SD2 Iron Ruin.
 

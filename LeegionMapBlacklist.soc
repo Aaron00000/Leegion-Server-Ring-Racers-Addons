@@ -1974,6 +1974,103 @@ NoZone = 1
 NoVisitNeeded = True
 Hidden = True
 
+Level WRD_HardDeadDeck
+LevelName = Hard Dead
+ZoneTitle = Deck
+TypeofLevel = Battle,Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/4
+Music = HDEDCK
+SkyTexture = ~031
+Followers = Boo,Spybot 2000,Gaikoko
+LobbySize = Medium
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_AbstractAvenue
+LevelName = Abstract Avenue
+TypeofLevel = Race
+NumLaps = 2
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ABSAVE,ABSAV3
+SkyTexture = ABSSKY
+NoZone = True
+Hidden = True
+
+Level WRD_GravitasWell
+LevelName = Gravitas Well
+NoZone = True
+TypeofLevel = Race
+NumLaps = 2
+Mobjscale = FRACUNIT*1/4
+Music = THLAZ
+SkyTexture = SKY87
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_MegaIcyIsland
+LevelName = Mega Icy
+ZoneTitle = Island
+TypeofLevel = Race
+NumLaps = 5
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = DAIISL
+SkyTexture = SKYAGZX
+Weather = PRECIP_SNOW
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaJohnGutter
+LevelName = Mega John
+Zonetitle = Gutter
+TypeofLevel = Race
+NumLaps = 8
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MJNGTR
+SkyTexture = JNGTSKY
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaConcreteJungle
+LevelName = Mega Concrete
+ZoneTitle = Jungle
+TypeofLevel = Race
+NumLaps = 6
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ABCJ3
+SkyTexture = ABCJS1
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaLobotomyCorporation
+LevelName = Mega Lobotomy
+ZoneTitle = Corporation
+TypeofLevel = Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MGLCRP
+SkyTexture = SHSKY01
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaToxicCaves
+LevelName = Mega Toxic
+ZoneTitle = Caves
+TypeofLevel = Race
+NumLaps = 5
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MTXCVE
+SkyTexture = TXCVSKY
+CameraHeight = 140
+Hidden = True
+
 Level HNC_WaffleHouse
 LevelName = Waffle House
 TypeOfLevel = Race
