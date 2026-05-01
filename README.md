@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Taga-Taga, Chuck D. Head, 
 
-6, 3 - Alolan Raichu, Kris, Pac-Man, Stella,
+6, 3 - Alolan Raichu, Kris, Pac-Man, Stella, Kneesocks.
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Toe Jam,
 
@@ -193,7 +193,7 @@ Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon2.5
+CAS Track Pack AeroMoon 2.6
 
 Frost Maps v5.2
 
@@ -611,6 +611,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+5/1
+----
+
+Characters - Added Kneesocks, updated Stella. Further improved the lua for Ring Max/Iron Giant/Peppino.
+
+Maps - Updated CAS Tracks and Frost Maps. Made Gambler's Hive 15% larger to help deal with some rather narrow spaces.
+
+Other - Improved the performance of the killbind and stumblebind code.
+
 
 4/24
 ----

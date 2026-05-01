@@ -89,6 +89,16 @@ Music = SLISPR,SLISP2,SLISP3
 Mobjscale = 87*FRACUNIT/135
 NoVisitNeeded = true
 
+Level WRD_GamblersHiveSiralim
+TypeOfLevel = Race
+LevelName = Gambler's Hive
+NovisitNeeded = true
+NoZone = true
+Music = GBHIV
+mobjscale = FRACUNIT*10/46
+NumLaps = 3
+Weather = PRECIP_FIREFLIES
+Followers = Manegg,Buzz Bomber,Poh-Bee
 
 # LESS/MORE LAPS #
 
