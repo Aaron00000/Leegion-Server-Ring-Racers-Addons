@@ -1,5 +1,17 @@
 # RESIZED # (left number higher = smaller, right number higher = bigger)
 
+Level RR_Joypolis
+LevelName = Joypolis
+TypeOfLevel = Race
+NumLaps = 5
+MobjScale = 10*FRACUNIT/43
+PositionMusic = JOYINT
+Music = JOYZ
+SkyTexture = SKYJP
+LightAngle = 45
+LightContrast = 32
+DestroyObjectsForChallenges = MT_JOYTABLE,MT_JOYCHAIR
+
 Level RR_DarkvileCastle2
 LevelName = Darkvile Castle
 Act = 2
@@ -101,6 +113,19 @@ Weather = PRECIP_FIREFLIES
 Followers = Manegg,Buzz Bomber,Poh-Bee
 
 # LESS/MORE LAPS #
+
+Level RR_EmeraldCoast
+LevelName = Emerald
+ZoneTitle = Coast
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = SKYEC
+Music = EMCOZ,EMCA1,EMCA2
+SkyboxScale = 32
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 64
+SubtractNum = True
 
 Level DRTR_BastionIsle
 LevelName = Bastion Isle

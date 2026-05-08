@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Taga-Taga, Chuck D. Head, 
 
-6, 3 - Alolan Raichu, Kris, Pac-Man, Stella, Kneesocks.
+6, 3 - Alolan Raichu, Kris, Pac-Man, Stella, Kneesocks, Noel Vermillion,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Toe Jam,
 
@@ -103,7 +103,7 @@
 
 3, 6 - Link, Peppy, Birdo, Colombo, Stocking,
 
-4, 6 - Chuck E. Cheese, Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
+4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
 
 5, 6 - Jack Black, Beat, Ulala, Magnolia,
 
@@ -216,6 +216,9 @@ Shark Pack v1.2.1
 MB Track Stack Re-pack v1
 
 Neo Whale Maps v3
+
+Dreamy Treeway V2.4
+
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
@@ -523,9 +526,13 @@ Mega Lobotomy Corporation
 
 Mega Toxic Caves
 
+Dreamy Treeway Act 1
+
 
 ## Resized
 ----------
+
+Joyopolis (larger)
 
 Darkvile Castle 2 (bigger)
 
@@ -553,9 +560,13 @@ Desert Bus (bigger)
 
 Dead Line Redux (bigger)
 
+Gambler's Hive (bigger)
+
 
 ## More/Less Laps
 -----------------
+Emerald Coast (more, 4 laps)
+
 Bastion Isle (less, 2 laps)
 
 Vermillion Rig (less, 2 laps)
@@ -611,6 +622,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+5/8
+----
+
+Characters - Added back Noel Vermillion, removed Chuck E. Cheese.
+
+Maps - Added Dreamy Treeway Act 2, blacklisted Dreamy Treeway Act 1. Added an extra lap to Emerald Coast. Made Joypolis 7.5% larger.
+
+Other - Horns.
+
 
 5/1
 ----

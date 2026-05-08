@@ -2071,6 +2071,17 @@ SkyTexture = TXCVSKY
 CameraHeight = 140
 Hidden = True
 
+Level HHR_DreamyTreewayA
+LevelName = Dreamy Treeway
+Act = 1
+TypeOfLevel = Race
+NumLaps = 6
+SkyTexture = DRMTWSKY
+Music = DREAME
+Mobjscale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
 Level HNC_WaffleHouse
 LevelName = Waffle House
 TypeOfLevel = Race
