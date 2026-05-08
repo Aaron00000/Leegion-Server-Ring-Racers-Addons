@@ -88,7 +88,7 @@
 
 5, 5 - Mario,
 
-6, 5 - Tifa, Diggle, Fubuki,
+6, 5 - Tifa, Diggle, Fubuki, Filia, 
 
 7, 5 - Jack-O', Wolf O'Donnell, Chie Satonaka,
 
@@ -170,7 +170,7 @@
 
 8, 9 - Bowser, GUN Truck, Mighty Eagle, 
 
-9, 9 - Ring Max, Satan,
+9, 9 - Ring Max, Satan, Metallix (SMBZ),
 
 
 4, 10 - Iron Giant,
@@ -628,7 +628,7 @@ Pizzascape (less, 2 laps)
 5/8
 ----
 
-Characters - Added back Noel Vermillion, removed Chuck E. Cheese.
+Characters - Added Metallix (SMBZ), added back Noel Vermillion, removed Chuck E. Cheese.
 
 Maps - Added Dreamy Treeway Act 2, blacklisted Dreamy Treeway Act 1 and Planet Laeau Laile. Added an extra lap to Emerald Coast. Made Joypolis 7.5% larger.
 
