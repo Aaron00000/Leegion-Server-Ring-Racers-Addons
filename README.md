@@ -528,6 +528,8 @@ Mega Toxic Caves
 
 Dreamy Treeway Act 1
 
+Planet Laeau Laile
+
 
 ## Resized
 ----------
@@ -628,7 +630,7 @@ Pizzascape (less, 2 laps)
 
 Characters - Added back Noel Vermillion, removed Chuck E. Cheese.
 
-Maps - Added Dreamy Treeway Act 2, blacklisted Dreamy Treeway Act 1. Added an extra lap to Emerald Coast. Made Joypolis 7.5% larger.
+Maps - Added Dreamy Treeway Act 2, blacklisted Dreamy Treeway Act 1 and Planet Laeau Laile. Added an extra lap to Emerald Coast. Made Joypolis 7.5% larger.
 
 Other - Horns.
 

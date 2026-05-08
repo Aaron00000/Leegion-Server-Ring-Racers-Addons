@@ -1232,6 +1232,20 @@ Followers = Spikebonker
 NoVisitNeeded = True
 Hidden = True
 
+Level DIG_LaeauLaile
+LevelName = Planet Laeau
+ZoneTitle = Laile
+TypeofLevel = Race
+NumLaps = 3
+Music = MAPXXM
+SkyTexture = XXXXSKY
+PositionMusic = XEXINT
+LightAngle = 0
+LightContrast = 48
+MobjScale = FRACUNIT*25/100
+NoVisitNeeded = True
+Hidden = True
+
 Level RLQ_Route124
 LevelName = Route 124
 NoZone = True
