@@ -37,7 +37,7 @@
 
 8, 2 - Riders Sonic, Toad/Blue Toad, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski,
 
-9, 2 - Haruko Haruhara,
+9, 2 - 
 
 
 1, 3 - Bean (Demolition), Milla,
@@ -90,7 +90,7 @@
 
 6, 5 - Tifa, Diggle, Fubuki, Filia, 
 
-7, 5 - Jack-O', Wolf O'Donnell, Chie Satonaka,
+7, 5 - Jack-O', Wolf O'Donnell,
 
 8, 5 - Mario Tire, Guntz,
 
@@ -109,7 +109,7 @@
 
 6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Yang,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
 8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
 
@@ -640,7 +640,7 @@ Pizzascape (less, 2 laps)
 5/15
 ----
 
-Characters - Added Aurora Rosalina and Scanty, unbroke the Roaring Knight's legs. Removed Bijou Koseki, Magnolia, Aisha, Beat, the Penitent One, Colombo, Akira, Hatsune Miku (Combi Lock-On), Earl, Chuck D. Head, Gunstar Red, Mighty Eagle, Mobo, Puggsy, Rei Ayanami, Robo, Toejam, Wild Woody, Gustavo and Brick, Donkey Kong, Dark Rider Shadow, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Bomberman, Bomberman Black, Lololo & Lalala, Lux, Dribbler, Hopper, Icebomber, Kama-Kama, Noro-Noro, Penguinator, Roller Mk. II, Sol, Taga-Taga, Taraban, Yadorin, and Zombie Orbinaut.
+Characters - Added Carl Wheezer, Aurora Rosalina and Scanty, unbroke the Roaring Knight's legs. Removed Bijou Koseki, Magnolia, Aisha, Beat, the Penitent One, Colombo, Akira, Hatsune Miku (Combi Lock-On), Earl, Chuck D. Head, Gunstar Red, Mighty Eagle, Mobo, Puggsy, Rei Ayanami, Robo, Toejam, Wild Woody, Gustavo and Brick, Donkey Kong, Dark Rider Shadow, Haruko, Chie, Yang, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Bomberman, Bomberman Black, Lololo & Lalala, Lux, Dribbler, Hopper, Icebomber, Kama-Kama, Noro-Noro, Penguinator, Roller Mk. II, Sol, Taga-Taga, Taraban, Yadorin, and Zombie Orbinaut.
 
 Maps - Removed Mado Dream Tracks, MB Track Stack Pack, and Neo Whale Maps. Blacklisted Asteroid Coaster, Sunken Sovereign, Chemical City, and Blizzard Peaks Classic.
 
