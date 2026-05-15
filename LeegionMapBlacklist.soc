@@ -658,6 +658,21 @@ Music = FIFAZ
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_BlizzardPeaksClassic
+LevelName = Blizzard Peaks
+ZoneTitle = Classic
+Music = BLCAZ
+TypeOfLevel = RACE
+Hidden = False
+SkyTexture = SKY55
+NumLaps = 3
+Weather = PRECIP_SNOW
+SubtractNum = True
+LightAngle = 45
+LightContrast = 98
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -728,6 +743,22 @@ LightAngle = 150
 LightContrast = 72
 Hidden = True
 
+Level EPIC_StormStationZone
+LevelName = Storm Station
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SSZSKY
+SkyboxScale = 0
+Weather = PRECIP_STORM
+Music = STORM,STORMA
+AssociatedMusic = SSINV,SSCLR,SSINTR
+MobjScale = FRACUNIT/4
+EncoreMusic = STORME
+EncoreLightAngle = 0
+EncoreLightContrast = 45
+NoVisitNeeded = True
+Hidden = True
+
 Level EPIC_MegaNightlitWoodsZone
 NoVisitNeeded = True
 LevelName = Mega Nightlit Woods
@@ -741,6 +772,38 @@ Music = NWFREM
 MobjScale = FRACUNIT/4
 EncoreMusic = MNWFRE
 CameraHeight = 140
+Hidden = True
+
+Level EPIC_MegaAquaParadiseZone
+LevelName = Mega Aqua Paradise
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = APDSKY
+Music = APZ
+EncoreMusic = MAPZE
+MobjScale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 135
+SkyboxScale = 24
+Darkness = -0.25
+CameraHeight = 140
+Hidden = True
+
+Level EPIC_Triumph
+NoVisitNeeded = True
+LevelName = Triumph
+NoZone = True
+TypeOfLevel = Race,Battle
+NumLaps = 3
+SkyTexture = TRMPHSKY
+LightAngle = 0
+LightContrast = 150
+Music = AHYPER
+EncoreMusic = EHYPER
+PositionMusic = BINTRO
+MobjScale = FRACUNIT/4
+SkyboxScale = 8
+NoVisitNeeded = True
 Hidden = True
 
 Level RLQ_CentralCityRace
@@ -918,22 +981,6 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
-Level EPIC_StormStationZone
-NoVisitNeeded = True
-LevelName = Storm Station
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = SSZSKY
-SkyboxScale = 0
-Weather = PRECIP_STORM
-Music = STORM,STORMA
-MobjScale = FRACUNIT/4
-EncoreMusic = STORME
-EncoreLightAngle = 0
-EncoreLightContrast = 45
-NoVisitNeeded = True
-Hidden = True
-
 Level FT_DeathRuins
 LevelName = Death Ruins
 NoVisitNeeded = True
@@ -961,6 +1008,19 @@ MObjscale = FRACUNIT/4
 LightContrast = 64
 LightAngle = 315
 NoVisitNeeded = True
+Hidden = True
+
+Level FT_AsteroidCoaster
+LevelName = Asteroid
+ZoneTitle = Coaster
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 3
+Music = ASTC
+SkyboxScale = 8
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
 Hidden = True
 
 Level GTK_HighSpeedRing
@@ -1243,6 +1303,18 @@ PositionMusic = XEXINT
 LightAngle = 0
 LightContrast = 48
 MobjScale = FRACUNIT*25/100
+NoVisitNeeded = True
+Hidden = True
+
+Level DIG_RegalRaceway
+LevelName = Sunken Sovereign
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = ~029
+Music = REGSHP
+Weather = PRECIP_STORM
+MobjScale = FRACUNIT*25/100
+SkyboxScale = 4
 NoVisitNeeded = True
 Hidden = True
 
@@ -2083,6 +2155,17 @@ NoVisitNeeded = True
 Music = MTXCVE
 SkyTexture = TXCVSKY
 CameraHeight = 140
+Hidden = True
+
+Level WRD_ChemicalCityToree
+LevelName = Chemical City
+TypeofLevel = Race
+SkyTexture = ~029
+Music = TGCCTY
+Mobjscale = FRACUNIT/4
+NoZone = True
+NumLaps = 3
+NoVisitNeeded = True
 Hidden = True
 
 Level HHR_DreamyTreewayA

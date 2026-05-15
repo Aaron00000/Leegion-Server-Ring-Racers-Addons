@@ -6,7 +6,7 @@
 
 2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
 
-3, 1 - Tangle, Gooey, Kirby, Taraban,
+3, 1 - Tangle, Gooey, Kirby,
 
 4, 1 - Dry Bones,
 
@@ -14,18 +14,18 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Sol,
+7, 1 - Ribbon,
 
 8, 1 - 
 
-9, 1 - Crazy Frog, Roaring Knight,
+9, 1 - Crazy Frog,
 
 
-1, 2 - Mallow, Noro-Noro,
+1, 2 - Mallow,
 
 2, 2 - 
 
-3, 2 - Gwenpool, Omochao, Juno,
+3, 2 - Gwenpool, Juno,
 
 4, 2 - Spamton, Quaver,
 
@@ -37,24 +37,24 @@
 
 8, 2 - Riders Sonic, Toad/Blue Toad, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski,
 
-9, 2 - Dark Rider Shadow, Haruko Haruhara,
+9, 2 - Haruko Haruhara,
 
 
 1, 3 - Bean (Demolition), Milla,
 
-2, 3 - Koopa, Fennec, Sara, Kama-Kama,
+2, 3 - Koopa, Fennec, Sara,
 
-3, 3 - Engineer, Peach, Rei Ayanami, Retro Mario, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Peach, Retro Mario, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Taga-Taga, Chuck D. Head, 
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala,
 
-6, 3 - Alolan Raichu, Kris, Pac-Man, Stella, Kneesocks, Noel Vermillion,
+6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion,
 
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Toe Jam,
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
-8, 3 - Ryuko, Spiderman, Cactuar, Track Guy,
+8, 3 - Ryuko, Spiderman, Track Guy,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
@@ -63,22 +63,22 @@
 
 2, 4 - Goomba, Scurry, Lucky, Ringo Ando,
 
-3, 4 - Sage, Lucas, Eunie, Lux,
+3, 4 - Sage, Lucas, Eunie,
 
 4, 4 - Conker, Geno, Rally, Sailor Venus, 
 
 5, 4 - Beavis, Leon Powalski, Yu Narukami,
 
-6, 4 - Luigi, Ugly Knuckles, Scratch, Falco, Aisha Clan-Clan,
+6, 4 - Luigi, Ugly Knuckles, Scratch, Falco,
 
-7, 4 - Buttguster, Daisy, Wild Woody, Fukua,
+7, 4 - Buttguster, Daisy, Fukua,
 
-8, 4 - Spike, Saturn, Hopper, 
+8, 4 - Spike, Saturn,
 
 9, 4 - Hornet, Jino-Chan, Yuuko Aioi,
 
 
-1, 5 - Old Man Owl, Alcremie, Icebomba,
+1, 5 - Alcremie,
 
 2, 5 - 
 
@@ -97,51 +97,51 @@
 9, 5 - Goku Drip, Tillis, Infinite,
 
 
-1, 6 - Kinger, Marx, Yadorin,
+1, 6 - Kinger, Marx,
 
-2, 6 - Madonna, Bandana Dee, Waddle Doo, Football Manager, Hex Maniac, Puggsy, 
+2, 6 - Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 
-3, 6 - Link, Peppy, Birdo, Colombo, Stocking,
+3, 6 - Link, Peppy, Birdo, Stocking,
 
-4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Robo, Penguinator,
+4, 6 - Knuckle Joe, Weird Mario (x2), Vyse,
 
-5, 6 - Jack Black, Beat, Ulala, Magnolia,
+5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel, Gunstar Red, 
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Lololo & Lalala, Yang, The Penitent One,
+7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku, Yang,
 
 8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Roller Mk. II, Rash,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Rash,
 
 
 1, 7 - 
 
-2, 7 - Agent Stone, Twintelle,
+2, 7 - Carl Wheezer, Agent Stone, Twintelle,
 
 3, 7 - Coach, Birdo, Susie, Ness,
 
-4, 7 - Banjo-Kazooie, Queen, Gustavo and Brick, Neera, Hsien-Ko,
+4, 7 - Banjo-Kazooie, Queen, Neera, Hsien-Ko,
 
-5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Bomberman/Bomberman Black, T.Celica,
+5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Scanty,
 
-6, 7 - Aigis (blue dress), Ramona, Akira, Hatsune Miku (Combi-Lockon), 
+6, 7 - Aigis (blue dress), Ramona,
 
-7, 7 - Cloud, Angel, Zombie Orbinaut,
+7, 7 - Cloud, Angel, Aurora Rosalina,
 
-8, 7 - Akira Nishikiyama, Ragna, Dribbler,
+8, 7 - Akira Nishikiyama, Ragna,
 
 9, 7 - Peppino, Grounder, Catchan,
 
 
-1, 8 - Homer Simpson, Ashe, Earl,
+1, 8 - Homer Simpson,
 
 2, 8 - AoStH Robotnik, Crash 4 Dingodile, Cardboard Eggman,
 
 3, 8 - DK JR., Shovel Knight, Pigma,
 
-4, 8 - Dr. Orpheus, King Dedede, Astal, DK, Peter Griffin, Mobo, Pyrrha, Trip,
+4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip,
 
 5, 8 - Shrek, Cole Cassidy,
 
@@ -156,19 +156,19 @@
 
 1, 9 - Heavy TF2, Thwomp, Unidentified Flying Bumper,
 
-2, 9 - Berret, Whispy Woods, Egg Shogun, Bijou Koseki
+2, 9 - Berret, Whispy Woods, Egg Shogun,
 
 3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein,
 
 4, 9 - 
 
-5, 9 - Knux Delux, Kapukapu, Gameboy Wario, 2B,
+5, 9 - Knux Delux, Gameboy Wario, 2B,
 
 6, 9 - Redwood,
 
 7, 9 - King K.Rool, Marina, 
 
-8, 9 - Bowser, GUN Truck, Mighty Eagle, 
+8, 9 - Bowser, GUN Truck,
 
 9, 9 - Ring Max, Satan, Metallix (SMBZ),
 
@@ -213,11 +213,9 @@ Spindashpak RE-PAK V1.5
 
 Shark Pack v1.2.1
 
-MB Track Stack Re-pack v1
-
-Neo Whale Maps v3
-
 Dreamy Treeway V2.4
+
+Epic Cup Revival 1.4.2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -323,9 +321,7 @@ Launch Base Classic
 
 Final Fall
 
-Egg Zeppelin 
-
-SD2 Iron Ruin
+Blizzard Peaks Classic
 
 Death Egg
 
@@ -343,6 +339,12 @@ Mandrill Maze
 Savannah Citadel 2
 
 Mega Nightlit Woods
+
+Storm Station
+
+Mega Aqua Paradise Zone
+
+Triumph
 
 Central City
 
@@ -530,6 +532,16 @@ Dreamy Treeway Act 1
 
 Planet Laeau Laile
 
+Asteroid Coaster
+
+Sunken Sovereign
+
+Egg Zeppelin 
+
+SD2 Iron Ruin
+
+Chemical City
+
 
 ## Resized
 ----------
@@ -625,10 +637,20 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+5/15
+----
+
+Characters - Added Aurora Rosalina and Scanty, unbroke the Roaring Knight's legs. Removed Bijou Koseki, Magnolia, Aisha, Beat, the Penitent One, Colombo, Akira, Hatsune Miku (Combi Lock-On), Earl, Chuck D. Head, Gunstar Red, Mighty Eagle, Mobo, Puggsy, Rei Ayanami, Robo, Toejam, Wild Woody, Gustavo and Brick, Donkey Kong, Dark Rider Shadow, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Bomberman, Bomberman Black, Lololo & Lalala, Lux, Dribbler, Hopper, Icebomber, Kama-Kama, Noro-Noro, Penguinator, Roller Mk. II, Sol, Taga-Taga, Taraban, Yadorin, and Zombie Orbinaut.
+
+Maps - Re-added epic Cup Revival. Removed Mado Dream Tracks, MB Track Stack Pack, and Neo Whale Maps. Blacklisted Asteroid Coaster, Sunken Sovereign, Chemical City, Blizzard Peaks Classic, Mega Aqua Paradise Zone, and Triumph.
+
+Other - Removed the custom engine sounds for Crazy Frog and Warpstar Kirby, removed Peppino's taunts. Horns.
+
+
 5/8
 ----
 
-Characters - Added Metallix (SMBZ), added back Noel Vermillion, removed Chuck E. Cheese.
+Characters - Added Metallix (SMBZ), added back Filia, Fukua, and Noel Vermillion. Removed Chuck E. Cheese.
 
 Maps - Added Dreamy Treeway Act 2, blacklisted Dreamy Treeway Act 1 and Planet Laeau Laile. Added an extra lap to Emerald Coast. Made Joypolis 7.5% larger.
 
