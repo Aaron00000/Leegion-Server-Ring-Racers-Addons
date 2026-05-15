@@ -642,7 +642,7 @@ Pizzascape (less, 2 laps)
 
 Characters - Added Aurora Rosalina and Scanty, unbroke the Roaring Knight's legs. Removed Bijou Koseki, Magnolia, Aisha, Beat, the Penitent One, Colombo, Akira, Hatsune Miku (Combi Lock-On), Earl, Chuck D. Head, Gunstar Red, Mighty Eagle, Mobo, Puggsy, Rei Ayanami, Robo, Toejam, Wild Woody, Gustavo and Brick, Donkey Kong, Dark Rider Shadow, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Bomberman, Bomberman Black, Lololo & Lalala, Lux, Dribbler, Hopper, Icebomber, Kama-Kama, Noro-Noro, Penguinator, Roller Mk. II, Sol, Taga-Taga, Taraban, Yadorin, and Zombie Orbinaut.
 
-Maps - Re-added epic Cup Revival. Removed Mado Dream Tracks, MB Track Stack Pack, and Neo Whale Maps. Blacklisted Asteroid Coaster, Sunken Sovereign, Chemical City, Blizzard Peaks Classic, Mega Aqua Paradise Zone, and Triumph.
+Maps - Removed Mado Dream Tracks, MB Track Stack Pack, and Neo Whale Maps. Blacklisted Asteroid Coaster, Sunken Sovereign, Chemical City, and Blizzard Peaks Classic.
 
 Other - Removed the custom engine sounds for Crazy Frog and Warpstar Kirby, removed Peppino's taunts. Horns.
 
