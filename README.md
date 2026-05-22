@@ -2,9 +2,9 @@
 
 ## ADDON CHARACTERS SORTED BY SPEED, WEIGHT:
 --------------------------------------------
-1, 1 - Whitey,
+1, 1 - Whitey, Ring the Glazer, Ring (Bodyless),
 
-2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok,
+2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok, Tail Doll (Sonic R),
 
 3, 1 - Tangle, Gooey, Kirby,
 
@@ -27,9 +27,9 @@
 
 3, 2 - Gwenpool, Juno,
 
-4, 2 - Spamton, Quaver,
+4, 2 - Spamton, Quaver, Archie ray,
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy, Nonon,
+5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy,
 
 6, 2 - Paper Mario, Maka Albarn,
 
@@ -40,7 +40,7 @@
 9, 2 - 
 
 
-1, 3 - Bean (Demolition), Milla,
+1, 3 - Bean (Demolition), Milla, Robo-Hood,
 
 2, 3 - Koopa, Fennec, Sara,
 
@@ -59,13 +59,13 @@
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
 
-1, 4 - Andrew Oikonny,
+1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
 
-2, 4 - Goomba, Scurry, Lucky, Ringo Ando,
+2, 4 - Goomba, Lucky, Ringo Ando,
 
 3, 4 - Sage, Lucas, Eunie,
 
-4, 4 - Conker, Geno, Rally, Sailor Venus, 
+4, 4 - Conker, Geno, Sailor Venus, 
 
 5, 4 - Beavis, Leon Powalski, Yu Narukami,
 
@@ -73,20 +73,20 @@
 
 7, 4 - Buttguster, Daisy, Fukua,
 
-8, 4 - Spike, Saturn,
+8, 4 - Spike, Saturn, Rally,
 
 9, 4 - Hornet, Jino-Chan, Yuuko Aioi,
 
 
 1, 5 - Alcremie,
 
-2, 5 - 
+2, 5 - Motobug (Biker),
 
 3, 5 - Reiko,
 
-4, 5 - Squidward, Butthead, Doppel Arle,
+4, 5 - Dracula Flow, Squidward, Butthead, Doppel Arle,
 
-5, 5 - Mario,
+5, 5 - Mario, Movie Knuckles, Sailor Moon,
 
 6, 5 - Tifa, Diggle, Fubuki, Filia, 
 
@@ -94,7 +94,7 @@
 
 8, 5 - Mario Tire, Guntz,
 
-9, 5 - Goku Drip, Tillis, Infinite,
+9, 5 - Cell, Goku Drip, Tillis, Infinite,
 
 
 1, 6 - Kinger, Marx,
@@ -103,7 +103,7 @@
 
 3, 6 - Link, Peppy, Birdo, Stocking,
 
-4, 6 - Knuckle Joe, Weird Mario (x2), Vyse,
+4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version),
 
 5, 6 - Jack Black, Ulala,
 
@@ -113,31 +113,31 @@
 
 8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Sho Minamimoto, Rash,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Rash,
 
 
 1, 7 - 
 
 2, 7 - Carl Wheezer, Agent Stone, Twintelle,
 
-3, 7 - Coach, Birdo, Susie, Ness,
+3, 7 - Coach, Susie, Ness,
 
 4, 7 - Banjo-Kazooie, Queen, Neera, Hsien-Ko,
 
-5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Scanty,
+5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
 6, 7 - Aigis (blue dress), Ramona,
 
 7, 7 - Cloud, Angel, Aurora Rosalina,
 
-8, 7 - Akira Nishikiyama, Ragna,
+8, 7 - Akira Nishikiyama, Gongon,
 
 9, 7 - Peppino, Grounder, Catchan,
 
 
 1, 8 - Homer Simpson,
 
-2, 8 - AoStH Robotnik, Crash 4 Dingodile, Cardboard Eggman,
+2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Crash 4 Dingodile, Cardboard Eggman,
 
 3, 8 - DK JR., Shovel Knight, Pigma,
 
@@ -216,6 +216,10 @@ Shark Pack v1.2.1
 Dreamy Treeway V2.4
 
 Epic Cup Revival 1.4.2
+
+Kiritsu Preview v0.a
+
+Amazing, Miracle, and Wonder Cup beta 9.9
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -322,6 +326,8 @@ Launch Base Classic
 Final Fall
 
 Blizzard Peaks Classic
+
+Skyscraper Leaps
 
 Death Egg
 
@@ -636,6 +642,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+5/22
+----
+
+Characters - Added Snap the Sentinel. Updated Ryuko and Satsuki. Fixed Saturn's char pack and Heavy Slammer being missing, Peppino's win/lose jingles playing for everyone, Piccolo being doubled and mute, and actually removed Haruko this time.
+
+Maps - Added a beta for a Kiritsu Pack map and a beta for ruber's maps with the performance heavy lua scripts removed. Blacklisted Skyscraper Leaps.
+
+Other - Fixed the description for the bread crumbs horn and fixed the Heather horn being missing. Fixed a bug with the killbind where using it during the fault condition made you unable to interact with rings/item boxes. Added more sounds for the killbind button and a horn or two.
+
 
 5/15
 ----

@@ -673,6 +673,17 @@ LightContrast = 98
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_SkyscraperLeaps
+LevelNAME = Skyscraper Leaps
+NumLaps = 4
+SkyTexture = SKY369
+TypeOfLevel = RACE
+MobjScale = 10*FRACUNIT/55
+SKYBOXSCALE = 20
+Music = SKLEZ
+NoVisitNeeded = True
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death
 ZoneTitle = Big
@@ -1753,21 +1764,6 @@ Lua.Ruber = true
 Lua.deathchamber = true
 Hidden = True
 
-Level RUB_Audiopolis
-NoVisitNeeded = True
-LevelName = Audiopolis
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = TP_NBG1
-Music = AUDPL1,AUDPL2
-SkyboxScale = 1*FRACUNIT
-MobjScale = 5*FRACUNIT/16
-LightAngle = 0
-LightContrast = 16
-Darkness = 0.75
-Lua.Ruber = true
-Hidden = True
-
 Level BCN_CurienMansion
 LevelName = Curien
 ZoneTitle = Mansion
@@ -1815,6 +1811,22 @@ SkyTexture = SB1_SKYF
 Music = LOGSB0,LOGSB1
 MobjScale = FRACUNIT/4
 Darkness = 1.10
+Hidden = True
+
+Level ACH_MiniJoyfulField
+LevelName = MINI Joyful
+MenuTitle = Mini Joyful Field
+ZoneTitle = Field
+TypeOfLevel = Race
+NumLaps = 10
+SkyTexture = SKYJOYFL
+Music = Joyful
+Mobjscale = FRACUNIT/4
+PositionMusic = KPPOS
+CameraHeight = 140
+SkyboxScale = 64
+DefaultWaypointRadius = 128*FRACUNIT
+NoVisitNeeded = True
 Hidden = True
 
 Level LAS_FrutigerAeropolis2
