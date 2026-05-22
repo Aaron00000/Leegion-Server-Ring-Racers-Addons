@@ -168,7 +168,7 @@
 
 7, 9 - King K.Rool, Marina, 
 
-8, 9 - Bowser, GUN Truck,
+8, 9 - Bowser, GUN Truck, Temporacle,
 
 9, 9 - Ring Max, Satan, Metallix (SMBZ),
 
@@ -646,11 +646,11 @@ Pizzascape (less, 2 laps)
 5/22
 ----
 
-Characters - Added Snap the Sentinel. Updated Ryuko and Satsuki. Fixed Saturn's char pack and Heavy Slammer being missing, Peppino's win/lose jingles playing for everyone, Piccolo being doubled and mute, and actually removed Haruko this time.
+Characters - Added Snap the Sentinel and Temporacle. Updated Ryuko and Satsuki. Fixed Saturn's char pack and Heavy Slammer being missing, Peppino's win/lose jingles playing for everyone, Piccolo being doubled and mute, and actually removed Haruko this time.
 
 Maps - Added a beta for a Kiritsu Pack map and a beta for ruber's maps with the performance heavy lua scripts removed. Blacklisted Skyscraper Leaps.
 
-Other - Fixed the description for the bread crumbs horn and fixed the Heather horn being missing. Fixed a bug with the killbind where using it during the fault condition made you unable to interact with rings/item boxes. Added more sounds for the killbind button and a horn or two.
+Other - Fixed the description for the bread crumbs horn and fixed the Heather horn being missing. Fixed a bug with the killbind where using it during the fault condition made you unable to interact with rings/item boxes. Added more sounds for the killbind button and horns.
 
 
 5/15
