@@ -635,9 +635,9 @@ Pizzascape (less, 2 laps)
 
 Characters - Added Flonne, Sekibanki, Draco, Youmu Konpaku, Yuri Lowell, and Silly Iono.
 
-Maps - Realized some currently used and previously used map packs were Open Assets so I cut out some blacklisted content to save space and re-added GT Kart 2, Super Striker GP 1.5.2, Neo Whale Maps, and Revenge of Fuckpak. Re-Added Big-O Maps now that it is 2.4 complaint. Un-blacklisted a lot of vanilla maps and Blizzard Peaks Zone 2 to give them a second chance, blacklisted Gravtech Dimension 5 and Midnight Flannel. Increased the size of Mega Collision Chaos, Mega Flying Battery, Advent Angel, Coastal Temple, and Lavender Shrine Classic by 20% and reduced the lap count of Mega Collision Chaos, Mega Flying Battery, Espresso Lane, Advent Angel, and Coastal Temple by a lap. Made some minor edits to Touge and Desert Bus.
+Maps - Realized some currently used and previously used map packs were Open Assets so I cut out some blacklisted content to save space and re-added GT Kart 2, Super Striker GP 1.5.2, Neo Whale Maps, and Revenge of Fuckpak. Re-Added Big-O Maps now that it is 2.4 complaint. Un-blacklisted a lot of vanilla maps to give them a second chance, blacklisted Gravtech Dimension 5 and Midnight Flannel. Increased the size of Mega Collision Chaos, Mega Flying Battery, Advent Angel, Coastal Temple, and Lavender Shrine Classic by 20% and reduced the lap count of Mega Collision Chaos, Mega Flying Battery, Espresso Lane, Advent Angel, and Coastal Temple by a lap. Made some minor edits to Touge and Desert Bus.
 
-Other - Axed a couple of my horns and moved some of the song horns to hellhorns. Made some more horns work for the killbind.
+Other - Added a cheers, bro horn, axed a couple of my horns and moved some of the song horns to hellhorns. Made some more horns work for the killbind.
 
 
 5/22
