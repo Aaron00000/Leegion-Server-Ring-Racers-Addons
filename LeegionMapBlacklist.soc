@@ -1,16 +1,3 @@
-Level RR_AqueductCrystal
-LevelName = Aqueduct Crystal
-TypeOfLevel = Race
-NumLaps = 3
-MobjScale = FRACUNIT/4
-SkyTexture = AQSKY0
-SkyBoxScale = 8
-Music = AQCRZ
-LightAngle = 0
-LightContrast = 80
-Hidden = True
-NoVisitNeeded = True
-
 Level RR_CarnivalNight
 LevelName = Carnival Night
 TypeOfLevel = Race
@@ -109,18 +96,6 @@ CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
 
-Level RR_MegaCollisionChaos
-LevelName = Mega Collision Chaos
-TypeOfLevel = Race
-Hidden = False
-NumLaps = 5
-MobjScale =  1*FRACUNIT/4
-SkyTexture = ~153
-Music = MECOZ,MECOA
-CameraHeight = 140
-Hidden = True
-NoVisitNeeded = True
-
 Level RR_MegaStarLight
 LevelName = Mega Star Light
 TypeOfLevel = Race
@@ -156,33 +131,6 @@ CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
 
-Level RR_MegaFlyingBattery
-LevelName = Mega Flying Battery
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ~171
-Music = MEFLZ
-Mobjscale = FRACUNIT/4
-Weather = PRECIP_STORM
-DefaultWaypointRadius = 64*FRACUNIT
-CameraHeight = 140
-Hidden = True
-NoVisitNeeded = True
-
-Level RR_BalloonPark
-LevelName = Balloon Park
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = BPZSKY01
-Music = BAPAZ
-MobjScale = FRACUNIT*16/100
-Darkness = -0.25
-DefaultWaypointRadius = 50*FRACUNIT
-LightContrast = 48
-LightAngle = 45
-Hidden = True
-NoVisitNeeded = True
-
 Level RR_SpringYard
 LevelName = Spring Yard
 TypeOfLevel = Race
@@ -191,21 +139,6 @@ SkyTexture = ~150
 Music = SPYAZ
 Mobjscale = 1*FRACUNIT/4
 Darkness = 0.25
-Hidden = True
-NoVisitNeeded = True
-
-Level RR_LavenderShrineClassic
-LevelName = Lavender Shrine
-ZoneTitle = Classic
-TypeOfLevel = Race
-NumLaps = 2
-MobjScale = FRACUNIT/4
-Music = LASHZ
-SkyTexture = BSZSKY
-DefaultWaypointRadius = 208*FRACUNIT
-SkyboxScale = 10
-Palette = 7682
-Darkness = -1
 Hidden = True
 NoVisitNeeded = True
 
@@ -223,32 +156,6 @@ LightAngle = 165
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_ShuffleSquare
-LevelName = Shuffle Square
-Palette = 0
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = SKY766
-Music = SHSQZ
-SkyboxScale = 0.25
-DefaultWaypointRadius = 768*FRACUNIT
-Mobjscale = FRACUNIT*90/100
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_ThunderPiston
-LevelName = Thunder Piston
-NoZone = False
-TypeOfLevel = Race
-SkyTexture = TPSSKYT
-Weather = PRECIP_MONSOON
-MobjScale = 1*FRACUNIT/4
-NumLaps = 2
-Music = THPIZ,THPIA,THPIA2
-Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_PicoPark
 LevelName = Peta Park
 TypeOfLevel = Race
@@ -259,49 +166,6 @@ Mobjscale = FRACUNIT*25/500
 LightContrast = 48
 LightAngle = 45
 CameraHeight = 130
-Hidden = True
-NoVisitNeeded = True
-
-Level RR_LostColony
-LevelName = Lost
-ZoneTitle = Colony
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = ~031
-Music = LSTCLZ
-MobjScale = FRACUNIT/4
-Followers = Mono Beetle
-EncorePal = 19
-Darkness = -1
-Hidden = True
-NoVisitNeeded = True
-
-Level RR_AquaTunnel
-LevelName = Aqua Tunnel
-NoZone = True
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = ~029
-Mobjscale = FRACUNIT/4
-Weather = PRECIP_FIREFLIES
-Music = ATUN,ATUN2
-Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_HauntedShip
-LevelName = Haunted Ship
-NoZone = True
-Music = HASHZ
-TypeOfLevel = RACE
-SkyTexture = ~029
-SkyboxScale = 4
-NumLaps = 3
-Weather = PRECIP_STORM
-Mobjscale = FRACUNIT/2
-LightAngle = 45
-LightContrast = 48
-Darkness = -0.25
 Hidden = True
 NoVisitNeeded = True
 
@@ -362,19 +226,6 @@ Music = BABAZ
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_AdventAngel
-LevelName = Advent Angel
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = ANGELSKY
-MobjScale = FRACUNIT/4
-Music = AVANZ
-SubtractNum = True
-Darkness = 0.25
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_DiamondDust
 LevelName = Diamond Dust
 TypeOfLevel = Race
@@ -411,17 +262,6 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_ShuffleSquare
-LevelName = Shuffle Square
-Palette = 0
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = SKY766
-Music = SHSQZ
-SkyboxScale = 0.25
-DefaultWaypointRadius = 768*FRACUNIT
-Mobjscale = FRACUNIT*90/100
-
 Level RR_MarbleGarden
 LevelName = Marble Garden
 TypeOfLevel = Race
@@ -431,101 +271,6 @@ Music = MAGRZ,MAGRZ2,MAGRA
 MobjScale = FRACUNIT/4
 LightContrast = 48
 LightAngle = 225
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_NovaShore
-LevelName = Nova Shore
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY2448
-Palette = 16
-EncorePal = 3
-Music = NOSHZ,NOSHA
-AssociatedMusic = DOPE2,DOPE1
-MobjScale = FRACUNIT/4
-Weather = PRECIP_SPARKLES
-Darkness = 0
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_Pestilence
-LevelName = Pestilence
-TypeOfLevel = Race
-NumLaps = 3
-Music = PESZ
-MobjScale = FRACUNIT/4
-DefaultWaypointRadius = 96*FRACUNIT
-LightContrast = 48
-LightAngle = 315
-Darkness = -1.0
-Followers = Buggernaut
-SkyTexture = ~031
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_DarkvileCastle1
-LevelName = Darkvile Castle
-Act = 1
-TypeOfLevel = Race
-Mobjscale = FRACUNIT/3
-DefaultWaypointRadius = 112*FRACUNIT
-SkyTexture = DVSKY
-Weather = PRECIP_RAIN
-Music = DACAZ1
-SkyboxScale = 32
-Darkness = -1
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_LavenderShrine
-LevelName = Lavender Shrine
-TypeOfLevel = Race
-NumLaps = 3
-MobjScale = FRACUNIT/4
-Music = LASHZ
-SkyTexture = BSZSKY2
-DefaultWaypointRadius = 208*FRACUNIT
-SkyboxScale = 4
-Weather = PRECIP_LSPT
-Darkness = -1
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_BlizzardPeaks
-LevelName = Blizzard Peaks
-NoZone = False
-TypeOfLevel = Race
-MobjScale = 1*FRACUNIT/4
-SkyboxScaleZ = 0
-SkyTexture = ~130
-NumLaps = 2
-LightContrast = 32
-LightAngle = 180
-Music = BLPEZ
-SubtractNum = True
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_AerialHighlands
-LevelName = Aerial Highlands
-Music = AEHIZ
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = ~163
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_Metropolis
-LevelName = Metropolis
-TypeOfLevel = Race
-NumLaps = 3
-MobjScale = FRACUNIT/4
-Music = METZ,METZA
-SkyTexture = SKY26541
-DefaultWaypointRadius = 208*FRACUNIT
-LightAngle = 45
-LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
@@ -544,55 +289,6 @@ Darkness = -0.25
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_CoastalTemple
-LevelName = Coastal Temple
-TypeofLevel = Race
-NumLaps = 3
-SkyTexture = CTSKY
-Music = COTEZ
-MobjScale = FRACUNIT/4
-Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_StarLight
-LevelName = Star Light
-Music = STLIZ
-TypeOfLevel = Race
-NumLaps = 3
-MobjScale = FRACUNIT/4
-SkyTexture = ~031
-Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_EspressoLane
-Levelname = Espresso Lane
-NumLaps = 3
-TypeOfLevel = Race
-Music = ESLAZ
-SkyTexture = SKY265
-Weather = PRECIP_SNOW
-MobjScale = 10*FRACUNIT/24
-Skyboxscale = 4
-EncoreLightAngle = 90
-EncoreLightContrast = 80
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_SkyBabylon
-LevelName = Sky Babylon
-TypeOfLevel = Race
-MobjScale = FRACUNIT/4
-NumLaps = 4
-SkyTexture = sky755
-Music = SKBAZ
-Darkness = -0.25
-LightContrast = 32
-LightAngle = 315
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_TechnologyTundra
 LevelName = Technology
 ZoneTitle = Tundra
@@ -607,72 +303,6 @@ LightAngle = 90
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_RobotnikWinter
-LevelName = Robotnik Winter
-NoZone = False
-TypeOfLevel = Race
-MobjScale = 1*FRACUNIT/4
-SkyboxScaleZ = 0
-NumLaps = 3
-Weather = 2
-LightContrast = 56
-LightAngle = 90
-Music = ROWIZ
-SubtractNum = True
-DestroyObjectsForChallenges = MT_ICECAPBLOCK
-SkyTexture = ~176
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_DiamondDustClassic
-LevelName = Diamond Dust
-ZoneTitle = Classic
-TypeOfLevel = Race
-NumLaps = 3
-MobjScale = 1*FRACUNIT/4
-Weather = PRECIP_SNOW
-SkyTexture = DIASKY
-Music = DIDUZ,DIDUA
-SubtractNum = True
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_LaunchBaseClassic
-LevelName = Launch Base
-ZoneTitle = Classic
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKY6633
-Music = LABAZ2
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_FinalFall
-LevelName = Final Fall
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = SKYFFZ
-MobjScale = FRACUNIT/4
-SkyboxScaleZ = 16
-Music = FIFAZ
-NoVisitNeeded = True
-Hidden = True
-
-Level RR_BlizzardPeaksClassic
-LevelName = Blizzard Peaks
-ZoneTitle = Classic
-Music = BLCAZ
-TypeOfLevel = RACE
-Hidden = False
-SkyTexture = SKY55
-NumLaps = 3
-Weather = PRECIP_SNOW
-SubtractNum = True
-LightAngle = 45
-LightContrast = 98
-NoVisitNeeded = True
-Hidden = True
-
 Level RR_SkyscraperLeaps
 LevelNAME = Skyscraper Leaps
 NumLaps = 4
@@ -681,6 +311,20 @@ TypeOfLevel = RACE
 MobjScale = 10*FRACUNIT/55
 SKYBOXSCALE = 20
 Music = SKLEZ
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_GravtechDimension
+LevelName = Gravtech
+ZoneTitle = Dimension
+Act = 5
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYLB01
+Music = DIHEZ5
+Mobjscale = FRACUNIT*23/100
+Darkness = 0.25
+CameraHeight = 130
 NoVisitNeeded = True
 Hidden = True
 
@@ -722,6 +366,17 @@ Music = GKSKA,GKSEA
 EncoreMusic = GKBIG
 SkyTexture = SKY766
 SkyboxScale = 32
+MobjScale = FRACUNIT/4
+Hidden = True
+
+Level GACK_TerrorTrench
+LevelName = Terror Trench
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 2
+SkyTexture = GKTTSKY
+Music = GKWHLE
+EncoreMusic = GKWHLE
 MobjScale = FRACUNIT/4
 Hidden = True
 
@@ -856,6 +511,20 @@ CameraHeight = 140
 NoVisitNeeded = True
 Hidden = True
 
+Level RLQ_Route124
+LevelName = Route 124
+NoZone = True
+TypeOfLevel = Race
+SkyTexture = PERFBG01
+NumLaps = 2
+PositionMusic = ROUINT
+Music = ROCHDR
+LightContrast = 64
+LightAngle = 135
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
 Level AC_VoltageViperChallenge
 LevelName = Voltage Viper
 ZoneTitle = Challenge
@@ -920,6 +589,47 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
+Level AC_JetWorld
+LevelName = Jet
+ZoneTitle = World
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = BPZSKY01
+PositionMusic = JETWST
+Music = JETWLG
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+Level AC_RedRageHighway
+LevelName = Red Rage
+ZoneTitle = Highway
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ANGELSKY
+PositionMusic = SORRCS
+Music = SORRBR
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
+NoVisitNeeded = true
+Hidden = True
+
+Level AC_DieselTown
+LevelName = Diesel
+ZoneTitle = Town
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKYCE
+NoVisitNeeded = True
+PositionMusic = SPKSEL
+Music = SPKBDT
+Mobjscale = FRACUNIT/4
+LightContrast = 32
+LightAngle = 45
+NoVisitNeeded = True
+Hidden = True
+
 Level ARC_DonburiSkyway
 LevelName = Donburi
 ZoneTitle = Skyway
@@ -980,15 +690,81 @@ LightContrast = 10
 NoVisitNeeded = True
 Hidden = True
 
-Level AC_JetWorld
-LevelName = Jet
-ZoneTitle = World
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = BPZSKY01
-PositionMusic = JETWST
-Music = JETWLG
-MobjScale = FRACUNIT/4
+Level LAS_BattleshipHarbor
+LevelName = Battleship
+ZoneTitle = Harbor
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SKY91
+SkyboxScale = 128
+PositionMusic = CASINT
+Music = BATHA1,BATHA2
+Mobjscale = 2*FRACUNIT/10
+LightContrast = 10
+NoVisitNeeded = True
+Hidden = True
+
+
+Level ARC_SaturnStarway
+LevelName = Saturn
+ZoneTitle = Starway
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SKY4417
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = SATST1,SATST2
+Mobjscale = FRACUNIT/3
+LightAngle = 90
+LightContrast = 64
+Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
+Hidden = False
+NoVisitNeeded = True
+Hidden = True
+
+Level LAS_PuyoPuyo
+LevelName = Puyo Puyo
+ZoneTitle = Arena
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = OPUBG02
+SkyboxScale = 128
+PositionMusic = CASINT
+Music = PUYOA1,PUYOA2
+Mobjscale = FRACUNIT/4
+LightContrast = 10
+Followers = Has Bean
+NoVisitNeeded = True
+Hidden = True
+
+Level LAS_FrutigerAeropolis2
+LevelName = Frutiger
+ZoneTitle = Aeropolis
+Act = 2
+NoVisitNeeded = True
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = OPUBG02
+SkyboxScale = 64
+PositionMusic = FAERI2
+Music = FAEROV,FAEROQ,FAEROS
+LightContrast = 0
+LightAngle = 10
+Mobjscale = FRACUNIT/3
+Hidden = True
+
+Level CAS_BSODRing
+LevelName = BSOD
+ZoneTitle = Ring
+TypeofLevel = Race
+NumLaps = 12
+SkyTexture = ~135
+SkyboxScale = 64
+PositionMusic = CASINT
+Music = BSODP
+EncoreMusic = BSODE
+Mobjscale = FRACUNIT/3
+LightContrast = 10
 NoVisitNeeded = True
 Hidden = True
 
@@ -1215,31 +991,47 @@ Lua.NoEmeraldOverlay = True
 NoVisitNeeded = True
 Hidden = True
 
-Level AC_RedRageHighway
-LevelName = Red Rage
-ZoneTitle = Highway
-TypeofLevel = Race
-NumLaps = 3
-SkyTexture = ANGELSKY
-PositionMusic = SORRCS
-Music = SORRBR
-Mobjscale = FRACUNIT/4
-LightContrast = 32
-LightAngle = 45
-NoVisitNeeded = true
+Level LZ_uni2hell
+LevelName = UNI2 HELL
+nozone = true
+TypeOfLevel = Race
+Music = LUNI2H
+PositionMusic = LZINTR
+SkyTexture = LUNI2HS
+LightContrast = 38
+Lightangle = 270
+skyboxscale = 7
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
 Hidden = True
 
-Level LAS_BattleshipHarbor
-LevelName = Battleship
-ZoneTitle = Harbor
-TypeofLevel = Race
+level LZ_DEVCOMMENTS
+NoVisitNeeded = True
+Hidden = True
+
+Level DRTR_LacustrineDisrepair2
+LevelName = Lacustrine Disrepair
+TypeOfLevel = Race
+NumLaps = 4
+Act = 2
+Music = LCDSR2
+MobjScale = FRACUNIT/4
+SkyTexture = ~110
+SkyboxScale = 8
+LightContrast = 24
+NoVisitNeeded = True
+Hidden = True
+
+Level DRTR_HouseOfTheUndying
+LevelName = House Of
+ZoneTitle = The Undying
+TypeOfLevel = Race
 NumLaps = 2
-SkyTexture = SKY91
-SkyboxScale = 128
-PositionMusic = CASINT
-Music = BATHA1,BATHA2
-Mobjscale = 2*FRACUNIT/10
-LightContrast = 10
+LapsPerSection = 1
+Music = UNDRBN,KMAPLQ
+MobjScale = FRACUNIT/4
+SkyTexture = ~031
+LightContrast = 24
 NoVisitNeeded = True
 Hidden = True
 
@@ -1258,19 +1050,6 @@ LightContrast = 20
 NoComms = true
 Lua.usesdigglesaves = true
 Lua.rdtlstorymap = true
-Hidden = True
-
-Level DRTR_LacustrineDisrepair2
-LevelName = Lacustrine Disrepair
-TypeOfLevel = Race
-NumLaps = 4
-Act = 2
-Music = LCDSR2
-MobjScale = FRACUNIT/4
-SkyTexture = ~110
-SkyboxScale = 8
-LightContrast = 24
-NoVisitNeeded = True
 Hidden = True
 
 Level DIG_BubblinSprings
@@ -1326,67 +1105,6 @@ Music = REGSHP
 Weather = PRECIP_STORM
 MobjScale = FRACUNIT*25/100
 SkyboxScale = 4
-NoVisitNeeded = True
-Hidden = True
-
-Level RLQ_Route124
-LevelName = Route 124
-NoZone = True
-TypeOfLevel = Race
-SkyTexture = PERFBG01
-NumLaps = 2
-PositionMusic = ROUINT
-Music = ROCHDR
-LightContrast = 64
-LightAngle = 135
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level ARC_SaturnStarway
-LevelName = Saturn
-ZoneTitle = Starway
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = SKY4417
-SkyboxScale = 64
-PositionMusic = CASFIN
-Music = SATST1,SATST2
-Mobjscale = FRACUNIT/3
-LightAngle = 90
-LightContrast = 64
-Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
-Hidden = False
-NoVisitNeeded = True
-Hidden = True
-
-Level LAS_PuyoPuyo
-LevelName = Puyo Puyo
-ZoneTitle = Arena
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = OPUBG02
-SkyboxScale = 128
-PositionMusic = CASINT
-Music = PUYOA1,PUYOA2
-Mobjscale = FRACUNIT/4
-LightContrast = 10
-Followers = Has Bean
-NoVisitNeeded = True
-Hidden = True
-
-Level AC_DieselTown
-LevelName = Diesel
-ZoneTitle = Town
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = SKYCE
-NoVisitNeeded = True
-PositionMusic = SPKSEL
-Music = SPKBDT
-Mobjscale = FRACUNIT/4
-LightContrast = 32
-LightAngle = 45
 NoVisitNeeded = True
 Hidden = True
 
@@ -1491,6 +1209,20 @@ AssociatedMusic = PTARFN
 MobjScale = FRACUNIT/4
 Hidden = True
 
+Level PP_MountainHighway
+LevelName = Celestia Highway
+TypeOfLevel = Race
+NoVisitNeeded = True
+NumLaps = 3
+SkyTexture = SKY17
+Music = CELSNR
+MobjScale = 1*FRACUNIT/8
+AssociatedMusic = CELSFN
+SectionRace = True
+Keywords = Taikan
+EncorePal = 16
+Hidden = True
+
 Level ATL_MC_MegaJungle
 LevelName = Mega Jungle
 TypeOfLevel = Race
@@ -1562,6 +1294,33 @@ SkyTexture = GOCASKY1
 Music = GOCAA2
 MobjScale = FRACUNIT/4
 CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ATL_MC_MegaCasinoNight
+LevelName = Mega Casino Night
+TypeofLevel = Race
+NumLaps = 6
+Music = DIGCAS
+SkyTexture = PIT
+MobjScale = FRACUNIT*25/100
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level ACH_MiniJoyfulField
+LevelName = MINI Joyful
+MenuTitle = Mini Joyful Field
+ZoneTitle = Field
+TypeOfLevel = Race
+NumLaps = 10
+SkyTexture = SKYJOYFL
+Music = Joyful
+Mobjscale = FRACUNIT/4
+PositionMusic = KPPOS
+CameraHeight = 140
+SkyboxScale = 64
+DefaultWaypointRadius = 128*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
@@ -1640,6 +1399,24 @@ DefaultWaypointRadius = 208*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
+Level KP_IndierockRally
+LevelName = Indierock Rally
+Weather = PRECIP_CONFETTI
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = INDIESKY
+SkyBoxScale = 64
+TypeOfLevel = Race
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 16
+Music = SILNT
+PositionMusic = KPPOS
+AssociatedMusic = SMTLC,SCKHCK,BOCCHI
+DefaultWaypointRadius = 208*FRACUNIT
+NoVisitNeeded = True
+Hidden = True
+
 Level ACHII_MyoukaShelter
 LevelName = Myouka Shelter
 TypeOfLevel = Race
@@ -1677,20 +1454,6 @@ DefaultWaypointRadius = 128*FRACUNIT
 NoVisitNeeded = True
 Hidden = True
 
-Level PP_MountainHighway
-LevelName = Celestia Highway
-TypeOfLevel = Race
-NoVisitNeeded = True
-NumLaps = 3
-SkyTexture = SKY17
-Music = CELSNR
-MobjScale = 1*FRACUNIT/8
-AssociatedMusic = CELSFN
-SectionRace = True
-Keywords = Taikan
-EncorePal = 16
-Hidden = True
-
 Level RR_DeadLine
 LevelName = Dead Line
 ZoneTitle = Classic
@@ -1700,17 +1463,6 @@ Mobjscale = FRACUNIT/4
 NumLaps = 2
 Music = DELIZ
 Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
-Level ATL_MC_MegaCasinoNight
-LevelName = Mega Casino Night
-TypeofLevel = Race
-NumLaps = 6
-Music = DIGCAS
-SkyTexture = PIT
-MobjScale = FRACUNIT*25/100
-CameraHeight = 140
 NoVisitNeeded = True
 Hidden = True
 
@@ -1748,6 +1500,21 @@ Followers = Chao
 CameraHeight = 140
 Hidden = True
 
+Level BCN_CurienMansion
+LevelName = Curien
+ZoneTitle = Mansion
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = CNMSKY01
+PositionMusic = HOTDPO
+Music = HOTD1,HOTD2,HOTD3
+MobjScale = 2*FRACUNIT/7
+SkyBoxScaleX = 0
+SkyBoxScaleY = 0
+SkyBoxScaleZ = 0.5
+NoVisitNeeded = True
+Hidden = True
+
 Level RUB_DeathChamberR
 NoVisitNeeded = True
 LevelName = Death
@@ -1762,21 +1529,6 @@ SkyboxScale = 0.005
 Darkness = 0.75
 Lua.Ruber = true
 Lua.deathchamber = true
-Hidden = True
-
-Level BCN_CurienMansion
-LevelName = Curien
-ZoneTitle = Mansion
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = CNMSKY01
-PositionMusic = HOTDPO
-Music = HOTD1,HOTD2,HOTD3
-MobjScale = 2*FRACUNIT/7
-SkyBoxScaleX = 0
-SkyBoxScaleY = 0
-SkyBoxScaleZ = 0.5
-NoVisitNeeded = True
 Hidden = True
 
 Level LOG_ErodingEucalyptus
@@ -1813,38 +1565,6 @@ MobjScale = FRACUNIT/4
 Darkness = 1.10
 Hidden = True
 
-Level ACH_MiniJoyfulField
-LevelName = MINI Joyful
-MenuTitle = Mini Joyful Field
-ZoneTitle = Field
-TypeOfLevel = Race
-NumLaps = 10
-SkyTexture = SKYJOYFL
-Music = Joyful
-Mobjscale = FRACUNIT/4
-PositionMusic = KPPOS
-CameraHeight = 140
-SkyboxScale = 64
-DefaultWaypointRadius = 128*FRACUNIT
-NoVisitNeeded = True
-Hidden = True
-
-Level LAS_FrutigerAeropolis2
-LevelName = Frutiger
-ZoneTitle = Aeropolis
-Act = 2
-NoVisitNeeded = True
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = OPUBG02
-SkyboxScale = 64
-PositionMusic = FAERI2
-Music = FAEROV,FAEROQ,FAEROS
-LightContrast = 0
-LightAngle = 10
-Mobjscale = FRACUNIT/3
-Hidden = True
-
 Level LOG_MediaStudio2
 NoVisitNeeded = True
 LevelName = Media
@@ -1856,39 +1576,6 @@ SkyTexture = MSSTARS
 MobjScale = FRACUNIT*1/6
 LightAngle = 270
 LightContrast = 48
-Hidden = True
-
-Level KP_IndierockRally
-LevelName = Indierock Rally
-Weather = PRECIP_CONFETTI
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = INDIESKY
-SkyBoxScale = 64
-TypeOfLevel = Race
-Mobjscale = FRACUNIT/4
-LightAngle = 135
-LightContrast = 16
-Music = SILNT
-PositionMusic = KPPOS
-AssociatedMusic = SMTLC,SCKHCK,BOCCHI
-DefaultWaypointRadius = 208*FRACUNIT
-NoVisitNeeded = True
-Hidden = True
-
-Level CAS_BSODRing
-LevelName = BSOD
-ZoneTitle = Ring
-TypeofLevel = Race
-NumLaps = 12
-SkyTexture = ~135
-SkyboxScale = 64
-PositionMusic = CASINT
-Music = BSODP
-EncoreMusic = BSODE
-Mobjscale = FRACUNIT/3
-LightContrast = 10
-NoVisitNeeded = True
 Hidden = True
 
 Level MDT_Track3
@@ -1947,17 +1634,16 @@ Lua.warTimerLapGained = 95
 Lua.warTimerBoxGained = 10
 Hidden = True
 
-Level LZ_uni2hell
-LevelName = UNI2 HELL
-nozone = true
-TypeOfLevel = Race
-Music = LUNI2H
-PositionMusic = LZINTR
-SkyTexture = LUNI2HS
-LightContrast = 38
-Lightangle = 270
-skyboxscale = 7
-MobjScale = FRACUNIT/4
+Level PZZ_Fabrikenzone
+LevelName = Fabrikenzone
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~150
+Music = MK2FB
+Mobjscale = FRACUNIT*33/100
+LightContrast = 0
+LightAngle = 90
+NoZone = 1
 NoVisitNeeded = True
 Hidden = True
 
@@ -1973,103 +1659,6 @@ LightContrast = 0
 LightAngle = 90
 NoZone = 1
 NoVisitNeeded = 1
-Hidden = True
-
-Level DRTR_HouseOfTheUndying
-LevelName = House Of
-ZoneTitle = The Undying
-TypeOfLevel = Race
-NumLaps = 2
-LapsPerSection = 1
-Music = UNDRBN,KMAPLQ
-MobjScale = FRACUNIT/4
-SkyTexture = ~031
-LightContrast = 24
-NoVisitNeeded = True
-Hidden = True
-
-level LZ_DEVCOMMENTS
-NoVisitNeeded = True
-Hidden = True
-
-Level HYM_UNISTHell
-LevelName = Melty Manor
-ZoneTitle = -Again-
-EncoreMusic = NAHR
-Music = MMNAH
-TypeOfLevel = RACE
-NumLaps = 5
-SkyTexture = SKY87
-MobjScale = FRACUNIT/4
-Followers = Chao
-Darkness = 0.5
-NoVisitNeeded = True
-Hidden = True
-
-Level HYD_BlizzardClassicer
-LevelName = Blizzard Peaks
-Act = 2
-Music = BLCAZ
-TypeOfLevel = RACE
-NumLaps = 3
-Weather = PRECIP_SNOW
-SkyTexture = ~130
-SkyboxScaleZ = 0
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level HYOF_BlueSphereLand
-LevelName = Blue Sphere
-ZoneTitle = Land
-TypeOfLevel = Race
-SkyTexture = BSLSKY1
-Music = BSLND
-MobjScale = FRACUNIT/4
-Darkness = 0.5
-NoVisitNeeded = True
-Hidden = True
-
-Level HAYA_NakayamaRC
-LevelName = Ascension
-Act = 1
-NoZone = 1
-MenuTitle = Nakayama
-TypeOfLevel = Special
-NumLaps = 1
-SkyTexture = SSSKY00
-LightAngle = 270
-LightContrast = 80
-Mobjscale = FRACUNIT/4
-Music = UMAG1
-EncoreMusic = UMAAK
-SkyboxScale = 2
-AssociatedMusic = UMAG1F,UMAAKF
-NoVisitNeeded = True
-Hidden = True
-
-Level GACK_TerrorTrench
-LevelName = Terror Trench
-TypeOfLevel = Race
-NoVisitNeeded = True
-NumLaps = 2
-SkyTexture = GKTTSKY
-Music = GKWHLE
-EncoreMusic = GKWHLE
-MobjScale = FRACUNIT/4
-Hidden = True
-
-Level PZZ_Fabrikenzone
-LevelName = Fabrikenzone
-TypeofLevel = Race
-NumLaps = 3
-SkyTexture = ~150
-Music = MK2FB
-Mobjscale = FRACUNIT*33/100
-LightContrast = 0
-LightAngle = 90
-NoZone = 1
-NoVisitNeeded = True
 Hidden = True
 
 Level WRD_HardDeadDeck
@@ -2180,6 +1769,18 @@ NumLaps = 3
 NoVisitNeeded = True
 Hidden = True
 
+Level WRD_MidnightFlannel
+LevelName = Midnight Flannel
+TypeofLevel = Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/1
+Music = MDNFN1
+PositionMusic = UPWCMX
+mobjscale = FRACUNIT*1/4
+SkyTexture = ~065
+NoVisitNeeded = True
+Hidden = True
+
 Level HHR_DreamyTreewayA
 LevelName = Dreamy Treeway
 Act = 1
@@ -2188,6 +1789,64 @@ NumLaps = 6
 SkyTexture = DRMTWSKY
 Music = DREAME
 Mobjscale = FRACUNIT/4
+NoVisitNeeded = True
+Hidden = True
+
+# RACE: Blizzard Peaks Zone Act 2
+Level HYD_BlizzardClassicer
+LevelName = Blizzard Peaks
+Act = 2
+Music = BLCAZ
+TypeOfLevel = RACE
+NumLaps = 3
+Weather = PRECIP_SNOW
+SkyTexture = ~130
+SkyboxScaleZ = 0
+MobjScale = FRACUNIT/4
+Lua.dchoices_choice1 = Grains_of_Sand,Townsville,Pancake_Den,AI,Persona,SLOPAGE!!!!
+NoVisitNeeded = True
+Hidden = True
+
+Level HAYA_NakayamaRC
+LevelName = Ascension
+Act = 1
+NoZone = 1
+MenuTitle = Nakayama
+TypeOfLevel = Special
+NumLaps = 1
+SkyTexture = SSSKY00
+LightAngle = 270
+LightContrast = 80
+Mobjscale = FRACUNIT/4
+Music = UMAG1
+EncoreMusic = UMAAK
+SkyboxScale = 2
+AssociatedMusic = UMAG1F,UMAAKF
+NoVisitNeeded = True
+Hidden = True
+
+Level HYM_UNISTHell
+LevelName = Melty Manor
+ZoneTitle = -Again-
+EncoreMusic = NAHR
+Music = MMNAH
+TypeOfLevel = RACE
+NumLaps = 5
+SkyTexture = SKY87
+MobjScale = FRACUNIT/4
+Followers = Chao
+Darkness = 0.5
+NoVisitNeeded = True
+Hidden = True
+
+Level HYOF_BlueSphereLand
+LevelName = Blue Sphere
+ZoneTitle = Land
+TypeOfLevel = Race
+SkyTexture = BSLSKY1
+Music = BSLND
+MobjScale = FRACUNIT/4
+Darkness = 0.5
 NoVisitNeeded = True
 Hidden = True
 
@@ -2241,20 +1900,4 @@ SkyboxScaleY = 32
 SkyboxScaleZ = 32
 MobjScale = 7*FRACUNIT/9
 NoVisitNeeded = True
-Hidden = True
-
-Level HYOF_DesertBus
-NoVisitNeeded = True
-LevelName = Desert Bus
-NoZone = True
-TypeOfLevel = Race
-SkyTexture = BUSYSKY2
-NumLaps = 33
-Music = ACZ1
-EncoreMusic = DBEN2
-AssociatedMusic = ACZ2,DBENC
-SkyboxScale = 0
-MobjScale = 100*FRACUNIT/480
-Lua.desertechoes = true
-Lua.dchoices_choice1 = Where's_my_prize?,gg_ez_no_re
 Hidden = True

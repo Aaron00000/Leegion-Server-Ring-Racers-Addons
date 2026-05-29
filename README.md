@@ -46,7 +46,7 @@
 
 3, 3 - Engineer, Peach, Retro Mario, Jamiro Quai, Sailor Mercury,
 
-4, 3 - Kermit, Aerith,
+4, 3 - Kermit, Aerith, Silly Iono,
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala,
 
@@ -65,7 +65,7 @@
 
 3, 4 - Sage, Lucas, Eunie,
 
-4, 4 - Conker, Geno, Sailor Venus, 
+4, 4 - Conker, Geno, Sailor Venus, Flonne, Yuri Lowell,
 
 5, 4 - Beavis, Leon Powalski, Yu Narukami,
 
@@ -88,11 +88,11 @@
 
 5, 5 - Mario, Movie Knuckles, Sailor Moon,
 
-6, 5 - Tifa, Diggle, Fubuki, Filia, 
+6, 5 - Tifa, Diggle, Fubuki, Filia, Sekibanki,
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
-8, 5 - Mario Tire, Guntz,
+8, 5 - Mario Tire, Guntz, Youmu Konpaku,
 
 9, 5 - Cell, Goku Drip, Tillis, Infinite,
 
@@ -107,7 +107,7 @@
 
 5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel, Draco,
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
@@ -185,9 +185,9 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.4b
+Thok Tracks v1.4b (partial)
 
-Bushmill Cup v1.2a
+Bushmill Cup v1.2a (partial)
 
 Draft Tracks v6.1
 
@@ -199,7 +199,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v2
+lizard pack v2 (partial)
 
 Kiritsu Pak v2.1
 
@@ -219,13 +219,23 @@ Epic Cup Revival 1.4.2
 
 Kiritsu Preview v0.a
 
-Amazing, Miracle, and Wonder Cup beta 9.9
+Amazing, Miracle, and Wonder Cup beta 9.9 with performance impacting scripts removed
+
+Big-O Maps v4
+
+GTKART2 v3 (partial)
+
+SUPERSTRIKERGP 1.5.2 (partial)
+
+Neo Whale Maps v3 (partial)
+
+Double Gear Pack (just Hyudoro Ruinsway)
+
+Revenge of Fuckpak (edited)
 
 
 ## BLACKLISTED VANILLA MAPS
 ---------------------------
-
-Aqueduct Crystal
 
 Carnival Night
 
@@ -247,87 +257,43 @@ Mega Flying Battery
 
 Mega Ice Cap
 
-Mega Collision Chaos
-
 Mega Star Light
 
 Mega Sandopolis
 
 Mega Aqua Lake
 
-Mega Flying Battery
-
 Pico Park
-
-Balloon Park
 
 Spring Yard
 
-Lavender Shrine Classic
-
 Angel Arrow Classic
-
-Aqua Tunnel
 
 Chrome Gadget
 
-Shuffle Square
-
-Savannah Citadel
-
 Dark Fortress
-
-Haunted Ship
 
 SRB2 Frozen Night
 
 Zoned City
 
-Lost Colony
-
 Scarlet Gardens
 
 Barren Badlands
-
-Advent Angel Zone
 
 Diamond Dust
 
 Chemical Facility
 
-Thunder Piston
-
-Shuffle Square
-
 Marble Garden
-
-Nova Shore
-
-Pestilence
-
-Darkvile Castle 1
 
 Dragonspire Sewer 2
 
-Espresso Lane
-
-Star Light Zone
-
-Sky Babylon
-
 Technology Tundra
 
-Robotnik Winter
-
-Diamond Dust Classic
-
-Launch Base Classic
-
-Final Fall
-
-Blizzard Peaks Classic
-
 Skyscraper Leaps
+
+Gravtech Dimension 5
 
 Death Egg
 
@@ -378,11 +344,7 @@ Midnight Bay
 
 Melty Manor -Again-
 
-Blizzard Peaks Act 2
-
 Blue Sphere Land
-
-Desert Bus
 
 Waffle House
 
@@ -548,6 +510,10 @@ SD2 Iron Ruin
 
 Chemical City
 
+Blizzard Peaks Act 2
+
+Midnight Flannel
+
 
 ## Resized
 ----------
@@ -563,6 +529,16 @@ Skyscraper Leaps (bigger)
 Technology Tundra (bigger)
 
 Lake Margorite (bigger)
+
+Mega Collision Chaos
+
+Mega Flying Battery
+
+Advent Angel
+
+Coastal Temple
+
+Lavender Shrine Classic
 
 MMMM Bananas (bigger)
 
@@ -586,6 +562,16 @@ Gambler's Hive (bigger)
 ## More/Less Laps
 -----------------
 Emerald Coast (more, 4 laps)
+
+Mega Collision Chaos (less, 4 laps)
+
+Mega Flying Battery (less, 4 laps)
+
+Advent Angel (less, 4 laps)
+
+Coastal Temple (less, 2 laps)
+
+Espresso Lane (less, 2 laps)
 
 Bastion Isle (less, 2 laps)
 
@@ -642,6 +628,17 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+5/29
+----
+"Map-apalooza update"
+
+Characters - Added Flonne, Sekibanki, Draco, Youmu Konpaku, Yuri Lowell, and Silly Iono.
+
+Maps - Realized some currently used and previously used map packs were Open Assets so I cut out some blacklisted content to save space and re-added GT Kart 2, Super Striker GP 1.5.2, Neo Whale Maps, and Revenge of Fuckpak. Re-Added Big-O Maps now that it is 2.4 complaint. Un-blacklisted a lot of vanilla maps and Blizzard Peaks Zone 2 to give them a second chance, blacklisted Gravtech Dimension 5 and Midnight Flannel. Increased the size of Mega Collision Chaos, Mega Flying Battery, Advent Angel, Coastal Temple, and Lavender Shrine Classic by 20% and reduced the lap count of Mega Collision Chaos, Mega Flying Battery, Espresso Lane, Advent Angel, and Coastal Temple by a lap. Made some minor edits to Touge and Desert Bus.
+
+Other - Axed a couple of my horns and moved some of the song horns to hellhorns. Made some more horns work for the killbind.
+
 
 5/22
 ----

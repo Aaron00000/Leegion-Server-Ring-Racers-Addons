@@ -45,6 +45,81 @@ LightContrast = 60
 MobjScale = 25*FRACUNIT/32
 AssociatedMusic = GRTGFN
 
+Level RR_MegaCollisionChaos
+LevelName = Mega Collision Chaos
+TypeOfLevel = Race
+Hidden = False
+NumLaps = 4
+MobjScale =  10*FRACUNIT/48
+SkyTexture = ~153
+Music = MECOZ,MECOA
+CameraHeight = 140
+
+Level RR_MegaFlyingBattery
+LevelName = Mega Flying Battery
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = ~171
+Music = MEFLZ
+Mobjscale = 10*FRACUNIT/48
+Weather = PRECIP_STORM
+DefaultWaypointRadius = 64*FRACUNIT
+CameraHeight = 140
+
+Level RR_AdventAngel
+LevelName = Advent Angel
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = ANGELSKY
+MobjScale = 10*FRACUNIT/48
+Music = AVANZ
+SubtractNum = True
+Darkness = 0.25
+CameraHeight = 140
+
+Level RR_EspressoLane
+Levelname = Espresso Lane
+NumLaps = 2
+TypeOfLevel = Race
+Music = ESLAZ
+SkyTexture = SKY265
+Weather = PRECIP_SNOW
+MobjScale = 10*FRACUNIT/24
+Skyboxscale = 4
+EncoreLightAngle = 90
+EncoreLightContrast = 80
+
+Level RR_CoastalTemple
+LevelName = Coastal Temple
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = CTSKY
+Music = COTEZ
+MobjScale = 10*FRACUNIT/48
+Darkness = -0.25
+
+Level RR_LaunchBaseClassic
+LevelName = Launch Base
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY6633
+Music = LABAZ2
+MobjScale = 10*FRACUNIT/12
+
+Level RR_LavenderShrineClassic
+LevelName = Lavender Shrine
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 2
+MobjScale = 10*FRACUNIT/48
+Music = LASHZ
+SkyTexture = BSZSKY
+DefaultWaypointRadius = 208*FRACUNIT
+SkyboxScale = 10
+Palette = 7682
+Darkness = -1
+
 Level SCCT_IndoorRally
 Levelname = Indoor Rally
 Typeoflevel = Race
