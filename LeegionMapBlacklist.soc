@@ -485,46 +485,6 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
-Level RLQ_Route99
-LevelName = Route 99
-TypeOfLevel = Race
-SkyTexture = PERFBG01
-NumLaps = 2
-Music = ROU99Z
-LightContrast = 64
-LightAngle = 135
-MobjScale = FRACUNIT/4
-SkyboxScale = 16
-NoVisitNeeded = True
-Hidden = True
-
-Level RLQ_MegaChemicalPlant
-LevelName = Mega Chemical Plant
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = LQCBG3
-Music = MCHPLZ
-MobjScale = FRACUNIT/4
-SkyboxScale = 4
-Darkness = -0.25
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
-Level RLQ_Route124
-LevelName = Route 124
-NoZone = True
-TypeOfLevel = Race
-SkyTexture = PERFBG01
-NumLaps = 2
-PositionMusic = ROUINT
-Music = ROCHDR
-LightContrast = 64
-LightAngle = 135
-MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
 Level AC_VoltageViperChallenge
 LevelName = Voltage Viper
 ZoneTitle = Challenge

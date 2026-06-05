@@ -221,7 +221,7 @@ Kiritsu Preview v0.a
 
 Amazing, Miracle, and Wonder Cup beta 9.9 with performance impacting scripts removed
 
-Big-O Maps v4
+Big-O Maps v4.0.1
 
 GTKART2 v3 (partial)
 
@@ -232,6 +232,8 @@ Neo Whale Maps v3 (partial)
 Double Gear Pack (just Hyudoro Ruinsway)
 
 Revenge of Fuckpak (edited)
+
+RLQ Rosen Raceways 1.1.73
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -319,10 +321,6 @@ Mega Aqua Paradise Zone
 Triumph
 
 Central City
-
-Route 99
-
-Mega Chemical Plant
 
 Voltage Viper Challenge
 
@@ -591,7 +589,7 @@ Starry Night 1 (more, 3 laps)
 
 Kodachrome Palace (less, 2 laps)
 
-Desert Bus (less, 35 laps)
+Desert Bus (less, 20 laps)
 
 House of the Undying (less, 6 laps)
 
@@ -628,6 +626,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+6/5
+----
+
+Characters - 
+
+Maps - Re-added RLQ Rosen Raceways, unblacklisted Route 99 and Mega Chemical Plant. Updated Big-O Maps. Reverted some Touge changes, made Desert Bus 20 laps.
+
+Other - 
+
 
 5/29
 ----
