@@ -50,18 +50,18 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala,
 
-6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion,
+6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion, Bocchi,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
-8, 3 - Ryuko, Spiderman, Track Guy,
+8, 3 - Ryuko, Spiderman,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
 
 1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
 
-2, 4 - Goomba, Lucky, Ringo Ando,
+2, 4 - Goomba, Ringo Ando,
 
 3, 4 - Sage, Lucas, Eunie,
 
@@ -71,16 +71,16 @@
 
 6, 4 - Luigi, Ugly Knuckles, Scratch, Falco,
 
-7, 4 - Buttguster, Daisy, Fukua,
+7, 4 - Buttguster, Daisy,
 
-8, 4 - Spike, Saturn, Rally,
+8, 4 - Spike, Saturn,
 
 9, 4 - Hornet, Jino-Chan, Yuuko Aioi,
 
 
 1, 5 - Alcremie,
 
-2, 5 - Motobug (Biker),
+2, 5 - Motobug (Biker), Nokotan,
 
 3, 5 - Reiko,
 
@@ -88,7 +88,7 @@
 
 5, 5 - Mario, Movie Knuckles, Sailor Moon,
 
-6, 5 - Tifa, Diggle, Fubuki, Filia, Sekibanki,
+6, 5 - Tifa, Diggle, Fubuki, Sekibanki,
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
@@ -107,11 +107,11 @@
 
 5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Wing Gaster, Axel, Draco,
+6, 6 - Shantae, Morrigan, Spongebob, KT, Axel, Draco,
 
 7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
 
-8, 6 - Yoshi, Alpha, Lady, Beat, Elphelt,
+8, 6 - Yoshi, Alpha, Beat, Elphelt,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva, Rash,
 
@@ -132,7 +132,7 @@
 
 8, 7 - Akira Nishikiyama, Gongon,
 
-9, 7 - Peppino, Grounder, Catchan,
+9, 7 - Peppino, Grounder,
 
 
 1, 8 - Homer Simpson,
@@ -166,7 +166,7 @@
 
 6, 9 - Redwood,
 
-7, 9 - King K.Rool, Marina, 
+7, 9 - King K.Rool, 
 
 8, 9 - Bowser, GUN Truck, Temporacle,
 
@@ -630,11 +630,11 @@ Pizzascape (less, 2 laps)
 6/5
 ----
 
-Characters - 
+Characters - Added Bocchi and Nokotan, removed Fukua, Filia, and AriChars.
 
 Maps - Re-added RLQ Rosen Raceways, unblacklisted Route 99 and Mega Chemical Plant. Updated Big-O Maps. Reverted some Touge changes, made Desert Bus 20 laps.
 
-Other - 
+Other - Horns.
 
 
 5/29
