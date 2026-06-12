@@ -156,19 +156,6 @@ LightAngle = 165
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_PicoPark
-LevelName = Peta Park
-TypeOfLevel = Race
-NumLaps = 12
-SkyTexture = CLSPBG06
-Music = PIPAZ
-Mobjscale = FRACUNIT*25/500
-LightContrast = 48
-LightAngle = 45
-CameraHeight = 130
-Hidden = True
-NoVisitNeeded = True
-
 Level RR_SRB2FrozenNight
 LevelName = SRB2 Frozen
 ZoneTitle = Night
@@ -916,17 +903,6 @@ NumLaps = 3
 SkyTexture = SKYSCZ
 Music = MASHU
 MobjScale = FRACUNIT/4
-NoVisitNeeded = True
-Hidden = True
-
-Level LZ_mystikkecitadel
-LevelName = Citadel Of Mystikke
-nozone = true
-TypeOfLevel = Race
-Music = LZACHE
-NumLaps = 2
-MobjScale = FRACUNIT/4
-skyboxscale = 8
 NoVisitNeeded = True
 Hidden = True
 

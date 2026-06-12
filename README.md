@@ -101,7 +101,7 @@
 
 2, 6 - Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
 
-3, 6 - Link, Peppy, Birdo, Stocking,
+3, 6 - Link, Peppy, Birdo, Stocking, Mikoto Utsugi,
 
 4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version),
 
@@ -122,7 +122,7 @@
 
 3, 7 - Coach, Susie, Ness,
 
-4, 7 - Banjo-Kazooie, Queen, Neera, Hsien-Ko,
+4, 7 - Banjo-Kazooie, Queen, Neera, Hsien-Ko, Mazinger Z,
 
 5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
@@ -149,7 +149,7 @@
 
 7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
 
-8, 8 - Wario, Dingodile,
+8, 8 - Wario, Dingodile, Guy Shishioh,
 
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
@@ -175,6 +175,8 @@
 
 4, 10 - Iron Giant,
 
+?, ? - Bo-bobo,
+
 
 =====
 ## MAPS
@@ -199,7 +201,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v2 (partial)
+lizard pack v2.1 (edited)
 
 Kiritsu Pak v2.1
 
@@ -264,8 +266,6 @@ Mega Star Light
 Mega Sandopolis
 
 Mega Aqua Lake
-
-Pico Park
 
 Spring Yard
 
@@ -395,8 +395,6 @@ Dendritic Dereliction
 Battleship Harbor
 
 Red Rage Highway
-
-Citadel of Mystikke
 
 Cutman's Logging Facility
 
@@ -626,6 +624,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+6/12
+----
+
+Characters - Added Bo-bobo, Guy Shishioh, Mazinger Z, and Mikoto Utsugi.
+
+Maps - Updated lizardpack. Unblacklisted Pico Park to see if it can behave itself.
+
+Other - Made one or two horns slightly louder.
+
 
 6/5
 ----
