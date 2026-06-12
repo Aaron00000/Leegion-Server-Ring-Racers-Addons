@@ -235,7 +235,7 @@ Double Gear Pack (just Hyudoro Ruinsway)
 
 Revenge of Fuckpak (edited)
 
-RLQ Rosen Raceways 1.1.73
+RLQ Rosen Raceways 1.1.74
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -630,7 +630,7 @@ Pizzascape (less, 2 laps)
 
 Characters - Added Bo-bobo, Guy Shishioh, Mazinger Z, and Mikoto Utsugi.
 
-Maps - Updated lizardpack. Unblacklisted Pico Park to see if it can behave itself.
+Maps - Updated lizardpack and Rosen Raceways, adjusted Citadel of Mystykke a little. Unblacklisted Pico Park to see if it can behave itself.
 
 Other - Made one or two horns slightly louder.
 
