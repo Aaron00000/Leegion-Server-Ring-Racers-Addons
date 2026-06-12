@@ -69,7 +69,7 @@
 
 5, 4 - Beavis, Leon Powalski, Yu Narukami,
 
-6, 4 - Luigi, Ugly Knuckles, Scratch, Falco,
+6, 4 - Luigi, Ugly Knuckles, Scratch, Falco, Neptune,
 
 7, 4 - Buttguster, Daisy,
 
@@ -88,7 +88,7 @@
 
 5, 5 - Mario, Movie Knuckles, Sailor Moon,
 
-6, 5 - Tifa, Diggle, Fubuki, Sekibanki,
+6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear,
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
@@ -628,7 +628,7 @@ Pizzascape (less, 2 laps)
 6/12
 ----
 
-Characters - Added Bo-bobo, Guy Shishioh, Mazinger Z, and Mikoto Utsugi.
+Characters - Added Bo-bobo, Neptune, NepGear, Guy Shishioh, Mazinger Z, and Mikoto Utsugi.
 
 Maps - Updated lizardpack and Rosen Raceways, adjusted Citadel of Mystykke a little. Unblacklisted Pico Park to see if it can behave itself.
 
