@@ -71,7 +71,7 @@
 
 6, 4 - Luigi, Ugly Knuckles, Scratch, Falco, Neptune,
 
-7, 4 - Buttguster, Daisy,
+7, 4 - Buttguster, Daisy, Nanami Madobe,
 
 8, 4 - Spike, Saturn,
 
@@ -628,7 +628,7 @@ Pizzascape (less, 2 laps)
 6/19
 ----
 
-Characters - Added Madoka and Astronots. Removed Rash. Updated Bo-bobo's stat randomization code to hopefully work consistently. Fixed the nep's hurt and hit sounds not working properly.
+Characters - Added Madoka, Astronots, and Nanami Madobe. Removed Rash. Updated Bo-bobo's stat randomization code to hopefully work consistently. Fixed the nep's hurt and hit sounds not working properly.
 
 Maps - Unblacklisted Death Egg, made it normal size, and made it 2 laps.
 
