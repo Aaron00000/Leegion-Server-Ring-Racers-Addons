@@ -27,7 +27,7 @@
 
 3, 2 - Gwenpool, Juno,
 
-4, 2 - Spamton, Quaver, Archie ray,
+4, 2 - Spamton, Quaver, Archie Ray,
 
 5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy,
 
@@ -42,7 +42,7 @@
 
 1, 3 - Bean (Demolition), Milla, Robo-Hood,
 
-2, 3 - Koopa, Fennec, Sara,
+2, 3 - Koopa, Fennec, Sara, Madoka,
 
 3, 3 - Engineer, Peach, Retro Mario, Jamiro Quai, Sailor Mercury,
 
@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala,
 
-6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion, Bocchi,
+6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion, Bocchi, Astronots,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
@@ -113,7 +113,7 @@
 
 8, 6 - Yoshi, Alpha, Beat, Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Rash,
+9, 6 - Captain Falcon, Meta Knight, Shiva,
 
 
 1, 7 - 
@@ -296,8 +296,6 @@ Technology Tundra
 Skyscraper Leaps
 
 Gravtech Dimension 5
-
-Death Egg
 
 
 ## BLACKLISTED ADDON MAPS
@@ -559,6 +557,8 @@ Gambler's Hive (bigger)
 -----------------
 Emerald Coast (more, 4 laps)
 
+Death Egg (less, 2 laps)
+
 Mega Collision Chaos (less, 4 laps)
 
 Mega Flying Battery (less, 4 laps)
@@ -624,6 +624,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+6/19
+----
+
+Characters - Added Madoka and Astronots. Removed Rash. Updated Bo-bobo's stat randomization code to hopefully work consistently. Fixed the nep's hurt and hit sounds not working properly.
+
+Maps - Unblacklisted Death Egg, made it normal size, and made it 2 laps.
+
+Other - Add some sign stuff.
+
 
 6/12
 ----

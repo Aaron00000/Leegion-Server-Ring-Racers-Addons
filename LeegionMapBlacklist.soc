@@ -315,21 +315,6 @@ CameraHeight = 130
 NoVisitNeeded = True
 Hidden = True
 
-Level RR_DeathEgg
-LevelName = Death
-ZoneTitle = Big
-TypeOfLevel = Race
-NumLaps = 1
-LapsPerSection = 1
-SkyTexture = DEZSKY
-Music = KMAPDE
-MobjScale = 3*FRACUNIT/22
-SkyboxScale = 32
-DefaultWaypointRadius = 200
-Darkness = -0.25
-NoVisitNeeded = True
-Hidden = True
-
 # End of Vanilla courses
 
 Level YTM_LusciousLakeside
