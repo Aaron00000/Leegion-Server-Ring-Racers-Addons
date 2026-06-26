@@ -457,6 +457,22 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
+Level RLQ_HydrocityAct1
+LevelName = Hydrocity
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = ~031
+SkyBoxScaleX = 0
+SkyBoxScaleY = 0
+SkyBoxScaleZ = 4
+LightAngle = 45
+LightContrast = 64
+Music = HYCZA1
+MobjScale = FRACUNIT/4
+NoVisitNeeded = True
+Darkness = 0.5
+Hidden = True
+
 Level AC_VoltageViperChallenge
 LevelName = Voltage Viper
 ZoneTitle = Challenge

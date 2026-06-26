@@ -4,13 +4,13 @@
 --------------------------------------------
 1, 1 - Whitey, Ring the Glazer, Ring (Bodyless),
 
-2, 1 - Banana Peel, Toad (Kel), Kit, Medonk Sonok, Tail Doll (Sonic R),
+2, 1 - Banana Peel, Kit, Medonk Sonok, Tail Doll (Sonic R),
 
-3, 1 - Tangle, Gooey, Kirby,
+3, 1 - Gooey, Kirby,
 
-4, 1 - Dry Bones,
+4, 1 - 
 
-5, 1 - Prinny,
+5, 1 - 
 
 6, 1 - 
 
@@ -21,28 +21,28 @@
 9, 1 - Crazy Frog,
 
 
-1, 2 - Mallow,
+1, 2 - 
 
 2, 2 - 
 
-3, 2 - Gwenpool, Juno,
+3, 2 - Gwenpool,
 
 4, 2 - Spamton, Quaver, Archie Ray,
 
-5, 2 - Tanooki Mario, Kasane Teto, Modern Amy, Slippy,
+5, 2 - Tanooki Mario, Modern Amy, Slippy,
 
 6, 2 - Paper Mario, Maka Albarn,
 
-7, 2 - Warpstar Kirby, Laharl, Ibuki Mioda, Trigger-Chan.
+7, 2 - Warpstar Kirby, Ibuki Mioda, Trigger-Chan.
 
-8, 2 - Riders Sonic, Toad/Blue Toad, Satsuki, Kiriko, Junio Sonic, Tiara Boobowski,
+8, 2 - Riders Sonic, Toad/Blue Toad, Kiriko, Junio Sonic, Tiara Boobowski,
 
 9, 2 - 
 
 
 1, 3 - Bean (Demolition), Milla, Robo-Hood,
 
-2, 3 - Koopa, Fennec, Sara, Madoka,
+2, 3 - Koopa, Sara, Madoka,
 
 3, 3 - Engineer, Peach, Retro Mario, Jamiro Quai, Sailor Mercury,
 
@@ -54,7 +54,7 @@
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
 
-8, 3 - Ryuko, Spiderman,
+8, 3 - Spiderman,
 
 9, 3 - Juri, Monty Mole, Majima, Neopolitan,
 
@@ -63,13 +63,13 @@
 
 2, 4 - Goomba, Ringo Ando,
 
-3, 4 - Sage, Lucas, Eunie,
+3, 4 - Sage, Lucas,
 
-4, 4 - Conker, Geno, Sailor Venus, Flonne, Yuri Lowell,
+4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell,
 
-5, 4 - Beavis, Leon Powalski, Yu Narukami,
+5, 4 - Leon Powalski,
 
-6, 4 - Luigi, Ugly Knuckles, Scratch, Falco, Neptune,
+6, 4 - Luigi, Ugly Knuckles, Falco, Neptune,
 
 7, 4 - Buttguster, Daisy, Nanami Madobe,
 
@@ -84,7 +84,7 @@
 
 3, 5 - Reiko,
 
-4, 5 - Dracula Flow, Squidward, Butthead, Doppel Arle,
+4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
 5, 5 - Mario, Movie Knuckles, Sailor Moon,
 
@@ -92,14 +92,14 @@
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
-8, 5 - Mario Tire, Guntz, Youmu Konpaku,
+8, 5 - Mario Tire, Youmu Konpaku,
 
 9, 5 - Cell, Goku Drip, Tillis, Infinite,
 
 
 1, 6 - Kinger, Marx,
 
-2, 6 - Bandana Dee, Waddle Doo, Football Manager, Hex Maniac,
+2, 6 - Bandana Dee, Waddle Doo, Football Manager,
 
 3, 6 - Link, Peppy, Birdo, Stocking, Mikoto Utsugi,
 
@@ -107,49 +107,49 @@
 
 5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, KT, Axel, Draco,
+6, 6 - Shantae, Morrigan, Spongebob, Axel, Draco,
 
-7, 6 - Waluigi, Jotaro, Travis Touchdown, Goku,
+7, 6 - Waluigi, Jotaro, Goku,
 
-8, 6 - Yoshi, Alpha, Beat, Elphelt,
+8, 6 - Yoshi, Elphelt, Vegeta,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva,
 
 
 1, 7 - 
 
-2, 7 - Carl Wheezer, Agent Stone, Twintelle,
+2, 7 - Carl Wheezer, Agent Stone,
 
 3, 7 - Coach, Susie, Ness,
 
-4, 7 - Banjo-Kazooie, Queen, Neera, Hsien-Ko, Mazinger Z,
+4, 7 - Banjo-Kazooie, Neera, Hsien-Ko, Mazinger Z,
 
-5, 7 - Piccolo, Bubbloid, Anton Blast, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
+5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
-6, 7 - Aigis (blue dress), Ramona,
+6, 7 - Aigis (blue dress), Ramona, Kasane Teto (individual)
 
-7, 7 - Cloud, Angel, Aurora Rosalina,
+7, 7 - Cloud, Aurora Rosalina,
 
-8, 7 - Akira Nishikiyama, Gongon,
+8, 7 - Akira Nishikiyama,
 
-9, 7 - Peppino, Grounder,
+9, 7 - Peppino,
 
 
-1, 8 - Homer Simpson,
+1, 8 - 
 
-2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Crash 4 Dingodile, Cardboard Eggman,
+2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Cardboard Eggman,
 
-3, 8 - DK JR., Shovel Knight, Pigma,
+3, 8 - DK JR., Pigma,
 
 4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip,
 
-5, 8 - Shrek, Cole Cassidy,
+5, 8 - Shrek,
 
-6, 8 - Master Chief, Kiryu, Werehog, Tenna,
+6, 8 - Master Chief, Werehog, Tenna,
 
-7, 8 - Johnny Bravo, Heavy Slammer, Muscle Man,
+7, 8 - Johnny Bravo,
 
-8, 8 - Wario, Dingodile, Guy Shishioh,
+8, 8 - Wario, Guy Shishioh,
 
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
@@ -158,19 +158,19 @@
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
-3, 9 - Armstrong, Hatsune Miku, Gamma, Jackenstein,
+3, 9 - Armstrong, Hatsune Miku, Jackenstein,
 
 4, 9 - 
 
-5, 9 - Knux Delux, Gameboy Wario, 2B,
+5, 9 - Knux Delux, Gameboy Wario,
 
-6, 9 - Redwood,
+6, 9 - 
 
 7, 9 - King K.Rool, 
 
 8, 9 - Bowser, GUN Truck, Temporacle,
 
-9, 9 - Ring Max, Satan, Metallix (SMBZ),
+9, 9 - Ring Max, Metallix (SMBZ),
 
 
 4, 10 - Iron Giant,
@@ -460,7 +460,7 @@ Indierock Rally
 
 BSOD Ring
 
-Heavenly Halls (loud as hell intro music)
+Heavenly Halls
 
 Gnome Forest
 
@@ -507,6 +507,8 @@ Chemical City
 Blizzard Peaks Act 2
 
 Midnight Flannel
+
+Hydrocity Act 1
 
 
 ## Resized
@@ -624,6 +626,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+6/27
+----
+
+Characters - Added Vegeta. Removed KelPack, Scratch, Grounder, E-102 Gamma, Ryuko, Satsuki, Muscle Man, Travis Touchdown, Beavis, Butthead, Kiryu, Guntz, Anton, Satan, Heavy Slammer, Yu Narukami, and Tangle.
+
+Maps - Blacklisted Hydrocity Act 1. Edited Mayonaka Channel a little to have a tripwire at the last shortcut.
+
+Other - 
+
 
 6/19
 ----
