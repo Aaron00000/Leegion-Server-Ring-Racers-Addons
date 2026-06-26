@@ -27,7 +27,7 @@
 
 3, 2 - Gwenpool,
 
-4, 2 - Spamton, Quaver, Archie Ray,
+4, 2 - Spamton, Archie Ray,
 
 5, 2 - Tanooki Mario, Modern Amy, Slippy,
 
@@ -92,7 +92,7 @@
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
-8, 5 - Mario Tire, Youmu Konpaku,
+8, 5 - Mario Tire,
 
 9, 5 - Cell, Goku Drip, Tillis, Infinite,
 
@@ -630,7 +630,7 @@ Pizzascape (less, 2 laps)
 6/27
 ----
 
-Characters - Added Vegeta. Removed KelPack, Scratch, Grounder, E-102 Gamma, Ryuko, Satsuki, Muscle Man, Travis Touchdown, Beavis, Butthead, Kiryu, Guntz, Anton, Satan, Heavy Slammer, Yu Narukami, and Tangle.
+Characters - Added Vegeta. Removed KelPack, Scratch, Grounder, E-102 Gamma, Ryuko, Satsuki, Muscle Man, Travis Touchdown, Beavis, Butthead, Kiryu, Guntz, Anton, Satan, Heavy Slammer, Yu Narukami, Beat, Quaver, Youmu Konpaku, and Tangle.
 
 Maps - Blacklisted Hydrocity Act 1. Edited Mayonaka Channel a little to have a tripwire at the last shortcut.
 
