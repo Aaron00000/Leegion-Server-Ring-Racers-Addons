@@ -92,7 +92,7 @@
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
-8, 5 - Mario Tire,
+8, 5 - Mario Tire, Youmu Konpaku,
 
 9, 5 - Cell, Goku Drip, Tillis, Infinite,
 
