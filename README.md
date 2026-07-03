@@ -126,7 +126,7 @@
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
-6, 7 - Aigis (blue dress), Ramona, Kasane Teto (individual)
+6, 7 - Aigis (blue dress), Ramona
 
 7, 7 - Cloud, Aurora Rosalina,
 
@@ -630,7 +630,7 @@ Pizzascape (less, 2 laps)
 7/3
 ----
 
-Characters - Added the Soldier. Removed Metallix (SMBZ).
+Characters - Added the Soldier. Removed Metallix (SMBZ) and Teto.
 
 Maps - 
 
