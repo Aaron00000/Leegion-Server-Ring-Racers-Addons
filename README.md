@@ -634,7 +634,7 @@ Characters - Added the Soldier. Removed Metallix (SMBZ).
 
 Maps - 
 
-Other - (Seemingly) addressed the hitching issue. Removed the Ultradark palette to prevent some camo cheese with items. Added a follower, a couple of horns, and a killbind sound.
+Other - Fixed the hitching issue. Removed the Ultradark palette to prevent some camo cheese with items. Added a follower, a couple of horns, and a killbind sound.
 
 
 6/27
