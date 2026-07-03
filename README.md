@@ -48,11 +48,11 @@
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala,
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head,
 
 6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion, Bocchi, Astronots,
 
-7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight,
+7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight, Toe Jam, 
 
 8, 3 - Spiderman,
 
@@ -71,11 +71,11 @@
 
 6, 4 - Luigi, Ugly Knuckles, Falco, Neptune,
 
-7, 4 - Buttguster, Daisy, Nanami Madobe,
+7, 4 - Buttguster, Daisy, Nanami Madobe, Wild Woody,
 
 8, 4 - Spike, Saturn,
 
-9, 4 - Hornet, Jino-Chan, Yuuko Aioi,
+9, 4 - Hornet, Jino-Chan, Yuuko Aioi, Rei Ayanami,
 
 
 1, 5 - Alcremie,
@@ -99,15 +99,15 @@
 
 1, 6 - Kinger, Marx,
 
-2, 6 - Bandana Dee, Waddle Doo, Football Manager,
+2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, 
 
 3, 6 - Link, Peppy, Birdo, Stocking, Mikoto Utsugi,
 
-4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version),
+4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version), Robo,
 
 5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, Axel, Draco,
+6, 6 - Shantae, Morrigan, Spongebob, Axel, Draco, Gunstar Red, 
 
 7, 6 - Waluigi, Jotaro, Goku,
 
@@ -126,22 +126,22 @@
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
-6, 7 - Aigis (blue dress), Ramona
+6, 7 - Aigis (blue dress), Ramona, Akira,
 
-7, 7 - Cloud, Aurora Rosalina,
+7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring)
 
 8, 7 - Akira Nishikiyama,
 
 9, 7 - Peppino,
 
 
-1, 8 - 
+1, 8 - Earl,
 
 2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Cardboard Eggman,
 
 3, 8 - DK JR., Pigma,
 
-4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip,
+4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo,
 
 5, 8 - Shrek,
 
@@ -168,7 +168,7 @@
 
 7, 9 - King K.Rool, 
 
-8, 9 - Bowser, GUN Truck, Temporacle,
+8, 9 - Bowser, GUN Truck, Temporacle, Mighty Eagle, 
 
 9, 9 - Ring Max,
 
@@ -630,7 +630,7 @@ Pizzascape (less, 2 laps)
 7/3
 ----
 
-Characters - Added the Soldier. Removed Metallix (SMBZ) and Teto.
+Characters - Added the Soldier and Lavender. Re-added the Sega portion of Combi-Ring pack at fuu's request. Removed Metallix (SMBZ) and Teto.
 
 Maps - 
 
