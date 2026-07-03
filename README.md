@@ -170,7 +170,7 @@
 
 8, 9 - Bowser, GUN Truck, Temporacle,
 
-9, 9 - Ring Max, Metallix (SMBZ),
+9, 9 - Ring Max,
 
 
 4, 10 - Iron Giant,
@@ -626,6 +626,16 @@ Pizzascape (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+7/3
+----
+
+Characters - Added the Soldier. Removed Metallix (SMBZ).
+
+Maps - 
+
+Other - (Seemingly) addressed the hitching issue. Removed the Ultradark palette to prevent some camo cheese with items. Added a follower, a couple of horns, and a killbind sound.
+
 
 6/27
 ----
