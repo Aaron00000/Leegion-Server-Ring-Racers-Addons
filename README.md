@@ -35,7 +35,7 @@
 
 7, 2 - Warpstar Kirby, Ibuki Mioda, Trigger-Chan.
 
-8, 2 - Riders Sonic, Toad/Blue Toad, Kiriko, Junio Sonic, Tiara Boobowski,
+8, 2 - Riders Sonic, Toad/Blue Toad, Kiriko, Tiara Boobowski,
 
 9, 2 - 
 
@@ -44,13 +44,13 @@
 
 2, 3 - Koopa, Sara, Madoka,
 
-3, 3 - Engineer, Peach, Retro Mario, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Peach, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head,
 
-6, 3 - Alolan Raichu, Kris, Stella, Kneesocks, Noel Vermillion, Bocchi, Astronots,
+6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight, Toe Jam, 
 
@@ -71,7 +71,7 @@
 
 6, 4 - Luigi, Ugly Knuckles, Falco, Neptune,
 
-7, 4 - Buttguster, Daisy, Nanami Madobe, Wild Woody,
+7, 4 - Buttguster, Daisy, Wild Woody,
 
 8, 4 - Spike, Saturn,
 
@@ -94,24 +94,24 @@
 
 8, 5 - Mario Tire, Youmu Konpaku,
 
-9, 5 - Cell, Goku Drip, Tillis, Infinite,
+9, 5 - Cell, Tillis, Infinite,
 
 
 1, 6 - Kinger, Marx,
 
 2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, 
 
-3, 6 - Link, Peppy, Birdo, Stocking, Mikoto Utsugi,
+3, 6 - Link, Peppy, Birdo, Stocking,
 
 4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version), Robo,
 
 5, 6 - Jack Black, Ulala,
 
-6, 6 - Shantae, Morrigan, Spongebob, Axel, Draco, Gunstar Red, 
+6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, 
 
 7, 6 - Waluigi, Jotaro, Goku,
 
-8, 6 - Yoshi, Elphelt, Vegeta,
+8, 6 - Yoshi, Elphelt,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva,
 
@@ -122,7 +122,7 @@
 
 3, 7 - Coach, Susie, Ness,
 
-4, 7 - Banjo-Kazooie, Neera, Hsien-Ko, Mazinger Z,
+4, 7 - Banjo-Kazooie, Neera, Hsien-Ko,
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
 
@@ -149,12 +149,12 @@
 
 7, 8 - Johnny Bravo,
 
-8, 8 - Wario, Guy Shishioh,
+8, 8 - Wario,
 
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp, Unidentified Flying Bumper,
+1, 9 - Heavy TF2, Thwomp,
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
@@ -187,9 +187,9 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.4b (partial)
+Thok Tracks v1.5
 
-Bushmill Cup v1.2a (partial)
+Bushmill Cup v1.2a
 
 Draft Tracks v6.1
 
@@ -201,7 +201,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v2.1 (edited)
+lizard pack v2.1
 
 Kiritsu Pak v2.1
 
@@ -209,33 +209,15 @@ Yellow Crocodile Cup v2.6
 
 Noise's Toppin' Tumblers v1
 
-LOG MAPS V2
-
 Spindashpak RE-PAK V1.5
 
 Shark Pack v1.2.1
 
-Dreamy Treeway V2.4
-
 Epic Cup Revival 1.4.2
-
-Kiritsu Preview v0.a
-
-Amazing, Miracle, and Wonder Cup beta 9.9 with performance impacting scripts removed
 
 Big-O Maps v4.0.1
 
-GTKART2 v3 (partial)
-
-SUPERSTRIKERGP 1.5.2 (partial)
-
-Neo Whale Maps v3 (partial)
-
-Double Gear Pack (just Hyudoro Ruinsway)
-
-Revenge of Fuckpak (edited)
-
-RLQ Rosen Raceways 1.1.74
+Neo Whale Maps v3
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -296,6 +278,10 @@ Technology Tundra
 Skyscraper Leaps
 
 Gravtech Dimension 5
+
+Haunted Ship
+
+Thunder Piston
 
 
 ## BLACKLISTED ADDON MAPS
@@ -510,6 +496,10 @@ Midnight Flannel
 
 Hydrocity Act 1
 
+Eggman's Nightclub Beta
+
+Citadel of Mystikke
+
 
 ## Resized
 ----------
@@ -627,14 +617,22 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+7/10
+----
+
+Characters - Disabled Bo-bobo's stat randomizer and Peppino's ranked goalposts, removed the Mecha chars pack as well as Unidentified Flying Bumper, Stella, Junio Sonic, Retro Mario, Axel, Windows 7-Tan, Goku Drip and Vegeta to try to improve the hitching situation.
+
+Maps - Updated Thoktracks. Removed Fuckpak, GTKART2, Super Striker GP, Double Gear Pack, Kiritsu preview, Rosen Raceways, Ruber's beta map packs, Log Maps, Dreamy Treeway, and re-installed some of the map packs in their unedited states to see if that helps the hitching. Re-blacklisted Thunder Piston.
+
+Other - 
+
+
 7/3
 ----
 
 Characters - Added the Soldier and Lavender. Re-added the Sega portion of Combi-Ring pack at fuu's request. Removed Metallix (SMBZ) and Teto.
 
-Maps - 
-
-Other - Fixed the hitching issue. Removed the Ultradark palette to prevent some camo cheese with items. Added a follower, a couple of horns, and a killbind sound.
+Other - (Attempted to) fix the hitching issue. Removed the Ultradark palette to prevent some camo cheese with items. Added a follower, a couple of horns, and a killbind sound.
 
 
 6/27

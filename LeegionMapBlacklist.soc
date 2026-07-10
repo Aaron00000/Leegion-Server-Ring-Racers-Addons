@@ -315,6 +315,35 @@ CameraHeight = 130
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_HauntedShip
+LevelName = Haunted Ship
+NoZone = True
+Music = HASHZ
+TypeOfLevel = RACE
+SkyTexture = ~029
+SkyboxScale = 4
+NumLaps = 3
+Weather = PRECIP_STORM
+Mobjscale = FRACUNIT/2
+LightAngle = 45
+LightContrast = 48
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
+Level RR_ThunderPiston
+LevelName = Thunder Piston
+NoZone = False
+TypeOfLevel = Race
+SkyTexture = TPSSKYT
+Weather = PRECIP_MONSOON
+MobjScale = 1*FRACUNIT/4
+NumLaps = 2
+Music = THPIZ,THPIA,THPIA2
+Darkness = -0.25
+NoVisitNeeded = True
+Hidden = True
+
 # End of Vanilla courses
 
 Level YTM_LusciousLakeside
@@ -946,6 +975,17 @@ level LZ_DEVCOMMENTS
 NoVisitNeeded = True
 Hidden = True
 
+Level LZ_mystikkecitadel
+LevelName = Citadel Of Mystikke
+nozone = true
+TypeOfLevel = Race
+Music = LZACHE
+NumLaps = 2
+MobjScale = FRACUNIT/4
+skyboxscale = 8
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_LacustrineDisrepair2
 LevelName = Lacustrine Disrepair
 TypeOfLevel = Race
@@ -1466,6 +1506,23 @@ SkyboxScale = 0.005
 Darkness = 0.75
 Lua.Ruber = true
 Lua.deathchamber = true
+Hidden = True
+
+Level RUB_EggmansNightclub
+NoVisitNeeded = True
+LevelName = Eggman's
+ZoneTitle = Nightclub (Beta)
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = TP_NBG1
+Music = KMAP40
+SkyboxScale = 4*FRACUNIT
+MobjScale = 5*FRACUNIT/16
+LightAngle = 0
+LightContrast = 16
+Darkness = 0.75
+Lua.Ruber = true
+Lua.eggmansnightclub = true
 Hidden = True
 
 Level LOG_ErodingEucalyptus
