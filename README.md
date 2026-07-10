@@ -4,7 +4,7 @@
 --------------------------------------------
 1, 1 - Whitey, Ring the Glazer, Ring (Bodyless),
 
-2, 1 - Banana Peel, Kit, Medonk Sonok, Tail Doll (Sonic R),
+2, 1 - Kit, Medonk Sonok, Tail Doll (Sonic R),
 
 3, 1 - Gooey, Kirby,
 
@@ -29,49 +29,49 @@
 
 4, 2 - Spamton, Archie Ray,
 
-5, 2 - Tanooki Mario, Modern Amy, Slippy,
+5, 2 - Modern Amy, Slippy,
 
-6, 2 - Paper Mario, Maka Albarn,
+6, 2 - Maka Albarn,
 
 7, 2 - Warpstar Kirby, Ibuki Mioda, Trigger-Chan.
 
-8, 2 - Riders Sonic, Toad/Blue Toad, Kiriko, Tiara Boobowski,
+8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
 9, 2 - 
 
 
 1, 3 - Bean (Demolition), Milla, Robo-Hood,
 
-2, 3 - Koopa, Sara, Madoka,
+2, 3 - Sara, Madoka,
 
-3, 3 - Engineer, Peach, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head,
 
-6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots,
+6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight, Toe Jam, 
 
 8, 3 - Spiderman,
 
-9, 3 - Juri, Monty Mole, Majima, Neopolitan,
+9, 3 - Juri, Majima, Neopolitan,
 
 
 1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
 
-2, 4 - Goomba, Ringo Ando,
+2, 4 - Ringo Ando,
 
 3, 4 - Sage, Lucas,
 
 4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell,
 
-5, 4 - Leon Powalski,
+5, 4 - Leon Powalski, Daisy,
 
-6, 4 - Luigi, Ugly Knuckles, Falco, Neptune,
+6, 4 - Ugly Knuckles, Falco, Neptune,
 
-7, 4 - Buttguster, Daisy, Wild Woody,
+7, 4 - Buttguster, Wild Woody,
 
 8, 4 - Spike, Saturn,
 
@@ -86,9 +86,9 @@
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
-5, 5 - Mario, Movie Knuckles, Sailor Moon,
+5, 5 - Movie Knuckles, Sailor Moon,
 
-6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear,
+6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi,
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
@@ -99,11 +99,11 @@
 
 1, 6 - Kinger, Marx,
 
-2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, 
+2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, SMW Yoshi,
 
-3, 6 - Link, Peppy, Birdo, Stocking,
+3, 6 - Link, Peppy, Stocking,
 
-4, 6 - Knuckle Joe, Weird Mario (x2), Vyse, Trouble Bruin' (USA Version), Robo,
+4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo,
 
 5, 6 - Jack Black, Ulala,
 
@@ -111,7 +111,7 @@
 
 7, 6 - Waluigi, Jotaro, Goku,
 
-8, 6 - Yoshi, Elphelt,
+8, 6 - Elphelt,
 
 9, 6 - Captain Falcon, Meta Knight, Shiva,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Neera, Hsien-Ko,
 
-5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Hammer Bro, Lythero, Scanty, Snap the Sentinel,
+5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Scanty, Snap the Sentinel,
 
 6, 7 - Aigis (blue dress), Ramona, Akira,
 
@@ -139,7 +139,7 @@
 
 2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Cardboard Eggman,
 
-3, 8 - DK JR., Pigma,
+3, 8 - Pigma,
 
 4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo,
 
@@ -154,21 +154,21 @@
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
 
-1, 9 - Heavy TF2, Thwomp,
+1, 9 - Heavy TF2,
 
 2, 9 - Berret, Whispy Woods, Egg Shogun,
 
-3, 9 - Armstrong, Hatsune Miku, Jackenstein,
+3, 9 - Armstrong, Hatsune Miku, Jackenstein, BIS Bowser,
 
 4, 9 - 
 
-5, 9 - Knux Delux, Gameboy Wario,
+5, 9 - Knux Delux,
 
 6, 9 - 
 
 7, 9 - King K.Rool, 
 
-8, 9 - Bowser, GUN Truck, Temporacle, Mighty Eagle, 
+8, 9 - GUN Truck, Temporacle, Mighty Eagle, 
 
 9, 9 - Ring Max,
 
@@ -620,7 +620,9 @@ Pizzascape (less, 2 laps)
 7/10
 ----
 
-Characters - Disabled Bo-bobo's stat randomizer and Peppino's ranked goalposts, removed the Mecha chars pack as well as Unidentified Flying Bumper, Stella, Junio Sonic, Retro Mario, Axel, Windows 7-Tan, Goku Drip and Vegeta to try to improve the hitching situation.
+""Performance Optimization Deep-Dive Update 2"
+
+Characters - Disabled Bo-bobo's stat randomizer and Peppino's ranked goalposts, removed the Super Mario (added some replacements for Mario, Luigi, Peach, Daisy, Yoshi, and Bowser) and Mecha chars pack as well as Unidentified Flying Bumper, Stella, Junio Sonic, Retro Mario, Axel, Windows 7-Tan, Goku Drip and Vegeta to try to improve the hitching situation.
 
 Maps - Updated Thoktracks. Removed Fuckpak, GTKART2, Super Striker GP, Double Gear Pack, Kiritsu preview, Rosen Raceways, Ruber's beta map packs, Log Maps, Dreamy Treeway, and re-installed some of the map packs in their unedited states to see if that helps the hitching. Re-blacklisted Thunder Piston.
 
@@ -677,6 +679,7 @@ Other - Horns.
 
 5/29
 ----
+
 "Map-apalooza update"
 
 Characters - Added Flonne, Sekibanki, Draco, Youmu Konpaku, Yuri Lowell, and Silly Iono.
