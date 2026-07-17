@@ -187,9 +187,9 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.5
+Thok Tracks v1.5a
 
-Bushmill Cup v1.2a
+Bushmill Cup v1.2a (edited)
 
 Draft Tracks v6.1
 
@@ -201,7 +201,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.0.3
 
-lizard pack v2.1
+lizard pack v2.1 (edited)
 
 Kiritsu Pak v2.1
 
@@ -213,11 +213,7 @@ Spindashpak RE-PAK V1.5
 
 Shark Pack v1.2.1
 
-Epic Cup Revival 1.4.2
-
-Big-O Maps v4.0.1
-
-Neo Whale Maps v3
+Big-O Maps v 4.0.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -498,7 +494,7 @@ Hydrocity Act 1
 
 Eggman's Nightclub Beta
 
-Citadel of Mystikke
+The Reef
 
 
 ## Resized
@@ -617,16 +613,24 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+7/17
+----
+
+Characters - Re-enabled Peppino's signs and Bo-bobo's stat randomizer.
+
+Maps - Re-added Big-O maps as well as the reduced Bushmill and Lizard packs. Updated Thoktracks. Blacklisted the Reef. Blocked a shortcut on Noise TV that made stealing first place easy in lap 2.
+
+Other - Added a few palettes from fartsdotgov. Horns.
+
+
 7/10
 ----
 
-""Performance Optimization Deep-Dive Update 2"
+"Performance Optimization Deep-Dive Update 2"
 
 Characters - Disabled Bo-bobo's stat randomizer and Peppino's ranked goalposts, removed the Super Mario (added some replacements for Mario, Luigi, Peach, Daisy, Yoshi, and Bowser) and Mecha chars pack as well as Unidentified Flying Bumper, Stella, Junio Sonic, Retro Mario, Axel, Windows 7-Tan, Goku Drip and Vegeta to try to improve the hitching situation.
 
-Maps - Updated Thoktracks. Removed Fuckpak, GTKART2, Super Striker GP, Double Gear Pack, Kiritsu preview, Rosen Raceways, Ruber's beta map packs, Log Maps, Dreamy Treeway, and re-installed some of the map packs in their unedited states to see if that helps the hitching. Re-blacklisted Thunder Piston.
-
-Other - 
+Maps - Updated Thoktracks. Removed Fuckpak, GTKART2, Super Striker GP, Double Gear Pack, Kiritsu preview, Rosen Raceways, Ruber's beta map packs, Log Maps, Dreamy Treeway, Neo Whale Maps, Big O Maps, and re-installed some of the map packs in their unedited states to see if that helps the hitching. Re-blacklisted Thunder Piston.
 
 
 7/3

@@ -975,14 +975,20 @@ level LZ_DEVCOMMENTS
 NoVisitNeeded = True
 Hidden = True
 
-Level LZ_mystikkecitadel
-LevelName = Citadel Of Mystikke
+Level LZ_thereef
+LevelName = The Reef
 nozone = true
 TypeOfLevel = Race
-Music = LZACHE
-NumLaps = 2
+NumLaps = 6
+Music = SPTR1,SPTR2
+EncoreMusic = SPOTH1
+AssociatedMusic = SPTR3,SPOTH6
+PositionMusic = LZINTR
+SkyTexture = SKY91
+SkyboxScale = 8
+LightContrast = 30
+Lightangle = 270
 MobjScale = FRACUNIT/4
-skyboxscale = 8
 NoVisitNeeded = True
 Hidden = True
 
