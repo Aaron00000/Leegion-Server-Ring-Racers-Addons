@@ -344,6 +344,31 @@ Darkness = -0.25
 NoVisitNeeded = True
 Hidden = True
 
+Level RR_SkyBabylon
+LevelName = Sky Babylon
+TypeOfLevel = Race
+MobjScale = FRACUNIT/4
+NumLaps = 4
+SkyTexture = sky755
+Music = SKBAZ
+Darkness = -0.25
+LightContrast = 32
+LightAngle = 315
+Hidden = True
+NoVisitNeeded = True
+
+Level RR_DeathEgg
+LevelName = Death Egg
+TypeOfLevel = Race
+NumLaps = 2
+LapsPerSection = 1
+SkyTexture = DEZSKY
+Music = KMAPDE
+MobjScale = FRACUNIT/4
+SkyboxScale = 32
+DefaultWaypointRadius = 200
+Darkness = -0.25
+
 # End of Vanilla courses
 
 Level YTM_LusciousLakeside

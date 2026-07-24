@@ -194,18 +194,6 @@ LightAngle = 135
 LightContrast = 64
 SubtractNum = True
 
-Level RR_DeathEgg
-LevelName = Death Egg
-TypeOfLevel = Race
-NumLaps = 2
-LapsPerSection = 1
-SkyTexture = DEZSKY
-Music = KMAPDE
-MobjScale = FRACUNIT/4
-SkyboxScale = 32
-DefaultWaypointRadius = 200
-Darkness = -0.25
-
 Level DRTR_BastionIsle
 LevelName = Bastion Isle
 TypeOfLevel = Race

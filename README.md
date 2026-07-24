@@ -6,7 +6,7 @@
 
 2, 1 - Kit, Medonk Sonok, Tail Doll (Sonic R),
 
-3, 1 - Gooey, Kirby,
+3, 1 - Gooey, Kirby, Nahida,
 
 4, 1 - 
 
@@ -56,7 +56,7 @@
 
 8, 3 - Spiderman,
 
-9, 3 - Juri, Majima, Neopolitan,
+9, 3 - Juri, Majima, Brazilian Miku,
 
 
 1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
@@ -101,9 +101,9 @@
 
 2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, SMW Yoshi,
 
-3, 6 - Link, Peppy, Stocking,
+3, 6 - Link, Peppy,
 
-4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo,
+4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi,
 
 5, 6 - Jack Black, Ulala,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Neera, Hsien-Ko,
 
-5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Scanty, Snap the Sentinel,
+5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel,
 
 6, 7 - Aigis (blue dress), Ramona, Akira,
 
@@ -145,7 +145,7 @@
 
 5, 8 - Shrek,
 
-6, 8 - Master Chief, Werehog, Tenna,
+6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario,
 
 7, 8 - Johnny Bravo,
 
@@ -168,7 +168,7 @@
 
 7, 9 - King K.Rool, 
 
-8, 9 - GUN Truck, Temporacle, Mighty Eagle, 
+8, 9 - GUN Truck, Temporacle, Mighty Eagle, N64 Promo Bowser,
 
 9, 9 - Ring Max,
 
@@ -203,8 +203,6 @@ Abstract Maps v1.0.3
 
 lizard pack v2.1 (edited)
 
-Kiritsu Pak v2.1
-
 Yellow Crocodile Cup v2.6
 
 Noise's Toppin' Tumblers v1
@@ -214,6 +212,24 @@ Spindashpak RE-PAK V1.5
 Shark Pack v1.2.1
 
 Big-O Maps v 4.0.1
+
+Dreturns Checkport (Edited)
+
+Neo Whale Maps (Edited)
+
+Boggly Woods V2
+
+Ruber's Map Pack betas v9.9d
+
+Super Striker GP v1.5.2 (edited)
+
+GTKart2 v3 (edited)
+
+Double Gear Pack v3.1 (edited)
+
+Dreamy Treeway v2.4
+
+Revenge of Fuckpak v2 (edited)
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -278,6 +294,10 @@ Gravtech Dimension 5
 Haunted Ship
 
 Thunder Piston
+
+Sky Babylon
+
+Death Egg
 
 
 ## BLACKLISTED ADDON MAPS
@@ -613,10 +633,20 @@ Pizzascape (less, 2 laps)
 ============
 ## CHANGELOG
 
+7/24
+----
+
+Characters - Added Brazilian Miku, N64 Promo Wario, N64 Promo Waluigi, and N64 Promo Bowser. Removed Stocking, Panty, Scanty, and Neopolitan. Re-added Peppino's taunts for Visorcat.
+
+Maps - Added Benji's Dreturns Checkport with some modifications, re-added Neo Whale Maps with a surprise on Treasure Caves, re-added Ruber's beta map packs, Super Striker GP, GTKart, Double Gear Pack, Dreamy Treeway, Revenge of Fuckpak, and added Boggly Woods. Blacklisted Sky Babylon again for lacking catch-up and Death Egg for good measure.
+
+Other - Added more palettes from fartsdotgov.
+
+
 7/17
 ----
 
-Characters - Re-enabled Peppino's signs and Bo-bobo's stat randomizer.
+Characters - Added Nahida. Re-enabled Peppino's signs and Bo-bobo's stat randomizer.
 
 Maps - Re-added Big-O maps as well as the reduced Bushmill and Lizard packs. Updated Thoktracks. Blacklisted the Reef. Blocked a shortcut on Noise TV that made stealing first place easy in lap 2.
 
