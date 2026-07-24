@@ -69,9 +69,9 @@
 
 5, 4 - Leon Powalski, Daisy,
 
-6, 4 - Ugly Knuckles, Falco, Neptune,
+6, 4 - Ugly Knuckles, Falco, Neptune, Lucina,
 
-7, 4 - Buttguster, Wild Woody,
+7, 4 - Buttguster, Wild Woody, Felicia (Fire Emblem),
 
 8, 4 - Spike, Saturn,
 
@@ -82,7 +82,7 @@
 
 2, 5 - Motobug (Biker), Nokotan,
 
-3, 5 - Reiko,
+3, 5 - Reiko, Tiki,
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
@@ -636,7 +636,7 @@ Pizzascape (less, 2 laps)
 7/24
 ----
 
-Characters - Added Brazilian Miku, N64 Promo Wario, N64 Promo Waluigi, and N64 Promo Bowser. Removed Stocking, Panty, Scanty, Neopolitan, and Nahida. Re-added Peppino's taunts for Visorcat.
+Characters - Added Brazilian Miku, N64 Promo Wario, N64 Promo Waluigi, N64 Promo Bowser, Felicia, Lucina, and Tiki. Removed Stocking, Panty, Scanty, Neopolitan, and Nahida. Re-added Peppino's taunts for Visorcat.
 
 Maps - Added Benji's Dreturns Checkport with some modifications, re-added Neo Whale Maps with a surprise on Treasure Caves, re-added Ruber's beta map packs, Super Striker GP, GTKart, Double Gear Pack, Dreamy Treeway, Revenge of Fuckpak, and added Boggly Woods. Blacklisted Sky Babylon again for lacking catch-up and Death Egg for good measure.
 
