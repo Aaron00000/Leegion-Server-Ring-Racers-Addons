@@ -6,7 +6,7 @@
 
 2, 1 - Kit, Medonk Sonok, Tail Doll (Sonic R),
 
-3, 1 - Gooey, Kirby, Nahida,
+3, 1 - Gooey, Kirby,
 
 4, 1 - 
 
@@ -636,7 +636,7 @@ Pizzascape (less, 2 laps)
 7/24
 ----
 
-Characters - Added Brazilian Miku, N64 Promo Wario, N64 Promo Waluigi, and N64 Promo Bowser. Removed Stocking, Panty, Scanty, and Neopolitan. Re-added Peppino's taunts for Visorcat.
+Characters - Added Brazilian Miku, N64 Promo Wario, N64 Promo Waluigi, and N64 Promo Bowser. Removed Stocking, Panty, Scanty, Neopolitan, and Nahida. Re-added Peppino's taunts for Visorcat.
 
 Maps - Added Benji's Dreturns Checkport with some modifications, re-added Neo Whale Maps with a surprise on Treasure Caves, re-added Ruber's beta map packs, Super Striker GP, GTKart, Double Gear Pack, Dreamy Treeway, Revenge of Fuckpak, and added Boggly Woods. Blacklisted Sky Babylon again for lacking catch-up and Death Egg for good measure.
 
