@@ -8,7 +8,7 @@
 
 3, 1 - Gooey, Kirby,
 
-4, 1 - 
+4, 1 - Float,
 
 5, 1 - 
 
@@ -27,7 +27,7 @@
 
 3, 2 - Gwenpool,
 
-4, 2 - Spamton, Archie Ray,
+4, 2 - Spamton, Archie Ray, Naoto Shirogane, 
 
 5, 2 - Modern Amy, Slippy,
 
@@ -61,13 +61,13 @@
 
 1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
 
-2, 4 - Ringo Ando,
+2, 4 - Ringo Ando, Yukiko Amagi,
 
 3, 4 - Lucas,
 
 4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell,
 
-5, 4 - Leon Powalski, Daisy,
+5, 4 - Leon Powalski, Daisy, Yu Narukami,
 
 6, 4 - Ugly Knuckles, Falco, Neptune, Lucina,
 
@@ -88,7 +88,7 @@
 
 5, 5 - Movie Knuckles, Sailor Moon,
 
-6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi,
+6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
 7, 5 - Jack-O', Wolf O'Donnell,
 
@@ -103,7 +103,7 @@
 
 3, 6 - Link, Peppy,
 
-4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi,
+4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi, Makoto Yuki,
 
 5, 6 - Jack Black, Ulala,
 
@@ -118,7 +118,7 @@
 
 1, 7 - 
 
-2, 7 - Carl Wheezer, Agent Stone,
+2, 7 - Carl Wheezer, Agent Stone, Kanji Tatsumi,
 
 3, 7 - Coach, Susie, Ness,
 
@@ -126,9 +126,9 @@
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel,
 
-6, 7 - Aigis (blue dress), Ramona, Akira,
+6, 7 - Aigis (blue dress), Ramona, Akira, Aigis (Setdown),
 
-7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring)
+7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring), Makoto Niijima,
 
 8, 7 - Akira Nishikiyama,
 
@@ -638,7 +638,7 @@ Boggly Woods (less, 2 laps)
 7/31
 ----
 
-Characters - Added Panty, Tingle, and Mina the Hollower. Replaced Sage with Sage (Light).
+Characters - Added Panty, Tingle, Float, Mina the Hollower, and the Persona Pack. Replaced Sage with Sage (Light).
 
 Maps - Lowered Boggly Woods' lap count down to two. Actually blacklisted Death Egg this time. Hopefully fixed that checkpoint bug on Neo Green Hill Zone.
 
