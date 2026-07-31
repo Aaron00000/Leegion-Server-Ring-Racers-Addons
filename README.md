@@ -23,7 +23,7 @@
 
 1, 2 - 
 
-2, 2 - 
+2, 2 - Tingle,
 
 3, 2 - Gwenpool,
 
@@ -48,7 +48,7 @@
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head,
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head, Sage (Light),
 
 6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
@@ -63,7 +63,7 @@
 
 2, 4 - Ringo Ando,
 
-3, 4 - Sage, Lucas,
+3, 4 - Lucas,
 
 4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell,
 
@@ -113,7 +113,7 @@
 
 8, 6 - Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Panty,
 
 
 1, 7 - 
@@ -141,7 +141,7 @@
 
 3, 8 - Pigma,
 
-4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo,
+4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo, Mina the Hollower,
 
 5, 8 - Shrek,
 
@@ -629,9 +629,21 @@ John Gutter (less, 2 laps)
 
 Pizzascape (less, 2 laps)
 
+Boggly Woods (less, 2 laps)
+
 
 ============
 ## CHANGELOG
+
+7/31
+----
+
+Characters - Added Panty, Tingle, and Mina the Hollower. Replaced Sage with Sage (Light).
+
+Maps - Lowered Boggly Woods' lap count down to two. Actually blacklisted Death Egg this time. Hopefully fixed that checkpoint bug on Neo Green Hill Zone.
+
+Other - Horns.
+
 
 7/24
 ----

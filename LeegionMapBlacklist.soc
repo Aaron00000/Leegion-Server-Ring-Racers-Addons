@@ -368,6 +368,7 @@ MobjScale = FRACUNIT/4
 SkyboxScale = 32
 DefaultWaypointRadius = 200
 Darkness = -0.25
+Hidden = True
 
 # End of Vanilla courses
 

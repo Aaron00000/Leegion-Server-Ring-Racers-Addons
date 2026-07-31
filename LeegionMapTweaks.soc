@@ -354,19 +354,6 @@ LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
-Level DR_MMMM
-Levelname = B A N A N A S
-ZoneTitle = M M M M
-TypeOfLevel = Race
-NumLaps = 3
-Music = MMMM
-SkyTexture = SKY480
-SkyboxScaleZ = 64
-Followers = Flicky,Red Flicky,Pink Flicky,Green Flicky
-MobjScale = 100*FRACUNIT/145
-NoVisitNeeded = True
-Hidden = True
-
 Level CUB_StarmineSpeedway
 LevelName = Starmine
 ZoneTitle = Speedway
@@ -693,3 +680,13 @@ MobjScale = FRACUNIT*1/4
 EncoreMusic = BKBROD
 LightAngle = 180
 
+Level AT_BogglyWoods
+NoVisitNeeded = True
+LevelName = Boggly Woods
+NoZone = True
+TypeOfLevel = Race
+MobjScale = FRACUNIT/4
+Music = PM22
+SkyTexture = PM22SKY1
+SkyboxScale = 0
+NumLaps = 2
