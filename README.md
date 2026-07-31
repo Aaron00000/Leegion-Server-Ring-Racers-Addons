@@ -642,7 +642,7 @@ Characters - Added Panty, Tingle, and Mina the Hollower. Replaced Sage with Sage
 
 Maps - Lowered Boggly Woods' lap count down to two. Actually blacklisted Death Egg this time. Hopefully fixed that checkpoint bug on Neo Green Hill Zone.
 
-Other - Horns.
+Other - Horns. Removed some of the halo followers to save space.
 
 
 7/24
