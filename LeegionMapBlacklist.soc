@@ -538,6 +538,7 @@ NumLaps = 3
 SkyTexture = ~163
 Hidden = True
 
+Level RR_NovaShore
 LevelName = Nova Shore
 TypeOfLevel = Race
 NumLaps = 3
