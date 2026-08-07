@@ -40,15 +40,15 @@
 9, 2 - 
 
 
-1, 3 - Bean (Demolition), Milla, Robo-Hood,
+1, 3 - Bean (Demolition), Milla, Robo-Hood, Dancing Banana,
 
 2, 3 - Sara, Madoka,
 
-3, 3 - Engineer, Jamiro Quai, Sailor Mercury,
+3, 3 - Engineer, Jamiro Quai, Sailor Mercury, Sybil,
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head, Sage (Light),
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head, Sage (Light), Ralsei,
 
 6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
@@ -86,7 +86,7 @@
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
-5, 5 - Movie Knuckles, Sailor Moon,
+5, 5 - Movie Knuckles, Sailor Moon, Tom,
 
 6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
@@ -113,7 +113,7 @@
 
 8, 6 - Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Panty,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Panty, Flowery,
 
 
 1, 7 - 
@@ -149,7 +149,7 @@
 
 7, 8 - Johnny Bravo,
 
-8, 8 - Wario,
+8, 8 - Wario, Lightning McQueen,
 
 9, 8 - Segata Sanshiro, Dark Matter, Neo Metal Sonic, Merga,
 
@@ -175,6 +175,8 @@
 
 4, 10 - Iron Giant,
 
+9, 18 - Egg Dragoon,
+
 ?, ? - Bo-bobo,
 
 
@@ -195,7 +197,7 @@ Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon 2.6
+CAS Track Pack AeroMoon 7 Parts 1 and 2
 
 Frost Maps v5.2
 
@@ -297,6 +299,40 @@ Thunder Piston
 
 Sky Babylon
 
+Balloon Park
+
+Lake Margorite
+
+Aqua Tunnel
+
+Final Fall
+
+Robotnik Winter
+
+Advent Angel
+
+Mega Flying Battery
+
+Mega Collision Chaos
+
+Kodachrome Void
+
+Lavender Shrine
+
+Shuffle Square
+
+Diamond Dust Classic
+
+Blizzard Peaks Classic
+
+Lavender Shrine Classic
+
+Star Light
+
+Aerial Highlands
+
+Darkvile Castle 2
+
 Death Egg
 
 
@@ -392,8 +428,6 @@ Pentium Expense
 
 Dendritic Dereliction
 
-Battleship Harbor
-
 Red Rage Highway
 
 Cutman's Logging Facility
@@ -454,8 +488,6 @@ Curien Mansion
 
 Eroding Eucalyptus
 
-Frutiger Aeropolis 2
-
 Media Studio 2
 
 Indierock Rally
@@ -515,6 +547,10 @@ Hydrocity Act 1
 Eggman's Nightclub Beta
 
 The Reef
+
+Retro Maze CEDX
+
+Midnight Bay
 
 
 ## Resized
@@ -634,6 +670,16 @@ Boggly Woods (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+8/7
+----
+
+Characters - Added Homer, Flowery, Sybil, Ralsei, Dancing Banana, Lightning McQueen, Tom, and the Egg Dragoon. Re-added the Unidentified Flying Bumper.
+
+Maps - Added CAS Track part 1. Unblacklisted Saturn Speedway now that the ice is gone. Re-blacklisted several vanilla maps, Polar Paradise, and Retro Maze CEDX. Adjusted some geometry on one of Neo Green Hill Zone's shortcuts to not make Grow users cry.
+
+Other - Went through the vanilla Hornmod horns and cleared out a bunch of them, enabled the rest. Added a couple horns and hellhorns, and more killbind sounds.
+
 
 7/31
 ----
@@ -1085,16 +1131,6 @@ Maps - Re-added CAS Tracks. Updated DTDelve, Super Striker GP, and Rosen Raceway
 Other - Removed the adjusted item box respawn times from the QoL pack.
 
 
-9/19 version 2.4
------------------------------
-
-Characters - Added Gamma, the Star Fox pack, and a bunch of previously cut characters back (Cell, Spike, Jack-O', Alolachu, Scratch, Grounder, Doomguy, Funky Kong, Pauline, Infinite, Kaiser Greedy, Hey Ho, Jimbo, Wallace, Klonoa, Papyrus, Pomni, Ristar, Scrapnik Mecha Sonic, Scrapnik Mecha Knuckles, Vector, Curly, Plok, Quote, Tenna, Noel Vermillion, Medic, Majima, Hsien-Ko, Ashura, Goku, Marine, Mobo, Rei Ayanami, Robo, Super Sonic, Wild Woody, Pac-Man, Omochao, Madonna, Kapukapu, Old Man Owl, Cactuar, Ashe, Yadorin, Taraban, Sol, Taga-Taga, Kama-Kama, Noro-Noro, Hopper, Penguinator, Dribbler.)
-
-Maps - Axed all non-2.4-updated map packs. Updated Diggle's Track Delve, Yoshi's Cookie Jar, Gack Tracks, Dream Tracks, Thok Tracks, Epic Cup Revival, Bushmill Cup, Revenge of the Fuck Pack, RLQ Rosen Raceways, Super Striker GP, and Draft Tracks. Blacklisted Diamond Dust, Port Aurora, Black Comet, Death Chamber, Bubblin' Springs and Icebound Citadel 1. Un-blacklisted Marble Garden, Mega Aqua Lake, Kodachrome Void, Thunder Piston, Coastal Temple, 765 Stadium, Savannah Citadel, Dark Fortress, Blizzard Peaks Classic, Quartz Quadrant, Vantablack Violet, Aerial Highlands, and Touge to give them another chance because of 2.4. Removed map re-sizings and lap count changes for vanilla maps.
-
-Other - Removed Unrestrict Skins from the QoL pack since it no longer works for 2.4, and the display fix since that's in the game now.
-
-
 9/19 Beginning of the 2.4 era
 -----------------------------
 
@@ -1103,6 +1139,7 @@ Characters - Added Gamma, the Star fox pack, and a bunch of previously cut chara
 Maps - Axed all non-2.4-updated map packs. Updated Diggle's Track Delve, Yoshi's Cookie Jar, Gack Tracks, Dream Tracks, Thok Tracks, Epic Cup Revival, Bushmill Cup, Revenge of the Fuck Pack, RLQ Rosen Raceways, Super Striker GP, and Draft Tracks. Blacklisted Diamond Dust, Port Aurora, Black Comet, Death Chamber, Bubblin' Springs and Icebound Citadel 1. Un-blacklisted Marble Garden, Mega Aqua Lake, Kodachrome Void, Thunder Piston, Coastal Temple, 765 Stadium, Savannah Citadel, Dark Fortress, Blizzard Peaks Classic, Quartz Quadrant, Vantablack Violet, Aerial Highlands, and Touge to give them another chance because of 2.4. Removed map resizings and lap count changes for vanilla maps.
 
 Other - Removed Unrestrict Skins from the QoL pack since it no longer works for 2.4, and the display fix since that's in the game now.
+
 
 9/12
 ----

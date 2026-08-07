@@ -131,6 +131,30 @@ CameraHeight = 140
 Hidden = True
 NoVisitNeeded = True
 
+Level RR_MegaCollisionChaos
+LevelName = Mega Collision Chaos
+TypeOfLevel = Race
+Hidden = False
+NumLaps = 4
+MobjScale =  10*FRACUNIT/48
+SkyTexture = ~153
+Music = MECOZ,MECOA
+CameraHeight = 140
+Hidden = True
+Hidden = True
+
+Level RR_MegaFlyingBattery
+LevelName = Mega Flying Battery
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = ~171
+Music = MEFLZ
+Mobjscale = 10*FRACUNIT/48
+Weather = PRECIP_STORM
+DefaultWaypointRadius = 64*FRACUNIT
+CameraHeight = 140
+Hidden = True
+
 Level RR_SpringYard
 LevelName = Spring Yard
 TypeOfLevel = Race
@@ -356,6 +380,258 @@ LightContrast = 32
 LightAngle = 315
 Hidden = True
 NoVisitNeeded = True
+
+Level RR_LostColony
+LevelName = Lost
+ZoneTitle = Colony
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = ~031
+Music = LSTCLZ
+MobjScale = FRACUNIT/4
+Followers = Mono Beetle
+EncorePal = 19
+Darkness = -1
+Hidden = True
+
+Level RR_BalloonPark
+LevelName = Balloon Park
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = BPZSKY01
+Music = BAPAZ
+MobjScale = FRACUNIT*16/100
+Darkness = -0.25
+DefaultWaypointRadius = 50*FRACUNIT
+LightContrast = 48
+LightAngle = 45
+Hidden = True
+
+Level RR_AquaTunnel
+LevelName = Aqua Tunnel
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~029
+Mobjscale = FRACUNIT/4
+Weather = PRECIP_FIREFLIES
+Music = ATUN,ATUN2
+Darkness = -0.25
+Hidden = True
+
+Level RR_FinalFall
+LevelName = Final Fall
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKYFFZ
+MobjScale = FRACUNIT/4
+SkyboxScaleZ = 16
+Music = FIFAZ
+Hidden = True
+
+Level RR_RobotnikWinter
+LevelName = Robotnik Winter
+NoZone = False
+TypeOfLevel = Race
+MobjScale = 1*FRACUNIT/4
+SkyboxScaleZ = 0
+NumLaps = 3
+Weather = 2
+LightContrast = 56
+LightAngle = 90
+Music = ROWIZ
+SubtractNum = True
+DestroyObjectsForChallenges = MT_ICECAPBLOCK
+SkyTexture = ~176
+Hidden = True
+
+Level RR_Pestilence
+LevelName = Pestilence
+TypeOfLevel = Race
+NumLaps = 3
+Music = PESZ
+MobjScale = FRACUNIT/4
+DefaultWaypointRadius = 96*FRACUNIT
+LightContrast = 48
+LightAngle = 315
+Darkness = -1.0
+Followers = Buggernaut
+SkyTexture = ~031
+Hidden = True
+
+Level RR_KodachromeVoid
+LevelName = Kodachrome Void
+TypeOfLevel = Race
+NumLaps = 4
+Music = KOVOZ
+Mobjscale = FRACUNIT*85/100
+Darkness = 0.5
+SkyTexture = ~031
+Hidden = True
+
+Level RR_LavenderShrine
+LevelName = Lavender Shrine
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+Music = LASHZ
+SkyTexture = BSZSKY2
+DefaultWaypointRadius = 208*FRACUNIT
+SkyboxScale = 4
+Weather = PRECIP_LSPT
+Darkness = -1
+Hidden = True
+
+Level RR_ShuffleSquare
+LevelName = Shuffle Square
+Palette = 0
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKY766
+Music = SHSQZ
+SkyboxScale = 0.25
+DefaultWaypointRadius = 768*FRACUNIT
+Mobjscale = FRACUNIT*90/100
+Hidden = True
+
+Level RR_DiamondDustClassic
+LevelName = Diamond Dust
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = 1*FRACUNIT/4
+Weather = PRECIP_SNOW
+SkyTexture = DIASKY
+Music = DIDUZ,DIDUA
+SubtractNum = True
+Hidden = True
+
+Level RR_BlizzardPeaksClassic
+LevelName = Blizzard Peaks
+ZoneTitle = Classic
+Music = BLCAZ
+TypeOfLevel = RACE
+Hidden = False
+SkyTexture = SKY55
+NumLaps = 3
+Weather = PRECIP_SNOW
+SubtractNum = True
+LightAngle = 45
+LightContrast = 98
+Hidden = True
+
+Level RR_StarLight
+LevelName = Star Light
+Music = STLIZ
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+SkyTexture = ~031
+Darkness = -0.25
+Hidden = True
+
+Level RR_AerialHighlands
+LevelName = Aerial Highlands
+Music = AEHIZ
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~163
+Hidden = True
+
+LevelName = Nova Shore
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY2448
+Palette = 16
+EncorePal = 3
+Music = NOSHZ,NOSHA
+AssociatedMusic = DOPE2,DOPE1
+MobjScale = FRACUNIT/4
+Weather = PRECIP_SPARKLES
+Darkness = 0
+Hidden = True
+
+Level RR_DarkvileCastle2
+LevelName = Darkvile Castle
+Act = 2
+TypeOfLevel = Race
+NumLaps = 4
+MobjScale = 42*FRACUNIT/100
+DefaultWaypointRadius = 192*FRACUNIT
+SkyTexture = DVSKY
+Weather = PRECIP_RAIN
+Music = DACAZ2
+SkyboxScale = 32
+Darkness = -0.25
+Hidden = True
+
+Level RR_LakeMargorite
+LevelName = Lake Margorite
+TypeOfLevel = Race
+MobjScale = 10*FRACUNIT/48
+NumLaps = 3
+SkyTexture = ~147
+Music = LAMAZ
+Hidden = True
+
+Level RR_AdventAngel
+LevelName = Advent Angel
+TypeOfLevel = Race
+NumLaps = 4
+SkyTexture = ANGELSKY
+MobjScale = 10*FRACUNIT/48
+Music = AVANZ
+SubtractNum = True
+Darkness = 0.25
+CameraHeight = 140
+Hidden = True
+
+Level RR_EspressoLane
+Levelname = Espresso Lane
+NumLaps = 2
+TypeOfLevel = Race
+Music = ESLAZ
+SkyTexture = SKY265
+Weather = PRECIP_SNOW
+MobjScale = 10*FRACUNIT/24
+Skyboxscale = 4
+EncoreLightAngle = 90
+EncoreLightContrast = 80
+Hidden = True
+
+Level RR_CoastalTemple
+LevelName = Coastal Temple
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = CTSKY
+Music = COTEZ
+MobjScale = 10*FRACUNIT/48
+Darkness = -0.25
+Hidden = True
+
+Level RR_LaunchBaseClassic
+LevelName = Launch Base
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY6633
+Music = LABAZ2
+MobjScale = 10*FRACUNIT/12
+Hidden = True
+
+Level RR_LavenderShrineClassic
+LevelName = Lavender Shrine
+ZoneTitle = Classic
+TypeOfLevel = Race
+NumLaps = 2
+MobjScale = 10*FRACUNIT/48
+Music = LASHZ
+SkyTexture = BSZSKY
+DefaultWaypointRadius = 208*FRACUNIT
+SkyboxScale = 10
+Palette = 7682
+Darkness = -1
+Hidden = True
 
 Level RR_DeathEgg
 LevelName = Death Egg
@@ -671,7 +947,7 @@ NumLaps = 3
 SkyTexture = ~253
 SkyboxScale = 64
 PositionMusic = CASINT
-Music = POLAR1,POLAR2
+Music = POLAR1,POLAR2,POLAR3
 EncoreMusic = POLENC
 Mobjscale = FRACUNIT/3
 Weather = PRECIP_SNOW
@@ -679,50 +955,20 @@ Darkness = -0.5
 NoVisitNeeded = True
 Hidden = True
 
-Level CAS_MidnightBay
-LevelName = Midnight Bay
-ZoneTitle = Streets
-TypeofLevel = Race
-NumLaps = 3
-SkyTexture = ~254
-SkyboxScale = 64
-PositionMusic = MIDBSI
-Music = MIDBS1,MIDBS2
-Mobjscale = 2*FRACUNIT/10
-LightContrast = 10
+Level LAS_RetroMaze
+LevelName = Retro Maze
+ZoneTitle = CEDX
 NoVisitNeeded = True
-Hidden = True
-
-Level LAS_BattleshipHarbor
-LevelName = Battleship
-ZoneTitle = Harbor
-TypeofLevel = Race
+TypeOfLevel = Race
+SkyTexture = ~031
 NumLaps = 2
-SkyTexture = SKY91
-SkyboxScale = 128
-PositionMusic = CASINT
-Music = BATHA1,BATHA2
-Mobjscale = 2*FRACUNIT/10
-LightContrast = 10
-NoVisitNeeded = True
-Hidden = True
-
-
-Level ARC_SaturnStarway
-LevelName = Saturn
-ZoneTitle = Starway
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = SKY4417
-SkyboxScale = 64
-PositionMusic = CASFIN
-Music = SATST1,SATST2
-Mobjscale = FRACUNIT/3
-LightAngle = 90
-LightContrast = 64
-Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
-Hidden = False
-NoVisitNeeded = True
+Music = RETMZP,PACSTP
+EncoreMusic = PACTBE
+PositionMusic = POSTPM
+MobjScale = FRACUNIT/4
+LightContrast = 0
+LightAngle = 10
+CameraHeight = 140
 Hidden = True
 
 Level LAS_PuyoPuyo
@@ -738,22 +984,6 @@ Mobjscale = FRACUNIT/4
 LightContrast = 10
 Followers = Has Bean
 NoVisitNeeded = True
-Hidden = True
-
-Level LAS_FrutigerAeropolis2
-LevelName = Frutiger
-ZoneTitle = Aeropolis
-Act = 2
-NoVisitNeeded = True
-TypeofLevel = Race
-NumLaps = 2
-SkyTexture = OPUBG02
-SkyboxScale = 64
-PositionMusic = FAERI2
-Music = FAEROV,FAEROQ,FAEROS
-LightContrast = 0
-LightAngle = 10
-Mobjscale = FRACUNIT/3
 Hidden = True
 
 Level CAS_BSODRing
