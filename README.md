@@ -14,7 +14,7 @@
 
 6, 1 - 
 
-7, 1 - Ribbon,
+7, 1 - Ribbon, Charlotta,
 
 8, 1 - 
 
@@ -676,7 +676,7 @@ Boggly Woods (less, 2 laps)
 8/14
 ----
 
-Characters - Updated the N64 Promo Wario Bros. Re-added Chuck E. Cheese, removed Ringo.
+Characters - Updated the N64 Promo Wario Bros. Re-added Chuck E. Cheese and Charlotta, removed Ringo.
 
 Maps - Updated AbstractMaps. Re-added LOG MAPS. Unblacklisted Eggman's Nightclub now that it is mostly finished, blacklisted Wishing Wonders.
 
