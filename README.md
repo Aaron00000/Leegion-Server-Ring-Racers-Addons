@@ -103,7 +103,7 @@
 
 3, 6 - Link, Peppy,
 
-4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi, Makoto Yuki,
+4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese
 
 5, 6 - Jack Black, Ulala,
 
@@ -201,7 +201,7 @@ CAS Track Pack AeroMoon 7 Parts 1 and 2
 
 Frost Maps v5.2
 
-Abstract Maps v1.0.3
+Abstract Maps v1.1
 
 lizard pack v2.1 (edited)
 
@@ -232,6 +232,8 @@ Double Gear Pack v3.1 (edited)
 Dreamy Treeway v2.4
 
 Revenge of Fuckpak v2 (edited)
+
+LOG MAPS V2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -544,7 +546,7 @@ Midnight Flannel
 
 Hydrocity Act 1
 
-Eggman's Nightclub Beta
+Wishing Wonders
 
 The Reef
 
@@ -670,6 +672,16 @@ Boggly Woods (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+8/14
+----
+
+Characters - Updated the N64 Promo Wario Bros. Re-added Chuck E. Cheese.
+
+Maps - Updated AbstractMaps. Re-added LOG MAPS. Unblacklisted Eggman's Nightclub now that it is mostly finished, blacklisted Wishing Wonders.
+
+Other - Added some horns and a few horns from fuu.
+
 
 8/7
 ----

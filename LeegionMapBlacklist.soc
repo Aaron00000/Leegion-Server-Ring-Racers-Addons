@@ -1755,6 +1755,22 @@ SkyBoxScaleZ = 0.5
 NoVisitNeeded = True
 Hidden = True
 
+Level RUB_wishingwonders
+NoVisitNeeded = True
+LevelName = Wishing
+ZoneTitle = Wonders
+TypeOfLevel = Race
+NumLaps = 3
+SkyboxScale = 11*FRACUNIT/10
+SkyTexture = WISH_SKY
+Music = WISHW1,WISHW3,WISHW2
+MobjScale = 9*FRACUNIT/40
+##Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.wishingwonders = true
+Hidden = True
+
 Level RUB_DeathChamberR
 NoVisitNeeded = True
 LevelName = Death
@@ -1769,23 +1785,6 @@ SkyboxScale = 0.005
 Darkness = 0.75
 Lua.Ruber = true
 Lua.deathchamber = true
-Hidden = True
-
-Level RUB_EggmansNightclub
-NoVisitNeeded = True
-LevelName = Eggman's
-ZoneTitle = Nightclub (Beta)
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = TP_NBG1
-Music = KMAP40
-SkyboxScale = 4*FRACUNIT
-MobjScale = 5*FRACUNIT/16
-LightAngle = 0
-LightContrast = 16
-Darkness = 0.75
-Lua.Ruber = true
-Lua.eggmansnightclub = true
 Hidden = True
 
 Level LOG_ErodingEucalyptus
