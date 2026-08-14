@@ -61,7 +61,7 @@
 
 1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
 
-2, 4 - Ringo Ando, Yukiko Amagi,
+2, 4 - Yukiko Amagi,
 
 3, 4 - Lucas,
 
@@ -676,7 +676,7 @@ Boggly Woods (less, 2 laps)
 8/14
 ----
 
-Characters - Updated the N64 Promo Wario Bros. Re-added Chuck E. Cheese.
+Characters - Updated the N64 Promo Wario Bros. Re-added Chuck E. Cheese, removed Ringo.
 
 Maps - Updated AbstractMaps. Re-added LOG MAPS. Unblacklisted Eggman's Nightclub now that it is mostly finished, blacklisted Wishing Wonders.
 
