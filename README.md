@@ -122,7 +122,7 @@
 
 3, 7 - Coach, Susie, Ness,
 
-4, 7 - Banjo-Kazooie, Neera, Hsien-Ko,
+4, 7 - Banjo-Kazooie, Neera, Hsien-Ko, Vanilla,
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel,
 
@@ -166,7 +166,7 @@
 
 6, 9 - 
 
-7, 9 - King K.Rool, 
+7, 9 - King K.Rool, Storm the Albatross,
 
 8, 9 - GUN Truck, Temporacle, Mighty Eagle, N64 Promo Bowser,
 
@@ -694,11 +694,11 @@ Leaf Forest (less, 3 laps)
 8/21
 ----
 
-Characters - Added Chunky Kong and a new Stocking. Hopefully fixed Peppino's taunt stuff sometimes throwing an error.
+Characters - Added Chunky Kong, Storm, Vanilla, and a new Stocking. Hopefully fixed Peppino's taunt stuff sometimes throwing an error.
 
 Maps - Made Leaf Forest 3 laps. Made Dimension Disaster 20% larger and lowered the lap count down to 4.  Blacklisted Abyss Gardens, Hot Shelter, Techno Base, Lava Shelter, Boomerang Battleship, and Eggman's Nightclub.
 
-Other - Added a 2.4 compliant version of Hitfeed and some sign shenanigans (courtesy of Alpa.)
+Other - Added a 2.4 compliant version of Hitfeed and some sign shenanigans (courtesy of Alpa.) And horns (as well as removing a few.)
 
 
 8/14
