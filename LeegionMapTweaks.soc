@@ -12,6 +12,16 @@ LightAngle = 45
 LightContrast = 32
 DestroyObjectsForChallenges = MT_JOYTABLE,MT_JOYCHAIR
 
+Level RR_DimensionDisaster
+LevelNAME = Dimension Disaster
+Music = DIDIZ
+SkyTexture = SKY169
+TYpeOfLevel = RACE
+NumLaps = 4
+SkyboxScaleZ = 0
+Darkness = -0.25
+MobjScale = 5*FRACUNIT/6
+
 Level SCCT_IndoorRally
 Levelname = Indoor Rally
 Typeoflevel = Race
@@ -594,3 +604,16 @@ Music = PM22
 SkyTexture = PM22SKY1
 SkyboxScale = 0
 NumLaps = 2
+
+Level FT_LeafForest
+LevelName = Leaf Forest
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~150
+Music = LEFZ
+PositionMusic = ADVPOS
+SkyboxScale = 8
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 135

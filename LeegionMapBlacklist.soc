@@ -634,6 +634,32 @@ Palette = 7682
 Darkness = -1
 Hidden = True
 
+Level RR_AbyssGarden
+LevelName = Abyss Garden
+SectionRace = True
+TypeOfLevel = Race
+NumLaps = 1
+MobjScale = 1*FRACUNIT/4
+SkyTexture = ~029
+Music = ABGAZ,ABGAA
+SkyboxScaleZ = 0
+Darkness = -0.25
+Hidden = True
+
+Level RR_HotShelter
+LevelName = Hot Shelter
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = ~031
+Mobjscale = FRACUNIT/4
+Weather = 0
+Music = HOTSH1,HOTSH2
+SkyboxScale = 4
+DefaultWaypointRadius = 96*FRACUNIT
+Darkness = -0.25
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1042,6 +1068,33 @@ SkyboxScale = 8
 MObjscale = FRACUNIT/4
 LightContrast = 64
 LightAngle = 45
+Hidden = True
+
+Level FT_TechnoBase
+LevelName = Techno Base
+NoVisitNeeded = True
+TypeOfLevel = Race
+NumLaps = 6
+Music = TECBA1
+PositionMusic = ADVPOS
+SkyboxScale = 8
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+Hidden = True
+
+Level FT_LavaShelter
+LevelName = Lava Shelter
+NoVisitNeeded = True
+NoZone = True
+TypeOfLevel = Race
+NumLaps = 3
+Music = LAVSH
+PositionMusic = SHDPOS
+SkyboxScale = 16
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 135
 Hidden = True
 
 Level GTK_HighSpeedRing
@@ -1785,6 +1838,41 @@ SkyboxScale = 0.005
 Darkness = 0.75
 Lua.Ruber = true
 Lua.deathchamber = true
+Hidden = True
+
+Level RUB_EggmansNightclub
+NoVisitNeeded = True
+LevelName = Eggman's
+ZoneTitle = Nightclub
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = TP_NBG1
+Music = KMAP40,EGMNC1
+SkyboxScale = 4*FRACUNIT
+MobjScale = 5*FRACUNIT/16
+LightAngle = 0
+LightContrast = 16
+Darkness = 0.75
+Lua.Ruber = true
+Lua.eggmansnightclub = true
+Hidden = True
+
+Level RUB_boomerangbattleship
+NoVisitNeeded = True
+LevelName = Boomerang
+ZoneTitle = Battleship
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4417
+LightAngle = 315
+LightContrast = 64
+Music = BOOMB1,BOOMB2
+SkyboxScale = 8*FRACUNIT
+MobjScale = FRACUNIT/4
+#Weather = PRECIP_SPARKLES
+Darkness = 1
+Lua.Ruber = true
+Lua.boomerangbattleship = true
 Hidden = True
 
 Level LOG_ErodingEucalyptus

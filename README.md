@@ -101,7 +101,7 @@
 
 2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, SMW Yoshi,
 
-3, 6 - Link, Peppy,
+3, 6 - Link, Peppy, Stocking,
 
 4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese
 
@@ -156,7 +156,7 @@
 
 1, 9 - Heavy TF2,
 
-2, 9 - Berret, Whispy Woods, Egg Shogun,
+2, 9 - Chunky Kong, Berret, Whispy Woods, Egg Shogun,
 
 3, 9 - Armstrong, Hatsune Miku, Jackenstein, BIS Bowser,
 
@@ -197,7 +197,7 @@ Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon 7 Parts 1 and 2
+CAS Track Pack AeroMoon 8 Parts 1 and 2
 
 Frost Maps v5.2
 
@@ -334,6 +334,10 @@ Star Light
 Aerial Highlands
 
 Darkvile Castle 2
+
+Abyss Gardens
+
+Hot Shelter
 
 Death Egg
 
@@ -554,6 +558,14 @@ Retro Maze CEDX
 
 Midnight Bay
 
+Eggman's Nightclub
+
+Techno Base
+
+Lava Shelter
+
+Boomerang Battleship
+
 
 ## Resized
 ----------
@@ -570,15 +582,17 @@ Technology Tundra (bigger)
 
 Lake Margorite (bigger)
 
-Mega Collision Chaos
+Mega Collision Chaos (bigger)
 
-Mega Flying Battery
+Mega Flying Battery (bigger)
 
-Advent Angel
+Advent Angel (bigger)
 
-Coastal Temple
+Coastal Temple (bigger)
 
-Lavender Shrine Classic
+Lavender Shrine Classic (bigger)
+
+Dimension Disaster (bigger)
 
 MMMM Bananas (bigger)
 
@@ -614,6 +628,8 @@ Advent Angel (less, 4 laps)
 Coastal Temple (less, 2 laps)
 
 Espresso Lane (less, 2 laps)
+
+Dimension Disaster (less, 4 laps)
 
 Bastion Isle (less, 2 laps)
 
@@ -669,9 +685,21 @@ Pizzascape (less, 2 laps)
 
 Boggly Woods (less, 2 laps)
 
+Leaf Forest (less, 3 laps)
+
 
 ============
 ## CHANGELOG
+
+8/21
+----
+
+Characters - Added Chunky Kong and a new Stocking. Hopefully fixed Peppino's taunt stuff sometimes throwing an error.
+
+Maps - Made Leaf Forest 3 laps. Made Dimension Disaster 20% larger and lowered the lap count down to 4.  Blacklisted Abyss Gardens, Hot Shelter, Techno Base, Lava Shelter, Boomerang Battleship, and Eggman's Nightclub.
+
+Other - Added a 2.4 compliant version of Hitfeed and some sign shenanigans (courtesy of Alpa.)
+
 
 8/14
 ----
