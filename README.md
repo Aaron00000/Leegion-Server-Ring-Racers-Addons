@@ -33,7 +33,7 @@
 
 6, 2 - Maka Albarn,
 
-7, 2 - Warpstar Kirby, Trigger-Chan.
+7, 2 - Warpstar Kirby, Trigger-Chan, Sakura Kinomoto,
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
@@ -696,7 +696,7 @@ Leaf Forest (less, 3 laps)
 8/28
 ----
 
-Characters - Added Rena, Asuka, and Haruka. Removed AltPack, SMW Yoshi, Sybil, Ibuki Mioda, and Float.
+Characters - Added Sakura Kinomoto, Rena, Asuka, and Haruka. Removed AltPack, SMW Yoshi, Sybil, Ibuki Mioda, and Float.
 
 Maps - Added Fav's Amusing Venues, Blacklisted Monkey Mall.
 
