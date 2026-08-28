@@ -2,13 +2,13 @@
 
 ## ADDON CHARACTERS SORTED BY SPEED, WEIGHT:
 --------------------------------------------
-1, 1 - Whitey, Ring the Glazer, Ring (Bodyless),
+1, 1 - Whitey,
 
-2, 1 - Kit, Medonk Sonok, Tail Doll (Sonic R),
+2, 1 - Kit, Medonk Sonok,
 
 3, 1 - Gooey, Kirby,
 
-4, 1 - Float,
+4, 1 - 
 
 5, 1 - 
 
@@ -27,24 +27,24 @@
 
 3, 2 - Gwenpool,
 
-4, 2 - Spamton, Archie Ray, Naoto Shirogane, 
+4, 2 - Spamton, Naoto Shirogane, 
 
 5, 2 - Modern Amy, Slippy,
 
 6, 2 - Maka Albarn,
 
-7, 2 - Warpstar Kirby, Ibuki Mioda, Trigger-Chan.
+7, 2 - Warpstar Kirby, Trigger-Chan.
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
 9, 2 - 
 
 
-1, 3 - Bean (Demolition), Milla, Robo-Hood, Dancing Banana,
+1, 3 - Milla, Robo-Hood, Dancing Banana,
 
 2, 3 - Sara, Madoka,
 
-3, 3 - Engineer, Jamiro Quai, Sailor Mercury, Sybil,
+3, 3 - Engineer, Jamiro Quai, Sailor Mercury,
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
@@ -59,7 +59,7 @@
 9, 3 - Juri, Majima, Brazilian Miku,
 
 
-1, 4 - Andrew Oikonny, Maria (Pocoyo outfit)
+1, 4 - Andrew Oikonny,
 
 2, 4 - Yukiko Amagi,
 
@@ -80,13 +80,13 @@
 
 1, 5 - Alcremie,
 
-2, 5 - Motobug (Biker), Nokotan,
+2, 5 - Nokotan,
 
 3, 5 - Reiko, Tiki,
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
-5, 5 - Movie Knuckles, Sailor Moon, Tom,
+5, 5 - Sailor Moon, Tom,
 
 6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
@@ -99,11 +99,11 @@
 
 1, 6 - Kinger, Marx,
 
-2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, SMW Yoshi,
+2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy,
 
 3, 6 - Link, Peppy, Stocking,
 
-4, 6 - Knuckle Joe, Vyse, Trouble Bruin' (USA Version), Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese
+4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese
 
 5, 6 - Jack Black, Ulala,
 
@@ -126,7 +126,7 @@
 
 5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel,
 
-6, 7 - Aigis (blue dress), Ramona, Akira, Aigis (Setdown),
+6, 7 - Ramona, Akira, Aigis (Setdown),
 
 7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring), Makoto Niijima,
 
@@ -137,7 +137,7 @@
 
 1, 8 - Earl,
 
-2, 8 - Eggman (Pajamas), Sonicman, AoStH Robotnik, Cardboard Eggman,
+2, 8 - AoStH Robotnik, Cardboard Eggman,
 
 3, 8 - Pigma,
 
@@ -221,7 +221,7 @@ Neo Whale Maps (Edited)
 
 Boggly Woods V2
 
-Ruber's Map Pack betas v9.9d
+Ruber's Map Pack betas v9.9h
 
 Super Striker GP v1.5.2 (edited)
 
@@ -234,6 +234,8 @@ Dreamy Treeway v2.4
 Revenge of Fuckpak v2 (edited)
 
 LOG MAPS V2
+
+Fav's Amusing Venues v1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -690,6 +692,16 @@ Leaf Forest (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+8/28
+----
+
+Characters - Removed AltPack, SMW Yoshi, Sybil, Ibuki Mioda, and Float.
+
+Maps - Added Fav's Amusing Venues, Blacklisted Monkey Mall.
+
+Other - Added more killbind sounds. (Probably) fixed the extra signs sometimes being comically small.
+
 
 8/21
 ----

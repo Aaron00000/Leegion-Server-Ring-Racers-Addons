@@ -660,6 +660,18 @@ DefaultWaypointRadius = 96*FRACUNIT
 Darkness = -0.25
 Hidden = True
 
+Level RR_MonkeyMall
+LevelName = Monkey
+ZoneTitle = Mall
+Palette = 18
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = SKY4561
+Music = MOMLZ,MOMLA
+MobjScale = 4*FRACUNIT/5
+Darkness = -0.25
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
