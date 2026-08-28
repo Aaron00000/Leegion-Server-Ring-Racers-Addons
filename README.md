@@ -63,11 +63,11 @@
 
 2, 4 - Yukiko Amagi,
 
-3, 4 - Lucas,
+3, 4 - Lucas, Haruka Amami,
 
-4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell,
+4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell, Asuka Langley,
 
-5, 4 - Leon Powalski, Daisy, Yu Narukami,
+5, 4 - Leon Powalski, Daisy, Yu Narukami, Rena, 
 
 6, 4 - Ugly Knuckles, Falco, Neptune, Lucina,
 
@@ -696,7 +696,7 @@ Leaf Forest (less, 3 laps)
 8/28
 ----
 
-Characters - Removed AltPack, SMW Yoshi, Sybil, Ibuki Mioda, and Float.
+Characters - Added Rena, Asuka, and Haruka. Removed AltPack, SMW Yoshi, Sybil, Ibuki Mioda, and Float.
 
 Maps - Added Fav's Amusing Venues, Blacklisted Monkey Mall.
 
