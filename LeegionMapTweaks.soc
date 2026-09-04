@@ -92,7 +92,6 @@ LightContrast = 60
 MobjScale = 25*FRACUNIT/32
 AssociatedMusic = GRTGFN
 
-
 # LESS/MORE LAPS #
 
 Level RR_EmeraldCoast
@@ -593,3 +592,16 @@ SkyboxScale = 8
 MObjscale = FRACUNIT/4
 LightContrast = 64
 LightAngle = 135
+
+Level FAV_SpringsSpring
+LevelName = Springs Spring
+TypeOfLevel = Race
+MobjScale = FRACUNIT/4
+Music = SPRSPR
+AssociatedMusic = SPRSPE
+PositionMusic = SPRSPI
+Weather = PRECIP_HGPB
+SkyTexture = SKYSW
+SkyboxScale = 0
+NumLaps = 3
+NoComms = True

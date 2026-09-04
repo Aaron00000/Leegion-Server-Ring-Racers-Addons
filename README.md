@@ -14,7 +14,7 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta,
+7, 1 - Ribbon, Charlotta, Pink,
 
 8, 1 - 
 
@@ -67,7 +67,7 @@
 
 4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell, Asuka Langley,
 
-5, 4 - Leon Powalski, Daisy, Yu Narukami, Rena, 
+5, 4 - Leon Powalski, Daisy, Yu Narukami, Rena, Flowery,
 
 6, 4 - Ugly Knuckles, Falco, Neptune, Lucina,
 
@@ -113,7 +113,7 @@
 
 8, 6 - Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Panty, Flowery,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Panty,
 
 
 1, 7 - 
@@ -139,11 +139,11 @@
 
 2, 8 - AoStH Robotnik, Cardboard Eggman,
 
-3, 8 - Pigma,
+3, 8 - Mr. Krabs, Pigma,
 
 4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo, Mina the Hollower,
 
-5, 8 - Shrek,
+5, 8 - Shrek, JFK,
 
 6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario,
 
@@ -236,6 +236,8 @@ Revenge of Fuckpak v2 (edited)
 LOG MAPS V2
 
 Fav's Amusing Venues v1
+
+Relics' Pack v1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -340,6 +342,10 @@ Darkvile Castle 2
 Abyss Gardens
 
 Hot Shelter
+
+Metropolis
+
+Monkey Mall
 
 Death Egg
 
@@ -689,9 +695,21 @@ Boggly Woods (less, 2 laps)
 
 Leaf Forest (less, 3 laps)
 
+Springs Spring (less, 3 laps)
+
 
 ============
 ## CHANGELOG
+
+9/4
+----
+
+Characters - Added Mr. Krabs, Pink, and JFK (Clone High.) Replaced Flowery with himself.
+
+Maps - Added Battle Glacier (race map.) Blacklisted Metropolis. Lowered Springs Spring to 3 laps. Removed the little blockade on Touge right before the curvy cliff section to prevent CoolThoks from getting stuck.
+
+Other - Horns.
+
 
 8/28
 ----

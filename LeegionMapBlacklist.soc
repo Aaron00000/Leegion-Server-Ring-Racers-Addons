@@ -672,6 +672,18 @@ MobjScale = 4*FRACUNIT/5
 Darkness = -0.25
 Hidden = True
 
+Level RR_Metropolis
+LevelName = Metropolis
+TypeOfLevel = Race
+NumLaps = 3
+MobjScale = FRACUNIT/4
+Music = METZ,METZA
+SkyTexture = SKY26541
+DefaultWaypointRadius = 208*FRACUNIT
+LightAngle = 45
+LightContrast = 64
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
