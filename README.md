@@ -712,7 +712,7 @@ Characters - Added Sumire Kanzaki and Celeste. Lowered the Egg Dragoon's weight 
 
 Maps - Added cerv.id Weird Ports pack. Updated Log Maps. Blacklisted Turquoise Hill, Low Tide, Odyssey RC Car Challenge, and Dr. Cossack's Citadel. Unblacklisted Iron Ruins and Eroding Eucalyptus.
 
-Other - Removed a few of my music horns to help keep Fuu from having a stroke. Added a randomchar command to randomly pick your character every map.
+Other - Removed a few of my music horns to help keep Fuu from having a stroke. More/less sanic horns. Added a randomchar command to randomly pick your character every map.
 
 
 9/4
