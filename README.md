@@ -37,7 +37,7 @@
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
-9, 2 - 
+9, 2 - Celeste,
 
 
 1, 3 - Milla, Robo-Hood, Dancing Banana,
@@ -82,7 +82,7 @@
 
 2, 5 - Nokotan,
 
-3, 5 - Reiko, Tiki,
+3, 5 - Reiko, Tiki, Sumire Kanzaki,
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
@@ -175,7 +175,7 @@
 
 4, 10 - Iron Giant,
 
-9, 18 - Egg Dragoon,
+9, 12 - Egg Dragoon,
 
 ?, ? - Bo-bobo,
 
@@ -219,8 +219,6 @@ Dreturns Checkport (Edited)
 
 Neo Whale Maps (Edited)
 
-Boggly Woods V2
-
 Ruber's Map Pack betas v9.9h
 
 Super Striker GP v1.5.2 (edited)
@@ -233,11 +231,13 @@ Dreamy Treeway v2.4
 
 Revenge of Fuckpak v2 (edited)
 
-LOG MAPS V2
+LOG MAPS V2.2
 
 Fav's Amusing Venues v1
 
 Relics' Pack v1
+
+cerv.id Weird Ports v1.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -346,6 +346,8 @@ Hot Shelter
 Metropolis
 
 Monkey Mall
+
+Turquoise Hill
 
 Death Egg
 
@@ -500,8 +502,6 @@ Death Chamber
 
 Curien Mansion
 
-Eroding Eucalyptus
-
 Media Studio 2
 
 Indierock Rally
@@ -548,8 +548,6 @@ Sunken Sovereign
 
 Egg Zeppelin 
 
-SD2 Iron Ruin
-
 Chemical City
 
 Blizzard Peaks Act 2
@@ -573,6 +571,12 @@ Techno Base
 Lava Shelter
 
 Boomerang Battleship
+
+Low Tide
+
+Odyssey RC Car Challenge
+
+Dr. Cossack's Citadel
 
 
 ## Resized
@@ -700,6 +704,16 @@ Springs Spring (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+9/11
+----
+
+Characters - Added Sumire Kanzaki and Celeste. Lowered the Egg Dragoon's weight down to 12 so that it is actually usable.
+
+Maps - Added cerv.id Weird Ports pack. Updated Log Maps. Blacklisted Turquoise Hill, Low Tide, Odyssey RC Car Challenge, and Dr. Cossack's Citadel. Unblacklisted Iron Ruins and Eroding Eucalyptus.
+
+Other - Removed a few of my music horns to help keep Fuu from having a stroke. Added a randomchar command to randomly pick your character every map.
+
 
 9/4
 ----

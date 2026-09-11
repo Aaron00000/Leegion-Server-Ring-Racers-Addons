@@ -684,6 +684,18 @@ LightAngle = 45
 LightContrast = 64
 Hidden = True
 
+Level RR_TurquoiseHill
+LevelName = Turquoise Hill
+TypeOfLevel = Race
+MobjScale = 1*FRACUNIT/4
+SkyboxScaleZ = 0
+NumLaps = 3
+LightContrast = 40
+LightAngle = 225
+Music = TUHIZ
+SkyTexture = TURHBG01
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1899,28 +1911,6 @@ Lua.Ruber = true
 Lua.boomerangbattleship = true
 Hidden = True
 
-Level LOG_ErodingEucalyptus
-NoVisitNeeded = True
-LevelName = Eroding Eucalyptus
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = EE_BOX1
-Music = LOGEE0,LOGEE1,LOGEE2
-MobjScale = FRACUNIT/4
-Darkness = 0.10
-Hidden = True
-
-Level LOG_SD2IronRuin
-NoVisitNeeded = True
-LevelName = Iron Ruin
-TypeOfLevel = Race
-NumLaps = 5
-SkyTexture = IR-_SKY
-Music = LOGIR0
-MobjScale = FRACUNIT/8
-Darkness = 0.10
-Hidden = True
-
 Level LOG_EggZeppelin
 LevelName = Sky Base
 Act = 1
@@ -2268,4 +2258,42 @@ SkyboxScaleY = 32
 SkyboxScaleZ = 32
 MobjScale = 7*FRACUNIT/9
 NoVisitNeeded = True
+Hidden = True
+
+Level 2BDamned_DCC
+NoVisitNeeded = True
+LevelName = Dr. Cossack's
+Zonetitle = Citadel
+TypeofLevel = Race
+MobjScale = 1*FRACUNIT/4
+cameraheight = 140
+NumLaps = 1
+Weather = PRECIP_BLIZZARD
+Skytexture = ~150
+Music = DCC
+Hidden = True
+
+Level FROG_HighTide
+NoVisitNeeded = true
+LevelName = Low Tide
+NoZone = true
+TypeOfLevel = Race
+SkyTexture = FROGLTSK
+Music = FRGLT
+NumLaps = 2
+SkyboxScale = 8
+MobjScale = FRACUNIT/5
+LightAngle = 180
+LightContrast = 50
+Hidden = True
+
+Level AX_OdysseyRcCarChallenge
+LevelName = RC Car Challenge
+NoVisitNeeded = True
+NoZone = True
+TypeOfLevel = Race
+SkyTexture = ~030
+NumLaps = 10
+Music = SMORC
+MobjScale = FRACUNIT/4
 Hidden = True
