@@ -92,6 +92,18 @@ LightContrast = 60
 MobjScale = 25*FRACUNIT/32
 AssociatedMusic = GRTGFN
 
+Level CRV_PandoraPalace
+LevelName = Pandora
+ZoneTitle = Palace
+TypeOfLevel = Race
+SkyTexture = PPALSKY
+NumLaps = 1
+Music = QNDRC2
+PositionMusic = QNPOSS
+SkyboxScale = 32
+MobjScale = 20*FRACUNIT/104
+NoVisitNeeded = True
+
 # LESS/MORE LAPS #
 
 Level RR_EmeraldCoast

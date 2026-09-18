@@ -14,7 +14,7 @@
 
 6, 1 - 
 
-7, 1 - Ribbon, Charlotta, Pink,
+7, 1 - Warpstar Kirby, Ribbon, Charlotta, Pink,
 
 8, 1 - 
 
@@ -33,7 +33,7 @@
 
 6, 2 - Maka Albarn,
 
-7, 2 - Warpstar Kirby, Trigger-Chan, Sakura Kinomoto,
+7, 2 - Alolan Raichu, Trigger-Chan, Sakura Kinomoto,
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head, Sage (Light), Ralsei,
 
-6, 3 - Alolan Raichu, Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
+6, 3 - Jack-O', Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight, Toe Jam, 
 
@@ -88,9 +88,9 @@
 
 5, 5 - Sailor Moon, Tom,
 
-6, 5 - Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
+6, 5 - Jack Black, Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
-7, 5 - Jack-O', Wolf O'Donnell,
+7, 5 - Wolf O'Donnell, Panty,
 
 8, 5 - Mario Tire, Youmu Konpaku,
 
@@ -103,9 +103,9 @@
 
 3, 6 - Link, Peppy, Stocking,
 
-4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese
+4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki
 
-5, 6 - Jack Black, Ulala,
+5, 6 - Ulala,
 
 6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, 
 
@@ -215,11 +215,11 @@ Shark Pack v1.2.1
 
 Big-O Maps v 4.0.1
 
-Dreturns Checkport (Edited)
+Dreturns Checkport v4 (Edited)
 
-Neo Whale Maps (Edited)
+Neo Whale Maps v3 (Edited)
 
-Ruber's Map Pack betas v9.9h
+Ruber's Map Pack betas v9.9i
 
 Super Striker GP v1.5.2 (edited)
 
@@ -348,6 +348,8 @@ Metropolis
 Monkey Mall
 
 Turquoise Hill
+
+Lucid Pass
 
 Death Egg
 
@@ -578,6 +580,10 @@ Odyssey RC Car Challenge
 
 Dr. Cossack's Citadel
 
+Insomniatic Heights
+
+Electro Radio Zone
+
 
 ## Resized
 ----------
@@ -624,6 +630,7 @@ Dead Line Redux (bigger)
 
 Gambler's Hive (bigger)
 
+Pandora Palace (bigger)
 
 ## More/Less Laps
 -----------------
@@ -701,9 +708,21 @@ Leaf Forest (less, 3 laps)
 
 Springs Spring (less, 3 laps)
 
+Pandora Palace (less, 1 lap)
+
 
 ============
 ## CHANGELOG
+
+9/18
+----
+
+Characters - Added Panty. Removed Chuck E. Cheese.
+
+Maps - Removed Insomniatic Heights. Blacklisted Lucid Pass. Updated ruber's map pack beta and Dreturns Checkport. Made Pandora Palace a bit bigger and reduced it to one lap.
+
+Other - Horns.
+
 
 9/11
 ----

@@ -696,6 +696,18 @@ Music = TUHIZ
 SkyTexture = TURHBG01
 Hidden = True
 
+Level RR_LucidPass
+LevelName = Lucid Pass
+SkyTexture = ~170
+TypeOfLevel = Race
+numlaps = 4
+music = LUPAZ
+SkyboxScale = 128
+SkyboxScaleZ = 32
+MobjScale = FRACUNIT/2
+DefaultWaypointRadius = 192*FRACUNIT
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -2137,6 +2149,34 @@ PositionMusic = UPWCMX
 mobjscale = FRACUNIT*1/4
 SkyTexture = ~065
 NoVisitNeeded = True
+Hidden = True
+
+Level WRD_InsomniaticHeights
+LevelName = Insomniatic Heights
+Nozone = True
+TypeofLevel = Race
+Numlaps = 2
+NovisitNeeded = true
+Music = INSHGT,INSHG2
+Mobjscale = FRACUNIT*1/4
+SkyTexture = INHSKYBX
+LightContrast = 32
+Hidden = True
+
+Level WRD_ElectroRadioZone
+LevelName = Electro Radio
+ZoneTitle = Zone
+TypeofLevel = Race
+NumLaps = 3
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ECTRDO
+SkyTexture = ~031
+Weather = PRECIP_ELCTRORDO
+LightContrast = 64
+LightAngle = 270
+EncoreLightContrast = 32
+EncoreLightAngle = 270
 Hidden = True
 
 Level HHR_DreamyTreewayA
