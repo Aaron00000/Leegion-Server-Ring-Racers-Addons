@@ -1363,6 +1363,22 @@ LightContrast = 24
 NoVisitNeeded = True
 Hidden = True
 
+Level FZBEN_AEROPOLIS2
+LevelName = Aeropolis
+Nozone = true
+Act = 2
+TypeOfLevel = Race
+NumLaps = 6
+Music = FZAE1
+PositionMusic = LZINTR
+SkyTexture = ~000
+LightContrast = 0
+Lightangle = 270
+MobjScale = FRACUNIT/4
+skyboxscale = 64
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_HouseOfTheUndying
 LevelName = House Of
 ZoneTitle = The Undying
@@ -1948,6 +1964,17 @@ LightAngle = 270
 LightContrast = 48
 Hidden = True
 
+Level LOG_SD2IronRuin
+NoVisitNeeded = True
+LevelName = Iron Ruin
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = IR-_SKY
+Music = LOGIR0
+MobjScale = FRACUNIT/8
+Darkness = 0.10
+Hidden = True
+
 Level MDT_Track3
 LevelName = Heavenly
 ZoneTitle = Halls
@@ -2336,4 +2363,74 @@ SkyTexture = ~030
 NumLaps = 10
 Music = SMORC
 MobjScale = FRACUNIT/4
+Hidden = True
+
+Level IWGAH_materi_comb
+LevelName = Material Combinart
+NoZone = True
+NoVisitNeeded = True
+TypeofLevel = Race
+Numlaps = 3
+Music = MATCOM
+MobjScale = FRACUNIT/4
+LightContrast = 0
+LightAngle = 0
+SubtractNum = true
+Hidden = True
+
+Level FAV_DimensionRiftClassic
+NoVisitNeeded = True
+LevelName = Dimension Rift
+ZoneTitle = CLASSIC
+TypeOfLevel = Battle
+MobjScale = FRACUNIT/5
+SkyTexture = FAVSKY1
+Music = FAVRIF
+LobbySize = Small
+Followers = Chaos Drive
+Hidden = True
+
+Level FAV_DummieIslandClassic
+NoVisitNeeded = True
+LevelName = Dummie Island
+ZoneTitle = CLASSIC
+TypeOfLevel = Race
+MobjScale = FRACUNIT/3
+Music = DUISLA
+Darkness = 2
+PositionMusic = DUISIN
+SkyTexture = SKYDI
+LightContrast = 69
+LightAngle = 180
+NumLaps = 3
+NoComms = True
+Hidden = True
+
+Level FAV_BeachsideBashClassic
+NoVisitNeeded = True
+LevelName = Beachside Bash
+ZoneTitle = CLASSIC
+TypeOfLevel = Race
+MobjScale = FRACUNIT/3
+Music = BEABAS
+PositionMusic = BBZINT
+SkyTexture = SPSKYA0
+LightAngle = 180
+LightContrast = 80
+SkyboxScale = 0
+NumLaps = 4
+NoComms = True
+Hidden = True
+
+Level FAV_YourReward
+LevelName = Doodle
+NoZone = true
+TypeOfLevel = Race
+MobjScale = 7*FRACUNIT/24
+Music = FAVSMB
+AssociatedMusic = DUISEX
+Darkness = 2
+PositionMusic = FAVSUN
+NumLaps = 2
+NoComms = True
 Hidden = True

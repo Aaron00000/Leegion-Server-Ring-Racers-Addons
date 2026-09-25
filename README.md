@@ -29,7 +29,7 @@
 
 4, 2 - Spamton, Naoto Shirogane, 
 
-5, 2 - Modern Amy, Slippy,
+5, 2 - Modern Amy, Slippy, Aria,
 
 6, 2 - Maka Albarn,
 
@@ -48,7 +48,7 @@
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Lavender, Chuck D. Head, Sage (Light), Ralsei,
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Chuck D. Head, Sage (Light), Ralsei,
 
 6, 3 - Jack-O', Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
@@ -88,9 +88,9 @@
 
 5, 5 - Sailor Moon, Tom,
 
-6, 5 - Jack Black, Tifa, Diggle, Fubuki, Sekibanki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
+6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
-7, 5 - Wolf O'Donnell, Panty,
+7, 5 - Wolf O'Donnell, Panty (Duochrome),
 
 8, 5 - Mario Tire, Youmu Konpaku,
 
@@ -105,7 +105,7 @@
 
 4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki
 
-5, 6 - Ulala,
+5, 6 - Ulala, Kim Pine,
 
 6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, 
 
@@ -113,7 +113,7 @@
 
 8, 6 - Elphelt,
 
-9, 6 - Captain Falcon, Meta Knight, Shiva, Panty,
+9, 6 - Captain Falcon, Meta Knight, Shiva, Panty (girlpack),
 
 
 1, 7 - 
@@ -238,6 +238,8 @@ Fav's Amusing Venues v1
 Relics' Pack v1
 
 cerv.id Weird Ports v1.1
+
+High Tension Traxx 1.3.5.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -550,6 +552,8 @@ Sunken Sovereign
 
 Egg Zeppelin 
 
+SD2 Iron Ruins
+
 Chemical City
 
 Blizzard Peaks Act 2
@@ -583,6 +587,16 @@ Dr. Cossack's Citadel
 Insomniatic Heights
 
 Electro Radio Zone
+
+Material Combinart
+
+Aeropolis 2
+
+Dimension Rift Classic
+
+Dummie Island Classic
+
+Beachside Classic
 
 
 ## Resized
@@ -710,9 +724,21 @@ Springs Spring (less, 3 laps)
 
 Pandora Palace (less, 1 lap)
 
+Marble Zone 1 (less, 2 laps)
+
 
 ============
 ## CHANGELOG
+
+9/25
+----
+
+Characters - Added Nahida, Kim Pine, and Aria. Removed Lavender and Seki Banki.
+
+Maps - Added High Tension Traxx. Blacklisted Aeropolis 2 until the lap bug on that map is fixed. Blacklisted Material Combinart, the classic maps and Doodle in Fav's Amusing Venues, and SD2 Iron Ruins.
+
+Other - Horns.
+
 
 9/18
 ----
