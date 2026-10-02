@@ -708,6 +708,31 @@ MobjScale = FRACUNIT/2
 DefaultWaypointRadius = 192*FRACUNIT
 Hidden = True
 
+Level RR_TrapTower
+LevelName = Trap
+ZoneTitle = Tower
+TypeOfLevel = Race
+NumLaps = 5
+MobjScale = FRACUNIT/4
+Music = TRTAZ
+SkyTexture = SKYTWZ
+DefaultWaypointRadius = 208*FRACUNIT
+LightAngle = 45
+LightContrast = 64
+Hidden = True
+
+Level RR_AzureLake
+LevelName = Azure Lake
+TypeOfLevel = Race
+NumLaps = 5
+SkyTexture = ALZSKY00
+Music = AZLAZ
+MobjScale = FRACUNIT*16/100
+DefaultWaypointRadius = 50*FRACUNIT
+LightContrast = 24
+LightAngle = 110
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race

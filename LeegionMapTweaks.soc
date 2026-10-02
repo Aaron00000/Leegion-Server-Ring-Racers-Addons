@@ -162,27 +162,6 @@ SkyTexture = SKY17
 Weather = PRECIP_SNOW
 SubtractNum = True
 
-Level HTT_FlyingBattery
-NoVisitNeeded = True
-LevelName = Flying Battery
-Act = 1
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = fbzs4
-Music = FBAT1,FBAT2,FBAT3
-PositionMusic = S3DTS
-Mobjscale = FRACUNIT/4
-
-Level HTT_PowerPlant
-NoVisitNeeded = True
-LevelName = Power Plant
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = PPBG1
-Music = SBHPP
-Mobjscale = FRACUNIT/4
-SkyboxScale = 6
-
 Level PP_FestivalNight
 LevelName = Festival Night
 TypeOfLevel = Race
@@ -269,20 +248,6 @@ Mobjscale = FRACUNIT/3
 LightAngle = 45
 LightContrast = 48
 NoVisitNeeded = True
-Hidden = True
-
-Level HTT_MistyMaze
-NoVisitNeeded = True
-LevelName = Misty Maze
-Act = 2
-TypeOfLevel = Race
-NumLaps = 3
-SkyTexture = MMZBG1
-SkyboxScaleY = 4
-Music = MMEA1,MMA2,MMEA2
-Mobjscale = FRACUNIT/4
-Darkness = -0.5
-PositionMusic = MMMN
 Hidden = True
 
 Level PP_AzureGarden

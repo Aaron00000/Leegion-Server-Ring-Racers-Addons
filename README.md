@@ -37,7 +37,7 @@
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
-9, 2 - Celeste,
+9, 2 - Celeste, Cirno,
 
 
 1, 3 - Milla, Robo-Hood, Dancing Banana,
@@ -48,7 +48,7 @@
 
 4, 3 - Kermit, Aerith, Silly Iono,
 
-5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Chuck D. Head, Sage (Light), Ralsei,
+5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Chuck D. Head, Sage (Light),
 
 6, 3 - Jack-O', Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
 
@@ -56,7 +56,7 @@
 
 8, 3 - Spiderman,
 
-9, 3 - Juri, Majima, Brazilian Miku,
+9, 3 - Juri, Brazilian Miku,
 
 
 1, 4 - Andrew Oikonny,
@@ -103,7 +103,7 @@
 
 3, 6 - Link, Peppy, Stocking,
 
-4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki
+4, 6 - Knuckle Joe, Vyse, Robo, N64 Promo Waluigi, Makoto Yuki, Chuck E. Cheese,
 
 5, 6 - Ulala, Kim Pine,
 
@@ -147,7 +147,7 @@
 
 6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario,
 
-7, 8 - Johnny Bravo,
+7, 8 - Johnny Bravo, Muscle Man,
 
 8, 8 - Wario, Lightning McQueen,
 
@@ -168,7 +168,7 @@
 
 7, 9 - King K.Rool, Storm the Albatross,
 
-8, 9 - GUN Truck, Temporacle, Mighty Eagle, N64 Promo Bowser,
+8, 9 - GUN Truck, Mighty Eagle, N64 Promo Bowser,
 
 9, 9 - Ring Max,
 
@@ -352,6 +352,10 @@ Monkey Mall
 Turquoise Hill
 
 Lucid Pass
+
+Trap Tower
+
+Azure Lake
 
 Death Egg
 
@@ -672,10 +676,6 @@ Mountain Observatory (less, 2 laps)
 
 Snowy Speedpeaks (less, 3 laps)
 
-Flying Battery (less, 2 laps)
-
-Power Plant (more, 3 laps)
-
 Festival Night (less, 3 laps)
 
 Starry Night 1 (more, 3 laps)
@@ -729,6 +729,16 @@ Marble Zone 1 (less, 2 laps)
 
 ============
 ## CHANGELOG
+
+10/2
+----
+
+Characters - Re-added Don Cheedle and Muscle Man, added Cirno, removed Bowser (Bowser's Inside Story), Majima, Ralsei, and Temporacle.
+
+Maps - Blacklisted Trap Tower and Azure Lake. Removed the lap adjustments to Flying Battery and Misty Maze since the actual mod uses the same (previously adjusted) lap counts now.
+
+Other - Horns and killbinds.
+
 
 9/25
 ----
