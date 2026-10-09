@@ -99,7 +99,7 @@
 
 1, 6 - Kinger, Marx,
 
-2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy,
+2, 6 - Bandana Dee, Waddle Doo, Football Manager, Puggsy, Gino Fratelli,
 
 3, 6 - Link, Peppy, Stocking,
 
@@ -124,7 +124,7 @@
 
 4, 7 - Banjo-Kazooie, Neera, Hsien-Ko, Vanilla,
 
-5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel,
+5, 7 - Piccolo, Bubbloid, Patrick Star, Axel, Lythero, Snap the Sentinel, Scanty,
 
 6, 7 - Ramona, Akira, Aigis (Setdown),
 
@@ -164,7 +164,7 @@
 
 5, 9 - Knux Delux,
 
-6, 9 - 
+6, 9 - Coop,
 
 7, 9 - King K.Rool, Storm the Albatross,
 
@@ -197,7 +197,7 @@ Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon 8 Parts 1 and 2
+CAS Track Pack AeroMoon 9A Cube Cup and Eagle Cup
 
 Frost Maps v5.2
 
@@ -219,7 +219,7 @@ Dreturns Checkport v4 (Edited)
 
 Neo Whale Maps v3 (Edited)
 
-Ruber's Map Pack betas v9.9i
+Ruber Pack v10.1 Amazing Cup and Miracle Cup
 
 Super Striker GP v1.5.2 (edited)
 
@@ -236,8 +236,6 @@ LOG MAPS V2.2
 Fav's Amusing Venues v1
 
 Relics' Pack v1
-
-cerv.id Weird Ports v1.1
 
 High Tension Traxx 1.3.5.1
 
@@ -356,6 +354,12 @@ Lucid Pass
 Trap Tower
 
 Azure Lake
+
+Sub-Zero Peak
+
+Cyan Belltower
+
+Motobug Speedway
 
 Death Egg
 
@@ -602,6 +606,18 @@ Dummie Island Classic
 
 Beachside Classic
 
+Swordfight Heights
+
+Dark Sanctuary
+
+Pandora Palace
+
+Hologram Hypogeum
+
+Toxic Caves
+
+Saturn Speedway
+
 
 ## Resized
 ----------
@@ -649,6 +665,7 @@ Dead Line Redux (bigger)
 Gambler's Hive (bigger)
 
 Pandora Palace (bigger)
+
 
 ## More/Less Laps
 -----------------
@@ -724,11 +741,19 @@ Springs Spring (less, 3 laps)
 
 Pandora Palace (less, 1 lap)
 
-Marble Zone 1 (less, 2 laps)
-
 
 ============
 ## CHANGELOG
+
+10/9
+----
+
+Characters - Added Coop, Scanty, and Gino Fratelli. Hopefully fixed an outlier case with Peppino's sign stuff.
+
+Maps - Removed cerv.id Weird Ports, CAS Tracks Arcade Cup, and Ruber Wonder Cup and Cherish Cup. Updated CAS Tracks and made the new tracks added with the new update all two laps, updated Ruber Pack. Blacklisted Sub-Zero Peak, Cyan Belltower, Motobug Speedway (this one's blacklisted specifically until 2.5 fixes people randomly getting crushed to death in the sides of the halfpipe tunnel), Saturn Speedway, Swordfight Heights, Dark Sanctuary, and Pandora Palace.
+
+Other - Horns and killbinds. Removed a few potentially obnoxious horns.
+
 
 10/2
 ----

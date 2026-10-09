@@ -733,6 +733,43 @@ LightContrast = 24
 LightAngle = 110
 Hidden = True
 
+Level RR_SubZeroPeak
+LevelName = Sub-Zero Peak
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SUBZSKY
+Weather = PRECIP_SNOW
+Music = SUZEZ
+MobjScale = FRACUNIT/4
+SubtractNum = True
+Hidden = True
+
+Level RR_CyanBelltower
+LevelName = Cyan Belltower
+TypeOfLevel = Race
+Hidden = False
+NumLaps = 3
+MobjScale = 1*FRACUNIT/4
+SkyTexture = ~029
+Music = CYBEZ,CYBEA
+Darkness = 0.25
+Hidden = True
+
+Level RR_MotobugMotorway
+LevelName = Motobug Motorway
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY872
+Music = MOMTZ
+Mobjscale = FRACUNIT*28/100
+DefaultWaypointRadius = 80*FRACUNIT
+LightAngle = 45
+LightContrast = 16
+EncoreLightAngle = 45
+EncoreLightContrast = 64
+Darkness = -0.5
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1024,6 +1061,22 @@ LightAngle = 45
 NoVisitNeeded = True
 Hidden = True
 
+Level ARC_SaturnStarway
+LevelName = Saturn
+ZoneTitle = Starway
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = SKY4417
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = SATST1,SATST2,SATST3
+Mobjscale = FRACUNIT/3
+LightAngle = 90
+LightContrast = 64
+NoVisitNeeded = True
+Followers = C.H.R.O.M.E.,Technosqueek,Spikebonker,Chainspike
+Hidden = True
+
 Level CAS_MegaFrutiger
 LevelName = Mega Frutiger
 ZoneTitle = Aeropolis
@@ -1071,16 +1124,31 @@ LightAngle = 10
 CameraHeight = 140
 Hidden = True
 
-Level LAS_PuyoPuyo
+Level CUB_StarmineSpeedway
+LevelName = Starmine
+ZoneTitle = Speedway
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~254
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = STARM1,STARM2,STARM3
+Mobjscale = FRACUNIT/3
+LightAngle = 45
+LightContrast = 48
+NoVisitNeeded = True
+Hidden = True
+
+Level EAG_PuyoPuyo
 LevelName = Puyo Puyo
 ZoneTitle = Arena
 TypeofLevel = Race
-NumLaps = 2
+NumLaps = 3
 SkyTexture = OPUBG02
 SkyboxScale = 128
 PositionMusic = CASINT
-Music = PUYOA1,PUYOA2
-Mobjscale = FRACUNIT/4
+Music = PUYOA1,PUYOA2,PUYOA3
+Mobjscale = FRACUNIT/3
 LightContrast = 10
 Followers = Has Bean
 NoVisitNeeded = True
@@ -1375,6 +1443,17 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
+Level LZ_mystikkecitadel
+LevelName = Citadel Of Mystikke
+nozone = true
+TypeOfLevel = Race
+Music = LZACHE
+NumLaps = 2
+MobjScale = FRACUNIT/4
+skyboxscale = 8
+NoVisitNeeded = True
+Hidden = True
+
 Level DRTR_LacustrineDisrepair2
 LevelName = Lacustrine Disrepair
 TypeOfLevel = Race
@@ -1487,6 +1566,18 @@ Music = REGSHP
 Weather = PRECIP_STORM
 MobjScale = FRACUNIT*25/100
 SkyboxScale = 4
+NoVisitNeeded = True
+Hidden = True
+
+Level DIG_BurningBone
+LevelName = Burning Bone
+TypeofLevel = Race
+NumLaps = 5
+SkyTexture = PIT
+Music = BONEZA
+MobjScale = FRACUNIT*30/120
+LightAngle = 135
+LightContrast = 64
 NoVisitNeeded = True
 Hidden = True
 
@@ -1930,18 +2021,18 @@ Lua.deathchamber = true
 Hidden = True
 
 Level RUB_EggmansNightclub
-NoVisitNeeded = True
 LevelName = Eggman's
 ZoneTitle = Nightclub
 TypeOfLevel = Race
 NumLaps = 2
-SkyTexture = TP_NBG1
-Music = KMAP40,EGMNC1
+SkyTexture = SHSKY01
+Music = KMAP40,EGMNC1,EGMNC2
 SkyboxScale = 4*FRACUNIT
 MobjScale = 5*FRACUNIT/16
 LightAngle = 0
 LightContrast = 16
 Darkness = 0.75
+NoComms = True
 Lua.Ruber = true
 Lua.eggmansnightclub = true
 Hidden = True
@@ -1962,6 +2053,37 @@ MobjScale = FRACUNIT/4
 Darkness = 1
 Lua.Ruber = true
 Lua.boomerangbattleship = true
+Hidden = True
+
+Level RUB_ToxicCaves
+LevelName = Toxic
+ZoneTitle = Caves
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY4239
+Music = TXCV1,TXCV2
+AssociatedMusic = TXCV3
+SkyboxScale = 8*FRACUNIT
+MobjScale = 1*FRACUNIT/2
+Weather = 0
+Darkness = 0.75
+Lua.toxiccaves = true
+Lua.Ruber = true
+Hidden = True
+
+Level RUB_hologramhypogeum
+LevelName = Hologram
+ZoneTitle = Hypogeum
+TypeOfLevel = Race
+NumLaps = 3
+SkyTexture = SKY177
+Music = HOHYP1,HOHYP2
+CameraHeight = 100
+SkyboxScale = 12*FRACUNIT
+MobjScale = 7*FRACUNIT/20
+Darkness = 0.75
+Lua.Ruber = true
+Lua.hologramhypogeum = true
 Hidden = True
 
 Level LOG_EggZeppelin
@@ -2081,154 +2203,6 @@ LightContrast = 0
 LightAngle = 90
 NoZone = 1
 NoVisitNeeded = 1
-Hidden = True
-
-Level WRD_HardDeadDeck
-LevelName = Hard Dead
-ZoneTitle = Deck
-TypeofLevel = Battle,Race
-NumLaps = 4
-Mobjscale = FRACUNIT*1/4
-Music = HDEDCK
-SkyTexture = ~031
-Followers = Boo,Spybot 2000,Gaikoko
-LobbySize = Medium
-CameraHeight = 140
-NoVisitNeeded = True
-Hidden = True
-
-Level WRD_AbstractAvenue
-LevelName = Abstract Avenue
-TypeofLevel = Race
-NumLaps = 2
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = ABSAVE,ABSAV3
-SkyTexture = ABSSKY
-NoZone = True
-Hidden = True
-
-Level WRD_GravitasWell
-LevelName = Gravitas Well
-NoZone = True
-TypeofLevel = Race
-NumLaps = 2
-Mobjscale = FRACUNIT*1/4
-Music = THLAZ
-SkyTexture = SKY87
-NoVisitNeeded = True
-Hidden = True
-
-Level WRD_MegaIcyIsland
-LevelName = Mega Icy
-ZoneTitle = Island
-TypeofLevel = Race
-NumLaps = 5
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = DAIISL
-SkyTexture = SKYAGZX
-Weather = PRECIP_SNOW
-CameraHeight = 140
-Hidden = True
-
-Level WRD_MegaJohnGutter
-LevelName = Mega John
-Zonetitle = Gutter
-TypeofLevel = Race
-NumLaps = 8
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = MJNGTR
-SkyTexture = JNGTSKY
-CameraHeight = 140
-Hidden = True
-
-Level WRD_MegaConcreteJungle
-LevelName = Mega Concrete
-ZoneTitle = Jungle
-TypeofLevel = Race
-NumLaps = 6
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = ABCJ3
-SkyTexture = ABCJS1
-CameraHeight = 140
-Hidden = True
-
-Level WRD_MegaLobotomyCorporation
-LevelName = Mega Lobotomy
-ZoneTitle = Corporation
-TypeofLevel = Race
-NumLaps = 4
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = MGLCRP
-SkyTexture = SHSKY01
-CameraHeight = 140
-Hidden = True
-
-Level WRD_MegaToxicCaves
-LevelName = Mega Toxic
-ZoneTitle = Caves
-TypeofLevel = Race
-NumLaps = 5
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = MTXCVE
-SkyTexture = TXCVSKY
-CameraHeight = 140
-Hidden = True
-
-Level WRD_ChemicalCityToree
-LevelName = Chemical City
-TypeofLevel = Race
-SkyTexture = ~029
-Music = TGCCTY
-Mobjscale = FRACUNIT/4
-NoZone = True
-NumLaps = 3
-NoVisitNeeded = True
-Hidden = True
-
-Level WRD_MidnightFlannel
-LevelName = Midnight Flannel
-TypeofLevel = Race
-NumLaps = 4
-Mobjscale = FRACUNIT*1/1
-Music = MDNFN1
-PositionMusic = UPWCMX
-mobjscale = FRACUNIT*1/4
-SkyTexture = ~065
-NoVisitNeeded = True
-Hidden = True
-
-Level WRD_InsomniaticHeights
-LevelName = Insomniatic Heights
-Nozone = True
-TypeofLevel = Race
-Numlaps = 2
-NovisitNeeded = true
-Music = INSHGT,INSHG2
-Mobjscale = FRACUNIT*1/4
-SkyTexture = INHSKYBX
-LightContrast = 32
-Hidden = True
-
-Level WRD_ElectroRadioZone
-LevelName = Electro Radio
-ZoneTitle = Zone
-TypeofLevel = Race
-NumLaps = 3
-Mobjscale = FRACUNIT*1/4
-NoVisitNeeded = True
-Music = ECTRDO
-SkyTexture = ~031
-Weather = PRECIP_ELCTRORDO
-LightContrast = 64
-LightAngle = 270
-EncoreLightContrast = 32
-EncoreLightAngle = 270
 Hidden = True
 
 Level HHR_DreamyTreewayA
@@ -2403,6 +2377,47 @@ LightAngle = 0
 SubtractNum = true
 Hidden = True
 
+Level DR_CID_SwordfightHeights
+NoVisitNeeded = True
+LevelName = Swordfight Heights
+TypeOfLevel = Race
+NoZone = True
+MobjScale = FRACUNIT/4
+MUSIC = SFHGTZ
+SkyTexture = SFHGSKY
+NumLaps = 3
+Hidden = True
+
+Level CT_DarkSanctuary
+LevelName = Dark
+ZoneTitle = Sanctuary
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = ~031
+SkyboxScale = 8
+EncorePal = 1226
+Music = DRKSNC
+EncoreMusic = SECSNC
+PositionMusic = ATRIUM
+Mobjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+NoVisitNeeded = true
+Hidden = True
+
+Level CRV_PandoraPalace
+LevelName = Pandora
+ZoneTitle = Palace
+TypeOfLevel = Race
+SkyTexture = PPALSKY
+NumLaps = 1
+Music = QNDRC2
+PositionMusic = QNPOSS
+SkyboxScale = 32
+MobjScale = 20*FRACUNIT/104
+NoVisitNeeded = True
+Hidden = True
+
 Level FAV_DimensionRiftClassic
 NoVisitNeeded = True
 LevelName = Dimension Rift
@@ -2458,4 +2473,153 @@ Darkness = 2
 PositionMusic = FAVSUN
 NumLaps = 2
 NoComms = True
+Hidden = True
+
+
+Level WRD_HardDeadDeck
+LevelName = Hard Dead
+ZoneTitle = Deck
+TypeofLevel = Battle,Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/4
+Music = HDEDCK
+SkyTexture = ~031
+Followers = Boo,Spybot 2000,Gaikoko
+LobbySize = Medium
+CameraHeight = 140
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_AbstractAvenue
+LevelName = Abstract Avenue
+TypeofLevel = Race
+NumLaps = 2
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ABSAVE,ABSAV3
+SkyTexture = ABSSKY
+NoZone = True
+Hidden = True
+
+Level WRD_GravitasWell
+LevelName = Gravitas Well
+NoZone = True
+TypeofLevel = Race
+NumLaps = 2
+Mobjscale = FRACUNIT*1/4
+Music = THLAZ
+SkyTexture = SKY87
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_MegaIcyIsland
+LevelName = Mega Icy
+ZoneTitle = Island
+TypeofLevel = Race
+NumLaps = 5
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = DAIISL
+SkyTexture = SKYAGZX
+Weather = PRECIP_SNOW
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaJohnGutter
+LevelName = Mega John
+Zonetitle = Gutter
+TypeofLevel = Race
+NumLaps = 8
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MJNGTR
+SkyTexture = JNGTSKY
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaConcreteJungle
+LevelName = Mega Concrete
+ZoneTitle = Jungle
+TypeofLevel = Race
+NumLaps = 6
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ABCJ3
+SkyTexture = ABCJS1
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaLobotomyCorporation
+LevelName = Mega Lobotomy
+ZoneTitle = Corporation
+TypeofLevel = Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MGLCRP
+SkyTexture = SHSKY01
+CameraHeight = 140
+Hidden = True
+
+Level WRD_MegaToxicCaves
+LevelName = Mega Toxic
+ZoneTitle = Caves
+TypeofLevel = Race
+NumLaps = 5
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = MTXCVE
+SkyTexture = TXCVSKY
+CameraHeight = 140
+Hidden = True
+
+Level WRD_ChemicalCityToree
+LevelName = Chemical City
+TypeofLevel = Race
+SkyTexture = ~029
+Music = TGCCTY
+Mobjscale = FRACUNIT/4
+NoZone = True
+NumLaps = 3
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_MidnightFlannel
+LevelName = Midnight Flannel
+TypeofLevel = Race
+NumLaps = 4
+Mobjscale = FRACUNIT*1/1
+Music = MDNFN1
+PositionMusic = UPWCMX
+mobjscale = FRACUNIT*1/4
+SkyTexture = ~065
+NoVisitNeeded = True
+Hidden = True
+
+Level WRD_InsomniaticHeights
+LevelName = Insomniatic Heights
+Nozone = True
+TypeofLevel = Race
+Numlaps = 2
+NovisitNeeded = true
+Music = INSHGT,INSHG2
+Mobjscale = FRACUNIT*1/4
+SkyTexture = INHSKYBX
+LightContrast = 32
+Hidden = True
+
+Level WRD_ElectroRadioZone
+LevelName = Electro Radio
+ZoneTitle = Zone
+TypeofLevel = Race
+NumLaps = 3
+Mobjscale = FRACUNIT*1/4
+NoVisitNeeded = True
+Music = ECTRDO
+SkyTexture = ~031
+Weather = PRECIP_ELCTRORDO
+LightContrast = 64
+LightAngle = 270
+EncoreLightContrast = 32
+EncoreLightAngle = 270
 Hidden = True

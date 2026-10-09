@@ -92,18 +92,6 @@ LightContrast = 60
 MobjScale = 25*FRACUNIT/32
 AssociatedMusic = GRTGFN
 
-Level CRV_PandoraPalace
-LevelName = Pandora
-ZoneTitle = Palace
-TypeOfLevel = Race
-SkyTexture = PPALSKY
-NumLaps = 1
-Music = QNDRC2
-PositionMusic = QNPOSS
-SkyboxScale = 32
-MobjScale = 20*FRACUNIT/104
-NoVisitNeeded = True
-
 # LESS/MORE LAPS #
 
 Level RR_EmeraldCoast
@@ -219,34 +207,6 @@ EncoreMusic = XCBORD
 Mobjscale = FRACUNIT/3
 LightContrast = 32
 LightAngle = 75
-NoVisitNeeded = True
-Hidden = True
-
-Level DIG_BurningBone
-LevelName = Burning Bone
-TypeofLevel = Race
-NumLaps = 5
-SkyTexture = PIT
-Music = BONEZA
-MobjScale = FRACUNIT*30/120
-LightAngle = 135
-LightContrast = 64
-NoVisitNeeded = True
-Hidden = True
-
-Level CUB_StarmineSpeedway
-LevelName = Starmine
-ZoneTitle = Speedway
-TypeofLevel = Race
-NumLaps = 4
-LapsPerSection = 2
-SkyTexture = ~254
-SkyboxScale = 64
-PositionMusic = CASFIN
-Music = STARM1,STARM2
-Mobjscale = FRACUNIT/3
-LightAngle = 45
-LightContrast = 48
 NoVisitNeeded = True
 Hidden = True
 
@@ -372,18 +332,6 @@ SkyTexture = LCDSSKY1
 SkyboxScale = 8
 LightContrast = 24
 NoVisitNeeded = True
-
-Level CAS_BSODRing
-LevelName = BSOD
-ZoneTitle = Ring
-TypeofLevel = Race
-NumLaps = 5
-SkyTexture = ~135
-SkyboxScale = 64
-PositionMusic = BSODG
-Music = BSODP
-Mobjscale = FRACUNIT/3
-LightContrast = 10
 
 Level PP_RobotnikRaceway
 LevelName = Robotnik Raceway
@@ -583,3 +531,70 @@ SkyboxScale = 0
 NumLaps = 3
 NoComms = True
 
+Level CAS_BSODRing
+LevelName = BSOD
+ZoneTitle = Ring
+TypeofLevel = Race
+NumLaps = 5
+SkyTexture = ~135
+SkyboxScale = 64
+PositionMusic = BSODG
+Music = BSODP
+Mobjscale = FRACUNIT/3
+LightContrast = 10
+
+Level EAG_ScaleneIsle
+LevelName = Scalene Shoreline
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKYEC
+PositionMusic = SCALII
+Music = SCALI1,SCALI2
+SkyboxScale = 32
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 64
+NoVisitNeeded = True
+
+Level EAG_JadeGlade
+LevelName = Jade Glade
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = ~153
+SkyboxScale = 64
+PositionMusic = CASINT
+Music = JADEG1,JADEG2
+EncoreMusic = JADGE1,JADGE2
+MobjScale = FRACUNIT/3
+Followers = Chao,Flicky
+LightContrast = 10
+NoVisitNeeded = True
+Hidden = False
+
+Level EAG_StormCoast
+LevelName = Storm Coast
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = STRSKY01
+Mobjscale = FRACUNIT*28/100
+LightAngle = 90
+LightContrast = 48
+Weather = PRECIP_STORM
+PositionMusic = CASINT
+Music = STRCO1
+DefaultWaypointRadius = 96*FRACUNIT
+Darkness = -0.25
+Mobjscale = FRACUNIT/3
+NoVisitNeeded = True
+
+Level EAG_DesertInvasion
+LevelName = Desert Invasion
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = ~154
+SkyboxScale = 64
+PositionMusic = CASFIN
+Music = DIZIN1,DIZIN2
+MobjScale = FRACUNIT/3
+LightContrast = 10
+NoVisitNeeded = True
