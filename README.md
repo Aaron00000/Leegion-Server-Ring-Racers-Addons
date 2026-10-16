@@ -189,7 +189,7 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.5a
+Thok Tracks v1.5b
 
 Bushmill Cup v1.2a (edited)
 
@@ -197,13 +197,13 @@ Draft Tracks v6.1
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon 9A Cube Cup and Eagle Cup
+CAS Track Pack AeroMoon 9B Cube Cup and Eagle Cup
 
 Frost Maps v5.2
 
 Abstract Maps v1.1
 
-lizard pack v2.1 (edited)
+lizard pack v2.2 RC1 (edited)
 
 Yellow Crocodile Cup v2.6
 
@@ -219,7 +219,7 @@ Dreturns Checkport v4 (Edited)
 
 Neo Whale Maps v3 (Edited)
 
-Ruber Pack v10.1 Amazing Cup and Miracle Cup
+Ruber Pack v10.3 Amazing Cup and Miracle Cup
 
 Super Striker GP v1.5.2 (edited)
 
@@ -361,6 +361,8 @@ Cyan Belltower
 
 Motobug Speedway
 
+Cloudtop Dimension
+
 Death Egg
 
 
@@ -463,8 +465,6 @@ Cutman's Logging Facility
 Rancid Machinery
 
 Omashu
-
-Ship (Resonance Zone Wallace)
 
 Icebound Citadel
 
@@ -598,8 +598,6 @@ Electro Radio Zone
 
 Material Combinart
 
-Aeropolis 2
-
 Dimension Rift Classic
 
 Dummie Island Classic
@@ -617,6 +615,10 @@ Hologram Hypogeum
 Toxic Caves
 
 Saturn Speedway
+
+Hot Crater 2
+
+Ice Paradise 2
 
 
 ## Resized
@@ -744,6 +746,16 @@ Pandora Palace (less, 1 lap)
 
 ============
 ## CHANGELOG
+
+10/16
+----
+
+Characters - 
+
+Maps - Updated Ruberpack, CAS Tracks, lizard pack, and Thoktracks. Made sure Midnight Bay is blacklisted, blacklisted Ice Paradise 2, blacklisted Hot Crater 2 until the checkpoint bug is addressed, and blacklisted Cloudtop Dimension since this map in particular lags horribly when filled with kart carcasses at the end. Unblacklisted Resonance Zone Wallace and Aeropolis 2 now that their issues (performance and checkpoint bugs respectively) have supposedly been addressed.
+
+Other - Horns/killbinds.
+
 
 10/9
 ----

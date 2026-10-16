@@ -770,6 +770,21 @@ EncoreLightContrast = 64
 Darkness = -0.5
 Hidden = True
 
+Level RR_CloudtopDimension
+LevelName = Cloudtop
+ZoneTitle = Dimension
+Act = 4
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = ~150
+Music = DIHEZ1
+Mobjscale = FRACUNIT*22/100
+LightContrast = 64
+LightAngle = 45
+SkyboxScaleZ = 4
+CameraHeight = 130
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1169,6 +1184,20 @@ LightContrast = 10
 NoVisitNeeded = True
 Hidden = True
 
+Level CAS_MidnightBay
+LevelName = Midnight Bay
+ZoneTitle = Streets
+TypeofLevel = Race
+NumLaps = 3
+SkyTexture = ~254
+SkyboxScale = 64
+PositionMusic = MIDBSI
+Music = MIDBS1,MIDBS2,MIDBS3
+Mobjscale = 2*FRACUNIT/10
+LightContrast = 10
+NoVisitNeeded = True
+Hidden = Hidden
+
 Level FT_DeathRuins
 LevelName = Death Ruins
 NoVisitNeeded = True
@@ -1236,6 +1265,39 @@ SkyboxScale = 16
 MObjscale = FRACUNIT/4
 LightContrast = 64
 LightAngle = 135
+Hidden = True
+
+Level FT_HotCrater
+LevelName = Hot Crater
+NoVisitNeeded = True
+TypeOfLevel = Race
+Act = 2
+NumLaps = 1
+SectionRace = True
+SkyTexture = ~150
+Music = HTCRR
+PositionMusic = ADVPOS
+SkyboxScale = 16
+MObjscale = FRACUNIT/4
+LightContrast = 64
+LightAngle = 45
+Hidden = True
+
+Level FT_IceParadise
+LevelName = Ice Paradise
+NoVisitNeeded = True
+TypeOfLevel = Race
+Act = 2
+NumLaps = 3
+SkyboxScaleZ = 0
+Weather = PRECIP_BLIZZARD
+SkyTexture = ~150
+Music = ICEPA2
+PositionMusic = ADVPOS
+SkyboxScale = 8
+MObjscale = FRACUNIT/4
+LightContrast = 80
+LightAngle = 189
 Hidden = True
 
 Level GTK_HighSpeedRing
@@ -1387,27 +1449,6 @@ MobjScale = FRACUNIT/4
 NoVisitNeeded = True
 Hidden = True
 
-Level LZ_Resonanceship
-MenuTitle = Ship
-LevelName = Resonance Zone
-ZoneTitle = Wallace
-SectionRace = True
-TypeOfLevel = Special,Race
-MobjScale = 1*FRACUNIT/4
-SkyBoxScale = 0
-SkyTexture = SSSKY00
-NumLaps = 1
-LightAngle = 270
-Music = LZWAS1
-AssociatedMusic = LZACS1
-LightContrast = 80
-NoVisitNeeded = True
-Lua.CustomEmeraldSprite = SPR_LZSS
-Lua.CustomEmeraldColor = LAVENDER
-Lua.NoEmeraldOverlay = True
-NoVisitNeeded = True
-Hidden = True
-
 Level LZ_uni2hell
 LevelName = UNI2 HELL
 nozone = true
@@ -1464,22 +1505,6 @@ MobjScale = FRACUNIT/4
 SkyTexture = ~110
 SkyboxScale = 8
 LightContrast = 24
-NoVisitNeeded = True
-Hidden = True
-
-Level FZBEN_AEROPOLIS2
-LevelName = Aeropolis
-Nozone = true
-Act = 2
-TypeOfLevel = Race
-NumLaps = 6
-Music = FZAE1
-PositionMusic = LZINTR
-SkyTexture = ~000
-LightContrast = 0
-Lightangle = 270
-MobjScale = FRACUNIT/4
-skyboxscale = 64
 NoVisitNeeded = True
 Hidden = True
 
