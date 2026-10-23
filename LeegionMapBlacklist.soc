@@ -785,6 +785,17 @@ SkyboxScaleZ = 4
 CameraHeight = 130
 Hidden = True
 
+Level RR_HotCrater
+LevelName = Hot Crater
+Music = HTCR
+TypeOfLevel = RACE
+NumLaps = 2
+MobjScale = FRACUNIT/4
+SkyBoxScaleX = 0
+SkyBoxScaleY = 0
+SkyBoxScaleZ = 6
+Hidden = True
+
 Level RR_DeathEgg
 LevelName = Death Egg
 TypeOfLevel = Race
@@ -1196,7 +1207,21 @@ Music = MIDBS1,MIDBS2,MIDBS3
 Mobjscale = 2*FRACUNIT/10
 LightContrast = 10
 NoVisitNeeded = True
-Hidden = Hidden
+Hidden = True
+
+Level EAG_ScaleneIsle
+LevelName = Scalene Shoreline
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = SKYEC
+PositionMusic = SCALII
+Music = SCALI1,SCALI2
+SkyboxScale = 32
+Mobjscale = FRACUNIT/4
+LightAngle = 135
+LightContrast = 64
+NoVisitNeeded = True
+Hidden = True
 
 Level FT_DeathRuins
 LevelName = Death Ruins
@@ -1492,19 +1517,6 @@ Music = LZACHE
 NumLaps = 2
 MobjScale = FRACUNIT/4
 skyboxscale = 8
-NoVisitNeeded = True
-Hidden = True
-
-Level DRTR_LacustrineDisrepair2
-LevelName = Lacustrine Disrepair
-TypeOfLevel = Race
-NumLaps = 4
-Act = 2
-Music = LCDSR2
-MobjScale = FRACUNIT/4
-SkyTexture = ~110
-SkyboxScale = 8
-LightContrast = 24
 NoVisitNeeded = True
 Hidden = True
 

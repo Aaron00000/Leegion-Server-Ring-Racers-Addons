@@ -543,19 +543,6 @@ Music = BSODP
 Mobjscale = FRACUNIT/3
 LightContrast = 10
 
-Level EAG_ScaleneIsle
-LevelName = Scalene Shoreline
-TypeOfLevel = Race
-NumLaps = 2
-SkyTexture = SKYEC
-PositionMusic = SCALII
-Music = SCALI1,SCALI2
-SkyboxScale = 32
-Mobjscale = FRACUNIT/4
-LightAngle = 135
-LightContrast = 64
-NoVisitNeeded = True
-
 Level EAG_JadeGlade
 LevelName = Jade Glade
 TypeofLevel = Race
@@ -597,4 +584,25 @@ PositionMusic = CASFIN
 Music = DIZIN1,DIZIN2
 MobjScale = FRACUNIT/3
 LightContrast = 10
+NoVisitNeeded = True
+
+Level HTT_SplashHill
+NoVisitNeeded = True
+LevelName = Splash Hill
+TypeOfLevel = Race
+NumLaps = 2
+SkyTexture = ~150
+Music = SFS1,SFS3
+Mobjscale = FRACUNIT/4
+PositionMusic = SFMN
+
+Level DRTR_AirspaceAffray
+LevelName = Airspace Affray
+TypeOfLevel = Race
+NumLaps = 2
+Music = ASPAFR
+MobjScale = FRACUNIT/4
+SkyboxScale = 16
+SkyTexture = ASAFSKY1
+LightContrast = 24
 NoVisitNeeded = True

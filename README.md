@@ -4,7 +4,7 @@
 --------------------------------------------
 1, 1 - Whitey,
 
-2, 1 - Kit, Medonk Sonok,
+2, 1 - Kit,
 
 3, 1 - Gooey, Kirby,
 
@@ -82,7 +82,7 @@
 
 2, 5 - Nokotan,
 
-3, 5 - Reiko, Tiki, Sumire Kanzaki,
+3, 5 - Inspector Gadget, Reiko, Tiki, Sumire Kanzaki,
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
@@ -143,7 +143,7 @@
 
 4, 8 - Dr. Orpheus, King Dedede, Astal, Peter Griffin, Pyrrha, Trip, Mobo, Mina the Hollower,
 
-5, 8 - Shrek, JFK,
+5, 8 - Shrek,
 
 6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario,
 
@@ -189,11 +189,11 @@ Gack Tracks v2.2
 
 Mado Dream Tracks 1.6
 
-Thok Tracks v1.5b
+Thok Tracks v1.5c
 
 Bushmill Cup v1.2a (edited)
 
-Draft Tracks v6.1
+Draft Tracks v7
 
 Diggle's Track Delve Cerussite
 
@@ -203,7 +203,7 @@ Frost Maps v5.2
 
 Abstract Maps v1.1
 
-lizard pack v2.2 RC1 (edited)
+lizard pack v2.2 (edited)
 
 Yellow Crocodile Cup v2.6
 
@@ -237,7 +237,7 @@ Fav's Amusing Venues v1
 
 Relics' Pack v1
 
-High Tension Traxx 1.3.5.1
+Robotnik Powerways v1.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -362,6 +362,8 @@ Cyan Belltower
 Motobug Speedway
 
 Cloudtop Dimension
+
+Hot Crater
 
 Death Egg
 
@@ -743,9 +745,23 @@ Springs Spring (less, 3 laps)
 
 Pandora Palace (less, 1 lap)
 
+Splash Hill (less, 2 laps)
+
+Airspace Affray (less, 2 laps)
+
 
 ============
 ## CHANGELOG
+
+10/23
+----
+
+Characters - Added Inspector Gadget, removed JFK and Medonk Sonok.
+
+Maps - Updated High Tension Traxx to Robotnik's Powerways v1.1, lowered Splash Hill's lap count to 2, updated CAS Tracks, lizardpack, THOKTRACKS, and Draft Tracks and lowered Airspace Affray's lap count to 2. Tweaked Neo Green Hills some more. Blacklisted Midnight Bay for real this time, along with Scalene Shoreline and Hot Crater (this one specifically because the SA2 pulleys cause resyncs.) Removed Aeropolis 2 again for the same reason as last time, unblacklisted Lacustrine Disrepair 2 now that the jank loop section is gone.
+
+Other - Horns.
+
 
 10/16
 ----
