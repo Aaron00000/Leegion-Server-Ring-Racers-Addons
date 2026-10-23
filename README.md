@@ -756,7 +756,7 @@ Airspace Affray (less, 2 laps)
 10/23
 ----
 
-Characters - Added Inspector Gadget, removed JFK and Medonk Sonok.
+Characters - Added Inspector Gadget, removed JFK and Medonk Sonok. Fixed Gino Fratelli not loading.
 
 Maps - Updated High Tension Traxx to Robotnik's Powerways v1.1, lowered Splash Hill's lap count to 2, updated CAS Tracks, lizardpack, THOKTRACKS, and Draft Tracks and lowered Airspace Affray's lap count to 2. Tweaked Neo Green Hills some more. Blacklisted Midnight Bay for real this time, along with Scalene Shoreline and Hot Crater (this one specifically because the SA2 pulleys cause resyncs.) Removed Aeropolis 2 again for the same reason as last time, unblacklisted Lacustrine Disrepair 2 now that the jank loop section is gone.
 
