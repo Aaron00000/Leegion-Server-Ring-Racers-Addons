@@ -10,7 +10,7 @@
 
 4, 1 - 
 
-5, 1 - 
+5, 1 - Mr. Bones,
 
 6, 1 - 
 
@@ -197,8 +197,6 @@ Draft Tracks v7
 
 Diggle's Track Delve Cerussite
 
-CAS Track Pack AeroMoon 9B Cube Cup and Eagle Cup
-
 Frost Maps v5.2
 
 Abstract Maps v1.1
@@ -219,7 +217,7 @@ Dreturns Checkport v4 (Edited)
 
 Neo Whale Maps v3 (Edited)
 
-Ruber Pack v10.3 Amazing Cup and Miracle Cup
+Ruber Pack v10.4 Amazing Cup and Miracle Cup
 
 Super Striker GP v1.5.2 (edited)
 
@@ -235,9 +233,11 @@ LOG MAPS V2.2
 
 Fav's Amusing Venues v1
 
-Relics' Pack v1
+Relics' Pack v1.1
 
 Robotnik Powerways v1.1
+
+Epic Cup Revival v1.6.1
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -622,6 +622,8 @@ Hot Crater 2
 
 Ice Paradise 2
 
+Storm Coast
+
 
 ## Resized
 ----------
@@ -669,6 +671,8 @@ Dead Line Redux (bigger)
 Gambler's Hive (bigger)
 
 Pandora Palace (bigger)
+
+Burning Bone (bigger)
 
 
 ## More/Less Laps
@@ -749,9 +753,21 @@ Splash Hill (less, 2 laps)
 
 Airspace Affray (less, 2 laps)
 
+Burning Bone (less, 3 laps)
+
 
 ============
 ## CHANGELOG
+
+10/30
+----
+
+Characters - Added Mr. Bones.
+
+Maps - Updated Ruber's cups and Relic's Pack. Removed CAS Tracks, re-added Epic Cup Revival and blacklisted Aqua Paradise 2.
+
+Other - 
+
 
 10/23
 ----

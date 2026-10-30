@@ -876,6 +876,7 @@ LightContrast = 72
 Hidden = True
 
 Level EPIC_StormStationZone
+NoVisitNeeded = True
 LevelName = Storm Station
 TypeOfLevel = Race
 NumLaps = 2
@@ -888,7 +889,6 @@ MobjScale = FRACUNIT/4
 EncoreMusic = STORME
 EncoreLightAngle = 0
 EncoreLightContrast = 45
-NoVisitNeeded = True
 Hidden = True
 
 Level EPIC_MegaNightlitWoodsZone
@@ -936,6 +936,22 @@ PositionMusic = BINTRO
 MobjScale = FRACUNIT/4
 SkyboxScale = 8
 NoVisitNeeded = True
+Hidden = True
+
+Level EPIC_AquaParadiseZone2
+NoVisitNeeded = True
+LevelName = Aqua Paradise
+Act = 2
+TypeOfLevel = Race
+SectionRace = True
+NumLaps = 1
+SkyTexture = AP2SKY3
+LightAngle = 90
+LightContrast = 32
+Music = AP2
+EncoreMusic = AP2E
+MobjScale = FRACUNIT/2
+SkyboxScale = 24
 Hidden = True
 
 Level RLQ_CentralCityRace
@@ -1177,6 +1193,23 @@ Music = PUYOA1,PUYOA2,PUYOA3
 Mobjscale = FRACUNIT/3
 LightContrast = 10
 Followers = Has Bean
+NoVisitNeeded = True
+Hidden = True
+
+Level EAG_StormCoast
+LevelName = Storm Coast
+TypeofLevel = Race
+NumLaps = 2
+SkyTexture = STRSKY01
+Mobjscale = FRACUNIT*28/100
+LightAngle = 90
+LightContrast = 48
+Weather = PRECIP_STORM
+PositionMusic = CASFIN
+Music = STRCO1
+DefaultWaypointRadius = 96*FRACUNIT
+Darkness = -0.25
+Mobjscale = FRACUNIT/3
 NoVisitNeeded = True
 Hidden = True
 
@@ -1609,13 +1642,12 @@ Hidden = True
 Level DIG_BurningBone
 LevelName = Burning Bone
 TypeofLevel = Race
-NumLaps = 5
+NumLaps = 3
 SkyTexture = PIT
 Music = BONEZA
-MobjScale = FRACUNIT*30/120
+MobjScale = FRACUNIT*30/150
 LightAngle = 135
 LightContrast = 64
-NoVisitNeeded = True
 Hidden = True
 
 Level PP_SimpleCircuit
