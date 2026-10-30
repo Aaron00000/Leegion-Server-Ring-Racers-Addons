@@ -65,9 +65,9 @@
 
 3, 4 - Lucas, Haruka Amami,
 
-4, 4 - Conker, Sailor Venus, Flonne, Yuri Lowell, Asuka Langley,
+4, 4 - Conker, Flonne, Yuri Lowell, Asuka Langley,
 
-5, 4 - Leon Powalski, Daisy, Yu Narukami, Rena, Flowery,
+5, 4 - Leon Powalski, Daisy, Yu Narukami, Rena, Flowery, Roll,
 
 6, 4 - Ugly Knuckles, Falco, Neptune, Lucina,
 
@@ -86,7 +86,7 @@
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
-5, 5 - Sailor Moon, Tom,
+5, 5 - Tom,
 
 6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
@@ -107,7 +107,7 @@
 
 5, 6 - Ulala, Kim Pine,
 
-6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, 
+6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, Sailor Mars,
 
 7, 6 - Waluigi, Jotaro, Goku,
 
@@ -128,7 +128,7 @@
 
 6, 7 - Ramona, Akira, Aigis (Setdown),
 
-7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring), Makoto Niijima,
+7, 7 - Cloud, Aurora Rosalina, Hatsune Miku (Combi-Ring), Makoto Niijima, Sailor Jupiter,
 
 8, 7 - Akira Nishikiyama,
 
@@ -762,7 +762,7 @@ Burning Bone (less, 3 laps)
 10/30
 ----
 
-Characters - Added Mr. Bones.
+Characters - Added Mr. Bones, Roll, Sailor Jupiter, and Sailor Mars. Removed Sailor Moon and Venus.
 
 Maps - Updated Ruber's cups and Relic's Pack. Removed CAS Tracks, re-added Epic Cup Revival and blacklisted Aqua Paradise 2.
 
