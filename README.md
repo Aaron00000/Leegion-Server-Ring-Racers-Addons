@@ -86,7 +86,7 @@
 
 4, 5 - Dracula Flow, Squidward, Doppel Arle,
 
-5, 5 - Tom,
+5, 5 - Tom, Jake Freebird,
 
 6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
 
@@ -158,7 +158,7 @@
 
 2, 9 - Chunky Kong, Berret, Whispy Woods, Egg Shogun,
 
-3, 9 - Armstrong, Hatsune Miku, Jackenstein, BIS Bowser,
+3, 9 - Armstrong, Hatsune Miku,
 
 4, 9 - 
 
@@ -758,6 +758,14 @@ Burning Bone (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+11/6
+----
+
+Characters - Added back Jake Freebird, removed Jackenstein.
+
+Horns - Horns.
+
 
 10/30
 ----
