@@ -78,7 +78,7 @@
 9, 4 - Hornet, Jino-Chan, Yuuko Aioi, Rei Ayanami,
 
 
-1, 5 - Alcremie,
+1, 5 - Robbie Rotten, Alcremie,
 
 2, 5 - Nokotan,
 
@@ -88,7 +88,7 @@
 
 5, 5 - Tom, Jake Freebird,
 
-6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker,
+6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker, Adigail,
 
 7, 5 - Wolf O'Donnell, Panty (Duochrome),
 
@@ -195,7 +195,7 @@ Bushmill Cup v1.2a (edited)
 
 Draft Tracks v7
 
-Diggle's Track Delve Cerussite
+Diggle's Track Delve Diamond HF1
 
 Frost Maps v5.2
 
@@ -237,7 +237,7 @@ Relics' Pack v1.1
 
 Robotnik Powerways v1.1
 
-Epic Cup Revival v1.6.1
+Epic Cup Revival v1.6.3
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -758,6 +758,16 @@ Burning Bone (less, 3 laps)
 
 ============
 ## CHANGELOG
+
+11/13
+----
+
+Characters - Added Robbie Rotten and Adigail.
+
+Maps - Updated DTDelve and Epic Cup Revival. Dropped the Sinks on Treasure Caves to ground level, rounded a few corners to reduce bonking into cliffs, and added an alternate song. Replaced the Prox Mine at the start of Neo Green Hill zone with a Drop Target.
+
+Other - Horns. Somehow made the killbind even stupider.
+
 
 11/6
 ----

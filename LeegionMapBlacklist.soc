@@ -1605,7 +1605,7 @@ SkyTexture = CITASKY
 NoZone = true
 Act = 1
 NumLaps = 1
-MobjScale = FRACUNIT*25/100
+MobjScale = FRACUNIT*22/100
 SectionRace = True
 Music = ICCCIT
 LightContrast = 64
@@ -1648,6 +1648,8 @@ Music = BONEZA
 MobjScale = FRACUNIT*30/150
 LightAngle = 135
 LightContrast = 64
+NoComms = true
+Lua.usesdigglesaves = true
 Hidden = True
 
 Level PP_SimpleCircuit
