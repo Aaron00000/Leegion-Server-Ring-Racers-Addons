@@ -107,7 +107,7 @@
 
 5, 6 - Ulala, Kim Pine,
 
-6, 6 - Shantae, Morrigan, Spongebob, Draco, Gunstar Red, Sailor Mars,
+6, 6 - Shantae, Morrigan, Spongebob, Gunstar Red, Sailor Mars,
 
 7, 6 - Waluigi, Jotaro, Goku,
 
@@ -145,7 +145,7 @@
 
 5, 8 - Shrek,
 
-6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario,
+6, 8 - Master Chief, Werehog, Tenna, N64 Promo Wario, Nyamimi
 
 7, 8 - Johnny Bravo, Muscle Man,
 
@@ -762,11 +762,11 @@ Burning Bone (less, 3 laps)
 11/13
 ----
 
-Characters - Added Robbie Rotten and Adigail.
+Characters - Added Robbie Rotten, Adigail, and Nyamimi. Removed Draco.
 
 Maps - Updated DTDelve and Epic Cup Revival. Dropped the Sinks on Treasure Caves to ground level, rounded a few corners to reduce bonking into cliffs, and added an alternate song. Replaced the Prox Mine at the start of Neo Green Hill zone with a Drop Target.
 
-Other - Horns. Somehow made the killbind even stupider.
+Other - Horns. Added more killbinds and somehow made it ever stupider.
 
 
 11/6
