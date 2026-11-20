@@ -33,7 +33,7 @@
 
 6, 2 - Maka Albarn,
 
-7, 2 - Alolan Raichu, Trigger-Chan, Sakura Kinomoto,
+7, 2 - Alolan Raichu, Trigger-Chan,
 
 8, 2 - Riders Sonic, Kiriko, Tiara Boobowski,
 
@@ -50,7 +50,7 @@
 
 5, 3 - Aerith (Sonic OC Version), Adeleine, Reala, Chuck D. Head, Sage (Light),
 
-6, 3 - Jack-O', Kris, Kneesocks, Noel Vermillion, Bocchi, Astronots, Peach,
+6, 3 - Jack-O', Kris, Kneesocks, Noel Vermillion, Bocchi, Peach,
 
 7, 3 - Felicia, Lilac, Kumatora, Fox McCloud, Roaring Knight, Toe Jam, 
 
@@ -82,11 +82,11 @@
 
 2, 5 - Nokotan,
 
-3, 5 - Inspector Gadget, Reiko, Tiki, Sumire Kanzaki,
+3, 5 - Inspector Gadget, Reiko, Tiki,
 
-4, 5 - Dracula Flow, Squidward, Doppel Arle,
+4, 5 - Dracula Flow, Squidward
 
-5, 5 - Tom, Jake Freebird,
+5, 5 - Jake Freebird,
 
 6, 5 - Jack Black, Tifa, Diggle, Fubuki, NepGear, N64 Promo Mario, N64 Promo Luigi, Joker, Adigail,
 
@@ -207,7 +207,7 @@ Yellow Crocodile Cup v2.6
 
 Noise's Toppin' Tumblers v1
 
-Spindashpak RE-PAK V1.5
+Spindashpak RE-PAK V1.6 dev
 
 Shark Pack v1.2.1
 
@@ -238,6 +238,8 @@ Relics' Pack v1.1
 Robotnik Powerways v1.1
 
 Epic Cup Revival v1.6.3
+
+Pro Pack X v2.1.2
 
 
 ## BLACKLISTED VANILLA MAPS
@@ -759,6 +761,16 @@ Burning Bone (less, 3 laps)
 ============
 ## CHANGELOG
 
+11/20
+----
+
+Characters - Removed Tom, DoppelArle, Sakura Kinomoto, Sumire Kanzaki, and Astronots. Fixed a typo preventing Sage from loading.
+
+Maps - Updated Spindashpak to a beta version, tweaked Neo Green Hill Zone a bit more.
+
+Other - Horns.
+
+
 11/13
 ----
 
@@ -766,7 +778,7 @@ Characters - Added Robbie Rotten, Adigail, and Nyamimi. Removed Draco.
 
 Maps - Updated DTDelve and Epic Cup Revival. Dropped the Sinks on Treasure Caves to ground level, rounded a few corners to reduce bonking into cliffs, and added an alternate song. Replaced the Prox Mine at the start of Neo Green Hill zone with a Drop Target.
 
-Other - Horns. Added more killbinds and somehow made it ever stupider.
+Other - Horns. Added more killbinds and somehow made it even stupider.
 
 
 11/6

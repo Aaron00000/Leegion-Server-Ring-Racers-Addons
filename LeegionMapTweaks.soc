@@ -116,12 +116,12 @@ MobjScale = FRACUNIT/4
 SkyTexture = STRSKY01
 LightContrast = 24
 
-Level SP_VERMILLIONRIG
+Level SP_VermillionRig
 LevelName = Vermillion Rig
 TypeOfLevel = Race
 SkyTexture = SKY4644
 NoVisitNeeded = True
-PositionMusic = KAKA
+PositionMusic = POPPOS
 AssociatedMusic = NGMW
 NumLaps = 2
 Music = NGM
