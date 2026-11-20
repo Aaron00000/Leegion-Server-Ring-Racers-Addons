@@ -118,7 +118,7 @@
 
 1, 7 - 
 
-2, 7 - Carl Wheezer, Agent Stone, Kanji Tatsumi,
+2, 7 - Carl Wheezer, Kanji Tatsumi,
 
 3, 7 - Coach, Susie, Ness,
 
@@ -764,9 +764,9 @@ Burning Bone (less, 3 laps)
 11/20
 ----
 
-Characters - Removed Tom, DoppelArle, Sakura Kinomoto, Sumire Kanzaki, and Astronots. Fixed a typo preventing Sage from loading.
+Characters - Removed Tom, Agent Stone, DoppelArle, Sakura Kinomoto, Sumire Kanzaki, and Astronots. Fixed a typo preventing Sage from loading.
 
-Maps - Updated Spindashpak to a beta version, tweaked Neo Green Hill Zone a bit more.
+Maps - Re-added Pro Pack, updated Spindashpak, tweaked Neo Green Hill Zone a bit more.
 
 Other - Horns.
 
